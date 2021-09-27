@@ -60,8 +60,6 @@ def make_markdown(row, include_category=False) -> str:
     )
     description = row["_description"]
     language = row["_language"]
-    if language is not None and language.lower() != "python":
-        logger.info(f"Is {name} really a Python library? Main language is {language}.")
 
     header = f"[{name}]({url})" \
         if name == organization \
