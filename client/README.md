@@ -14,4 +14,4 @@ Client app files: `client/app/`
 
 Terraform infrastructure for client app: `client/infra/`
   
-Example app deployment: `http://awesome-python.infocruncher.com/`
+Example app deployment: `http://awesome-crypto.infocruncher.com/`

@@ -1,6 +1,6 @@
 .EXPORT_ALL_VARIABLES:
 AWS_PROFILE=prd-non-tf-905234897161
-BUCKET_NAME=awesome-python.infocruncher.com
+BUCKET_NAME=awesome-crypto.infocruncher.com
 
 .PHONY: venv
 ## Create virtual environment

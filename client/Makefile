@@ -4,7 +4,7 @@ ENV=prd
 AWS_PROFILE=prd-non-tf-905234897161
 AWS_ACCOUNT_ID=905234897161
 AWS_REGION=us-east-1
-BUCKET_NAME=awesome-python.infocruncher.com
+BUCKET_NAME=awesome-crypto.infocruncher.com
 
 # Local running
 
