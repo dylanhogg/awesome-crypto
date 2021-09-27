@@ -1,4 +1,4 @@
-# Server data API for Awesome Python
+# Server data API for Awesome Crypto
 
 Deploy json data API to AWS S3: 
 

@@ -1,4 +1,4 @@
-# Web Application for Awesome Python
+# Web Application for Awesome Crypto
 
 Deploy html/js web application to AWS S3: 
 
