@@ -10,7 +10,7 @@ BUCKET_NAME=awesome-crypto.infocruncher.com
 
 ## Serve local js client app
 serve-local-app:
-	cd app; python3 -m http.server 8002
+	cd app; python3 -m http.server 8004
 
 ## Browse local js client
 browse-s3-app:
