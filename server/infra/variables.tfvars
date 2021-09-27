@@ -1,8 +1,8 @@
 aws_profile="prd-non-tf-905234897161"
 region="us-east-1"
 env="prd"
-app_name="crazy-awesome-python-api"
-domain="crazy-awesome-python-api.infocruncher.com"
+app_name="crazy-awesome-crypto-api"
+domain="crazy-awesome-crypto-api.infocruncher.com"
 base_url="infocruncher.com"
 existing_hosted_zone_id="Z22XOKU6RYOC4M"
 ttl=86400
@@ -12,6 +12,6 @@ notfound_document="404.html"
 common_tags = {
   tag_version = "1.0"
   deployment  = "tf"
-  app_name    = "crazy-awesome-python-api"
+  app_name    = "crazy-awesome-crypto-api"
   env         = "prd"
 }

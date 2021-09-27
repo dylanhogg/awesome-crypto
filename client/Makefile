@@ -1,5 +1,5 @@
 .EXPORT_ALL_VARIABLES:
-APP_NAME=crazy-awesome-python
+APP_NAME=crazy-awesome-crypto
 ENV=prd
 AWS_PROFILE=prd-non-tf-905234897161
 AWS_ACCOUNT_ID=905234897161

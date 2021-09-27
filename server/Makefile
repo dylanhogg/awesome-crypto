@@ -1,6 +1,6 @@
 .EXPORT_ALL_VARIABLES:
-APP_NAME=crazy-awesome-python-api
-BUCKET_NAME=crazy-awesome-python-api.infocruncher.com
+APP_NAME=crazy-awesome-crypto-api
+BUCKET_NAME=crazy-awesome-crypto-api.infocruncher.com
 ENV=prd
 AWS_PROFILE=prd-non-tf-905234897161
 AWS_ACCOUNT_ID=905234897161

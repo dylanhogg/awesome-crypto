@@ -4,7 +4,7 @@ $(document).ready( function () {
     $("#table").DataTable( {
         ajax: {
             // url: '/github_data.json',  // Local testing
-            url: 'https://crazy-awesome-python-api.infocruncher.com/github_data.json',
+            url: 'https://crazy-awesome-crypto-api.infocruncher.com/github_data.json',
             dataSrc: 'data'
         },
         order: [[ 5, "desc" ]],

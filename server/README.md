@@ -18,4 +18,4 @@ Server data API file: `/github_data.json`
 
 Terraform infrastructure for server: `server/infra/`
 
-Example API deployment: `http://prd-s3-crazy-awesome-python-api.s3-website-us-east-1.amazonaws.com/github_data.json`
+Example API deployment: `http://prd-s3-crazy-awesome-crypto-api.s3-website-us-east-1.amazonaws.com/github_data.json`
