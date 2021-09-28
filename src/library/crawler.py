@@ -1,20 +1,24 @@
 import json
 from datetime import datetime
 from loguru import logger
-from library import render, readme, requirements
+from library import render, readme, requirements, input
+from library.ghw import GithubWrapper
 
 
 def write_files(csv_location, token, output_csv_filename, output_json_filename):
     start = datetime.now()
 
+    ghw = GithubWrapper(token)
+
     # Read github urls from google docs
-    df_input = render.get_input_data(csv_location)
-    # df_input = df_input.head(4)  # Testing
-    # df_input = df_input.iloc[9:13]  # Testing
+    df_input = input.get_input_data(csv_location, ghw)
+    # df_input = df_input.head(6)  # Testing
+
+    # return True
 
     # Augment repo name with metadata from Github
     logger.info(f"Processing {len(df_input)} records from {csv_location}")
-    df = render.process(df_input, token)
+    df = render.process(df_input, ghw)
 
     # Write raw results to csv
     logger.info(f"Write raw results to csv...")

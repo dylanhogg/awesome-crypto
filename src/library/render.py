@@ -1,30 +1,7 @@
-import sys
 import pandas as pd
 from datetime import datetime
 from typing import List
-from loguru import logger
 from urllib.parse import urlparse
-from library.ghw import GithubWrapper
-
-
-def get_input_data(csv_location) -> pd.DataFrame:
-    df = pd.read_csv(csv_location)
-    df.columns = map(str.lower, df.columns)
-    assert "githuburl" in df.columns
-    assert "category" in df.columns
-
-    duplicated_githuburls = df[df.duplicated(subset=["githuburl"])]
-    duplicated_count = len(duplicated_githuburls)
-    if duplicated_count > 0:
-        logger.warning(
-            f"Duplicate githuburl values found in csv: {duplicated_count}\n{duplicated_githuburls}"
-        )
-        logger.error(f"Fix up {duplicated_count} duplicates from {csv_location} and re-run.")
-        sys.exit()
-    else:
-        logger.info("No duplicate githuburl values found in csv :)")
-
-    return df
 
 
 def make_markdown(row, include_category=False) -> str:
@@ -77,8 +54,7 @@ def make_markdown(row, include_category=False) -> str:
     )
 
 
-def process(df_input, token) -> pd.DataFrame:
-    ghw = GithubWrapper(token)
+def process(df_input, ghw) -> pd.DataFrame:
     df = df_input.copy()
     df["_repopath"] = df["githuburl"].apply(lambda x: urlparse(x).path.lstrip("/"))
     df["_reponame"] = df["_repopath"].apply(lambda x: ghw.get_repo(x).name)
