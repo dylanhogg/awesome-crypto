@@ -31,23 +31,31 @@ def explode_org_repos(df, ghw):
     df_wildcard_repos = df[wildcard_row_mask]
     wildcards = list(df_wildcard_repos["githuburl"])
     orgs = list(map(lambda x: urlparse(x).path.lstrip("/").rstrip("/*"), wildcards))
-    orgs = orgs[0:1]  # Testing
+    # orgs = orgs[0:2]  # Testing
 
     star_limit = 100  # TODO: append to spreadsheet record? or dynamically calculate?
-    exploded_repos = []
+    exploded_giturls = []
+    logger.info(f"Expaning wildcard repos (star_limit = {star_limit})...")
     for org in orgs:
-        logger.info(f"Getting repos for wildcard org: {org}")
         org_repos = ghw.get_org_repos(org)
-        org_repo_names = [x.full_name for x in org_repos if x.stargazers_count >= star_limit]
-        exploded_repos.extend(org_repo_names)
+        giturls = ["https://github.com/" + x.full_name for x in org_repos if x.stargazers_count >= star_limit]
+        logger.info(f"Read repos for wildcard org: {org} ({len(giturls)} of {len(org_repos)} kept)")
+        exploded_giturls.extend(giturls)
 
-    exploded_repos = sorted(exploded_repos)
-    print(exploded_repos)
-    with open("_exploded_repos.txt", "w") as outfile:
-        outfile.write("\n".join(exploded_repos))
+    print(f"Total matching wildcard repos: {len(exploded_giturls)}")
+    exploded_giturls = sorted(exploded_giturls)
+    print(exploded_giturls)
+    with open("_exploded_giturls.txt", "w") as outfile:
+        outfile.write("\n".join(exploded_giturls))
 
     df_normal_repos = df.drop(df[wildcard_row_mask].index)
+    # print(df_normal_repos)
 
-    # TOOD: insert exploded_repos
+    exploded_rows = [["expanded", "subcat", url, "", "", ""] for url in exploded_giturls]
 
-    return df_normal_repos
+    # columns = category, subcategory, githuburl, featured, links, description
+    df_expanded_repos = pd.DataFrame(exploded_rows, columns=df_normal_repos.columns)
+
+    df_concat = pd.concat([df_normal_repos, df_expanded_repos])
+
+    return df_concat
