@@ -12,7 +12,7 @@ def write_files(csv_location, token, output_csv_filename, output_json_filename):
 
     # Read github urls from google docs
     df_input = input.get_input_data(csv_location, ghw)
-    # df_input = df_input.head(4)  # Testing
+    # df_input = df_input.head(2)  # Testing
 
     # Augment repo name with metadata from Github
     logger.info(f"Processing {len(df_input)} records from {csv_location}")

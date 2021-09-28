@@ -27,30 +27,33 @@ def get_input_data(csv_location, ghw) -> pd.DataFrame:
 
 def explode_org_repos(df, ghw):
     wildcard_row_mask = df.githuburl.str.endswith("/*")
-    df_wildcard_repos = df[wildcard_row_mask]
-    wildcards = list(df_wildcard_repos["githuburl"])
-    orgs = list(map(lambda x: urlparse(x).path.lstrip("/").rstrip("/*"), wildcards))
-    # orgs = orgs[0:2]  # Testing
-
-    star_limit = 25  # TODO: append to spreadsheet record? or dynamically calculate?
-    exploded_giturls = []
-    logger.info(f"Expaning wildcard repos (star_limit = {star_limit})...")
-    for org in orgs:
-        org_repos = ghw.get_org_repos(org)
-        giturls = ["https://github.com/" + x.full_name for x in org_repos if x.stargazers_count >= star_limit]
-        logger.info(f"Read repos for wildcard org: {org} ({len(giturls)} of {len(org_repos)} kept)")
-        exploded_giturls.extend(giturls)
-
-    print(f"Total matching wildcard repos: {len(exploded_giturls)}")
-    exploded_giturls = sorted(exploded_giturls)
-    with open(f"_exploded_giturls_{star_limit}.txt", "w") as outfile:
-        outfile.write("\n".join(exploded_giturls))
-
     df_normal_repos = df.drop(df[wildcard_row_mask].index)
 
-    # columns = category, subcategory, githuburl, featured, links, description
-    exploded_rows = [["expanded", "subcat", url, "", "", ""] for url in exploded_giturls]  # TODO: find a better way to handle columns
+    df_wildcard_repos = df[wildcard_row_mask]
+    wildcard_repos_list = list(df_wildcard_repos.itertuples(index=False))
+    # wildcard_repos_list = wildcard_repos_list[0:3]  # Testing
+
+    star_limit = 25  # TODO: append to spreadsheet record? or dynamically calculate?
+    exploded_rows = []
+    logger.info(f"Expaning wildcard repos (star_limit = {star_limit})...")
+    for row in wildcard_repos_list:
+        org = urlparse(row.githuburl).path.lstrip("/").rstrip("/*")
+        org_repos = ghw.get_org_repos(org)
+        giturls = [[row.category,
+                    row.subcategory,
+                    "https://github.com/" + org_repo.full_name,
+                    row.featured,
+                    row.links,
+                    row.description]
+                   for org_repo in org_repos
+                   if org_repo.stargazers_count >= star_limit]
+        logger.info(f"Read repos for wildcard org: {org} ({len(giturls)} of {len(org_repos)} kept)")
+        exploded_rows.extend(giturls)
+
     df_expanded_repos = pd.DataFrame(exploded_rows, columns=df_normal_repos.columns)
+    print(f"Total matching wildcard repos: {len(exploded_rows)}")
 
     df_concat = pd.concat([df_normal_repos, df_expanded_repos])
+    print(f"Total concat wildcard and normal repos: {len(df_concat.index)}")
+
     return df_concat
