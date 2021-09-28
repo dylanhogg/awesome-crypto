@@ -14,7 +14,7 @@ def make_markdown(row, include_category=False) -> str:
         if homepage is not None and len(homepage) > 0
         else f"\n[{url}]({url})  "
     )
-    category = row["category"]
+    category = row["_organization"].lower().strip()  # categories are the git org, not the supplied category.
     category_display = (
         f"[{category}](categories/{category}.md) category, "
         if include_category and category is not None and len(category) > 0
@@ -64,7 +64,9 @@ def process(df_input, ghw) -> pd.DataFrame:
     df["_topics"] = df["_repopath"].apply(lambda x: ghw.get_repo(x).get_topics())
     df["_language"] = df["_repopath"].apply(lambda x: ghw.get_repo(x).language)
     df["_homepage"] = df["_repopath"].apply(lambda x: ghw.get_repo(x).homepage)
-    df["_description"] = df["_repopath"].apply(lambda x: ghw.get_repo(x).description)
+    df["_description"] = df["_repopath"].apply(
+        lambda x: "" if ghw.get_repo(x).description is None else ghw.get_repo(x).description
+    )
     df["_organization"] = df["_repopath"].apply(
         lambda x: x.split("/")[0]
     )
@@ -92,9 +94,13 @@ def process(df_input, ghw) -> pd.DataFrame:
 
 
 def lines_header(count, category="") -> List[str]:
+    category_line = f"A list of {count} crypto project repos ordered by stars.  \n"
+    if len(category) > 0:
+        category_line = f"A list of {count} [{category}](https://github.com/{category}) project repos ordered by stars.  \n"
+
     return [
         f"# Crazy Awesome Crypto",
-        f"A selection of {count} {category} Crypto projects ordered by stars.  \n",
+        category_line,
         f"Checkout the interactive version that you can filter and sort: ",
         f"[http://awesome-crypto.infocruncher.com/](http://awesome-crypto.infocruncher.com/)  \n\n",
     ]

@@ -12,9 +12,7 @@ def write_files(csv_location, token, output_csv_filename, output_json_filename):
 
     # Read github urls from google docs
     df_input = input.get_input_data(csv_location, ghw)
-    # df_input = df_input.head(6)  # Testing
-
-    # return True
+    # df_input = df_input.head(4)  # Testing
 
     # Augment repo name with metadata from Github
     logger.info(f"Processing {len(df_input)} records from {csv_location}")
@@ -40,6 +38,7 @@ def write_files(csv_location, token, output_csv_filename, output_json_filename):
         lambda row: f"{row['_repopath'].replace('/', '~')}~{row['_readme_filename']}", axis=1
     )
 
+    # TODO: remove from crypto?
     logger.info("Crawling requirements files...")
     df["_requirements_filenames"] = df["_repopath"].apply(
         lambda x: requirements.get_requirements(x)
@@ -70,9 +69,6 @@ def write_files(csv_location, token, output_csv_filename, output_json_filename):
     lines_footer = [
         f"This file was automatically generated on {datetime.now().date()}.  "
         f"\n\nTo curate your own github list, simply clone and change the input csv file.  "
-        f"\n\nInspired by:  "
-        f"\n[https://github.com/vinta/awesome-python](https://github.com/vinta/awesome-python)  "
-        f"\n[https://github.com/trananhkma/fucking-awesome-python](https://github.com/trananhkma/fucking-awesome-python)  "
     ]
     lines = []
     lines.extend(render.lines_header(len(df)))
@@ -83,16 +79,16 @@ def write_files(csv_location, token, output_csv_filename, output_json_filename):
     with open("README.md", "w") as out:
         out.write("\n".join(lines))
 
-    # Write to categories
-    categories = df["category"].unique()
-    for category in categories:
-        df_category = df[df["category"] == category]
+    # Write to organisations
+    organisations = df["_organization"].unique()
+    for org in organisations:
+        df_org = df[df["_organization"] == org]
         lines = []
-        lines.extend(render.lines_header(len(df_category), category))
-        lines.extend(list(df_category["_doclines_child"]))
+        lines.extend(render.lines_header(len(df_org), org))
+        lines.extend(list(df_org["_doclines_child"]))
         lines.extend(lines_footer)
-        filename = f"categories/{category}.md"
-        logger.info(f"Writing {len(df_category)} entries to {filename}...")
+        filename = f"categories/{org.lower()}.md"
+        logger.info(f"Writing {len(df_org)} entries to {filename}...")
         with open(filename, "w") as out:
             out.write("\n".join(lines))
 
