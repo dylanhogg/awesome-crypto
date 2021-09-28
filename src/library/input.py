@@ -21,17 +21,21 @@ def get_input_data(csv_location, ghw) -> pd.DataFrame:
     else:
         logger.info("No duplicate githuburl values found in csv :)")
 
-    df_exploded = explode_org_repos(df, ghw)
-    return df_exploded
+    # return df.drop(df[df.githuburl.str.endswith("/*")].index)[0:2]  # Testing
+
+    df_normal_repos, df_expanded_repos = _explode_org_repos(df, ghw)
+    df_concat = pd.concat([df_normal_repos, df_expanded_repos])
+    print(f"Total concat wildcard and normal repos: {len(df_concat.index)}")
+
+    return df_concat
 
 
-def explode_org_repos(df, ghw):
+def _explode_org_repos(df, ghw):
     wildcard_row_mask = df.githuburl.str.endswith("/*")
     df_normal_repos = df.drop(df[wildcard_row_mask].index)
 
     df_wildcard_repos = df[wildcard_row_mask]
     wildcard_repos_list = list(df_wildcard_repos.itertuples(index=False))
-    # wildcard_repos_list = wildcard_repos_list[0:3]  # Testing
 
     star_limit = 25  # TODO: append to spreadsheet record? or dynamically calculate?
     exploded_rows = []
@@ -53,7 +57,4 @@ def explode_org_repos(df, ghw):
     df_expanded_repos = pd.DataFrame(exploded_rows, columns=df_normal_repos.columns)
     print(f"Total matching wildcard repos: {len(exploded_rows)}")
 
-    df_concat = pd.concat([df_normal_repos, df_expanded_repos])
-    print(f"Total concat wildcard and normal repos: {len(df_concat.index)}")
-
-    return df_concat
+    return df_normal_repos, df_expanded_repos
