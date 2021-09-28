@@ -1,4 +1,12 @@
-var version = "v0.0.3";
+const version = "v0.0.3";
+const ms_per_day = 1000 * 60 * 60 * 24;
+
+function dateDiffInWeeks(a, b) {
+  var utc1 = Date.UTC(a.getFullYear(), a.getMonth(), a.getDate());
+  var utc2 = Date.UTC(b.getFullYear(), b.getMonth(), b.getDate());
+  var weeks = Math.floor((utc2 - utc1) / ms_per_day) / 7;
+  return weeks.toFixed(0);
+}
 
 $(document).ready( function () {
     $("#table").DataTable( {
@@ -20,32 +28,10 @@ $(document).ready( function () {
                 }
             }
           },
-//          { data: "_requirements_localurls", title: "Requrements",
-//            render: function(data, type, row, meta) {
-//                if (data.length > 0) {
-//                    var links = "";
-//                    for (var i=0; i<data.length; i++) {
-//                        var filename = data[i];
-//                        var url = "/data/" + filename + "";
-//                        var title = "unknown";
-//                        if (filename.indexOf("requirements.txt") > 0) {
-//                            title = "requirements.txt";
-//                        } else if (filename.indexOf("setup.py") > 0) {
-//                            title = "setup.py";
-//                        } else if (filename.indexOf("pyproject.toml") > 0) {
-//                            title = "pyproject.toml";
-//                        }
-//                        links = links + "<a class='modal-ajax' href='#' data-localurl='"+url+"' data-ext='' data-title='"+title+"' data-replace-lf='true'>"+title+"</a><br />";
-//                    }
-//                    return links;
-//                } else {
-//                    return "";
-//                }
-//
-//            }
-//          },
           { data: "category", title: "Category" },
-          { data: "_description", title: "Description" },
+          { data: "_description", title: "Description",
+            render: function(data, type, row, meta) { return "<div class='text-wrap description-column'>" + data + "</div>"; }
+          },
           { data: "_repopath", title: "Github",
             render: function(data, type, row, meta) { return "<a href='https://github.com/" + data + "'>" + data + "</a>"; }
           },
@@ -56,21 +42,42 @@ $(document).ready( function () {
                 catch { return ""; }
               }
           },
-//          { data: "_topics", title: "Tags",
-//            render: function(data, type, row, meta) { return data.join(", "); }
-//          },
           { data: "_stars", title: "Stars", className: "text-nowrap", render: $.fn.dataTable.render.number(',', '.', 0) },
           { data: "_stars_per_week", title: "Stars\nper&nbsp;week",
             render: function(data, type, row, meta) { return data > 10 ? data.toFixed(0) : data.toFixed(1); }
           },
           { data: "_forks", title: "Forks", className: "text-nowrap", render: $.fn.dataTable.render.number(',', '.', 0) },
+          { data: "_updated_at", title: "Updated",
+            className: "text-nowrap",
+            render: function(data, type, row, meta) { return new Date(data).toISOString().split('T')[0]; }
+          },
           { data: "_created_at", title: "Created",
             className: "text-nowrap",
             render: function(data, type, row, meta) { return new Date(data).toISOString().split('T')[0]; }
           },
-          { data: "_age_weeks", title: "Age in&nbsp;weeks",
-            render: function(data, type, row, meta) { return data.toFixed(0); }
+//          { data: "_age_weeks", title: "Age in&nbsp;weeks",
+//            render: function(data, type, row, meta) { return data.toFixed(0); }
+//          },
+          { data: "_updated_at", title: "Weeks<br />since<br />updated",
+            className: "text-nowrap",
+            render: function(data, type, row, meta) {
+                var updated = new Date(data);
+                var today = new Date();
+                return dateDiffInWeeks(updated, today);
+            }
           },
+          { data: "_created_at", title: "Weeks<br />since<br />created",
+            className: "text-nowrap",
+            render: function(data, type, row, meta) {
+                var updated = new Date(data);
+                var today = new Date();
+                return dateDiffInWeeks(updated, today);
+            }
+          },
+          { data: "_language", title: "Primary<br />Language" },
+//          { data: "_topics", title: "Tags",
+//            render: function(data, type, row, meta) { return data.join(", "); }
+//          },
         ],
         paging: false,
     });

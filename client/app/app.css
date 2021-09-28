@@ -18,3 +18,10 @@
 .jquery-modal .modal img {
     max-width: 800px;
 }
+
+.text-wrap{
+    white-space:normal;
+}
+.description-column{
+    max-width: 280px;
+}
