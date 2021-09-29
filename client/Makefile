@@ -36,7 +36,7 @@ browse-s3:
 # AWS Command Tools
 
 ## AWS S3 cp app to S3
-s3-deploy-app:
+s3-deploy-app: remove-data-local-app
 	aws s3 cp app s3://${BUCKET_NAME} --recursive --profile ${AWS_PROFILE}
 	aws s3 cp ../data s3://${BUCKET_NAME}/data --recursive --profile ${AWS_PROFILE}
 	# NOTE: Remember to invalidate Cloudfront cache to materialise changes
@@ -47,7 +47,7 @@ s3-delete-app:
 
 ## AWS Cloudfront invalidation (limit 1000 free calls per month)
 cf-invalidation:
-	aws cloudfront create-invalidation --distribution-id E1VXP77O89KVKO --paths "/*"
+	aws cloudfront create-invalidation --distribution-id E1TZP5ELNUI17P --paths "/*"
 
 # Terraform
 
