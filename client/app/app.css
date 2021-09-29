@@ -22,6 +22,27 @@
 .text-wrap{
     white-space:normal;
 }
+
 .description-column{
     max-width: 280px;
+}
+
+.github-img {
+    width: 16px;
+}
+
+.link-img {
+    width: 16px;
+}
+
+.web-img {
+    width: 16px;
+}
+
+.info-img {
+    width: 16px;
+}
+
+img.info-img:hover {
+  opacity: 0.5;
 }

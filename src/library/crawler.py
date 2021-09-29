@@ -29,31 +29,35 @@ def write_files(csv_location, token, output_csv_filename, output_json_filename):
 
     # TODO: handle 'main' master branches also:
     df["_readme_giturl"] = df.apply(
-        lambda row: f"https://raw.githubusercontent.com/{row['_repopath']}/master/{row['_readme_filename']}", axis=1
+        lambda row: f"https://raw.githubusercontent.com/{row['_repopath']}/master/{row['_readme_filename']}"
+                    if len(row['_readme_filename']) > 0
+                    else "", axis=1
     )
 
     # TODO: get from readme.get_readme above as tuple and zip as per
     #       https://stackoverflow.com/questions/16236684/apply-pandas-function-to-column-to-create-multiple-new-columns
     df["_readme_localurl"] = df.apply(
-        lambda row: f"{row['_repopath'].replace('/', '~')}~{row['_readme_filename']}", axis=1
+        lambda row: f"{row['_repopath'].replace('/', '~')}~{row['_readme_filename']}"
+                    if len(row['_readme_filename']) > 0
+                    else "", axis=1
     )
 
     # TODO: remove from crypto?
-    logger.info("Crawling requirements files...")
-    df["_requirements_filenames"] = df["_repopath"].apply(
-        lambda x: requirements.get_requirements(x)
-    )
-
-    # TODO: handle 'main' master branches also:
-    df["_requirements_giturls"] = df.apply(
-        lambda row: list(map(lambda x: f"https://raw.githubusercontent.com/{row['_repopath']}/master/{x}", row['_requirements_filenames'])), axis=1
-    )
+    # logger.info("Crawling requirements files...")
+    # df["_requirements_filenames"] = df["_repopath"].apply(
+    #     lambda x: requirements.get_requirements(x)
+    # )
+    #
+    # # TODO: handle 'main' master branches also:
+    # df["_requirements_giturls"] = df.apply(
+    #     lambda row: list(map(lambda x: f"https://raw.githubusercontent.com/{row['_repopath']}/master/{x}", row['_requirements_filenames'])), axis=1
+    # )
 
     # TODO: get from readme.get_readme above as tuple and zip as per
     #       https://stackoverflow.com/questions/16236684/apply-pandas-function-to-column-to-create-multiple-new-columns
-    df["_requirements_localurls"] = df.apply(
-        lambda row: list(map(lambda x: f"{row['_repopath'].replace('/', '~')}~{x}", row['_requirements_filenames'])), axis=1
-    )
+    # df["_requirements_localurls"] = df.apply(
+    #     lambda row: list(map(lambda x: f"{row['_repopath'].replace('/', '~')}~{x}", row['_requirements_filenames'])), axis=1
+    # )
 
     # Write raw results to json table format
     with open(output_json_filename, "w") as f:
