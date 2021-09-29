@@ -9,7 +9,7 @@ Checkout the interactive version that you can filter and sort:
 very currency  
 [https://github.com/dogecoin/dogecoin](https://github.com/dogecoin/dogecoin)  
 31 stars per week over 407 weeks  
-12,999 stars, 2,302 forks, 861 watches  
+13,003 stars, 2,302 forks, 861 watches  
 created 2013-12-06, last commit 2021-08-20, main language C++  
 
 
@@ -38,6 +38,6 @@ Dogecoin Improvement Proposals
 created 2014-04-12, last commit 2014-06-30, main language None  
 
 
-This file was automatically generated on 2021-09-28.  
+This file was automatically generated on 2021-09-29.  
 
 To curate your own github list, simply clone and change the input csv file.  

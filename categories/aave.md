@@ -8,15 +8,15 @@ Checkout the interactive version that you can filter and sort:
 ### [aave-protocol](https://github.com/aave/aave-protocol) by [aave](https://github.com/aave)  
 Aave Protocol Version 1.0 - Decentralized Lending Pools  
 [https://github.com/aave/aave-protocol](https://github.com/aave/aave-protocol)  
-8.88 stars per week over 101 weeks  
-898 stars, 379 forks, 95 watches  
+8.89 stars per week over 101 weeks  
+900 stars, 379 forks, 95 watches  
 created 2019-10-21, last commit 2021-01-22, main language HTML  
 
 
 ### [flashloan-box](https://github.com/aave/flashloan-box) by [aave](https://github.com/aave)  
 A box containing all you need to get started with developing  Aave v1 flash loans  
 [https://github.com/aave/flashloan-box](https://github.com/aave/flashloan-box)  
-4.11 stars per week over 75 weeks  
+4.1 stars per week over 75 weeks  
 308 stars, 149 forks, 18 watches  
 created 2020-04-21, last commit 2020-07-02, main language Solidity  
 
@@ -25,8 +25,8 @@ created 2020-04-21, last commit 2020-07-02, main language Solidity
 Aave Protocol V2  
 [https://aave.com](https://aave.com)  
 [https://github.com/aave/protocol-v2](https://github.com/aave/protocol-v2)  
-6.49 stars per week over 42 weeks  
-278 stars, 265 forks, 20 watches  
+6.47 stars per week over 43 weeks  
+278 stars, 266 forks, 20 watches  
 created 2020-12-02, last commit 2021-09-01, main language TypeScript  
 
 
@@ -49,7 +49,7 @@ created 2020-11-27, last commit 2020-12-07, main language Solidity
 ### [aip](https://github.com/aave/aip) by [aave](https://github.com/aave)  
 Aave Improvement Proposals  
 [https://github.com/aave/aip](https://github.com/aave/aip)  
-0.56 stars per week over 76 weeks  
+0.56 stars per week over 77 weeks  
 43 stars, 66 forks, 7 watches  
 created 2020-04-08, last commit 2021-09-10, main language JavaScript  
 
@@ -62,6 +62,6 @@ V2 implementation of the stkAAVE token
 created 2020-12-10, last commit 2021-06-24, main language TypeScript  
 
 
-This file was automatically generated on 2021-09-28.  
+This file was automatically generated on 2021-09-29.  
 
 To curate your own github list, simply clone and change the input csv file.  

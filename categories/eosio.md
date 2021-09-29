@@ -9,8 +9,8 @@ Checkout the interactive version that you can filter and sort:
 An open source smart contract platform   
 [https://developers.eos.io/manuals/eos](https://developers.eos.io/manuals/eos)  
 [https://github.com/EOSIO/eos](https://github.com/EOSIO/eos)  
-48 stars per week over 233 weeks  
-11,258 stars, 3,648 forks, 1,061 watches  
+48 stars per week over 234 weeks  
+11,258 stars, 3,649 forks, 1,060 watches  
 created 2017-04-05, last commit 2021-07-19, main language C++  
 <sub><sup>eosio</sup></sub>
 
@@ -19,7 +19,7 @@ created 2017-04-05, last commit 2021-07-19, main language C++
 EOSIO Documents  
 [https://eos.io](https://eos.io)  
 [https://github.com/EOSIO/Documentation](https://github.com/EOSIO/Documentation)  
-9.34 stars per week over 225 weeks  
+9.33 stars per week over 225 weeks  
 2,101 stars, 913 forks, 320 watches  
 created 2017-06-06, last commit 2018-11-13, main language None  
 
@@ -29,7 +29,7 @@ General purpose library for the EOSIO blockchain.
 [http://eosio.github.io/eosjs](http://eosio.github.io/eosjs)  
 [https://github.com/EOSIO/eosjs](https://github.com/EOSIO/eosjs)  
 6.37 stars per week over 216 weeks  
-1,380 stars, 445 forks, 121 watches  
+1,382 stars, 445 forks, 121 watches  
 created 2017-08-03, last commit 2021-09-23, main language TypeScript  
 
 
@@ -38,7 +38,7 @@ EOSIO.CDT (Contract Development Toolkit) is a suite of tools used to build EOSIO
 [http://eosio.github.io/eosio.cdt](http://eosio.github.io/eosio.cdt)  
 [https://github.com/EOSIO/eosio.cdt](https://github.com/EOSIO/eosio.cdt)  
 2.86 stars per week over 171 weeks  
-490 stars, 299 forks, 72 watches  
+491 stars, 299 forks, 72 watches  
 created 2018-06-15, last commit 2021-07-12, main language C++  
 <sub><sup>eosio, wasm</sup></sub>
 
@@ -46,7 +46,7 @@ created 2018-06-15, last commit 2021-07-12, main language C++
 ### [demux-js](https://github.com/EOSIO/demux-js) by [EOSIO](https://github.com/EOSIO)  
 💫 Deterministic event-sourced state and side effect handling for blockchain applications  
 [https://github.com/EOSIO/demux-js](https://github.com/EOSIO/demux-js)  
-1.77 stars per week over 169 weeks  
+1.77 stars per week over 170 weeks  
 301 stars, 77 forks, 69 watches  
 created 2018-06-27, last commit 2019-12-30, main language TypeScript  
 
@@ -55,8 +55,8 @@ created 2018-06-27, last commit 2019-12-30, main language TypeScript
 Smart contracts that provide some of the basic functions of the EOSIO blockchain  
 [https://eosio.github.io/eosio.contracts/latest](https://eosio.github.io/eosio.contracts/latest)  
 [https://github.com/EOSIO/eosio.contracts](https://github.com/EOSIO/eosio.contracts)  
-1.71 stars per week over 171 weeks  
-293 stars, 393 forks, 78 watches  
+1.72 stars per week over 171 weeks  
+294 stars, 394 forks, 78 watches  
 created 2018-06-19, last commit 2020-12-16, main language C++  
 <sub><sup>eosio, smart-contracts</sup></sub>
 
@@ -73,7 +73,7 @@ created 2017-08-03, last commit 2020-02-19, main language JavaScript
   
 [https://eos.io/distribution](https://eos.io/distribution)  
 [https://github.com/EOSIO/eos-token-distribution](https://github.com/EOSIO/eos-token-distribution)  
-0.9 stars per week over 224 weeks  
+0.89 stars per week over 224 weeks  
 201 stars, 156 forks, 42 watches  
 created 2017-06-09, last commit 2017-07-06, main language Shell  
 
@@ -98,7 +98,7 @@ created 2018-07-16, last commit 2019-11-08, main language C++
 The Elemental Battles Tutorial is divided into easy to follow lessons that take you through the process of creating your own fully-functional blockchain-based dApp.  
 [http://battles.eos.io](http://battles.eos.io)  
 [https://github.com/EOSIO/eosio-card-game-repo](https://github.com/EOSIO/eosio-card-game-repo)  
-0.92 stars per week over 160 weeks  
+0.91 stars per week over 160 weeks  
 147 stars, 94 forks, 29 watches  
 created 2018-08-31, last commit 2020-04-27, main language None  
 <sub><sup>blockchain, dapp, elemental-battles, eosio, game, lesson</sup></sub>
@@ -149,7 +149,7 @@ created 2019-05-02, last commit 2020-05-05, main language JavaScript
 ### [eosio-project-demux-example](https://github.com/EOSIO/eosio-project-demux-example) by [EOSIO](https://github.com/EOSIO)  
 Simple Blog DApp built with Demux and React for the EOSIO Blockchain  
 [https://github.com/EOSIO/eosio-project-demux-example](https://github.com/EOSIO/eosio-project-demux-example)  
-0.52 stars per week over 166 weeks  
+0.52 stars per week over 167 weeks  
 87 stars, 36 forks, 17 watches  
 created 2018-07-18, last commit 2019-05-08, main language JavaScript  
 
@@ -182,7 +182,7 @@ created 2019-03-22, last commit 2019-07-01, main language Swift
 EOSIO SDK for Swift - API for integrating with EOSIO-based blockchains  
 [https://eosio.github.io/eosio-swift](https://eosio.github.io/eosio-swift)  
 [https://github.com/EOSIO/eosio-swift](https://github.com/EOSIO/eosio-swift)  
-0.44 stars per week over 139 weeks  
+0.44 stars per week over 140 weeks  
 61 stars, 24 forks, 26 watches  
 created 2019-01-23, last commit 2020-11-30, main language C  
 
@@ -191,7 +191,7 @@ created 2019-01-23, last commit 2020-11-30, main language C
 EOSIO History Tools  
 [https://eosio.github.io/history-tools/](https://eosio.github.io/history-tools/)  
 [https://github.com/EOSIO/history-tools](https://github.com/EOSIO/history-tools)  
-0.37 stars per week over 147 weeks  
+0.37 stars per week over 148 weeks  
 55 stars, 30 forks, 32 watches  
 created 2018-11-28, last commit 2021-05-26, main language C++  
 
@@ -223,7 +223,7 @@ created 2019-05-30, last commit 2020-04-27, main language None
 ### [demux-js-eos](https://github.com/EOSIO/demux-js-eos) by [EOSIO](https://github.com/EOSIO)  
 Demux-js Action Reader implementations for EOSIO blockchains  
 [https://github.com/EOSIO/demux-js-eos](https://github.com/EOSIO/demux-js-eos)  
-0.23 stars per week over 162 weeks  
+0.23 stars per week over 163 weeks  
 37 stars, 19 forks, 47 watches  
 created 2018-08-15, last commit 2020-01-26, main language TypeScript  
 
@@ -255,9 +255,17 @@ created 2019-04-26, last commit 2019-06-01, main language TypeScript
 ### [eosio-java-android-example-app](https://github.com/EOSIO/eosio-java-android-example-app) by [EOSIO](https://github.com/EOSIO)  
 Application demonstrating integration with EOSIO-based blockchains using EOSIO SDK for Java  
 [https://github.com/EOSIO/eosio-java-android-example-app](https://github.com/EOSIO/eosio-java-android-example-app)  
-0.23 stars per week over 126 weeks  
+0.23 stars per week over 127 weeks  
 29 stars, 10 forks, 18 watches  
 created 2019-04-24, last commit 2020-11-30, main language Java  
+
+
+### [eosio-swift-ios-example-app](https://github.com/EOSIO/eosio-swift-ios-example-app) by [EOSIO](https://github.com/EOSIO)  
+Application demonstrating integration with EOSIO-based blockchains using EOSIO SDK for Swift  
+[https://github.com/EOSIO/eosio-swift-ios-example-app](https://github.com/EOSIO/eosio-swift-ios-example-app)  
+0.23 stars per week over 126 weeks  
+29 stars, 11 forks, 25 watches  
+created 2019-04-25, last commit 2020-11-30, main language Swift  
 
 
 ### [abieos](https://github.com/EOSIO/abieos) by [EOSIO](https://github.com/EOSIO)  
@@ -276,14 +284,6 @@ Library to talk to the eos api
 created 2018-06-04, last commit 2018-10-04, main language TypeScript  
 
 
-### [eosio-swift-ios-example-app](https://github.com/EOSIO/eosio-swift-ios-example-app) by [EOSIO](https://github.com/EOSIO)  
-Application demonstrating integration with EOSIO-based blockchains using EOSIO SDK for Swift  
-[https://github.com/EOSIO/eosio-swift-ios-example-app](https://github.com/EOSIO/eosio-swift-ios-example-app)  
-0.23 stars per week over 126 weeks  
-29 stars, 11 forks, 25 watches  
-created 2019-04-25, last commit 2020-11-30, main language Swift  
-
-
 ### [welcome](https://github.com/EOSIO/welcome) by [EOSIO](https://github.com/EOSIO)  
 Documentation that covers EOSIO Overview, Getting Started and Protocol documents  
 [https://github.com/EOSIO/welcome](https://github.com/EOSIO/welcome)  
@@ -300,14 +300,6 @@ Information about the EOS blockchain in the JSON file format.
 created 2017-08-03, last commit 2018-06-28, main language JavaScript  
 
 
-### [eosio-reference-chrome-extension-authenticator-app](https://github.com/EOSIO/eosio-reference-chrome-extension-authenticator-app) by [EOSIO](https://github.com/EOSIO)  
-Chrome extension reference app demonstrating how users could sign transactions using various EOSIO Labs tools  
-[https://github.com/EOSIO/eosio-reference-chrome-extension-authenticator-app](https://github.com/EOSIO/eosio-reference-chrome-extension-authenticator-app)  
-0.2 stars per week over 132 weeks  
-26 stars, 17 forks, 39 watches  
-created 2019-03-15, last commit 2019-10-10, main language TypeScript  
-
-
 ### [eosjs-fcbuffer](https://github.com/EOSIO/eosjs-fcbuffer) by [EOSIO](https://github.com/EOSIO)  
 Serialization library geared towards immutable data storage such as blockchains.  
 [https://github.com/EOSIO/eosjs-fcbuffer](https://github.com/EOSIO/eosjs-fcbuffer)  
@@ -316,6 +308,14 @@ Serialization library geared towards immutable data storage such as blockchains.
 created 2017-08-03, last commit 2018-09-23, main language JavaScript  
 
 
-This file was automatically generated on 2021-09-28.  
+### [eosio-reference-chrome-extension-authenticator-app](https://github.com/EOSIO/eosio-reference-chrome-extension-authenticator-app) by [EOSIO](https://github.com/EOSIO)  
+Chrome extension reference app demonstrating how users could sign transactions using various EOSIO Labs tools  
+[https://github.com/EOSIO/eosio-reference-chrome-extension-authenticator-app](https://github.com/EOSIO/eosio-reference-chrome-extension-authenticator-app)  
+0.2 stars per week over 132 weeks  
+26 stars, 17 forks, 39 watches  
+created 2019-03-15, last commit 2019-10-10, main language TypeScript  
+
+
+This file was automatically generated on 2021-09-29.  
 
 To curate your own github list, simply clone and change the input csv file.  

@@ -10,11 +10,11 @@ Ethermint is a scalable and interoperable Ethereum, built on Proof-of-Stake with
 [https://ethermint.dev/](https://ethermint.dev/)  
 [https://github.com/tharsis/ethermint](https://github.com/tharsis/ethermint)  
 54 stars per week over 23 weeks  
-1,288 stars, 137 forks, 467 watches  
+1,292 stars, 137 forks, 466 watches  
 created 2021-04-17, last commit 2021-09-28, main language Go  
 <sub><sup>blockchain, cosmos-sdk, ethereum, evm, go</sup></sub>
 
 
-This file was automatically generated on 2021-09-28.  
+This file was automatically generated on 2021-09-29.  
 
 To curate your own github list, simply clone and change the input csv file.  

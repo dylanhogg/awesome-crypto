@@ -18,7 +18,7 @@ created 2018-06-08, last commit 2021-08-18, main language Go
 A web3 adaptor for VeChain Thor RESTful HTTP API.  
 [https://thorify.vecha.in/](https://thorify.vecha.in/)  
 [https://github.com/vechain/thorify](https://github.com/vechain/thorify)  
-0.37 stars per week over 178 weeks  
+0.37 stars per week over 179 weeks  
 67 stars, 40 forks, 22 watches  
 created 2018-04-25, last commit 2021-08-10, main language TypeScript  
 <sub><sup>blockchain, contracts, smart, thor, vechain, web3</sup></sub>
@@ -46,7 +46,7 @@ created 2018-12-02, last commit 2021-07-15, main language TypeScript
 ### [grant-program](https://github.com/vechain/grant-program) by [vechain](https://github.com/vechain)  
 VeChain Foundation General Grant Program  
 [https://github.com/vechain/grant-program](https://github.com/vechain/grant-program)  
-1.6 stars per week over 21 weeks  
+1.59 stars per week over 22 weeks  
 35 stars, 39 forks, 12 watches  
 created 2021-04-28, last commit 2021-09-08, main language None  
 
@@ -63,11 +63,11 @@ created 2019-09-10, last commit 2021-09-18, main language JavaScript
 ### [thor-client-sdk4j](https://github.com/vechain/thor-client-sdk4j) by [vechain](https://github.com/vechain)  
 A SDK toolkit for client to call VeChain Thor Restful API.  
 [https://github.com/vechain/thor-client-sdk4j](https://github.com/vechain/thor-client-sdk4j)  
-0.15 stars per week over 170 weeks  
+0.15 stars per week over 171 weeks  
 25 stars, 27 forks, 6 watches  
 created 2018-06-20, last commit 2020-08-21, main language Java  
 
 
-This file was automatically generated on 2021-09-28.  
+This file was automatically generated on 2021-09-29.  
 
 To curate your own github list, simply clone and change the input csv file.  

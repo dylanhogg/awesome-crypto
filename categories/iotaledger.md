@@ -8,7 +8,7 @@ Checkout the interactive version that you can filter and sort:
 ### [legacy-wallet-use-trinity-wallet-instead](https://github.com/iotaledger/legacy-wallet-use-trinity-wallet-instead) by [iotaledger](https://github.com/iotaledger)  
 IOTA Wallet  
 [https://github.com/iotaledger/legacy-wallet-use-trinity-wallet-instead](https://github.com/iotaledger/legacy-wallet-use-trinity-wallet-instead)  
-7.86 stars per week over 270 weeks  
+7.86 stars per week over 271 weeks  
 2,130 stars, 416 forks, 262 watches  
 created 2016-07-20, last commit 2018-10-08, main language JavaScript  
 <sub><sup>iota, iota-gui, iota-wallet</sup></sub>
@@ -36,7 +36,7 @@ created 2016-09-10, last commit 2021-09-27, main language TypeScript
 Trinity is IOTA's old, deprecated wallet. Use Firefly instead.  
 [https://trinity.iota.org](https://trinity.iota.org)  
 [https://github.com/iotaledger/trinity-wallet](https://github.com/iotaledger/trinity-wallet)  
-2.85 stars per week over 174 weeks  
+2.85 stars per week over 175 weeks  
 498 stars, 126 forks, 48 watches  
 created 2018-05-23, last commit 2021-09-06, main language JavaScript  
 
@@ -73,16 +73,16 @@ created 2019-03-28, last commit 2021-09-27, main language Go
 ### [stronghold.rs](https://github.com/iotaledger/stronghold.rs) by [iotaledger](https://github.com/iotaledger)  
 Stronghold is a secret management engine written in rust.  
 [https://github.com/iotaledger/stronghold.rs](https://github.com/iotaledger/stronghold.rs)  
-4.6 stars per week over 68 weeks  
+4.59 stars per week over 68 weeks  
 316 stars, 20 forks, 23 watches  
-created 2020-06-04, last commit 2021-09-21, main language Rust  
+created 2020-06-04, last commit 2021-09-28, main language Rust  
 
 
 ### [bee](https://github.com/iotaledger/bee) by [iotaledger](https://github.com/iotaledger)  
 A framework for IOTA nodes, clients and applications in Rust  
 [https://github.com/iotaledger/bee](https://github.com/iotaledger/bee)  
-1.89 stars per week over 123 weeks  
-233 stars, 56 forks, 32 watches  
+1.88 stars per week over 123 weeks  
+233 stars, 56 forks, 31 watches  
 created 2019-05-17, last commit 2021-09-27, main language Rust  
 <sub><sup>application, blockchain, client, crates, framework, iot, iota, iota-foundation, iota-network, iota-nodes, rust, rust-lang, tangle</sup></sub>
 
@@ -101,7 +101,7 @@ IOTA's New Wallet
 [https://github.com/iotaledger/firefly](https://github.com/iotaledger/firefly)  
 2.48 stars per week over 73 weeks  
 183 stars, 39 forks, 38 watches  
-created 2020-04-30, last commit 2021-09-23, main language Svelte  
+created 2020-04-30, last commit 2021-09-28, main language Svelte  
 
 
 ### [identity.rs](https://github.com/iotaledger/identity.rs) by [iotaledger](https://github.com/iotaledger)  
@@ -135,7 +135,7 @@ created 2016-10-23, last commit 2020-10-11, main language Java
 ### [wasp](https://github.com/iotaledger/wasp) by [iotaledger](https://github.com/iotaledger)  
 Node for IOTA Smart Contracts   
 [https://github.com/iotaledger/wasp](https://github.com/iotaledger/wasp)  
-1.93 stars per week over 72 weeks  
+1.92 stars per week over 72 weeks  
 139 stars, 46 forks, 24 watches  
 created 2020-05-11, last commit 2021-08-03, main language Go  
 
@@ -153,7 +153,7 @@ created 2018-12-13, last commit 2021-04-21, main language JavaScript
 ### [wallet.rs](https://github.com/iotaledger/wallet.rs) by [iotaledger](https://github.com/iotaledger)  
 Build wallets and other applications involving IOTA value transfer.  
 [https://github.com/iotaledger/wallet.rs](https://github.com/iotaledger/wallet.rs)  
-1.79 stars per week over 65 weeks  
+1.79 stars per week over 66 weeks  
 118 stars, 29 forks, 16 watches  
 created 2020-06-24, last commit 2021-09-22, main language Rust  
 
@@ -178,7 +178,7 @@ created 2016-11-26, last commit 2018-05-31, main language Java
 ### [iota.legacy.rs](https://github.com/iotaledger/iota.legacy.rs) by [iotaledger](https://github.com/iotaledger)  
 IOTA implementation ( rust )  
 [https://github.com/iotaledger/iota.legacy.rs](https://github.com/iotaledger/iota.legacy.rs)  
-0.36 stars per week over 223 weeks  
+0.36 stars per week over 224 weeks  
 80 stars, 19 forks, 16 watches  
 created 2017-06-14, last commit 2018-11-14, main language Rust  
 
@@ -194,32 +194,32 @@ created 2018-02-02, last commit 2019-11-22, main language JavaScript
 ### [iota.flash.js](https://github.com/iotaledger/iota.flash.js) by [iotaledger](https://github.com/iotaledger)  
   
 [https://github.com/iotaledger/iota.flash.js](https://github.com/iotaledger/iota.flash.js)  
-0.32 stars per week over 214 weeks  
+0.32 stars per week over 215 weeks  
 68 stars, 32 forks, 17 watches  
 created 2017-08-16, last commit 2018-01-25, main language JavaScript  
-
-
-### [chronicle.rs](https://github.com/iotaledger/chronicle.rs) by [iotaledger](https://github.com/iotaledger)  
-A framework for building IOTA permanodes  
-[https://github.com/iotaledger/chronicle.rs](https://github.com/iotaledger/chronicle.rs)  
-0.61 stars per week over 107 weeks  
-66 stars, 10 forks, 10 watches  
-created 2019-09-04, last commit 2021-09-27, main language Rust  
 
 
 ### [MAM](https://github.com/iotaledger/MAM) by [iotaledger](https://github.com/iotaledger)  
 Masked Authentication Messaging  
 [https://github.com/iotaledger/MAM](https://github.com/iotaledger/MAM)  
-0.3 stars per week over 218 weeks  
+0.3 stars per week over 219 weeks  
 66 stars, 18 forks, 19 watches  
 created 2017-07-19, last commit 2018-11-14, main language Rust  
+
+
+### [chronicle.rs](https://github.com/iotaledger/chronicle.rs) by [iotaledger](https://github.com/iotaledger)  
+A framework for building IOTA permanodes  
+[https://github.com/iotaledger/chronicle.rs](https://github.com/iotaledger/chronicle.rs)  
+0.61 stars per week over 108 weeks  
+66 stars, 10 forks, 10 watches  
+created 2019-09-04, last commit 2021-09-27, main language Rust  
 
 
 ### [crypto.rs](https://github.com/iotaledger/crypto.rs) by [iotaledger](https://github.com/iotaledger)  
 The canonical source of cryptographic ground-truth for IOTA projects that use Rust.  
 [https://iota.org](https://iota.org)  
 [https://github.com/iotaledger/crypto.rs](https://github.com/iotaledger/crypto.rs)  
-1.21 stars per week over 52 weeks  
+1.21 stars per week over 53 weeks  
 64 stars, 8 forks, 22 watches  
 created 2020-09-23, last commit 2021-08-03, main language Rust  
 <sub><sup>cryptography, iota</sup></sub>
@@ -246,9 +246,17 @@ created 2018-01-28, last commit 2018-02-25, main language JavaScript
 ### [hub](https://github.com/iotaledger/hub) by [iotaledger](https://github.com/iotaledger)  
   
 [https://github.com/iotaledger/hub](https://github.com/iotaledger/hub)  
-0.32 stars per week over 179 weeks  
+0.32 stars per week over 180 weeks  
 58 stars, 24 forks, 18 watches  
 created 2018-04-18, last commit 2021-05-07, main language C++  
+
+
+### [documentation-platform](https://github.com/iotaledger/documentation-platform) by [iotaledger](https://github.com/iotaledger)  
+Repository for the web application deployed as https://docs.iota.org - For the content repository, see https://github.com/iotaledger/documentation  
+[https://github.com/iotaledger/documentation-platform](https://github.com/iotaledger/documentation-platform)  
+0.23 stars per week over 244 weeks  
+56 stars, 16 forks, 18 watches  
+created 2017-01-20, last commit 2021-04-22, main language JavaScript  
 
 
 ### [wiki](https://github.com/iotaledger/wiki) by [iotaledger](https://github.com/iotaledger)  
@@ -258,14 +266,6 @@ These docs have moved!
 0.2 stars per week over 274 weeks  
 56 stars, 22 forks, 13 watches  
 created 2016-06-24, last commit 2018-04-19, main language None  
-
-
-### [documentation-platform](https://github.com/iotaledger/documentation-platform) by [iotaledger](https://github.com/iotaledger)  
-Repository for the web application deployed as https://docs.iota.org - For the content repository, see https://github.com/iotaledger/documentation  
-[https://github.com/iotaledger/documentation-platform](https://github.com/iotaledger/documentation-platform)  
-0.23 stars per week over 244 weeks  
-56 stars, 16 forks, 18 watches  
-created 2017-01-20, last commit 2021-04-22, main language JavaScript  
 
 
 ### [spark-wallet](https://github.com/iotaledger/spark-wallet) by [iotaledger](https://github.com/iotaledger)  
@@ -282,7 +282,7 @@ created 2019-09-30, last commit 2020-09-08, main language Svelte
 Proof of Concept Data Marketplace built using MAM and IOTA Tangle.  
 [https://data.iota.org](https://data.iota.org)  
 [https://github.com/iotaledger/data-marketplace](https://github.com/iotaledger/data-marketplace)  
-0.29 stars per week over 179 weeks  
+0.29 stars per week over 180 weeks  
 53 stars, 13 forks, 37 watches  
 created 2018-04-18, last commit 2021-02-19, main language JavaScript  
 
@@ -303,6 +303,15 @@ created 2019-12-02, last commit 2021-09-24, main language C
 created 2018-04-19, last commit 2020-09-23, main language Java  
 
 
+### [industry-marketplace](https://github.com/iotaledger/industry-marketplace) by [iotaledger](https://github.com/iotaledger)  
+The world's first autonomous and decentralized Industry Marketplace  
+[https://industry.iota.org](https://industry.iota.org)  
+[https://github.com/iotaledger/industry-marketplace](https://github.com/iotaledger/industry-marketplace)  
+0.39 stars per week over 123 weeks  
+48 stars, 13 forks, 31 watches  
+created 2019-05-22, last commit 2021-03-23, main language JavaScript  
+
+
 ### [kerl](https://github.com/iotaledger/kerl) by [iotaledger](https://github.com/iotaledger)  
 IOTA is adding an additional hashing function, based on Keccak, with conversion to ternary. The following document describes the functionality and specification to be implemented.  
 [https://github.com/iotaledger/kerl](https://github.com/iotaledger/kerl)  
@@ -311,19 +320,10 @@ IOTA is adding an additional hashing function, based on Keccak, with conversion 
 created 2017-08-08, last commit 2019-07-18, main language Rust  
 
 
-### [industry-marketplace](https://github.com/iotaledger/industry-marketplace) by [iotaledger](https://github.com/iotaledger)  
-The world's first autonomous and decentralized Industry Marketplace  
-[https://industry.iota.org](https://industry.iota.org)  
-[https://github.com/iotaledger/industry-marketplace](https://github.com/iotaledger/industry-marketplace)  
-0.39 stars per week over 122 weeks  
-48 stars, 13 forks, 31 watches  
-created 2019-05-22, last commit 2021-03-23, main language JavaScript  
-
-
 ### [qupla](https://github.com/iotaledger/qupla) by [iotaledger](https://github.com/iotaledger)  
 A QUbic Programming LAnguage  
 [https://github.com/iotaledger/qupla](https://github.com/iotaledger/qupla)  
-0.33 stars per week over 144 weeks  
+0.32 stars per week over 144 weeks  
 47 stars, 8 forks, 15 watches  
 created 2018-12-21, last commit 2020-04-13, main language Java  
 
@@ -346,20 +346,20 @@ A Go library containing data structures, various utils and abstractions which ar
 created 2019-11-12, last commit 2021-09-13, main language Go  
 
 
-### [node-dashboard](https://github.com/iotaledger/node-dashboard) by [iotaledger](https://github.com/iotaledger)  
-  
-[https://github.com/iotaledger/node-dashboard](https://github.com/iotaledger/node-dashboard)  
-0.73 stars per week over 57 weeks  
-42 stars, 3 forks, 8 watches  
-created 2020-08-21, last commit 2021-05-17, main language TypeScript  
-
-
 ### [hornet](https://github.com/iotaledger/hornet) by [iotaledger](https://github.com/iotaledger)  
 HORNET is a powerful IOTA fullnode software  
 [https://github.com/iotaledger/hornet](https://github.com/iotaledger/hornet)  
 0.62 stars per week over 68 weeks  
 42 stars, 4 forks, 4 watches  
 created 2020-06-09, last commit 2021-09-02, main language Go  
+
+
+### [node-dashboard](https://github.com/iotaledger/node-dashboard) by [iotaledger](https://github.com/iotaledger)  
+  
+[https://github.com/iotaledger/node-dashboard](https://github.com/iotaledger/node-dashboard)  
+0.73 stars per week over 57 weeks  
+42 stars, 3 forks, 8 watches  
+created 2020-08-21, last commit 2021-05-17, main language TypeScript  
 
 
 ### [meta-iota](https://github.com/iotaledger/meta-iota) by [iotaledger](https://github.com/iotaledger)  
@@ -387,6 +387,14 @@ created 2019-10-11, last commit 2021-05-11, main language Shell
 created 2020-11-27, last commit 2021-08-06, main language Rust  
 
 
+### [curl.lib.js](https://github.com/iotaledger/curl.lib.js) by [iotaledger](https://github.com/iotaledger)  
+IOTA Proof-of-Work algorithm ported to Javascript to work in WebGL2-enabled browsers  
+[https://github.com/iotaledger/curl.lib.js](https://github.com/iotaledger/curl.lib.js)  
+0.15 stars per week over 242 weeks  
+37 stars, 30 forks, 15 watches  
+created 2017-02-04, last commit 2019-05-22, main language JavaScript  
+
+
 ### [mam.js](https://github.com/iotaledger/mam.js) by [iotaledger](https://github.com/iotaledger)  
 Pure JavaScript implementation of MAMv0  
 [https://github.com/iotaledger/mam.js](https://github.com/iotaledger/mam.js)  
@@ -394,14 +402,6 @@ Pure JavaScript implementation of MAMv0
 37 stars, 7 forks, 22 watches  
 created 2019-11-21, last commit 2021-09-22, main language TypeScript  
 <sub><sup>iota, javascript, mam, typescript</sup></sub>
-
-
-### [curl.lib.js](https://github.com/iotaledger/curl.lib.js) by [iotaledger](https://github.com/iotaledger)  
-IOTA Proof-of-Work algorithm ported to Javascript to work in WebGL2-enabled browsers  
-[https://github.com/iotaledger/curl.lib.js](https://github.com/iotaledger/curl.lib.js)  
-0.15 stars per week over 242 weeks  
-37 stars, 30 forks, 15 watches  
-created 2017-02-04, last commit 2019-05-22, main language JavaScript  
 
 
 ### [IOTA-2.0-Research-Specifications](https://github.com/iotaledger/IOTA-2.0-Research-Specifications) by [iotaledger](https://github.com/iotaledger)  
@@ -436,14 +436,6 @@ created 2016-09-24, last commit 2018-01-24, main language JavaScript
 created 2018-06-11, last commit 2019-05-15, main language Java  
 
 
-### [identity.ts](https://github.com/iotaledger/identity.ts) by [iotaledger](https://github.com/iotaledger)  
-  
-[https://github.com/iotaledger/identity.ts](https://github.com/iotaledger/identity.ts)  
-0.28 stars per week over 112 weeks  
-31 stars, 9 forks, 12 watches  
-created 2019-08-05, last commit 2020-04-21, main language TypeScript  
-
-
 ### [giotan](https://github.com/iotaledger/giotan) by [iotaledger](https://github.com/iotaledger)  
 The CLI Tool for IOTA in Go  
 [https://github.com/iotaledger/giotan](https://github.com/iotaledger/giotan)  
@@ -470,21 +462,29 @@ created 2019-01-21, last commit 2021-05-25, main language TypeScript
 <sub><sup>iota, ipfs, tangle</sup></sub>
 
 
-### [ccurl](https://github.com/iotaledger/ccurl) by [iotaledger](https://github.com/iotaledger)  
-C port of the Curl library  
-[https://github.com/iotaledger/ccurl](https://github.com/iotaledger/ccurl)  
-0.12 stars per week over 251 weeks  
-29 stars, 17 forks, 6 watches  
-created 2016-12-03, last commit 2018-01-21, main language C  
+### [identity.ts](https://github.com/iotaledger/identity.ts) by [iotaledger](https://github.com/iotaledger)  
+  
+[https://github.com/iotaledger/identity.ts](https://github.com/iotaledger/identity.ts)  
+0.28 stars per week over 112 weeks  
+31 stars, 9 forks, 12 watches  
+created 2019-08-05, last commit 2020-04-21, main language TypeScript  
 
 
 ### [one-click-tangle](https://github.com/iotaledger/one-click-tangle) by [iotaledger](https://github.com/iotaledger)  
 "One Click Tangle" intends to make lives easier to IOTA adopters by providing pre-configured scripts and recipes that allow to deploy IOTA Networks and Nodes "in one click".  
 [https://github.com/iotaledger/one-click-tangle](https://github.com/iotaledger/one-click-tangle)  
-0.51 stars per week over 56 weeks  
+0.51 stars per week over 57 weeks  
 29 stars, 10 forks, 4 watches  
 created 2020-08-26, last commit 2021-09-17, main language Shell  
 <sub><sup>coordinator, depth, docker, merkle-tree, milestones, tangle, tangle-deployment, tangle-explorer</sup></sub>
+
+
+### [chat.ixi](https://github.com/iotaledger/chat.ixi) by [iotaledger](https://github.com/iotaledger)  
+  
+[https://github.com/iotaledger/chat.ixi](https://github.com/iotaledger/chat.ixi)  
+0.2 stars per week over 143 weeks  
+29 stars, 8 forks, 16 watches  
+created 2019-01-01, last commit 2019-03-29, main language JavaScript  
 
 
 ### [iota.crypto.js](https://github.com/iotaledger/iota.crypto.js) by [iotaledger](https://github.com/iotaledger)  
@@ -495,12 +495,12 @@ created 2020-08-26, last commit 2021-09-17, main language Shell
 created 2017-08-14, last commit 2017-12-04, main language JavaScript  
 
 
-### [chat.ixi](https://github.com/iotaledger/chat.ixi) by [iotaledger](https://github.com/iotaledger)  
-  
-[https://github.com/iotaledger/chat.ixi](https://github.com/iotaledger/chat.ixi)  
-0.2 stars per week over 143 weeks  
-29 stars, 8 forks, 16 watches  
-created 2019-01-01, last commit 2019-03-29, main language JavaScript  
+### [ccurl](https://github.com/iotaledger/ccurl) by [iotaledger](https://github.com/iotaledger)  
+C port of the Curl library  
+[https://github.com/iotaledger/ccurl](https://github.com/iotaledger/ccurl)  
+0.12 stars per week over 251 weeks  
+29 stars, 17 forks, 6 watches  
+created 2016-12-03, last commit 2018-01-21, main language C  
 
 
 ### [docs](https://github.com/iotaledger/docs) by [iotaledger](https://github.com/iotaledger)  
@@ -515,11 +515,11 @@ created 2018-04-19, last commit 2019-01-15, main language JavaScript
 ### [cliri](https://github.com/iotaledger/cliri) by [iotaledger](https://github.com/iotaledger)  
 Coo Less IRI  
 [https://github.com/iotaledger/cliri](https://github.com/iotaledger/cliri)  
-0.17 stars per week over 148 weeks  
+0.17 stars per week over 149 weeks  
 25 stars, 9 forks, 21 watches  
 created 2018-11-21, last commit 2019-04-28, main language Java  
 
 
-This file was automatically generated on 2021-09-28.  
+This file was automatically generated on 2021-09-29.  
 
 To curate your own github list, simply clone and change the input csv file.  

@@ -11,7 +11,7 @@ Zcash - Internet Money
 [https://github.com/zcash/zcash](https://github.com/zcash/zcash)  
 12 stars per week over 357 weeks  
 4,461 stars, 1,848 forks, 403 watches  
-created 2014-11-22, last commit 2021-09-23, main language C++  
+created 2014-11-22, last commit 2021-09-29, main language C++  
 
 
 ### [librustzcash](https://github.com/zcash/librustzcash) by [zcash](https://github.com/zcash)  
@@ -19,14 +19,14 @@ Rust-language assets for Zcash
 [https://github.com/zcash/librustzcash](https://github.com/zcash/librustzcash)  
 0.92 stars per week over 236 weeks  
 217 stars, 154 forks, 31 watches  
-created 2017-03-17, last commit 2021-09-22, main language Rust  
+created 2017-03-17, last commit 2021-09-28, main language Rust  
 
 
 ### [zips](https://github.com/zcash/zips) by [zcash](https://github.com/zcash)  
 Zcash Improvement Proposals  
 [https://zips.z.cash](https://zips.z.cash)  
 [https://github.com/zcash/zips](https://github.com/zcash/zips)  
-0.67 stars per week over 303 weeks  
+0.67 stars per week over 304 weeks  
 203 stars, 112 forks, 55 watches  
 created 2015-12-02, last commit 2021-09-21, main language HTML  
 <sub><sup>cryptocurrency, cryptography, specifications, zcash</sup></sub>
@@ -44,7 +44,7 @@ created 2016-10-24, last commit 2019-10-30, main language Rust
   
 [https://github.com/zcash/halo2](https://github.com/zcash/halo2)  
 2.06 stars per week over 57 weeks  
-118 stars, 40 forks, 21 watches  
+118 stars, 41 forks, 21 watches  
 created 2020-08-24, last commit 2021-09-28, main language Rust  
 
 
@@ -59,9 +59,9 @@ created 2016-07-15, last commit 2017-02-09, main language C++
 ### [lightwalletd](https://github.com/zcash/lightwalletd) by [zcash](https://github.com/zcash)  
 Lightwalletd is a backend service that provides a bandwidth-efficient interface to the Zcash blockchain  
 [https://github.com/zcash/lightwalletd](https://github.com/zcash/lightwalletd)  
-0.35 stars per week over 147 weeks  
-51 stars, 56 forks, 12 watches  
-created 2018-11-29, last commit 2021-09-07, main language Go  
+0.34 stars per week over 147 weeks  
+51 stars, 57 forks, 12 watches  
+created 2018-11-29, last commit 2021-09-29, main language Go  
 
 
 ### [zcash-android-wallet-sdk](https://github.com/zcash/zcash-android-wallet-sdk) by [zcash](https://github.com/zcash)  
@@ -80,6 +80,6 @@ Translations of Zcash documentation
 created 2016-11-12, last commit 2018-01-18, main language None  
 
 
-This file was automatically generated on 2021-09-28.  
+This file was automatically generated on 2021-09-29.  
 
 To curate your own github list, simply clone and change the input csv file.  

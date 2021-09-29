@@ -10,7 +10,7 @@ Checkout the interactive version that you can filter and sort:
 [https://cosmos.network/](https://cosmos.network/)  
 [https://github.com/cosmos/cosmos-sdk](https://github.com/cosmos/cosmos-sdk)  
 9.46 stars per week over 294 weeks  
-2,784 stars, 1,237 forks, 198 watches  
+2,787 stars, 1,238 forks, 197 watches  
 created 2016-02-06, last commit 2021-09-28, main language Go  
 <sub><sup>cosmos-sdk, cryptocurrency, go, golang, tendermint</sup></sub>
 
@@ -38,7 +38,7 @@ created 2016-11-11, last commit 2020-10-07, main language Go
 Interchain Standards (ICS) for the Cosmos network & interchain ecosystem.  
 [https://github.com/cosmos/ibc](https://github.com/cosmos/ibc)  
 2.71 stars per week over 137 weeks  
-373 stars, 135 forks, 64 watches  
+373 stars, 136 forks, 64 watches  
 created 2019-02-08, last commit 2021-09-21, main language TeX  
 <sub><sup>blockchain, cosmos, distributed-ledger, interchain</sup></sub>
 
@@ -47,7 +47,7 @@ created 2019-02-08, last commit 2021-09-21, main language TeX
 Cosmos Hub  
 [https://github.com/cosmos/gaia](https://github.com/cosmos/gaia)  
 2.64 stars per week over 130 weeks  
-343 stars, 314 forks, 42 watches  
+344 stars, 315 forks, 42 watches  
 created 2019-04-02, last commit 2021-09-27, main language Python  
 <sub><sup>blockchain, cosmos-sdk, golang</sup></sub>
 
@@ -56,7 +56,7 @@ created 2019-04-02, last commit 2021-09-27, main language Python
 Ethermint is a scalable and interoperable Ethereum, built on Proof-of-Stake with fast-finality using the Cosmos SDK.  
 [https://ethermint.dev/](https://ethermint.dev/)  
 [https://github.com/cosmos/ethermint](https://github.com/cosmos/ethermint)  
-2.86 stars per week over 118 weeks  
+2.86 stars per week over 119 weeks  
 340 stars, 119 forks, 38 watches  
 created 2019-06-19, last commit 2021-09-02, main language Go  
 <sub><sup>blockchain, cosmos, cosmos-sdk, ethereum, ethermint, tendermint</sup></sub>
@@ -83,8 +83,8 @@ created 2018-10-23, last commit 2021-09-22, main language TypeScript
 Merkleized IAVL+ Tree implementation in Go  
 [https://github.com/cosmos/iavl](https://github.com/cosmos/iavl)  
 1.03 stars per week over 212 weeks  
-220 stars, 119 forks, 31 watches  
-created 2017-08-31, last commit 2021-09-15, main language Go  
+220 stars, 119 forks, 30 watches  
+created 2017-08-31, last commit 2021-09-29, main language Go  
 <sub><sup>blockchain, cryptography, merkle-tree</sup></sub>
 
 
@@ -92,7 +92,7 @@ created 2017-08-31, last commit 2021-09-15, main language Go
 The Swiss Army knife to power JavaScript based client solutions ranging from Web apps/explorers over browser extensions to server-side clients like faucets/scrapers.  
 [https://cosmos.github.io/cosmjs/](https://cosmos.github.io/cosmjs/)  
 [https://github.com/cosmos/cosmjs](https://github.com/cosmos/cosmjs)  
-1.24 stars per week over 87 weeks  
+1.24 stars per week over 88 weeks  
 109 stars, 59 forks, 9 watches  
 created 2020-01-22, last commit 2021-08-24, main language TypeScript  
 
@@ -117,7 +117,7 @@ created 2020-02-29, last commit 2021-07-15, main language Go
 Interblockchain communication protocol (IBC) implementation in Golang.  
 [https://ibcprotocol.org/](https://ibcprotocol.org/)  
 [https://github.com/cosmos/ibc-go](https://github.com/cosmos/ibc-go)  
-2.56 stars per week over 32 weeks  
+2.55 stars per week over 33 weeks  
 84 stars, 35 forks, 19 watches  
 created 2021-02-10, last commit 2021-09-27, main language Go  
 
@@ -158,7 +158,7 @@ created 2020-11-27, last commit 2021-09-27, main language Rust
 ### [relayer-archive](https://github.com/cosmos/relayer-archive) by [cosmos](https://github.com/cosmos)  
 An example of a server side IBC relayer to be used for Game of Zones and beyond  
 [https://github.com/cosmos/relayer-archive](https://github.com/cosmos/relayer-archive)  
-0.64 stars per week over 89 weeks  
+0.63 stars per week over 89 weeks  
 57 stars, 31 forks, 11 watches  
 created 2020-01-09, last commit 2020-10-27, main language Go  
 
@@ -174,7 +174,7 @@ created 2019-11-15, last commit 2020-10-15, main language Go
 ### [stargate-launch](https://github.com/cosmos/stargate-launch) by [cosmos](https://github.com/cosmos)  
   
 [https://github.com/cosmos/stargate-launch](https://github.com/cosmos/stargate-launch)  
-0.76 stars per week over 67 weeks  
+0.75 stars per week over 67 weeks  
 51 stars, 90 forks, 23 watches  
 created 2020-06-13, last commit 2021-02-17, main language None  
 
@@ -198,7 +198,7 @@ created 2018-03-03, last commit 2020-06-29, main language C++
 ### [modules](https://github.com/cosmos/modules) by [cosmos](https://github.com/cosmos)  
   
 [https://github.com/cosmos/modules](https://github.com/cosmos/modules)  
-0.4 stars per week over 103 weeks  
+0.39 stars per week over 103 weeks  
 41 stars, 29 forks, 15 watches  
 created 2019-10-03, last commit 2020-07-15, main language Go  
 
@@ -206,7 +206,7 @@ created 2019-10-03, last commit 2020-07-15, main language Go
 ### [governance](https://github.com/cosmos/governance) by [cosmos](https://github.com/cosmos)  
 Resources for Cosmos governance  
 [https://github.com/cosmos/governance](https://github.com/cosmos/governance)  
-0.71 stars per week over 50 weeks  
+0.71 stars per week over 51 weeks  
 36 stars, 23 forks, 14 watches  
 created 2020-10-07, last commit 2021-09-17, main language Shell  
 <sub><sup>cosmos, governance</sup></sub>
@@ -230,6 +230,6 @@ go-amino + GopherJS + TypeScript
 created 2019-06-04, last commit 2019-11-24, main language Go  
 
 
-This file was automatically generated on 2021-09-28.  
+This file was automatically generated on 2021-09-29.  
 
 To curate your own github list, simply clone and change the input csv file.  

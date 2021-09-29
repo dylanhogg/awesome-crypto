@@ -14,6 +14,6 @@ Current work on BTCGPU
 created 2017-07-23, last commit 2021-04-11, main language C++  
 
 
-This file was automatically generated on 2021-09-28.  
+This file was automatically generated on 2021-09-29.  
 
 To curate your own github list, simply clone and change the input csv file.  

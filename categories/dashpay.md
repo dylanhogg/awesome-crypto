@@ -26,7 +26,7 @@ created 2016-04-19, last commit 2019-04-16, main language None
 ### [dips](https://github.com/dashpay/dips) by [dashpay](https://github.com/dashpay)  
 Dash Improvement Proposals  
 [https://github.com/dashpay/dips](https://github.com/dashpay/dips)  
-0.24 stars per week over 220 weeks  
+0.24 stars per week over 221 weeks  
 52 stars, 51 forks, 26 watches  
 created 2017-07-05, last commit 2021-09-27, main language Python  
 
@@ -69,7 +69,7 @@ created 2016-07-24, last commit 2020-12-17, main language Shell
 Dash User Documentation  
 [https://docs.dash.org](https://docs.dash.org)  
 [https://github.com/dashpay/docs](https://github.com/dashpay/docs)  
-0.16 stars per week over 196 weeks  
+0.16 stars per week over 197 weeks  
 32 stars, 62 forks, 16 watches  
 created 2017-12-20, last commit 2021-08-30, main language Python  
 
@@ -91,6 +91,6 @@ created 2017-02-04, last commit 2021-05-26, main language Python
 created 2016-06-14, last commit 2019-02-09, main language HTML  
 
 
-This file was automatically generated on 2021-09-28.  
+This file was automatically generated on 2021-09-29.  
 
 To curate your own github list, simply clone and change the input csv file.  

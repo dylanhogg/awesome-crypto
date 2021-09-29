@@ -9,14 +9,14 @@ Checkout the interactive version that you can filter and sort:
 Java implementation of the Tron whitepaper  
 [https://github.com/tronprotocol/java-tron](https://github.com/tronprotocol/java-tron)  
 14 stars per week over 196 weeks  
-2,820 stars, 964 forks, 334 watches  
+2,821 stars, 964 forks, 334 watches  
 created 2017-12-26, last commit 2021-08-13, main language Java  
 
 
 ### [documentation](https://github.com/tronprotocol/documentation) by [tronprotocol](https://github.com/tronprotocol)  
 Documentations of project TRON  
 [https://github.com/tronprotocol/documentation](https://github.com/tronprotocol/documentation)  
-1.66 stars per week over 183 weeks  
+1.65 stars per week over 183 weeks  
 304 stars, 361 forks, 63 watches  
 created 2018-03-23, last commit 2021-07-06, main language PHP  
 
@@ -24,7 +24,7 @@ created 2018-03-23, last commit 2021-07-06, main language PHP
 ### [wallet-cli](https://github.com/tronprotocol/wallet-cli) by [tronprotocol](https://github.com/tronprotocol)  
 Wallet CLI  
 [https://github.com/tronprotocol/wallet-cli](https://github.com/tronprotocol/wallet-cli)  
-1.24 stars per week over 190 weeks  
+1.24 stars per week over 191 weeks  
 237 stars, 248 forks, 38 watches  
 created 2018-01-31, last commit 2021-08-05, main language Java  
 
@@ -32,16 +32,16 @@ created 2018-01-31, last commit 2021-08-05, main language Java
 ### [sun-network](https://github.com/tronprotocol/sun-network) by [tronprotocol](https://github.com/tronprotocol)  
   
 [https://github.com/tronprotocol/sun-network](https://github.com/tronprotocol/sun-network)  
-1.47 stars per week over 131 weeks  
-192 stars, 97 forks, 37 watches  
+1.46 stars per week over 131 weeks  
+192 stars, 98 forks, 37 watches  
 created 2019-03-26, last commit 2020-09-03, main language Java  
 
 
 ### [tronweb](https://github.com/tronprotocol/tronweb) by [tronprotocol](https://github.com/tronprotocol)  
 Javascript API Library for interacting with the TRON Network   
 [https://github.com/tronprotocol/tronweb](https://github.com/tronprotocol/tronweb)  
-1.02 stars per week over 125 weeks  
-127 stars, 108 forks, 21 watches  
+1.01 stars per week over 125 weeks  
+127 stars, 107 forks, 21 watches  
 created 2019-05-07, last commit 2021-08-09, main language JavaScript  
 
 
@@ -104,7 +104,7 @@ created 2019-05-07, last commit 2021-08-17, main language JavaScript
 ### [tron-box](https://github.com/tronprotocol/tron-box) by [tronprotocol](https://github.com/tronprotocol)  
 TronBox - Simple development framework for tronweb  
 [https://github.com/tronprotocol/tron-box](https://github.com/tronprotocol/tron-box)  
-0.18 stars per week over 159 weeks  
+0.18 stars per week over 160 weeks  
 29 stars, 26 forks, 12 watches  
 created 2018-09-05, last commit 2019-05-08, main language None  
 
@@ -117,12 +117,12 @@ Java sdk of tron
 created 2020-12-01, last commit 2021-03-09, main language Java  
 
 
-### [tron-studio](https://github.com/tronprotocol/tron-studio) by [tronprotocol](https://github.com/tronprotocol)  
-DEPRECATED. Use TronBox for smart contract deployment.  
-[https://github.com/tronprotocol/tron-studio](https://github.com/tronprotocol/tron-studio)  
-0.16 stars per week over 159 weeks  
-26 stars, 24 forks, 13 watches  
-created 2018-09-05, last commit 2019-03-26, main language Java  
+### [documentation-zh](https://github.com/tronprotocol/documentation-zh) by [tronprotocol](https://github.com/tronprotocol)  
+  
+[https://github.com/tronprotocol/documentation-zh](https://github.com/tronprotocol/documentation-zh)  
+0.22 stars per week over 123 weeks  
+27 stars, 49 forks, 8 watches  
+created 2019-05-17, last commit 2021-09-09, main language None  
 
 
 ### [docker-tron-quickstart](https://github.com/tronprotocol/docker-tron-quickstart) by [tronprotocol](https://github.com/tronprotocol)  
@@ -133,14 +133,14 @@ A full private network for Tron development
 created 2018-10-05, last commit 2019-05-08, main language None  
 
 
-### [documentation-zh](https://github.com/tronprotocol/documentation-zh) by [tronprotocol](https://github.com/tronprotocol)  
-  
-[https://github.com/tronprotocol/documentation-zh](https://github.com/tronprotocol/documentation-zh)  
-0.21 stars per week over 123 weeks  
-26 stars, 49 forks, 8 watches  
-created 2019-05-17, last commit 2021-09-09, main language None  
+### [tron-studio](https://github.com/tronprotocol/tron-studio) by [tronprotocol](https://github.com/tronprotocol)  
+DEPRECATED. Use TronBox for smart contract deployment.  
+[https://github.com/tronprotocol/tron-studio](https://github.com/tronprotocol/tron-studio)  
+0.16 stars per week over 160 weeks  
+26 stars, 24 forks, 13 watches  
+created 2018-09-05, last commit 2019-03-26, main language Java  
 
 
-This file was automatically generated on 2021-09-28.  
+This file was automatically generated on 2021-09-29.  
 
 To curate your own github list, simply clone and change the input csv file.  

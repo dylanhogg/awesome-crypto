@@ -9,8 +9,8 @@ Checkout the interactive version that you can filter and sort:
 Monero: the secure, private, untraceable cryptocurrency  
 [https://getmonero.org](https://getmonero.org)  
 [https://github.com/monero-project/monero](https://github.com/monero-project/monero)  
-16 stars per week over 386 weeks  
-6,235 stars, 3,070 forks, 490 watches  
+16 stars per week over 387 weeks  
+6,238 stars, 3,070 forks, 490 watches  
 created 2014-04-30, last commit 2021-09-24, main language C++  
 <sub><sup>blockchain, c-plus-plus, cmake, cryptocurrency, cryptography, cryptonote, monero, p2p, privacy, security</sup></sub>
 
@@ -18,8 +18,8 @@ created 2014-04-30, last commit 2021-09-24, main language C++
 ### [monero-gui](https://github.com/monero-project/monero-gui) by [monero-project](https://github.com/monero-project)  
 Monero: the secure, private, untraceable cryptocurrency  
 [https://github.com/monero-project/monero-gui](https://github.com/monero-project/monero-gui)  
-2.62 stars per week over 338 weeks  
-887 stars, 642 forks, 91 watches  
+2.62 stars per week over 339 weeks  
+888 stars, 642 forks, 91 watches  
 created 2015-04-01, last commit 2021-09-24, main language C  
 
 
@@ -36,8 +36,8 @@ created 2015-11-15, last commit 2018-09-07, main language C++
 [https://getmonero.org](https://getmonero.org)  
 [https://github.com/monero-project/monero-site](https://github.com/monero-project/monero-site)  
 0.43 stars per week over 351 weeks  
-151 stars, 320 forks, 42 watches  
-created 2015-01-02, last commit 2021-09-20, main language CSS  
+152 stars, 320 forks, 42 watches  
+created 2015-01-02, last commit 2021-09-29, main language CSS  
 
 
 ### [research-lab](https://github.com/monero-project/research-lab) by [monero-project](https://github.com/monero-project)  
@@ -51,7 +51,7 @@ created 2015-11-02, last commit 2018-06-19, main language TeX
 ### [kastelo](https://github.com/monero-project/kastelo) by [monero-project](https://github.com/monero-project)  
 The Sekura Monero Hardware Wallet  
 [https://github.com/monero-project/kastelo](https://github.com/monero-project/kastelo)  
-0.47 stars per week over 205 weeks  
+0.47 stars per week over 206 weeks  
 96 stars, 25 forks, 21 watches  
 created 2017-10-18, last commit 2020-01-28, main language G-code  
 
@@ -80,6 +80,6 @@ A Python reimplementation of the one-time ring signatures as found in Monero
 created 2014-09-28, last commit 2016-05-08, main language Python  
 
 
-This file was automatically generated on 2021-09-28.  
+This file was automatically generated on 2021-09-29.  
 
 To curate your own github list, simply clone and change the input csv file.  

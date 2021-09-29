@@ -16,7 +16,7 @@ created 2018-06-26, last commit 2020-10-04, main language Solidity
 ### [contracts](https://github.com/enjin/contracts) by [enjin](https://github.com/enjin)  
 Enjin Coin Contracts  
 [https://github.com/enjin/contracts](https://github.com/enjin/contracts)  
-0.27 stars per week over 213 weeks  
+0.27 stars per week over 214 weeks  
 58 stars, 22 forks, 20 watches  
 created 2017-08-23, last commit 2017-11-02, main language JavaScript  
 
@@ -26,11 +26,11 @@ Minecraft plugin for integration with the Enjin Platform.
 [https://enjin.io/](https://enjin.io/)  
 [https://github.com/enjin/enjincraft](https://github.com/enjin/enjincraft)  
 0.18 stars per week over 190 weeks  
-34 stars, 10 forks, 14 watches  
+34 stars, 11 forks, 14 watches  
 created 2018-02-05, last commit 2021-05-31, main language Java  
 <sub><sup>enjin-coin-platform, enjin-platform, ethereum, gaming, minecraft, minecraft-plugin</sup></sub>
 
 
-This file was automatically generated on 2021-09-28.  
+This file was automatically generated on 2021-09-29.  
 
 To curate your own github list, simply clone and change the input csv file.  

@@ -10,7 +10,7 @@ Qtum Core Wallet
 [https://qtum.org](https://qtum.org)  
 [https://github.com/qtumproject/qtum](https://github.com/qtumproject/qtum)  
 4.69 stars per week over 238 weeks  
-1,120 stars, 350 forks, 194 watches  
+1,120 stars, 351 forks, 194 watches  
 created 2017-03-03, last commit 2021-06-17, main language C++  
 <sub><sup>bitcoin, c-plus-plus, cryptocurrency, cryptography, ethereum, p2p, qtum</sup></sub>
 
@@ -50,7 +50,7 @@ created 2017-11-16, last commit 2020-11-13, main language TypeScript
 ### [qtumbook](https://github.com/qtumproject/qtumbook) by [qtumproject](https://github.com/qtumproject)  
 Developer's Guide to QTUM  
 [https://github.com/qtumproject/qtumbook](https://github.com/qtumproject/qtumbook)  
-0.15 stars per week over 197 weeks  
+0.15 stars per week over 198 weeks  
 30 stars, 23 forks, 11 watches  
 created 2017-12-13, last commit 2019-08-29, main language None  
 
@@ -58,7 +58,7 @@ created 2017-12-13, last commit 2019-08-29, main language None
 ### [qtum-android](https://github.com/qtumproject/qtum-android) by [qtumproject](https://github.com/qtumproject)  
   
 [https://github.com/qtumproject/qtum-android](https://github.com/qtumproject/qtum-android)  
-0.11 stars per week over 244 weeks  
+0.11 stars per week over 245 weeks  
 28 stars, 50 forks, 13 watches  
 created 2017-01-18, last commit 2018-10-04, main language Java  
 
@@ -66,7 +66,7 @@ created 2017-01-18, last commit 2018-10-04, main language Java
 ### [qtum-ios](https://github.com/qtumproject/qtum-ios) by [qtumproject](https://github.com/qtumproject)  
   
 [https://github.com/qtumproject/qtum-ios](https://github.com/qtumproject/qtum-ios)  
-0.11 stars per week over 244 weeks  
+0.11 stars per week over 245 weeks  
 26 stars, 36 forks, 9 watches  
 created 2017-01-18, last commit 2018-10-04, main language Objective-C  
 
@@ -81,6 +81,6 @@ created 2017-09-18, last commit 2021-09-28, main language Vue
 <sub><sup>qtum, qtumwallet, wallet, webwallet</sup></sub>
 
 
-This file was automatically generated on 2021-09-28.  
+This file was automatically generated on 2021-09-29.  
 
 To curate your own github list, simply clone and change the input csv file.  

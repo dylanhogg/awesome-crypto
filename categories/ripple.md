@@ -9,8 +9,8 @@ Checkout the interactive version that you can filter and sort:
 Decentralized cryptocurrency blockchain daemon implementing the XRP Ledger in C++  
 [https://xrpl.org](https://xrpl.org)  
 [https://github.com/ripple/rippled](https://github.com/ripple/rippled)  
-7.65 stars per week over 516 weeks  
-3,946 stars, 1,265 forks, 511 watches  
+7.64 stars per week over 516 weeks  
+3,946 stars, 1,264 forks, 511 watches  
 created 2011-11-07, last commit 2021-09-13, main language C++  
 <sub><sup>blockchain, c-plus-plus, cplusplus, cryptography, xrp, xrp-ledger, xrpl</sup></sub>
 
@@ -18,7 +18,7 @@ created 2011-11-07, last commit 2021-09-13, main language C++
 ### [ripple-client](https://github.com/ripple/ripple-client) by [ripple](https://github.com/ripple)  
 A UI for the Ripple payment network built using web technologies  
 [https://github.com/ripple/ripple-client](https://github.com/ripple/ripple-client)  
-2.87 stars per week over 467 weeks  
+2.86 stars per week over 467 weeks  
 1,338 stars, 535 forks, 715 watches  
 created 2012-10-16, last commit 2018-01-08, main language JavaScript  
 
@@ -50,7 +50,7 @@ created 2014-07-24, last commit 2021-05-12, main language JavaScript
 ### [ripple-rest](https://github.com/ripple/ripple-rest) by [ripple](https://github.com/ripple)  
 A RESTful API for submitting payments and monitoring accounts on the Ripple Network  
 [https://github.com/ripple/ripple-rest](https://github.com/ripple/ripple-rest)  
-0.21 stars per week over 398 weeks  
+0.21 stars per week over 399 weeks  
 84 stars, 92 forks, 27 watches  
 created 2014-02-05, last commit 2015-11-19, main language JavaScript  
 
@@ -58,7 +58,7 @@ created 2014-02-05, last commit 2015-11-19, main language JavaScript
 ### [ripple-keypairs](https://github.com/ripple/ripple-keypairs) by [ripple](https://github.com/ripple)  
 Generate and use keypairs and addresses for the XRP Ledger using elliptic (JS)  
 [https://github.com/ripple/ripple-keypairs](https://github.com/ripple/ripple-keypairs)  
-0.2 stars per week over 327 weeks  
+0.2 stars per week over 328 weeks  
 65 stars, 61 forks, 17 watches  
 created 2015-06-17, last commit 2021-09-21, main language JavaScript  
 <sub><sup>ripple, xrp, xrp-ledger, xrpl</sup></sub>
@@ -76,7 +76,7 @@ created 2017-02-17, last commit 2021-08-06, main language Python
 ### [ripple-data-api](https://github.com/ripple/ripple-data-api) by [ripple](https://github.com/ripple)  
 Ripplecharts API (DEPRECATED)  
 [https://github.com/ripple/ripple-data-api](https://github.com/ripple/ripple-data-api)  
-0.12 stars per week over 395 weeks  
+0.12 stars per week over 396 weeks  
 47 stars, 40 forks, 31 watches  
 created 2014-02-26, last commit 2015-10-26, main language JavaScript  
 
@@ -85,11 +85,11 @@ created 2014-02-26, last commit 2015-10-26, main language JavaScript
 Server for storing persistent data for Ripple clients  
 [https://ripple.com/wiki/Blobvault](https://ripple.com/wiki/Blobvault)  
 [https://github.com/ripple/ripple-blobvault](https://github.com/ripple/ripple-blobvault)  
-0.08 stars per week over 466 weeks  
+0.08 stars per week over 467 weeks  
 36 stars, 41 forks, 29 watches  
 created 2012-10-17, last commit 2016-04-01, main language JavaScript  
 
 
-This file was automatically generated on 2021-09-28.  
+This file was automatically generated on 2021-09-29.  
 
 To curate your own github list, simply clone and change the input csv file.  

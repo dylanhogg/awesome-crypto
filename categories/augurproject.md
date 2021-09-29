@@ -45,7 +45,7 @@ created 2018-05-04, last commit 2019-11-14, main language JavaScript
 ### [augur.js](https://github.com/AugurProject/augur.js) by [AugurProject](https://github.com/AugurProject)  
 Augur JavaScript API  
 [https://github.com/AugurProject/augur.js](https://github.com/AugurProject/augur.js)  
-0.38 stars per week over 336 weeks  
+0.38 stars per week over 337 weeks  
 129 stars, 36 forks, 38 watches  
 created 2015-04-15, last commit 2020-01-22, main language JavaScript  
 <sub><sup>api, dapp, ethereum, javascript</sup></sub>
@@ -77,15 +77,6 @@ Legacy Augur V1 Documentation
 created 2015-06-29, last commit 2019-10-29, main language JavaScript  
 
 
-### [react-blockies](https://github.com/AugurProject/react-blockies) by [AugurProject](https://github.com/AugurProject)  
-React Component for Generating Identicons Congruent to Ethereum Wallet’s Identicons  
-[https://github.com/AugurProject/react-blockies](https://github.com/AugurProject/react-blockies)  
-0.11 stars per week over 222 weeks  
-25 stars, 8 forks, 19 watches  
-created 2017-06-21, last commit 2017-10-26, main language JavaScript  
-<sub><sup>blockies, ethereum, identicon, react</sup></sub>
-
-
 ### [ethereum-nodes](https://github.com/AugurProject/ethereum-nodes) by [AugurProject](https://github.com/AugurProject)  
 Docker images for geth and Parity  
 [https://github.com/AugurProject/ethereum-nodes](https://github.com/AugurProject/ethereum-nodes)  
@@ -94,6 +85,15 @@ Docker images for geth and Parity
 created 2017-10-26, last commit 2019-05-10, main language Shell  
 
 
-This file was automatically generated on 2021-09-28.  
+### [react-blockies](https://github.com/AugurProject/react-blockies) by [AugurProject](https://github.com/AugurProject)  
+React Component for Generating Identicons Congruent to Ethereum Wallet’s Identicons  
+[https://github.com/AugurProject/react-blockies](https://github.com/AugurProject/react-blockies)  
+0.11 stars per week over 223 weeks  
+25 stars, 8 forks, 19 watches  
+created 2017-06-21, last commit 2017-10-26, main language JavaScript  
+<sub><sup>blockies, ethereum, identicon, react</sup></sub>
+
+
+This file was automatically generated on 2021-09-29.  
 
 To curate your own github list, simply clone and change the input csv file.  

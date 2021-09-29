@@ -9,14 +9,14 @@ Checkout the interactive version that you can filter and sort:
 Internet Computer blockchain source: the client/replica software run by nodes  
 [https://github.com/dfinity/ic](https://github.com/dfinity/ic)  
 36 stars per week over 20 weeks  
-737 stars, 71 forks, 50 watches  
+737 stars, 72 forks, 50 watches  
 created 2021-05-09, last commit 2021-09-16, main language Rust  
 
 
 ### [motoko-base](https://github.com/dfinity/motoko-base) by [dfinity](https://github.com/dfinity)  
 The Motoko base library  
 [https://github.com/dfinity/motoko-base](https://github.com/dfinity/motoko-base)  
-4.12 stars per week over 76 weeks  
+4.11 stars per week over 76 weeks  
 313 stars, 30 forks, 31 watches  
 created 2020-04-14, last commit 2021-09-24, main language Modelica  
 
@@ -24,8 +24,8 @@ created 2020-04-14, last commit 2021-09-24, main language Modelica
 ### [awesome-dfinity](https://github.com/dfinity/awesome-dfinity) by [dfinity](https://github.com/dfinity)  
 A curated list of awesome projects and resources relating to DFINITY and the Internet Computer  
 [https://github.com/dfinity/awesome-dfinity](https://github.com/dfinity/awesome-dfinity)  
-4.3 stars per week over 65 weeks  
-282 stars, 31 forks, 38 watches  
+4.31 stars per week over 65 weeks  
+283 stars, 31 forks, 38 watches  
 created 2020-06-26, last commit 2021-08-02, main language None  
 
 
@@ -43,7 +43,7 @@ created 2021-05-06, last commit 2021-06-07, main language TypeScript
 Example applications, microservices, and code samples for the Internet Computer  
 [https://dfinity.org](https://dfinity.org)  
 [https://github.com/dfinity/examples](https://github.com/dfinity/examples)  
-2.06 stars per week over 86 weeks  
+2.05 stars per week over 86 weeks  
 178 stars, 74 forks, 25 watches  
 created 2020-01-31, last commit 2021-08-17, main language JavaScript  
 
@@ -60,14 +60,14 @@ created 2020-05-04, last commit 2021-09-27, main language Rust
 Simple high-level language for writing Internet Computer canisters  
 [https://github.com/dfinity/motoko](https://github.com/dfinity/motoko)  
 0.78 stars per week over 176 weeks  
-138 stars, 12 forks, 16 watches  
+137 stars, 13 forks, 16 watches  
 created 2018-05-11, last commit 2021-09-28, main language OCaml  
 
 
 ### [internet-identity](https://github.com/dfinity/internet-identity) by [dfinity](https://github.com/dfinity)  
 Internet Identity, a blockchain authentication system for the Internet Computer  
 [https://github.com/dfinity/internet-identity](https://github.com/dfinity/internet-identity)  
-5.45 stars per week over 24 weeks  
+5.42 stars per week over 24 weeks  
 134 stars, 26 forks, 46 watches  
 created 2021-04-09, last commit 2021-09-24, main language TypeScript  
 
@@ -120,9 +120,9 @@ created 2020-03-17, last commit 2021-06-10, main language Rust
 ### [agent-js](https://github.com/dfinity/agent-js) by [dfinity](https://github.com/dfinity)  
 A collection of libraries and tools for building software around the Internet Computer, in JavaScript.  
 [https://github.com/dfinity/agent-js](https://github.com/dfinity/agent-js)  
-0.84 stars per week over 56 weeks  
-48 stars, 22 forks, 15 watches  
-created 2020-08-26, last commit 2021-09-10, main language TypeScript  
+0.86 stars per week over 57 weeks  
+49 stars, 23 forks, 15 watches  
+created 2020-08-26, last commit 2021-09-28, main language TypeScript  
 
 
 ### [keysmith](https://github.com/dfinity/keysmith) by [dfinity](https://github.com/dfinity)  
@@ -137,7 +137,7 @@ created 2021-03-21, last commit 2021-09-27, main language Shell
 ### [rosetta-client](https://github.com/dfinity/rosetta-client) by [dfinity](https://github.com/dfinity)  
   
 [https://github.com/dfinity/rosetta-client](https://github.com/dfinity/rosetta-client)  
-0.91 stars per week over 32 weeks  
+0.9 stars per week over 32 weeks  
 29 stars, 7 forks, 23 watches  
 created 2021-02-16, last commit 2021-08-13, main language JavaScript  
 
@@ -148,13 +148,13 @@ The DFINITY Canister Software Development Kit (SDK)
 [https://github.com/dfinity/sdk](https://github.com/dfinity/sdk)  
 0.25 stars per week over 114 weeks  
 28 stars, 4 forks, 29 watches  
-created 2019-07-23, last commit 2021-09-25, main language Rust  
+created 2019-07-23, last commit 2021-09-28, main language Rust  
 
 
 ### [quill](https://github.com/dfinity/quill) by [dfinity](https://github.com/dfinity)  
 Minimalistic governance & ledger toolkit for cold wallets  
 [https://github.com/dfinity/quill](https://github.com/dfinity/quill)  
-1.43 stars per week over 19 weeks  
+1.42 stars per week over 19 weeks  
 28 stars, 8 forks, 37 watches  
 created 2021-05-14, last commit 2021-09-27, main language Rust  
 
@@ -167,6 +167,6 @@ DFINITY Cycles Wallet
 created 2020-10-06, last commit 2021-09-03, main language TypeScript  
 
 
-This file was automatically generated on 2021-09-28.  
+This file was automatically generated on 2021-09-29.  
 
 To curate your own github list, simply clone and change the input csv file.  

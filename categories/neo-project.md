@@ -9,7 +9,7 @@ Checkout the interactive version that you can filter and sort:
 NEO Smart Economy  
 [https://github.com/neo-project/neo](https://github.com/neo-project/neo)  
 10 stars per week over 330 weeks  
-3,307 stars, 968 forks, 392 watches  
+3,308 stars, 968 forks, 393 watches  
 created 2015-05-31, last commit 2021-09-28, main language C#  
 <sub><sup>blockchain, neo</sup></sub>
 
@@ -17,7 +17,7 @@ created 2015-05-31, last commit 2021-09-28, main language C#
 ### [neo-gui-2.x](https://github.com/neo-project/neo-gui-2.x) by [neo-project](https://github.com/neo-project)  
   
 [https://github.com/neo-project/neo-gui-2.x](https://github.com/neo-project/neo-gui-2.x)  
-0.93 stars per week over 256 weeks  
+0.93 stars per week over 257 weeks  
 238 stars, 175 forks, 73 watches  
 created 2016-10-26, last commit 2020-09-27, main language C#  
 <sub><sup>neo</sup></sub>
@@ -27,8 +27,8 @@ created 2016-10-26, last commit 2020-09-27, main language C#
   
 [https://github.com/neo-project/neo-node](https://github.com/neo-project/neo-node)  
 0.93 stars per week over 219 weeks  
-205 stars, 221 forks, 47 watches  
-created 2017-07-13, last commit 2021-09-16, main language C#  
+205 stars, 222 forks, 47 watches  
+created 2017-07-13, last commit 2021-09-29, main language C#  
 <sub><sup>neo</sup></sub>
 
 
@@ -63,7 +63,7 @@ created 2017-05-12, last commit 2021-06-29, main language C#
 ### [proposals](https://github.com/neo-project/proposals) by [neo-project](https://github.com/neo-project)  
 NEO Enhancement Proposals  
 [https://github.com/neo-project/proposals](https://github.com/neo-project/proposals)  
-0.59 stars per week over 216 weeks  
+0.59 stars per week over 217 weeks  
 128 stars, 114 forks, 38 watches  
 created 2017-08-02, last commit 2021-07-30, main language None  
 <sub><sup>neo</sup></sub>
@@ -72,7 +72,7 @@ created 2017-08-02, last commit 2021-07-30, main language None
 ### [neo-devpack-dotnet](https://github.com/neo-project/neo-devpack-dotnet) by [neo-project](https://github.com/neo-project)  
 NEO Development Pack  
 [https://github.com/neo-project/neo-devpack-dotnet](https://github.com/neo-project/neo-devpack-dotnet)  
-0.27 stars per week over 247 weeks  
+0.27 stars per week over 248 weeks  
 66 stars, 87 forks, 39 watches  
 created 2016-12-28, last commit 2021-09-28, main language C#  
 <sub><sup>neo</sup></sub>
@@ -93,19 +93,19 @@ created 2017-07-18, last commit 2021-09-06, main language JavaScript
 [https://github.com/neo-project/neo-modules](https://github.com/neo-project/neo-modules)  
 0.25 stars per week over 169 weeks  
 43 stars, 87 forks, 32 watches  
-created 2018-06-29, last commit 2021-09-28, main language C#  
+created 2018-06-29, last commit 2021-09-29, main language C#  
 <sub><sup>neo</sup></sub>
 
 
 ### [neo-devpack-java](https://github.com/neo-project/neo-devpack-java) by [neo-project](https://github.com/neo-project)  
   
 [https://github.com/neo-project/neo-devpack-java](https://github.com/neo-project/neo-devpack-java)  
-0.13 stars per week over 213 weeks  
+0.13 stars per week over 214 weeks  
 28 stars, 21 forks, 20 watches  
 created 2017-08-23, last commit 2018-03-26, main language Java  
 <sub><sup>neo</sup></sub>
 
 
-This file was automatically generated on 2021-09-28.  
+This file was automatically generated on 2021-09-29.  
 
 To curate your own github list, simply clone and change the input csv file.  
