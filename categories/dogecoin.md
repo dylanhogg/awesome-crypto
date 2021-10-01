@@ -8,16 +8,16 @@ Checkout the interactive version that you can filter and sort:
 ### [dogecoin](https://github.com/dogecoin/dogecoin)  
 very currency  
 [https://github.com/dogecoin/dogecoin](https://github.com/dogecoin/dogecoin)  
-31 stars per week over 407 weeks  
-13,003 stars, 2,302 forks, 861 watches  
+31 stars per week over 408 weeks  
+13,003 stars, 2,301 forks, 860 watches  
 created 2013-12-06, last commit 2021-08-20, main language C++  
 
 
 ### [dogecoin.com](https://github.com/dogecoin/dogecoin.com) by [dogecoin](https://github.com/dogecoin)  
 official repo for dogecoin.com  
 [https://github.com/dogecoin/dogecoin.com](https://github.com/dogecoin/dogecoin.com)  
-1.03 stars per week over 403 weeks  
-414 stars, 198 forks, 78 watches  
+1.03 stars per week over 404 weeks  
+417 stars, 199 forks, 80 watches  
 created 2014-01-03, last commit 2021-09-20, main language HTML  
 
 
@@ -38,6 +38,6 @@ Dogecoin Improvement Proposals
 created 2014-04-12, last commit 2014-06-30, main language None  
 
 
-This file was automatically generated on 2021-09-29.  
+This file was automatically generated on 2021-10-01.  
 
 To curate your own github list, simply clone and change the input csv file.  

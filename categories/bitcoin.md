@@ -10,8 +10,8 @@ Bitcoin Core integration/staging tree
 [https://bitcoincore.org/en/download](https://bitcoincore.org/en/download)  
 [https://github.com/bitcoin/bitcoin](https://github.com/bitcoin/bitcoin)  
 101 stars per week over 562 weeks  
-57,280 stars, 30,017 forks, 3,844 watches  
-created 2010-12-19, last commit 2021-09-29, main language C++  
+57,327 stars, 30,048 forks, 3,846 watches  
+created 2010-12-19, last commit 2021-10-01, main language C++  
 <sub><sup>bitcoin, c-plus-plus, cryptocurrency, cryptography, p2p</sup></sub>
 
 
@@ -19,15 +19,15 @@ created 2010-12-19, last commit 2021-09-29, main language C++
 Bitcoin Improvement Proposals  
 [https://github.com/bitcoin/bips](https://github.com/bitcoin/bips)  
 13 stars per week over 410 weeks  
-5,669 stars, 3,752 forks, 709 watches  
-created 2013-11-19, last commit 2021-08-31, main language Python  
+5,674 stars, 3,758 forks, 707 watches  
+created 2013-11-19, last commit 2021-09-29, main language Python  
 
 
 ### [libbase58](https://github.com/bitcoin/libbase58) by [bitcoin](https://github.com/bitcoin)  
 C library for Bitcoin's base58 encoding  
 [https://github.com/bitcoin/libbase58](https://github.com/bitcoin/libbase58)  
 0.36 stars per week over 370 weeks  
-134 stars, 135 forks, 39 watches  
+134 stars, 136 forks, 39 watches  
 created 2014-08-26, last commit 2020-10-02, main language C  
 
 
@@ -39,6 +39,6 @@ MIT-licensed C implementation of getblocktemplate
 created 2015-03-10, last commit 2018-02-19, main language C  
 
 
-This file was automatically generated on 2021-09-29.  
+This file was automatically generated on 2021-10-01.  
 
 To curate your own github list, simply clone and change the input csv file.  

@@ -9,8 +9,8 @@ Checkout the interactive version that you can filter and sort:
 Qtum Core Wallet  
 [https://qtum.org](https://qtum.org)  
 [https://github.com/qtumproject/qtum](https://github.com/qtumproject/qtum)  
-4.69 stars per week over 238 weeks  
-1,120 stars, 351 forks, 194 watches  
+4.69 stars per week over 239 weeks  
+1,120 stars, 352 forks, 194 watches  
 created 2017-03-03, last commit 2021-06-17, main language C++  
 <sub><sup>bitcoin, c-plus-plus, cryptocurrency, cryptography, ethereum, p2p, qtum</sup></sub>
 
@@ -42,7 +42,7 @@ created 2017-11-21, last commit 2020-10-10, main language Go
 ### [qtumjs](https://github.com/qtumproject/qtumjs) by [qtumproject](https://github.com/qtumproject)  
 Qtum DApp JavaScript Library  
 [https://github.com/qtumproject/qtumjs](https://github.com/qtumproject/qtumjs)  
-0.23 stars per week over 201 weeks  
+0.23 stars per week over 202 weeks  
 47 stars, 35 forks, 11 watches  
 created 2017-11-16, last commit 2020-11-13, main language TypeScript  
 
@@ -81,6 +81,6 @@ created 2017-09-18, last commit 2021-09-28, main language Vue
 <sub><sup>qtum, qtumwallet, wallet, webwallet</sup></sub>
 
 
-This file was automatically generated on 2021-09-29.  
+This file was automatically generated on 2021-10-01.  
 
 To curate your own github list, simply clone and change the input csv file.  

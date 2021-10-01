@@ -8,16 +8,16 @@ Checkout the interactive version that you can filter and sort:
 ### [ethereumjs-monorepo](https://github.com/ethereumjs/ethereumjs-monorepo) by [ethereumjs](https://github.com/ethereumjs)  
 Monorepo for the Ethereum VM TypeScript Implementation  
 [https://github.com/ethereumjs/ethereumjs-monorepo](https://github.com/ethereumjs/ethereumjs-monorepo)  
-3.59 stars per week over 324 weeks  
-1,165 stars, 377 forks, 52 watches  
-created 2015-07-10, last commit 2021-09-28, main language TypeScript  
+3.62 stars per week over 325 weeks  
+1,175 stars, 376 forks, 53 watches  
+created 2015-07-10, last commit 2021-09-30, main language TypeScript  
 <sub><sup>bytecode, ethereum, ethereumjs, evm, javascript, monorepo, typescript, virtual-machine, vm</sup></sub>
 
 
 ### [ethereumjs-wallet](https://github.com/ethereumjs/ethereumjs-wallet) by [ethereumjs](https://github.com/ethereumjs)  
 Utilities for handling Ethereum keys  
 [https://github.com/ethereumjs/ethereumjs-wallet](https://github.com/ethereumjs/ethereumjs-wallet)  
-2.52 stars per week over 292 weeks  
+2.51 stars per week over 292 weeks  
 735 stars, 237 forks, 35 watches  
 created 2016-02-23, last commit 2021-08-17, main language TypeScript  
 <sub><sup>ethereum, ethereumjs-wallet, hd-wallet, wallet</sup></sub>
@@ -27,8 +27,8 @@ created 2016-02-23, last commit 2021-08-17, main language TypeScript
 Project is in active development and has been moved to the EthereumJS VM monorepo.  
 [https://github.com/ethereumjs/ethereumjs-vm/tree/master/packages/tx](https://github.com/ethereumjs/ethereumjs-vm/tree/master/packages/tx)  
 [https://github.com/ethereumjs/ethereumjs-tx](https://github.com/ethereumjs/ethereumjs-tx)  
-2.19 stars per week over 329 weeks  
-723 stars, 237 forks, 58 watches  
+2.19 stars per week over 330 weeks  
+724 stars, 237 forks, 58 watches  
 created 2015-06-05, last commit 2020-04-06, main language TypeScript  
 <sub><sup>ethereum, transactions</sup></sub>
 
@@ -38,7 +38,7 @@ Project is in active development and has been moved to the EthereumJS monorepo.
 [https://github.com/ethereumjs/ethereumjs-monorepo](https://github.com/ethereumjs/ethereumjs-monorepo)  
 [https://github.com/ethereumjs/ethereumjs-util](https://github.com/ethereumjs/ethereumjs-util)  
 1.61 stars per week over 348 weeks  
-561 stars, 267 forks, 36 watches  
+562 stars, 268 forks, 36 watches  
 created 2015-01-25, last commit 2021-06-17, main language TypeScript  
 <sub><sup>address, buffer, ethereum, ethereumjs, hash, hex, javascript, signature, utilities, utils</sup></sub>
 
@@ -72,7 +72,7 @@ created 2014-05-14, last commit 2021-01-19, main language TypeScript
 ### [ethereumjs-abi](https://github.com/ethereumjs/ethereumjs-abi) by [ethereumjs](https://github.com/ethereumjs)  
 [DEPRECATED] Decoder and encoder for the Ethereum ABI  
 [https://github.com/ethereumjs/ethereumjs-abi](https://github.com/ethereumjs/ethereumjs-abi)  
-0.8 stars per week over 305 weeks  
+0.8 stars per week over 306 weeks  
 246 stars, 119 forks, 11 watches  
 created 2015-11-19, last commit 2021-05-21, main language JavaScript  
 <sub><sup>abi, ethereum, json, rpc, solidity</sup></sub>
@@ -144,7 +144,7 @@ created 2016-03-20, last commit 2020-12-10, main language JavaScript
 ### [helpeth](https://github.com/ethereumjs/helpeth) by [ethereumjs](https://github.com/ethereumjs)  
 Help (with) Ethereum. Purists' commandline tool for key and transaction management.  
 [https://github.com/ethereumjs/helpeth](https://github.com/ethereumjs/helpeth)  
-0.2 stars per week over 288 weeks  
+0.2 stars per week over 289 weeks  
 57 stars, 15 forks, 25 watches  
 created 2016-03-17, last commit 2018-12-13, main language JavaScript  
 <sub><sup>command-line, ethereumjs, shell</sup></sub>
@@ -153,7 +153,7 @@ created 2016-03-17, last commit 2018-12-13, main language JavaScript
 ### [node-blockchain-server](https://github.com/ethereumjs/node-blockchain-server) by [ethereumjs](https://github.com/ethereumjs)  
 [DEPRECATED] A simple blockchain server (downloads block and serves them, doesn't do state transitions)  
 [https://github.com/ethereumjs/node-blockchain-server](https://github.com/ethereumjs/node-blockchain-server)  
-0.18 stars per week over 315 weeks  
+0.18 stars per week over 316 weeks  
 56 stars, 27 forks, 35 watches  
 created 2015-09-11, last commit 2018-03-19, main language None  
 
@@ -161,7 +161,7 @@ created 2015-09-11, last commit 2018-03-19, main language None
 ### [ethashjs](https://github.com/ethereumjs/ethashjs) by [ethereumjs](https://github.com/ethereumjs)  
 Project is in active development and has been moved to the EthereumJS VM monorepo.  
 [https://github.com/ethereumjs/ethashjs](https://github.com/ethereumjs/ethashjs)  
-0.17 stars per week over 324 weeks  
+0.17 stars per week over 325 weeks  
 54 stars, 26 forks, 30 watches  
 created 2015-07-10, last commit 2020-12-10, main language JavaScript  
 <sub><sup>ethash, ethereum, pow, proof-of-work</sup></sub>
@@ -171,7 +171,7 @@ created 2015-07-10, last commit 2020-12-10, main language JavaScript
 Project is in active development and has been moved to the EthereumJS VM monorepo.  
 [https://github.com/ethereumjs/ethereumjs-vm/tree/master/packages/account](https://github.com/ethereumjs/ethereumjs-vm/tree/master/packages/account)  
 [https://github.com/ethereumjs/ethereumjs-account](https://github.com/ethereumjs/ethereumjs-account)  
-0.14 stars per week over 324 weeks  
+0.14 stars per week over 325 weeks  
 45 stars, 32 forks, 24 watches  
 created 2015-07-10, last commit 2020-11-04, main language TypeScript  
 <sub><sup>account, ethereum, ethereumjs, schema</sup></sub>
@@ -197,7 +197,7 @@ created 2015-11-03, last commit 2017-09-02, main language JavaScript
 ### [ethereumjs-connect](https://github.com/ethereumjs/ethereumjs-connect) by [ethereumjs](https://github.com/ethereumjs)  
 [DEPRECATED] Basic Ethereum connection tasks  
 [https://github.com/ethereumjs/ethereumjs-connect](https://github.com/ethereumjs/ethereumjs-connect)  
-0.12 stars per week over 298 weeks  
+0.12 stars per week over 299 weeks  
 36 stars, 14 forks, 24 watches  
 created 2016-01-07, last commit 2018-03-06, main language JavaScript  
 
@@ -218,6 +218,6 @@ minimal rpc wrapper
 created 2016-06-28, last commit 2017-06-15, main language JavaScript  
 
 
-This file was automatically generated on 2021-09-29.  
+This file was automatically generated on 2021-10-01.  
 
 To curate your own github list, simply clone and change the input csv file.  

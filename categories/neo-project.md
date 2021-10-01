@@ -8,8 +8,8 @@ Checkout the interactive version that you can filter and sort:
 ### [neo](https://github.com/neo-project/neo) by [neo-project](https://github.com/neo-project)  
 NEO Smart Economy  
 [https://github.com/neo-project/neo](https://github.com/neo-project/neo)  
-10 stars per week over 330 weeks  
-3,308 stars, 968 forks, 393 watches  
+10.0 stars per week over 330 weeks  
+3,306 stars, 968 forks, 392 watches  
 created 2015-05-31, last commit 2021-09-28, main language C#  
 <sub><sup>blockchain, neo</sup></sub>
 
@@ -26,7 +26,7 @@ created 2016-10-26, last commit 2020-09-27, main language C#
 ### [neo-node](https://github.com/neo-project/neo-node) by [neo-project](https://github.com/neo-project)  
   
 [https://github.com/neo-project/neo-node](https://github.com/neo-project/neo-node)  
-0.93 stars per week over 219 weeks  
+0.93 stars per week over 220 weeks  
 205 stars, 222 forks, 47 watches  
 created 2017-07-13, last commit 2021-09-29, main language C#  
 <sub><sup>neo</sup></sub>
@@ -45,7 +45,7 @@ created 2017-05-02, last commit 2021-09-17, main language HTML
 ### [neo-vm](https://github.com/neo-project/neo-vm) by [neo-project](https://github.com/neo-project)  
 NEO Virtual Machine  
 [https://github.com/neo-project/neo-vm](https://github.com/neo-project/neo-vm)  
-0.64 stars per week over 261 weeks  
+0.64 stars per week over 262 weeks  
 168 stars, 136 forks, 48 watches  
 created 2016-09-22, last commit 2021-08-19, main language C#  
 <sub><sup>neo, virtual-machine</sup></sub>
@@ -54,7 +54,7 @@ created 2016-09-22, last commit 2021-08-19, main language C#
 ### [examples](https://github.com/neo-project/examples) by [neo-project](https://github.com/neo-project)  
   
 [https://github.com/neo-project/examples](https://github.com/neo-project/examples)  
-0.59 stars per week over 228 weeks  
+0.59 stars per week over 229 weeks  
 136 stars, 139 forks, 36 watches  
 created 2017-05-12, last commit 2021-06-29, main language C#  
 <sub><sup>neo</sup></sub>
@@ -91,7 +91,7 @@ created 2017-07-18, last commit 2021-09-06, main language JavaScript
 ### [neo-modules](https://github.com/neo-project/neo-modules) by [neo-project](https://github.com/neo-project)  
   
 [https://github.com/neo-project/neo-modules](https://github.com/neo-project/neo-modules)  
-0.25 stars per week over 169 weeks  
+0.25 stars per week over 170 weeks  
 43 stars, 87 forks, 32 watches  
 created 2018-06-29, last commit 2021-09-29, main language C#  
 <sub><sup>neo</sup></sub>
@@ -101,11 +101,11 @@ created 2018-06-29, last commit 2021-09-29, main language C#
   
 [https://github.com/neo-project/neo-devpack-java](https://github.com/neo-project/neo-devpack-java)  
 0.13 stars per week over 214 weeks  
-28 stars, 21 forks, 20 watches  
+28 stars, 20 forks, 20 watches  
 created 2017-08-23, last commit 2018-03-26, main language Java  
 <sub><sup>neo</sup></sub>
 
 
-This file was automatically generated on 2021-09-29.  
+This file was automatically generated on 2021-10-01.  
 
 To curate your own github list, simply clone and change the input csv file.  

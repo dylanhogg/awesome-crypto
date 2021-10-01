@@ -10,7 +10,7 @@ Monero: the secure, private, untraceable cryptocurrency
 [https://getmonero.org](https://getmonero.org)  
 [https://github.com/monero-project/monero](https://github.com/monero-project/monero)  
 16 stars per week over 387 weeks  
-6,238 stars, 3,070 forks, 490 watches  
+6,242 stars, 3,072 forks, 489 watches  
 created 2014-04-30, last commit 2021-09-24, main language C++  
 <sub><sup>blockchain, c-plus-plus, cmake, cryptocurrency, cryptography, cryptonote, monero, p2p, privacy, security</sup></sub>
 
@@ -19,7 +19,7 @@ created 2014-04-30, last commit 2021-09-24, main language C++
 Monero: the secure, private, untraceable cryptocurrency  
 [https://github.com/monero-project/monero-gui](https://github.com/monero-project/monero-gui)  
 2.62 stars per week over 339 weeks  
-888 stars, 642 forks, 91 watches  
+888 stars, 643 forks, 91 watches  
 created 2015-04-01, last commit 2021-09-24, main language C  
 
 
@@ -35,7 +35,7 @@ created 2015-11-15, last commit 2018-09-07, main language C++
   
 [https://getmonero.org](https://getmonero.org)  
 [https://github.com/monero-project/monero-site](https://github.com/monero-project/monero-site)  
-0.43 stars per week over 351 weeks  
+0.43 stars per week over 352 weeks  
 152 stars, 320 forks, 42 watches  
 created 2015-01-02, last commit 2021-09-29, main language CSS  
 
@@ -43,8 +43,8 @@ created 2015-01-02, last commit 2021-09-29, main language CSS
 ### [research-lab](https://github.com/monero-project/research-lab) by [monero-project](https://github.com/monero-project)  
 A general repo for Monero Research Lab work in progress and completed work  
 [https://github.com/monero-project/research-lab](https://github.com/monero-project/research-lab)  
-0.44 stars per week over 308 weeks  
-137 stars, 55 forks, 59 watches  
+0.45 stars per week over 308 weeks  
+138 stars, 55 forks, 59 watches  
 created 2015-11-02, last commit 2018-06-19, main language TeX  
 
 
@@ -80,6 +80,6 @@ A Python reimplementation of the one-time ring signatures as found in Monero
 created 2014-09-28, last commit 2016-05-08, main language Python  
 
 
-This file was automatically generated on 2021-09-29.  
+This file was automatically generated on 2021-10-01.  
 
 To curate your own github list, simply clone and change the input csv file.  

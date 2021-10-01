@@ -23,6 +23,6 @@ created 2019-10-22, last commit 2021-05-27, main language TypeScript
 <sub><sup>ethereum, gods-unchained, immutable, solidity, typescript</sup></sub>
 
 
-This file was automatically generated on 2021-09-29.  
+This file was automatically generated on 2021-10-01.  
 
 To curate your own github list, simply clone and change the input csv file.  

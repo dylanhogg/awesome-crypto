@@ -9,7 +9,7 @@ Checkout the interactive version that you can filter and sort:
 ERC-1155: Smart Contract Sample Implementation  
 [https://github.com/enjin/erc-1155](https://github.com/enjin/erc-1155)  
 1.54 stars per week over 170 weeks  
-262 stars, 139 forks, 35 watches  
+262 stars, 140 forks, 35 watches  
 created 2018-06-26, last commit 2020-10-04, main language Solidity  
 
 
@@ -31,6 +31,6 @@ created 2018-02-05, last commit 2021-05-31, main language Java
 <sub><sup>enjin-coin-platform, enjin-platform, ethereum, gaming, minecraft, minecraft-plugin</sup></sub>
 
 
-This file was automatically generated on 2021-09-29.  
+This file was automatically generated on 2021-10-01.  
 
 To curate your own github list, simply clone and change the input csv file.  

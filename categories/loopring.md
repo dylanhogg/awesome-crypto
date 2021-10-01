@@ -17,7 +17,7 @@ created 2020-02-11, last commit 2021-04-01, main language JavaScript
 This is the whitepaper for Loopring protocol 1.0, 1.5, and 2.0.  
 [https://loopring.org](https://loopring.org)  
 [https://github.com/Loopring/whitepaper](https://github.com/Loopring/whitepaper)  
-0.17 stars per week over 222 weeks  
+0.17 stars per week over 223 weeks  
 37 stars, 44 forks, 29 watches  
 created 2017-06-22, last commit 2018-09-09, main language TeX  
 
@@ -26,7 +26,7 @@ created 2017-06-22, last commit 2018-09-09, main language TeX
 ZKP Circuits code for Loopring Protocol 3.0  
 [https://loopring.org/#/protocol](https://loopring.org/#/protocol)  
 [https://github.com/Loopring/protocol3-circuits](https://github.com/Loopring/protocol3-circuits)  
-0.28 stars per week over 119 weeks  
+0.28 stars per week over 120 weeks  
 33 stars, 6 forks, 18 watches  
 created 2019-06-14, last commit 2020-05-05, main language C++  
 
@@ -43,7 +43,7 @@ created 2020-07-07, last commit 2021-02-09, main language Python
 ### [awesome-loopring](https://github.com/Loopring/awesome-loopring) by [Loopring](https://github.com/Loopring)  
 A curated list of awesome things built on Loopring.  
 [https://github.com/Loopring/awesome-loopring](https://github.com/Loopring/awesome-loopring)  
-0.51 stars per week over 55 weeks  
+0.5 stars per week over 55 weeks  
 28 stars, 3 forks, 9 watches  
 created 2020-09-07, last commit 2021-03-20, main language None  
 
@@ -58,6 +58,6 @@ created 2018-12-29, last commit 2021-09-18, main language Solidity
 <sub><sup>blockchain, dex, loopring, lrc, oedax, smartwallet, zero-knowledge, zkrollup, zksnarks</sup></sub>
 
 
-This file was automatically generated on 2021-09-29.  
+This file was automatically generated on 2021-10-01.  
 
 To curate your own github list, simply clone and change the input csv file.  

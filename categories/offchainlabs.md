@@ -9,16 +9,16 @@ Checkout the interactive version that you can filter and sort:
 Powers fast, private, decentralized applications  
 [https://offchainlabs.com/](https://offchainlabs.com/)  
 [https://github.com/OffchainLabs/arbitrum](https://github.com/OffchainLabs/arbitrum)  
-5.12 stars per week over 112 weeks  
-575 stars, 237 forks, 149 watches  
-created 2019-08-05, last commit 2021-09-28, main language Go  
+5.08 stars per week over 112 weeks  
+572 stars, 282 forks, 137 watches  
+created 2019-08-05, last commit 2021-09-30, main language Go  
 
 
 ### [arbitrum-tutorials](https://github.com/OffchainLabs/arbitrum-tutorials) by [OffchainLabs](https://github.com/OffchainLabs)  
 Get started developing on Arbitrum   
 [https://github.com/OffchainLabs/arbitrum-tutorials](https://github.com/OffchainLabs/arbitrum-tutorials)  
 7.0 stars per week over 8 weeks  
-58 stars, 16 forks, 6 watches  
+60 stars, 16 forks, 6 watches  
 created 2021-08-02, last commit 2021-09-03, main language JavaScript  
 
 
@@ -30,6 +30,6 @@ ArbOS operating system, to run at Layer 2 on Arbitrum chains.  Also a compiler f
 created 2020-03-11, last commit 2021-09-28, main language Rust  
 
 
-This file was automatically generated on 2021-09-29.  
+This file was automatically generated on 2021-10-01.  
 
 To curate your own github list, simply clone and change the input csv file.  

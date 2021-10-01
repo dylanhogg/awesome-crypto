@@ -8,8 +8,8 @@ Checkout the interactive version that you can filter and sort:
 ### [cardano-sl](https://github.com/input-output-hk/cardano-sl) by [input-output-hk](https://github.com/input-output-hk)  
 Cryptographic currency implementing Ouroboros PoS protocol  
 [https://github.com/input-output-hk/cardano-sl](https://github.com/input-output-hk/cardano-sl)  
-14 stars per week over 258 weeks  
-3,683 stars, 613 forks, 447 watches  
+14 stars per week over 259 weeks  
+3,687 stars, 613 forks, 447 watches  
 created 2016-10-14, last commit 2020-06-25, main language Haskell  
 <sub><sup>cryptocurrency, haskell, stake-blockchain-protocol</sup></sub>
 
@@ -18,17 +18,17 @@ created 2016-10-14, last commit 2020-06-25, main language Haskell
 The core component that is used to participate in a Cardano decentralised blockchain.  
 [https://cardano.org](https://cardano.org)  
 [https://github.com/input-output-hk/cardano-node](https://github.com/input-output-hk/cardano-node)  
-17 stars per week over 122 weeks  
-2,113 stars, 399 forks, 195 watches  
-created 2019-05-23, last commit 2021-09-29, main language Haskell  
+17 stars per week over 123 weeks  
+2,130 stars, 400 forks, 197 watches  
+created 2019-05-23, last commit 2021-09-30, main language Haskell  
 
 
 ### [plutus](https://github.com/input-output-hk/plutus) by [input-output-hk](https://github.com/input-output-hk)  
 The Plutus language implementation and tools  
 [https://github.com/input-output-hk/plutus](https://github.com/input-output-hk/plutus)  
-4.54 stars per week over 254 weeks  
-1,155 stars, 327 forks, 108 watches  
-created 2016-11-15, last commit 2021-09-28, main language Haskell  
+4.55 stars per week over 254 weeks  
+1,158 stars, 328 forks, 108 watches  
+created 2016-11-15, last commit 2021-09-30, main language Haskell  
 <sub><sup>blockchain, programming-language, smart-contracts</sup></sub>
 
 
@@ -36,8 +36,8 @@ created 2016-11-15, last commit 2021-09-28, main language Haskell
 The open source cryptocurrency wallet for ada, built to grow with the community  
 [https://daedaluswallet.io/](https://daedaluswallet.io/)  
 [https://github.com/input-output-hk/daedalus](https://github.com/input-output-hk/daedalus)  
-4.04 stars per week over 260 weeks  
-1,050 stars, 268 forks, 107 watches  
+4.05 stars per week over 260 weeks  
+1,054 stars, 268 forks, 107 watches  
 created 2016-10-05, last commit 2021-09-22, main language JavaScript  
 
 
@@ -45,24 +45,24 @@ created 2016-10-05, last commit 2021-09-22, main language JavaScript
   
 [https://github.com/input-output-hk/plutus-pioneer-program](https://github.com/input-output-hk/plutus-pioneer-program)  
 32 stars per week over 26 weeks  
-862 stars, 369 forks, 126 watches  
+865 stars, 370 forks, 127 watches  
 created 2021-03-30, last commit 2021-08-18, main language Haskell  
 
 
 ### [essential-cardano](https://github.com/input-output-hk/essential-cardano) by [input-output-hk](https://github.com/input-output-hk)  
 Repository for the Essential Cardano list  
 [https://github.com/input-output-hk/essential-cardano](https://github.com/input-output-hk/essential-cardano)  
-27 stars per week over 22 weeks  
-603 stars, 159 forks, 72 watches  
+26 stars per week over 22 weeks  
+605 stars, 164 forks, 72 watches  
 created 2021-04-27, last commit 2021-09-28, main language None  
 
 
 ### [cardano-wallet](https://github.com/input-output-hk/cardano-wallet) by [input-output-hk](https://github.com/input-output-hk)  
 HTTP server & command-line for managing UTxOs and HD wallets in Cardano.  
 [https://github.com/input-output-hk/cardano-wallet](https://github.com/input-output-hk/cardano-wallet)  
-3.82 stars per week over 134 weeks  
-515 stars, 124 forks, 55 watches  
-created 2019-03-01, last commit 2021-09-29, main language Haskell  
+3.84 stars per week over 135 weeks  
+518 stars, 125 forks, 55 watches  
+created 2019-03-01, last commit 2021-10-01, main language Haskell  
 
 
 ### [Scorex](https://github.com/input-output-hk/Scorex) by [input-output-hk](https://github.com/input-output-hk)  
@@ -77,9 +77,9 @@ created 2015-04-06, last commit 2017-08-27, main language JavaScript
 Alternative Haskell Infrastructure for Nixpkgs  
 [https://input-output-hk.github.io/haskell.nix](https://input-output-hk.github.io/haskell.nix)  
 [https://github.com/input-output-hk/haskell.nix](https://github.com/input-output-hk/haskell.nix)  
-1.9 stars per week over 179 weeks  
-342 stars, 138 forks, 23 watches  
-created 2018-04-20, last commit 2021-09-29, main language Nix  
+1.9 stars per week over 180 weeks  
+342 stars, 140 forks, 23 watches  
+created 2018-04-20, last commit 2021-10-01, main language Nix  
 <sub><sup>build-tool, hacktoberfest, haskell, infrastructure, nix, nix-expressions</sup></sub>
 
 
@@ -87,16 +87,16 @@ created 2018-04-20, last commit 2021-09-29, main language Nix
 aspiring blockchain node  
 [https://input-output-hk.github.io/jormungandr/](https://input-output-hk.github.io/jormungandr/)  
 [https://github.com/input-output-hk/jormungandr](https://github.com/input-output-hk/jormungandr)  
-2.13 stars per week over 156 weeks  
+2.12 stars per week over 156 weeks  
 332 stars, 142 forks, 51 watches  
-created 2018-10-03, last commit 2021-09-28, main language Rust  
+created 2018-10-03, last commit 2021-09-29, main language Rust  
 
 
 ### [rust-cardano](https://github.com/input-output-hk/rust-cardano) by [input-output-hk](https://github.com/input-output-hk)  
 rust client libraries to deal with the current cardano mainnet (byron / cardano-sl)  
 [https://github.com/input-output-hk/rust-cardano](https://github.com/input-output-hk/rust-cardano)  
 1.44 stars per week over 187 weeks  
-270 stars, 71 forks, 50 watches  
+270 stars, 72 forks, 50 watches  
 created 2018-02-28, last commit 2020-02-04, main language Rust  
 
 
@@ -120,8 +120,8 @@ created 2015-12-22, last commit 2021-08-31, main language Scala
 ### [lobster-challenge](https://github.com/input-output-hk/lobster-challenge) by [input-output-hk](https://github.com/input-output-hk)  
 Simple Plutus contract to help give Charles' stuffed lobster a name  
 [https://github.com/input-output-hk/lobster-challenge](https://github.com/input-output-hk/lobster-challenge)  
-64 stars per week over 2 weeks  
-175 stars, 62 forks, 12 watches  
+58 stars per week over 3 weeks  
+175 stars, 62 forks, 13 watches  
 created 2021-09-10, last commit 2021-09-25, main language Haskell  
 
 
@@ -130,14 +130,14 @@ An implementation of the Ouroboros family of consensus algorithms, with its netw
 [https://github.com/input-output-hk/ouroboros-network](https://github.com/input-output-hk/ouroboros-network)  
 1.09 stars per week over 158 weeks  
 172 stars, 49 forks, 50 watches  
-created 2018-09-19, last commit 2021-09-28, main language Haskell  
+created 2018-09-19, last commit 2021-09-29, main language Haskell  
 <sub><sup>blockchain, consensus, ouroboros</sup></sub>
 
 
 ### [cardano-graphql](https://github.com/input-output-hk/cardano-graphql) by [input-output-hk](https://github.com/input-output-hk)  
 GraphQL API for Cardano  
 [https://github.com/input-output-hk/cardano-graphql](https://github.com/input-output-hk/cardano-graphql)  
-1.1 stars per week over 152 weeks  
+1.1 stars per week over 153 weeks  
 168 stars, 62 forks, 34 watches  
 created 2018-10-25, last commit 2021-09-28, main language TypeScript  
 
@@ -146,8 +146,8 @@ created 2018-10-25, last commit 2021-09-28, main language TypeScript
 APIs & SDK for interacting with Cardano.   
 [https://input-output-hk.github.io/adrestia/](https://input-output-hk.github.io/adrestia/)  
 [https://github.com/input-output-hk/adrestia](https://github.com/input-output-hk/adrestia)  
-1.45 stars per week over 83 weeks  
-121 stars, 32 forks, 41 watches  
+1.45 stars per week over 84 weeks  
+122 stars, 33 forks, 41 watches  
 created 2020-02-21, last commit 2021-06-11, main language HTML  
 <sub><sup>api, cardano, client, explorer, integration, library, wallet</sup></sub>
 
@@ -155,51 +155,51 @@ created 2020-02-21, last commit 2021-06-11, main language HTML
 ### [marlowe](https://github.com/input-output-hk/marlowe) by [input-output-hk](https://github.com/input-output-hk)  
 Prototype implementation of domain-specific language for the design of smart-contracts over cryptocurrencies  
 [https://github.com/input-output-hk/marlowe](https://github.com/input-output-hk/marlowe)  
-0.57 stars per week over 213 weeks  
+0.57 stars per week over 214 weeks  
 121 stars, 36 forks, 26 watches  
 created 2017-08-24, last commit 2021-08-16, main language JavaScript  
+
+
+### [iohk-ops](https://github.com/input-output-hk/iohk-ops) by [input-output-hk](https://github.com/input-output-hk)  
+NixOps deployment configuration for IOHK devops  
+[https://github.com/input-output-hk/iohk-ops](https://github.com/input-output-hk/iohk-ops)  
+0.44 stars per week over 257 weeks  
+114 stars, 43 forks, 46 watches  
+created 2016-10-27, last commit 2020-02-19, main language Nix  
+<sub><sup>ami, nix, nixops, nixos</sup></sub>
 
 
 ### [cardano-ledger-specs](https://github.com/input-output-hk/cardano-ledger-specs) by [input-output-hk](https://github.com/input-output-hk)  
 A formal specification and executable model of the ledger rules introduced by the Shelley release  
 [https://github.com/input-output-hk/cardano-ledger-specs](https://github.com/input-output-hk/cardano-ledger-specs)  
 0.72 stars per week over 157 weeks  
-114 stars, 62 forks, 51 watches  
-created 2018-09-24, last commit 2021-09-24, main language Haskell  
+114 stars, 63 forks, 51 watches  
+created 2018-09-24, last commit 2021-09-30, main language Haskell  
 <sub><sup>ada, blockchain, cardano, cryptocurrency</sup></sub>
-
-
-### [iohk-ops](https://github.com/input-output-hk/iohk-ops) by [input-output-hk](https://github.com/input-output-hk)  
-NixOps deployment configuration for IOHK devops  
-[https://github.com/input-output-hk/iohk-ops](https://github.com/input-output-hk/iohk-ops)  
-0.44 stars per week over 256 weeks  
-114 stars, 43 forks, 46 watches  
-created 2016-10-27, last commit 2020-02-19, main language Nix  
-<sub><sup>ami, nix, nixops, nixos</sup></sub>
 
 
 ### [cardano-tutorials](https://github.com/input-output-hk/cardano-tutorials) by [input-output-hk](https://github.com/input-output-hk)  
 ARCHIVED-This content in this repository is now located at https://docs.cardano.org/projects/cardano-node/  
 [https://docs.cardano.org/projects/cardano-node/](https://docs.cardano.org/projects/cardano-node/)  
 [https://github.com/input-output-hk/cardano-tutorials](https://github.com/input-output-hk/cardano-tutorials)  
-1.41 stars per week over 80 weeks  
-113 stars, 115 forks, 40 watches  
+1.42 stars per week over 80 weeks  
+114 stars, 116 forks, 40 watches  
 created 2020-03-18, last commit 2020-07-14, main language Makefile  
 
 
 ### [cardano-db-sync](https://github.com/input-output-hk/cardano-db-sync) by [input-output-hk](https://github.com/input-output-hk)  
 A component that follows the Cardano chain and stores blocks and transactions in PostgreSQL  
 [https://github.com/input-output-hk/cardano-db-sync](https://github.com/input-output-hk/cardano-db-sync)  
-1.27 stars per week over 83 weeks  
-105 stars, 65 forks, 49 watches  
-created 2020-02-26, last commit 2021-09-29, main language Haskell  
+1.26 stars per week over 83 weeks  
+105 stars, 66 forks, 50 watches  
+created 2020-02-26, last commit 2021-10-01, main language Haskell  
 
 
 ### [symphony-2](https://github.com/input-output-hk/symphony-2) by [input-output-hk](https://github.com/input-output-hk)  
 Immersive 3D Blockchain Explorer  
 [https://symphony.iohk.io](https://symphony.iohk.io)  
 [https://github.com/input-output-hk/symphony-2](https://github.com/input-output-hk/symphony-2)  
-0.9 stars per week over 117 weeks  
+0.89 stars per week over 117 weeks  
 105 stars, 13 forks, 5 watches  
 created 2019-07-02, last commit 2020-07-02, main language JavaScript  
 
@@ -207,7 +207,7 @@ created 2019-07-02, last commit 2020-07-02, main language JavaScript
 ### [stack2nix](https://github.com/input-output-hk/stack2nix) by [input-output-hk](https://github.com/input-output-hk)  
 Generate nix expressions for Haskell projects  
 [https://github.com/input-output-hk/stack2nix](https://github.com/input-output-hk/stack2nix)  
-0.44 stars per week over 225 weeks  
+0.44 stars per week over 226 weeks  
 99 stars, 32 forks, 67 watches  
 created 2017-06-02, last commit 2021-03-28, main language Nix  
 <sub><sup>haskell, nix, stack, stackage</sup></sub>
@@ -225,7 +225,7 @@ created 2016-06-06, last commit 2017-12-06, main language Scala
 A starter project for Plutus apps  
 [https://github.com/input-output-hk/plutus-starter](https://github.com/input-output-hk/plutus-starter)  
 2.62 stars per week over 35 weeks  
-92 stars, 46 forks, 25 watches  
+93 stars, 47 forks, 26 watches  
 created 2021-01-26, last commit 2021-09-13, main language Nix  
 <sub><sup>cardano, plutus, template</sup></sub>
 
@@ -233,15 +233,15 @@ created 2021-01-26, last commit 2021-09-13, main language Nix
 ### [cardano-documentation](https://github.com/input-output-hk/cardano-documentation) by [input-output-hk](https://github.com/input-output-hk)  
   
 [https://github.com/input-output-hk/cardano-documentation](https://github.com/input-output-hk/cardano-documentation)  
-5.38 stars per week over 16 weeks  
-90 stars, 47 forks, 10 watches  
-created 2021-06-04, last commit 2021-09-28, main language JavaScript  
+5.47 stars per week over 17 weeks  
+93 stars, 47 forks, 10 watches  
+created 2021-06-04, last commit 2021-09-30, main language JavaScript  
 
 
 ### [nix-tools](https://github.com/input-output-hk/nix-tools) by [input-output-hk](https://github.com/input-output-hk)  
 Translate Cabals Generic Package Description to a Nix expression  
 [https://github.com/input-output-hk/nix-tools](https://github.com/input-output-hk/nix-tools)  
-0.47 stars per week over 181 weeks  
+0.47 stars per week over 182 weeks  
 85 stars, 26 forks, 16 watches  
 created 2018-04-06, last commit 2021-08-02, main language Haskell  
 <sub><sup>haskell, nix</sup></sub>
@@ -283,16 +283,16 @@ created 2017-02-25, last commit 2021-05-05, main language JavaScript
 ### [bitte](https://github.com/input-output-hk/bitte) by [input-output-hk](https://github.com/input-output-hk)  
 Nix Ops for Terraform, Consul, Vault, Nomad  
 [https://github.com/input-output-hk/bitte](https://github.com/input-output-hk/bitte)  
-1.01 stars per week over 64 weeks  
-65 stars, 7 forks, 13 watches  
-created 2020-07-06, last commit 2021-09-28, main language Nix  
+1.02 stars per week over 64 weeks  
+66 stars, 7 forks, 13 watches  
+created 2020-07-06, last commit 2021-09-30, main language Nix  
 
 
 ### [cardano-addresses](https://github.com/input-output-hk/cardano-addresses) by [input-output-hk](https://github.com/input-output-hk)  
 Addresses and mnemonic manipulation & derivations  
 [https://github.com/input-output-hk/cardano-addresses](https://github.com/input-output-hk/cardano-addresses)  
-0.76 stars per week over 83 weeks  
-64 stars, 19 forks, 20 watches  
+0.77 stars per week over 84 weeks  
+65 stars, 19 forks, 20 watches  
 created 2020-02-21, last commit 2021-09-13, main language Haskell  
 <sub><sup>address, cardano, hierarchical-deterministic-wallets, mnemonic</sup></sub>
 
@@ -300,8 +300,8 @@ created 2020-02-21, last commit 2021-09-13, main language Haskell
 ### [Alonzo-testnet](https://github.com/input-output-hk/Alonzo-testnet) by [input-output-hk](https://github.com/input-output-hk)  
 repository for the Alonzo testnet  
 [https://github.com/input-output-hk/Alonzo-testnet](https://github.com/input-output-hk/Alonzo-testnet)  
-3.74 stars per week over 16 weeks  
-63 stars, 57 forks, 23 watches  
+3.67 stars per week over 17 weeks  
+63 stars, 58 forks, 23 watches  
 created 2021-06-03, last commit 2021-09-14, main language Haskell  
 
 
@@ -324,7 +324,7 @@ created 2017-02-08, last commit 2021-05-18, main language C
 ### [nix-hs-hello-windows](https://github.com/input-output-hk/nix-hs-hello-windows) by [input-output-hk](https://github.com/input-output-hk)  
 Cross compiling Hello World (haskell) to Windows using nix.  
 [https://github.com/input-output-hk/nix-hs-hello-windows](https://github.com/input-output-hk/nix-hs-hello-windows)  
-0.31 stars per week over 186 weeks  
+0.3 stars per week over 187 weeks  
 57 stars, 2 forks, 4 watches  
 created 2018-03-02, last commit 2018-03-07, main language Nix  
 <sub><sup>nix</sup></sub>
@@ -341,7 +341,7 @@ created 2018-01-31, last commit 2019-08-30, main language JavaScript
 ### [cardano-ledger-byron](https://github.com/input-output-hk/cardano-ledger-byron) by [input-output-hk](https://github.com/input-output-hk)  
 A re-implementation of the Cardano ledger layer, replacing the Byron release  
 [https://github.com/input-output-hk/cardano-ledger-byron](https://github.com/input-output-hk/cardano-ledger-byron)  
-0.34 stars per week over 157 weeks  
+0.34 stars per week over 158 weeks  
 53 stars, 11 forks, 72 watches  
 created 2018-09-21, last commit 2020-05-19, main language Haskell  
 <sub><sup>ada, blockchain, cardano, cryptocurrency</sup></sub>
@@ -350,7 +350,7 @@ created 2018-09-21, last commit 2020-05-19, main language Haskell
 ### [cardano-rt-view](https://github.com/input-output-hk/cardano-rt-view) by [input-output-hk](https://github.com/input-output-hk)  
 RTView: real-time watching for Cardano nodes  
 [https://github.com/input-output-hk/cardano-rt-view](https://github.com/input-output-hk/cardano-rt-view)  
-1.0 stars per week over 53 weeks  
+0.99 stars per week over 53 weeks  
 53 stars, 10 forks, 14 watches  
 created 2020-09-22, last commit 2021-02-25, main language Haskell  
 
@@ -359,35 +359,51 @@ created 2020-09-22, last commit 2021-02-25, main language Haskell
 :construction: Work in progress: JavaScript SDK for interacting with Cardano, providing various key management options including support for popular hardware wallets  
 [https://input-output-hk.github.io/cardano-js-sdk/](https://input-output-hk.github.io/cardano-js-sdk/)  
 [https://github.com/input-output-hk/cardano-js-sdk](https://github.com/input-output-hk/cardano-js-sdk)  
-0.4 stars per week over 126 weeks  
-50 stars, 8 forks, 15 watches  
-created 2019-04-29, last commit 2021-09-29, main language TypeScript  
+0.41 stars per week over 126 weeks  
+52 stars, 9 forks, 15 watches  
+created 2019-04-29, last commit 2021-09-30, main language TypeScript  
 
 
 ### [rscoin-haskell](https://github.com/input-output-hk/rscoin-haskell) by [input-output-hk](https://github.com/input-output-hk)  
 Haskell implementation of RSCoin   
 [https://github.com/input-output-hk/rscoin-haskell](https://github.com/input-output-hk/rscoin-haskell)  
-0.18 stars per week over 278 weeks  
+0.18 stars per week over 279 weeks  
 50 stars, 12 forks, 37 watches  
 created 2016-05-26, last commit 2017-03-23, main language Haskell  
+
+
+### [plutus-use-cases](https://github.com/input-output-hk/plutus-use-cases) by [input-output-hk](https://github.com/input-output-hk)  
+Plutus Use Cases  
+[https://github.com/input-output-hk/plutus-use-cases](https://github.com/input-output-hk/plutus-use-cases)  
+2.12 stars per week over 23 weeks  
+49 stars, 31 forks, 21 watches  
+created 2021-04-22, last commit 2021-04-23, main language None  
 
 
 ### [cardano-rosetta](https://github.com/input-output-hk/cardano-rosetta) by [input-output-hk](https://github.com/input-output-hk)  
 An implementation of Rosetta for Cardano   
 [https://www.rosetta-api.org](https://www.rosetta-api.org)  
 [https://github.com/input-output-hk/cardano-rosetta](https://github.com/input-output-hk/cardano-rosetta)  
-0.73 stars per week over 66 weeks  
+0.73 stars per week over 67 weeks  
 49 stars, 19 forks, 23 watches  
 created 2020-06-19, last commit 2021-09-16, main language TypeScript  
 <sub><sup>blockchain, cardano, explorer</sup></sub>
 
 
-### [plutus-use-cases](https://github.com/input-output-hk/plutus-use-cases) by [input-output-hk](https://github.com/input-output-hk)  
-Plutus Use Cases  
-[https://github.com/input-output-hk/plutus-use-cases](https://github.com/input-output-hk/plutus-use-cases)  
-2.1 stars per week over 22 weeks  
-48 stars, 30 forks, 20 watches  
-created 2021-04-22, last commit 2021-04-23, main language None  
+### [cardano-ops](https://github.com/input-output-hk/cardano-ops) by [input-output-hk](https://github.com/input-output-hk)  
+NixOps deployment configuration for IOHK/Cardano devops   
+[https://github.com/input-output-hk/cardano-ops](https://github.com/input-output-hk/cardano-ops)  
+0.44 stars per week over 102 weeks  
+45 stars, 163 forks, 36 watches  
+created 2019-10-14, last commit 2021-09-27, main language Nix  
+
+
+### [hydra-poc](https://github.com/input-output-hk/hydra-poc) by [input-output-hk](https://github.com/input-output-hk)  
+Proof of concept for the Hydra Head protocol :construction_worker:  
+[https://github.com/input-output-hk/hydra-poc](https://github.com/input-output-hk/hydra-poc)  
+1.44 stars per week over 30 weeks  
+44 stars, 7 forks, 20 watches  
+created 2021-03-01, last commit 2021-09-30, main language Haskell  
 
 
 ### [project-icarus](https://github.com/input-output-hk/project-icarus) by [input-output-hk](https://github.com/input-output-hk)  
@@ -396,22 +412,6 @@ Icarus, a reference implementation for a lightweight wallet developed by the IOH
 0.27 stars per week over 163 weeks  
 44 stars, 9 forks, 14 watches  
 created 2018-08-14, last commit 2018-08-29, main language None  
-
-
-### [cardano-ops](https://github.com/input-output-hk/cardano-ops) by [input-output-hk](https://github.com/input-output-hk)  
-NixOps deployment configuration for IOHK/Cardano devops   
-[https://github.com/input-output-hk/cardano-ops](https://github.com/input-output-hk/cardano-ops)  
-0.43 stars per week over 102 weeks  
-44 stars, 162 forks, 36 watches  
-created 2019-10-14, last commit 2021-09-27, main language Nix  
-
-
-### [hydra-poc](https://github.com/input-output-hk/hydra-poc) by [input-output-hk](https://github.com/input-output-hk)  
-Proof of concept for the Hydra Head protocol :construction_worker:  
-[https://github.com/input-output-hk/hydra-poc](https://github.com/input-output-hk/hydra-poc)  
-1.42 stars per week over 30 weeks  
-43 stars, 7 forks, 20 watches  
-created 2021-03-01, last commit 2021-09-28, main language Haskell  
 
 
 ### [iohk-nix](https://github.com/input-output-hk/iohk-nix) by [input-output-hk](https://github.com/input-output-hk)  
@@ -444,7 +444,7 @@ created 2019-03-18, last commit 2021-09-27, main language Haskell
 Cardano Settlement Layer Documentation  
 [https://cardanodocs.com](https://cardanodocs.com)  
 [https://github.com/input-output-hk/cardanodocs.com-archived](https://github.com/input-output-hk/cardanodocs.com-archived)  
-0.15 stars per week over 230 weeks  
+0.15 stars per week over 231 weeks  
 35 stars, 29 forks, 33 watches  
 created 2017-04-27, last commit 2020-01-03, main language HTML  
 <sub><sup>cryptocurrency, documentation, stake-blockchain-protocol</sup></sub>
@@ -453,7 +453,7 @@ created 2017-04-27, last commit 2020-01-03, main language HTML
 ### [nothunks](https://github.com/input-output-hk/nothunks) by [input-output-hk](https://github.com/input-output-hk)  
   
 [https://github.com/input-output-hk/nothunks](https://github.com/input-output-hk/nothunks)  
-0.62 stars per week over 55 weeks  
+0.61 stars per week over 55 weeks  
 34 stars, 4 forks, 34 watches  
 created 2020-09-09, last commit 2021-06-28, main language Haskell  
 
@@ -491,10 +491,19 @@ created 2018-06-26, last commit 2021-02-25, main language JavaScript
 created 2016-08-28, last commit 2017-03-21, main language Haskell  
 
 
+### [cardano-shell](https://github.com/input-output-hk/cardano-shell) by [input-output-hk](https://github.com/input-output-hk)  
+Node shell, a thin layer for running the node and it's modules.  
+[https://github.com/input-output-hk/cardano-shell](https://github.com/input-output-hk/cardano-shell)  
+0.18 stars per week over 153 weeks  
+27 stars, 10 forks, 43 watches  
+created 2018-10-22, last commit 2020-12-21, main language Haskell  
+<sub><sup>ada, blockchain, cardano, cryptocurrency</sup></sub>
+
+
 ### [stakepool-management-tools](https://github.com/input-output-hk/stakepool-management-tools) by [input-output-hk](https://github.com/input-output-hk)  
   
 [https://github.com/input-output-hk/stakepool-management-tools](https://github.com/input-output-hk/stakepool-management-tools)  
-0.28 stars per week over 97 weeks  
+0.28 stars per week over 98 weeks  
 27 stars, 7 forks, 13 watches  
 created 2019-11-14, last commit 2019-12-16, main language JavaScript  
 
@@ -507,13 +516,12 @@ various cardano javascript using wasm bindings
 created 2018-04-24, last commit 2020-08-13, main language Rust  
 
 
-### [cardano-shell](https://github.com/input-output-hk/cardano-shell) by [input-output-hk](https://github.com/input-output-hk)  
-Node shell, a thin layer for running the node and it's modules.  
-[https://github.com/input-output-hk/cardano-shell](https://github.com/input-output-hk/cardano-shell)  
-0.18 stars per week over 153 weeks  
-27 stars, 10 forks, 43 watches  
-created 2018-10-22, last commit 2020-12-21, main language Haskell  
-<sub><sup>ada, blockchain, cardano, cryptocurrency</sup></sub>
+### [chain-libs](https://github.com/input-output-hk/chain-libs) by [input-output-hk](https://github.com/input-output-hk)  
+blockchain libs  
+[https://github.com/input-output-hk/chain-libs](https://github.com/input-output-hk/chain-libs)  
+0.22 stars per week over 119 weeks  
+26 stars, 25 forks, 13 watches  
+created 2019-06-18, last commit 2021-09-29, main language Rust  
 
 
 ### [smash](https://github.com/input-output-hk/smash) by [input-output-hk](https://github.com/input-output-hk)  
@@ -522,14 +530,6 @@ Stakepool Metadata Aggregation Server
 0.32 stars per week over 80 weeks  
 26 stars, 6 forks, 35 watches  
 created 2020-03-17, last commit 2021-08-20, main language Haskell  
-
-
-### [chain-libs](https://github.com/input-output-hk/chain-libs) by [input-output-hk](https://github.com/input-output-hk)  
-blockchain libs  
-[https://github.com/input-output-hk/chain-libs](https://github.com/input-output-hk/chain-libs)  
-0.22 stars per week over 119 weeks  
-26 stars, 25 forks, 13 watches  
-created 2019-06-18, last commit 2021-09-22, main language Rust  
 
 
 ### [cardano-launcher](https://github.com/input-output-hk/cardano-launcher) by [input-output-hk](https://github.com/input-output-hk)  
@@ -541,6 +541,6 @@ Shelley cardano-node and cardano-wallet launcher for NodeJS applications
 created 2020-01-21, last commit 2021-09-01, main language TypeScript  
 
 
-This file was automatically generated on 2021-09-29.  
+This file was automatically generated on 2021-10-01.  
 
 To curate your own github list, simply clone and change the input csv file.  

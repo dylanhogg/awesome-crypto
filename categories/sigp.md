@@ -8,8 +8,8 @@ Checkout the interactive version that you can filter and sort:
 ### [lighthouse](https://github.com/sigp/lighthouse) by [sigp](https://github.com/sigp)  
 Rust Ethereum 2.0 Client  
 [https://github.com/sigp/lighthouse](https://github.com/sigp/lighthouse)  
-7.52 stars per week over 168 weeks  
-1,268 stars, 279 forks, 60 watches  
+7.53 stars per week over 169 weeks  
+1,272 stars, 280 forks, 59 watches  
 created 2018-07-06, last commit 2021-09-13, main language Rust  
 <sub><sup>casper, eth2, ethereum, proof-of-stake, serenity, sharding, shasper</sup></sub>
 
@@ -19,7 +19,7 @@ Comprehensive list of known attack vectors and common anti-patterns
 [https://blog.sigmaprime.io/solidity-security.html](https://blog.sigmaprime.io/solidity-security.html)  
 [https://github.com/sigp/solidity-security-blog](https://github.com/sigp/solidity-security-blog)  
 2.16 stars per week over 174 weeks  
-376 stars, 70 forks, 42 watches  
+377 stars, 70 forks, 42 watches  
 created 2018-05-30, last commit 2021-03-04, main language None  
 
 
@@ -34,7 +34,7 @@ created 2019-12-09, last commit 2021-08-04, main language Dockerfile
 ### [beacon-fuzz](https://github.com/sigp/beacon-fuzz) by [sigp](https://github.com/sigp)  
 Differential Fuzzer for Ethereum 2.0  
 [https://github.com/sigp/beacon-fuzz](https://github.com/sigp/beacon-fuzz)  
-0.7 stars per week over 100 weeks  
+0.7 stars per week over 101 weeks  
 71 stars, 14 forks, 12 watches  
 created 2019-10-25, last commit 2021-01-14, main language Rust  
 
@@ -47,6 +47,6 @@ Rust implementation of Discovery v5
 created 2020-04-27, last commit 2021-09-16, main language Rust  
 
 
-This file was automatically generated on 2021-09-29.  
+This file was automatically generated on 2021-10-01.  
 
 To curate your own github list, simply clone and change the input csv file.  

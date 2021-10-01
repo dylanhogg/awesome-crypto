@@ -20,7 +20,7 @@ Augur UI
 [https://dev.augur.net](https://dev.augur.net)  
 [https://github.com/AugurProject/augur-ui](https://github.com/AugurProject/augur-ui)  
 1.19 stars per week over 347 weeks  
-414 stars, 110 forks, 83 watches  
+413 stars, 110 forks, 83 watches  
 created 2015-02-02, last commit 2020-02-07, main language JavaScript  
 <sub><sup>bem, css-modules, ethereum, react, redux, ui, webpack, webpack3</sup></sub>
 
@@ -28,8 +28,8 @@ created 2015-02-02, last commit 2020-02-07, main language JavaScript
 ### [augur](https://github.com/AugurProject/augur) by [AugurProject](https://github.com/AugurProject)  
 Augur - Prediction Market Protocol and Client  
 [https://github.com/AugurProject/augur](https://github.com/AugurProject/augur)  
-2.08 stars per week over 165 weeks  
-344 stars, 116 forks, 34 watches  
+2.09 stars per week over 165 weeks  
+345 stars, 119 forks, 34 watches  
 created 2018-07-31, last commit 2021-03-30, main language TypeScript  
 <sub><sup>dapp, ethereum, ethereum-contract, ethereum-dapp, nodejs, react, solidity</sup></sub>
 
@@ -37,7 +37,7 @@ created 2018-07-31, last commit 2021-03-30, main language TypeScript
 ### [augur-app](https://github.com/AugurProject/augur-app) by [AugurProject](https://github.com/AugurProject)  
 Augur Desktop Electron Application  
 [https://github.com/AugurProject/augur-app](https://github.com/AugurProject/augur-app)  
-1.23 stars per week over 177 weeks  
+1.23 stars per week over 178 weeks  
 219 stars, 25 forks, 37 watches  
 created 2018-05-04, last commit 2019-11-14, main language JavaScript  
 
@@ -55,7 +55,7 @@ created 2015-04-15, last commit 2020-01-22, main language JavaScript
 Blockchain --> Database (augur-node) --> Client (UI)  
 [http://stats.augur.net](http://stats.augur.net)  
 [https://github.com/AugurProject/augur-node](https://github.com/AugurProject/augur-node)  
-0.34 stars per week over 278 weeks  
+0.34 stars per week over 279 weeks  
 94 stars, 41 forks, 35 watches  
 created 2016-05-27, last commit 2020-04-04, main language TypeScript  
 
@@ -80,7 +80,7 @@ created 2015-06-29, last commit 2019-10-29, main language JavaScript
 ### [ethereum-nodes](https://github.com/AugurProject/ethereum-nodes) by [AugurProject](https://github.com/AugurProject)  
 Docker images for geth and Parity  
 [https://github.com/AugurProject/ethereum-nodes](https://github.com/AugurProject/ethereum-nodes)  
-0.12 stars per week over 204 weeks  
+0.12 stars per week over 205 weeks  
 25 stars, 12 forks, 20 watches  
 created 2017-10-26, last commit 2019-05-10, main language Shell  
 
@@ -94,6 +94,6 @@ created 2017-06-21, last commit 2017-10-26, main language JavaScript
 <sub><sup>blockies, ethereum, identicon, react</sup></sub>
 
 
-This file was automatically generated on 2021-09-29.  
+This file was automatically generated on 2021-10-01.  
 
 To curate your own github list, simply clone and change the input csv file.  

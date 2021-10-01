@@ -9,7 +9,7 @@ Checkout the interactive version that you can filter and sort:
 Dash - Reinventing Cryptocurrency  
 [https://www.dash.org](https://www.dash.org)  
 [https://github.com/dashpay/dash](https://github.com/dashpay/dash)  
-3.64 stars per week over 386 weeks  
+3.64 stars per week over 387 weeks  
 1,409 stars, 1,144 forks, 215 watches  
 created 2014-05-01, last commit 2021-06-05, main language C++  
 <sub><sup>bitcoin, blockchain, cryptocurrency, dash, governance, instant, masternode, p2p, privacy</sup></sub>
@@ -26,7 +26,7 @@ created 2016-04-19, last commit 2019-04-16, main language None
 ### [dips](https://github.com/dashpay/dips) by [dashpay](https://github.com/dashpay)  
 Dash Improvement Proposals  
 [https://github.com/dashpay/dips](https://github.com/dashpay/dips)  
-0.24 stars per week over 221 weeks  
+0.23 stars per week over 221 weeks  
 52 stars, 51 forks, 26 watches  
 created 2017-07-05, last commit 2021-09-27, main language Python  
 
@@ -43,7 +43,7 @@ created 2014-10-06, last commit 2020-02-10, main language Python
 Electrum-DASH - a Dash thin client  
 [https://electrum-dash.org](https://electrum-dash.org)  
 [https://github.com/dashpay/electrum-dash-old](https://github.com/dashpay/electrum-dash-old)  
-0.12 stars per week over 315 weeks  
+0.12 stars per week over 316 weeks  
 37 stars, 95 forks, 21 watches  
 created 2015-09-10, last commit 2017-03-19, main language Python  
 
@@ -91,6 +91,6 @@ created 2017-02-04, last commit 2021-05-26, main language Python
 created 2016-06-14, last commit 2019-02-09, main language HTML  
 
 
-This file was automatically generated on 2021-09-29.  
+This file was automatically generated on 2021-10-01.  
 
 To curate your own github list, simply clone and change the input csv file.  

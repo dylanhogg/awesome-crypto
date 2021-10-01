@@ -10,7 +10,7 @@ Decentralized cryptocurrency blockchain daemon implementing the XRP Ledger in C+
 [https://xrpl.org](https://xrpl.org)  
 [https://github.com/ripple/rippled](https://github.com/ripple/rippled)  
 7.64 stars per week over 516 weeks  
-3,946 stars, 1,264 forks, 511 watches  
+3,947 stars, 1,265 forks, 511 watches  
 created 2011-11-07, last commit 2021-09-13, main language C++  
 <sub><sup>blockchain, c-plus-plus, cplusplus, cryptography, xrp, xrp-ledger, xrpl</sup></sub>
 
@@ -26,15 +26,15 @@ created 2012-10-16, last commit 2018-01-08, main language JavaScript
 ### [ripplecharts-frontend](https://github.com/ripple/ripplecharts-frontend) by [ripple](https://github.com/ripple)  
 RippleCharts front-end using Angular.js and D3  
 [https://github.com/ripple/ripplecharts-frontend](https://github.com/ripple/ripplecharts-frontend)  
-0.46 stars per week over 404 weeks  
-184 stars, 152 forks, 72 watches  
+0.45 stars per week over 404 weeks  
+183 stars, 152 forks, 72 watches  
 created 2013-12-31, last commit 2020-09-29, main language JavaScript  
 
 
 ### [ripple-client-desktop](https://github.com/ripple/ripple-client-desktop) by [ripple](https://github.com/ripple)  
 A desktop client for the Ripple payment network built using web technologies  
 [https://github.com/ripple/ripple-client-desktop](https://github.com/ripple/ripple-client-desktop)  
-0.33 stars per week over 361 weeks  
+0.33 stars per week over 362 weeks  
 120 stars, 182 forks, 55 watches  
 created 2014-10-24, last commit 2015-12-01, main language JavaScript  
 
@@ -42,7 +42,7 @@ created 2014-10-24, last commit 2015-12-01, main language JavaScript
 ### [rippled-historical-database](https://github.com/ripple/rippled-historical-database) by [ripple](https://github.com/ripple)  
  SQL database as a canonical source of historical data  
 [https://github.com/ripple/rippled-historical-database](https://github.com/ripple/rippled-historical-database)  
-0.23 stars per week over 374 weeks  
+0.23 stars per week over 375 weeks  
 87 stars, 68 forks, 38 watches  
 created 2014-07-24, last commit 2021-05-12, main language JavaScript  
 
@@ -67,7 +67,7 @@ created 2015-06-17, last commit 2021-09-21, main language JavaScript
 ### [dactyl](https://github.com/ripple/dactyl) by [ripple](https://github.com/ripple)  
 Tools to make enterprise documentation from Markdown sources.  
 [https://github.com/ripple/dactyl](https://github.com/ripple/dactyl)  
-0.23 stars per week over 240 weeks  
+0.23 stars per week over 241 weeks  
 55 stars, 24 forks, 19 watches  
 created 2017-02-17, last commit 2021-08-06, main language Python  
 <sub><sup>dactyl, documentation, markdown, pdf-generation</sup></sub>
@@ -90,6 +90,6 @@ Server for storing persistent data for Ripple clients
 created 2012-10-17, last commit 2016-04-01, main language JavaScript  
 
 
-This file was automatically generated on 2021-09-29.  
+This file was automatically generated on 2021-10-01.  
 
 To curate your own github list, simply clone and change the input csv file.  

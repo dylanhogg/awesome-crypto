@@ -9,9 +9,9 @@ Checkout the interactive version that you can filter and sort:
 Go implementation of Ethereum proof of stake  
 [https://prysmaticlabs.com](https://prysmaticlabs.com)  
 [https://github.com/prysmaticlabs/prysm](https://github.com/prysmaticlabs/prysm)  
-11 stars per week over 193 weeks  
-2,226 stars, 522 forks, 120 watches  
-created 2018-01-11, last commit 2021-09-29, main language Go  
+11 stars per week over 194 weeks  
+2,228 stars, 522 forks, 120 watches  
+created 2018-01-11, last commit 2021-09-30, main language Go  
 <sub><sup>ethereum</sup></sub>
 
 
@@ -29,7 +29,7 @@ Web interface for the Prysm validator
 [https://github.com/prysmaticlabs/prysm-web-ui](https://github.com/prysmaticlabs/prysm-web-ui)  
 0.49 stars per week over 59 weeks  
 29 stars, 19 forks, 10 watches  
-created 2020-08-12, last commit 2021-09-28, main language SCSS  
+created 2020-08-12, last commit 2021-09-29, main language SCSS  
 
 
 ### [go-ssz](https://github.com/prysmaticlabs/go-ssz) by [prysmaticlabs](https://github.com/prysmaticlabs)  
@@ -40,6 +40,6 @@ Simple Serialize, the canonical serialization library for the Ethereum Serenity 
 created 2019-05-29, last commit 2021-01-21, main language Go  
 
 
-This file was automatically generated on 2021-09-29.  
+This file was automatically generated on 2021-10-01.  
 
 To curate your own github list, simply clone and change the input csv file.  

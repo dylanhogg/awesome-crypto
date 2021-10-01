@@ -9,16 +9,16 @@ Checkout the interactive version that you can filter and sort:
 Raiden Network  
 [https://developer.raiden.network](https://developer.raiden.network)  
 [https://github.com/raiden-network/raiden](https://github.com/raiden-network/raiden)  
-6.13 stars per week over 295 weeks  
+6.13 stars per week over 296 weeks  
 1,814 stars, 382 forks, 190 watches  
-created 2016-01-29, last commit 2021-09-28, main language Python  
+created 2016-01-29, last commit 2021-09-29, main language Python  
 <sub><sup>blockchain, ethereum, micropayments, payment, payment-channels, payments, raiden</sup></sub>
 
 
 ### [microraiden](https://github.com/raiden-network/microraiden) by [raiden-network](https://github.com/raiden-network)  
   
 [https://github.com/raiden-network/microraiden](https://github.com/raiden-network/microraiden)  
-1.68 stars per week over 216 weeks  
+1.68 stars per week over 217 weeks  
 364 stars, 104 forks, 63 watches  
 created 2017-08-04, last commit 2018-08-22, main language JavaScript  
 
@@ -47,6 +47,6 @@ Tools and instructions for Raiden workshops
 created 2018-10-24, last commit 2019-06-06, main language Python  
 
 
-This file was automatically generated on 2021-09-29.  
+This file was automatically generated on 2021-10-01.  
 
 To curate your own github list, simply clone and change the input csv file.  

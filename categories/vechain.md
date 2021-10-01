@@ -8,8 +8,8 @@ Checkout the interactive version that you can filter and sort:
 ### [thor](https://github.com/vechain/thor) by [vechain](https://github.com/vechain)  
 A general purpose blockchain highly compatible with Ethereum's ecosystem  
 [https://github.com/vechain/thor](https://github.com/vechain/thor)  
-4.06 stars per week over 172 weeks  
-701 stars, 195 forks, 157 watches  
+4.05 stars per week over 173 weeks  
+700 stars, 195 forks, 156 watches  
 created 2018-06-08, last commit 2021-08-18, main language Go  
 <sub><sup>blockchain, node, thor, vechain</sup></sub>
 
@@ -19,7 +19,7 @@ A web3 adaptor for VeChain Thor RESTful HTTP API.
 [https://thorify.vecha.in/](https://thorify.vecha.in/)  
 [https://github.com/vechain/thorify](https://github.com/vechain/thorify)  
 0.37 stars per week over 179 weeks  
-67 stars, 40 forks, 22 watches  
+66 stars, 40 forks, 22 watches  
 created 2018-04-25, last commit 2021-08-10, main language TypeScript  
 <sub><sup>blockchain, contracts, smart, thor, vechain, web3</sup></sub>
 
@@ -28,7 +28,7 @@ created 2018-04-25, last commit 2021-08-10, main language TypeScript
 A browser that empowers DApps on VeChain  
 [https://github.com/vechain/thor-sync.electron](https://github.com/vechain/thor-sync.electron)  
 0.32 stars per week over 164 weeks  
-53 stars, 29 forks, 17 watches  
+52 stars, 29 forks, 17 watches  
 created 2018-08-07, last commit 2020-11-03, main language Vue  
 <sub><sup>blockchain, connex, crypto, dapp, desktop, vechain, wallet</sup></sub>
 
@@ -46,7 +46,7 @@ created 2018-12-02, last commit 2021-07-15, main language TypeScript
 ### [grant-program](https://github.com/vechain/grant-program) by [vechain](https://github.com/vechain)  
 VeChain Foundation General Grant Program  
 [https://github.com/vechain/grant-program](https://github.com/vechain/grant-program)  
-1.59 stars per week over 22 weeks  
+1.57 stars per week over 22 weeks  
 35 stars, 39 forks, 12 watches  
 created 2021-04-28, last commit 2021-09-08, main language None  
 
@@ -68,6 +68,6 @@ A SDK toolkit for client to call VeChain Thor Restful API.
 created 2018-06-20, last commit 2020-08-21, main language Java  
 
 
-This file was automatically generated on 2021-09-29.  
+This file was automatically generated on 2021-10-01.  
 
 To curate your own github list, simply clone and change the input csv file.  
