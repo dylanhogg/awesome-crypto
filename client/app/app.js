@@ -12,7 +12,8 @@ $(document).ready( function () {
     $("#table").DataTable( {
         ajax: {
             // url: '/github_data.json',  // Local testing
-            url: 'https://crazy-awesome-crypto-api.infocruncher.com/github_data.json',
+            url: 'https://crazy-awesome-crypto-api.infocruncher.com/github_data.min.json',
+            // url: 'https://crazy-awesome-crypto-api.infocruncher.com/github_data.json',
             dataSrc: 'data'
         },
         order: [[ 4, "desc" ]],
