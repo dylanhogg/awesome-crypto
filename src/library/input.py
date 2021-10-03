@@ -1,4 +1,5 @@
 import sys
+import time
 import pandas as pd
 from loguru import logger
 from urllib.parse import urlparse
@@ -27,10 +28,16 @@ def get_input_data(csv_location, ghw) -> pd.DataFrame:
     df_concat = pd.concat([df_normal_repos, df_expanded_repos])
     print(f"Total concat wildcard and normal repos: {len(df_concat.index)}")
 
+    # TEMP
+    df_normal_repos.to_pickle("_df_normal_repos.pkl")
+    df_expanded_repos.to_pickle("_df_expanded_repos.pkl")
+
     return df_concat
 
 
 def _explode_org_repos(df, ghw):
+    sleep_secs_between_calls = .5
+
     wildcard_row_mask = df.githuburl.str.endswith("/*")
     df_normal_repos = df.drop(df[wildcard_row_mask].index)
 
@@ -53,6 +60,7 @@ def _explode_org_repos(df, ghw):
                    if org_repo.stargazers_count >= star_limit]
         logger.info(f"Read repos for wildcard org: {org} ({len(giturls)} of {len(org_repos)} kept)")
         exploded_rows.extend(giturls)
+        time.sleep(sleep_secs_between_calls)
 
     df_expanded_repos = pd.DataFrame(exploded_rows, columns=df_normal_repos.columns)
     print(f"Total matching wildcard repos: {len(exploded_rows)}")
