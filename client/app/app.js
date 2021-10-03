@@ -1,4 +1,4 @@
-const version = "v0.0.3";
+const version = "v0.0.7";
 const ms_per_day = 1000 * 60 * 60 * 24;
 
 function dateDiffInWeeks(a, b) {
@@ -10,13 +10,23 @@ function dateDiffInWeeks(a, b) {
 
 $(document).ready( function () {
     $("#table").DataTable( {
+        // deferRender: false,
+        // dom: 'iftrip',  // https://datatables.net/reference/option/dom
         ajax: {
             // url: '/github_data.json',  // Local testing
             url: 'https://crazy-awesome-crypto-api.infocruncher.com/github_data.min.json',
             // url: 'https://crazy-awesome-crypto-api.infocruncher.com/github_data.json',
             dataSrc: 'data'
         },
+        initComplete: function(settings, json) {
+            var cnt = this.api().data().length.toString().replace(/\B(?=(\d{3})+(?!\d))/g, ",");
+            $('#count').text(cnt);
+        },
         order: [[ 4, "desc" ]],
+        paging: true,
+        lengthChange: false,
+        lengthMenu: [ 10, 100, 1000, 10000 ],
+        pageLength: 100,
         columns: [
           { data: "_readme_localurl", title: "",
             orderable: false,
@@ -35,7 +45,7 @@ $(document).ready( function () {
           },
           { title: "Links",
             render: function(data, type, row, meta) {
-                var repoUrl = "<a href='https://github.com/" + row._repopath + "' target='_blank'>" + "<img src='img/github.png' class='github-img'></img></a>&nbsp;<a href='https://github.com/" + row._repopath + "'>" + row._repopath + "</a>";
+                var repoUrl = "<a href='" + row.githuburl + "' target='_blank'>" + "<img src='img/github.png' class='github-img'></img></a>&nbsp;<a href='" + row.githuburl + "'>" + row._repopath + "</a>";
                 var homepageUrl = "";
                 try { homepageUrl = "<br /><a href='" + row._homepage + "' target='_blank'><img src='img/web.png' class='web-img'></img></a>&nbsp;<a href='" + row._homepage + "'>" + new URL(row._homepage).hostname + "</a>"; } catch { }
                 return repoUrl + homepageUrl;
@@ -78,7 +88,6 @@ $(document).ready( function () {
 //            render: function(data, type, row, meta) { return data.join(", "); }
 //          },
         ],
-        paging: false,
     });
 
     $('#table').on('click', '.modal-ajax', function(e) {
