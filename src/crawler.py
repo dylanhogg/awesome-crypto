@@ -4,7 +4,7 @@ from loguru import logger
 from library import render, readme, input
 
 
-def process(csv_location, ghw, output_csv_filename, output_json_filename):
+def process(csv_location, ghw, output_csv_filename, output_json_filename, throttle_secs):
     start = datetime.now()
 
     # Read github urls from google docs
@@ -13,7 +13,7 @@ def process(csv_location, ghw, output_csv_filename, output_json_filename):
 
     # Augment repo name with metadata from Github
     logger.info(f"Processing {len(df_input)} records from {csv_location}")
-    df = render.process(df_input, ghw)
+    df = render.process(df_input, ghw, throttle_secs)
 
     # Write raw results to csv
     logger.info(f"Write raw results to csv...")

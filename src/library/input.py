@@ -22,7 +22,7 @@ def get_input_data(csv_location, ghw) -> pd.DataFrame:
     else:
         logger.info("No duplicate githuburl values found in csv :)")
 
-    # return df.drop(df[df.githuburl.str.endswith("/*")].index)[0:2]  # Testing
+    return df.drop(df[df.githuburl.str.endswith("/*")].index)[0:2]  # Testing
 
     df_normal_repos, df_expanded_repos = _explode_org_repos(df, ghw)
     df_concat = pd.concat([df_normal_repos, df_expanded_repos])
@@ -36,15 +36,13 @@ def get_input_data(csv_location, ghw) -> pd.DataFrame:
 
 
 def _explode_org_repos(df, ghw):
-    sleep_secs_between_calls = .5
-
     wildcard_row_mask = df.githuburl.str.endswith("/*")
     df_normal_repos = df.drop(df[wildcard_row_mask].index)
 
     df_wildcard_repos = df[wildcard_row_mask]
     wildcard_repos_list = list(df_wildcard_repos.itertuples(index=False))
 
-    star_limit = 25  # TODO: append to spreadsheet record? or dynamically calculate?
+    star_limit = 10  # TODO: append to spreadsheet record? or dynamically calculate?
     exploded_rows = []
     logger.info(f"Expaning wildcard repos (star_limit = {star_limit})...")
     for row in wildcard_repos_list:
@@ -60,7 +58,6 @@ def _explode_org_repos(df, ghw):
                    if org_repo.stargazers_count >= star_limit]
         logger.info(f"Read repos for wildcard org: {org} ({len(giturls)} of {len(org_repos)} kept)")
         exploded_rows.extend(giturls)
-        time.sleep(sleep_secs_between_calls)
 
     df_expanded_repos = pd.DataFrame(exploded_rows, columns=df_normal_repos.columns)
     print(f"Total matching wildcard repos: {len(exploded_rows)}")

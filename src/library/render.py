@@ -1,7 +1,9 @@
+import time
 import pandas as pd
 from datetime import datetime
 from typing import List
 from urllib.parse import urlparse
+from loguru import logger
 
 
 def make_markdown(row, include_category=False) -> str:
@@ -54,44 +56,64 @@ def make_markdown(row, include_category=False) -> str:
     )
 
 
-def process(df_input, ghw) -> pd.DataFrame:
+def get_repo_topics(repo_obj, throttle_secs, throttled=True):
+    if throttled:
+        time.sleep(throttle_secs)
+    logger.info(f"get_last_commit_date")
+    return repo_obj.get_topics()
+
+
+def get_last_commit_date(repo_obj, throttle_secs, throttled=True):
+    if throttled:
+        time.sleep(throttle_secs)
+    logger.info(f"get_last_commit_date")
+    # TODO: store 1st page of commits
+    return repo_obj.get_commits().get_page(0)[0].last_modified
+
+
+def process(df_input, ghw, throttle_secs) -> pd.DataFrame:
     df = df_input.copy()
 
     # TODO: more https://pygithub.readthedocs.io/en/latest/examples/Repository.html
 
     df["_repopath"] = df["githuburl"].apply(lambda x: urlparse(x).path.lstrip("/"))
-    df["_reponame"] = df["_repopath"].apply(lambda x: ghw.get_repo(x).name)
-    df["_stars"] = df["_repopath"].apply(lambda x: ghw.get_repo(x).stargazers_count)
-    df["_forks"] = df["_repopath"].apply(lambda x: ghw.get_repo(x).forks_count)
-    df["_watches"] = df["_repopath"].apply(lambda x: ghw.get_repo(x).subscribers_count)
-    df["_topics"] = df["_repopath"].apply(lambda x: ghw.get_repo(x).get_topics())
-    df["_language"] = df["_repopath"].apply(lambda x: ghw.get_repo(x).language)
-    df["_homepage"] = df["_repopath"].apply(lambda x: ghw.get_repo(x).homepage)
-    df["_description"] = df["_repopath"].apply(
-        lambda x: "" if ghw.get_repo(x).description is None else ghw.get_repo(x).description
+    df["_repo_obj"] = df["_repopath"].apply(lambda x: ghw.get_repo(x))
+
+    df["_reponame"] = df["_repo_obj"].apply(lambda x: x.name)
+    df["_stars"] = df["_repo_obj"].apply(lambda x: x.stargazers_count)
+    df["_forks"] = df["_repo_obj"].apply(lambda x: x.forks_count)
+    df["_watches"] = df["_repo_obj"].apply(lambda x: x.subscribers_count)
+    df["_topics"] = df["_repo_obj"].apply(lambda x: get_repo_topics(x, throttle_secs))
+    df["_language"] = df["_repo_obj"].apply(lambda x: x.language)
+    df["_homepage"] = df["_repo_obj"].apply(lambda x: x.homepage)
+
+    df["_description"] = df["_repo_obj"].apply(
+        lambda x: "" if x.description is None else x.description
     )
     df["_organization"] = df["_repopath"].apply(
         lambda x: x.split("/")[0]
     )
-    df["_updated_at"] = df["_repopath"].apply(
-        lambda x: ghw.get_repo(x).updated_at.date()
+    df["_updated_at"] = df["_repo_obj"].apply(
+        lambda x: x.updated_at.date()
     )
-    df["_last_commit_date"] = df["_repopath"].apply(
+    df["_last_commit_date"] = df["_repo_obj"].apply(
         # E.g. Sat, 18 Jul 2020 17:14:09 GMT
         lambda x: datetime.strptime(
-            ghw.get_repo(x).get_commits().get_page(0)[0].last_modified,
+            get_last_commit_date(x, throttle_secs),
             "%a, %d %b %Y %H:%M:%S %Z",
         ).date()
     )
-    df["_created_at"] = df["_repopath"].apply(
-        lambda x: ghw.get_repo(x).created_at.date()
+    df["_created_at"] = df["_repo_obj"].apply(
+        lambda x: x.created_at.date()
     )
-    df["_age_weeks"] = df["_repopath"].apply(
-        lambda x: (datetime.now().date() - ghw.get_repo(x).created_at.date()).days // 7
+    df["_age_weeks"] = df["_repo_obj"].apply(
+        lambda x: (datetime.now().date() - x.created_at.date()).days // 7
     )
-    df["_stars_per_week"] = df["_repopath"].apply(
-        lambda x: ghw.get_repo(x).stargazers_count * 7 / (datetime.now().date() - ghw.get_repo(x).created_at.date()).days
+    df["_stars_per_week"] = df["_repo_obj"].apply(
+        lambda x: x.stargazers_count * 7 / (datetime.now().date() - x.created_at.date()).days
     )
+
+    df = df.drop(columns=["_repo_obj"])
 
     return df.sort_values("_stars", ascending=False)
 
