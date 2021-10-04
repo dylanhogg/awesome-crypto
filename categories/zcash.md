@@ -1,5 +1,5 @@
 # Crazy Awesome Crypto
-A list of 9 [zcash](https://github.com/zcash) project repos ordered by stars.  
+A list of 19 [zcash](https://github.com/zcash) project repos ordered by stars.  
 
 Checkout the interactive version that you can filter and sort: 
 [https://awesome-crypto.infocruncher.com/](https://awesome-crypto.infocruncher.com/)  
@@ -9,15 +9,15 @@ Checkout the interactive version that you can filter and sort:
 Zcash - Internet Money  
 [https://z.cash/](https://z.cash/)  
 [https://github.com/zcash/zcash](https://github.com/zcash/zcash)  
-12 stars per week over 357 weeks  
-4,461 stars, 1,848 forks, 402 watches  
+12 stars per week over 358 weeks  
+4,465 stars, 1,847 forks, 402 watches  
 created 2014-11-22, last commit 2021-09-29, main language C++  
 
 
 ### [librustzcash](https://github.com/zcash/librustzcash) by [zcash](https://github.com/zcash)  
 Rust-language assets for Zcash  
 [https://github.com/zcash/librustzcash](https://github.com/zcash/librustzcash)  
-0.92 stars per week over 237 weeks  
+0.91 stars per week over 237 weeks  
 217 stars, 154 forks, 31 watches  
 created 2017-03-17, last commit 2021-09-29, main language Rust  
 
@@ -28,14 +28,14 @@ Zcash Improvement Proposals
 [https://github.com/zcash/zips](https://github.com/zcash/zips)  
 0.67 stars per week over 304 weeks  
 203 stars, 112 forks, 55 watches  
-created 2015-12-02, last commit 2021-09-30, main language HTML  
+created 2015-12-02, last commit 2021-10-02, main language HTML  
 <sub><sup>cryptocurrency, cryptography, specifications, zcash</sup></sub>
 
 
 ### [mpc](https://github.com/zcash/mpc) by [zcash](https://github.com/zcash)  
 zk-SNARK parameter multi-party computation protocol  
 [https://github.com/zcash/mpc](https://github.com/zcash/mpc)  
-0.5 stars per week over 257 weeks  
+0.5 stars per week over 258 weeks  
 129 stars, 31 forks, 23 watches  
 created 2016-10-24, last commit 2019-10-30, main language Rust  
 
@@ -43,16 +43,16 @@ created 2016-10-24, last commit 2019-10-30, main language Rust
 ### [halo2](https://github.com/zcash/halo2) by [zcash](https://github.com/zcash)  
   
 [https://github.com/zcash/halo2](https://github.com/zcash/halo2)  
-2.05 stars per week over 57 weeks  
-118 stars, 41 forks, 21 watches  
-created 2020-08-24, last commit 2021-09-28, main language Rust  
+2.03 stars per week over 58 weeks  
+118 stars, 42 forks, 21 watches  
+created 2020-08-24, last commit 2021-10-01, main language Rust  
 
 
 ### [libsnark](https://github.com/zcash/libsnark) by [zcash](https://github.com/zcash)  
 libsnark: a C++ library for zkSNARK proofs  
 [https://github.com/zcash/libsnark](https://github.com/zcash/libsnark)  
 0.37 stars per week over 272 weeks  
-100 stars, 37 forks, 22 watches  
+101 stars, 37 forks, 22 watches  
 created 2016-07-15, last commit 2017-02-09, main language C++  
 
 
@@ -75,11 +75,93 @@ created 2018-10-05, last commit 2021-09-30, main language Kotlin
 ### [zcash-docs](https://github.com/zcash/zcash-docs) by [zcash](https://github.com/zcash)  
 Translations of Zcash documentation  
 [https://github.com/zcash/zcash-docs](https://github.com/zcash/zcash-docs)  
-0.11 stars per week over 254 weeks  
+0.11 stars per week over 255 weeks  
 29 stars, 21 forks, 11 watches  
 created 2016-11-12, last commit 2018-01-18, main language None  
 
 
-This file was automatically generated on 2021-10-01.  
+### [pasta](https://github.com/zcash/pasta) by [zcash](https://github.com/zcash)  
+Generator and supporting evidence for security of the Pallas/Vesta pair of elliptic curves suitable for Halo  
+[https://github.com/zcash/pasta](https://github.com/zcash/pasta)  
+0.46 stars per week over 45 weeks  
+21 stars, 2 forks, 11 watches  
+created 2020-11-19, last commit 2021-04-27, main language Sage  
+<sub><sup>cryptography, elliptic-curves, mathematics, sagemath</sup></sub>
+
+
+### [zcash-ios-wallet](https://github.com/zcash/zcash-ios-wallet) by [zcash](https://github.com/zcash)  
+iOS version of the ECC Wallet  
+[https://github.com/zcash/zcash-ios-wallet](https://github.com/zcash/zcash-ios-wallet)  
+0.21 stars per week over 95 weeks  
+20 stars, 20 forks, 8 watches  
+created 2019-12-04, last commit 2021-07-21, main language Swift  
+
+
+### [orchard](https://github.com/zcash/orchard) by [zcash](https://github.com/zcash)  
+TBD  
+[https://github.com/zcash/orchard](https://github.com/zcash/orchard)  
+0.4 stars per week over 50 weeks  
+20 stars, 15 forks, 9 watches  
+created 2020-10-20, last commit 2021-09-28, main language Rust  
+
+
+### [ZcashLightClientKit](https://github.com/zcash/ZcashLightClientKit) by [zcash](https://github.com/zcash)  
+iOS light client Framework proof-of-concept  
+[https://github.com/zcash/ZcashLightClientKit](https://github.com/zcash/ZcashLightClientKit)  
+0.14 stars per week over 126 weeks  
+18 stars, 17 forks, 9 watches  
+created 2019-05-07, last commit 2021-09-28, main language Swift  
+
+
+### [zcash-seeder](https://github.com/zcash/zcash-seeder) by [zcash](https://github.com/zcash)  
+Network bootstrapping for the Zcash cryptocurrency via DNS  
+[https://github.com/zcash/zcash-seeder](https://github.com/zcash/zcash-seeder)  
+0.06 stars per week over 265 weeks  
+15 stars, 24 forks, 10 watches  
+created 2016-09-06, last commit 2021-10-02, main language C++  
+
+
+### [zcash-gitian](https://github.com/zcash/zcash-gitian) by [zcash](https://github.com/zcash)  
+Deterministic build environment for Zcash  
+[https://z.cash/blog/deterministic-builds.html](https://z.cash/blog/deterministic-builds.html)  
+[https://github.com/zcash/zcash-gitian](https://github.com/zcash/zcash-gitian)  
+0.06 stars per week over 259 weeks  
+15 stars, 30 forks, 10 watches  
+created 2016-10-16, last commit 2021-09-27, main language Shell  
+
+
+### [zcash-android-wallet-poc](https://github.com/zcash/zcash-android-wallet-poc) by [zcash](https://github.com/zcash)  
+Frontend Android code for the reference wallet  
+[https://github.com/zcash/zcash-android-wallet-poc](https://github.com/zcash/zcash-android-wallet-poc)  
+0.1 stars per week over 133 weeks  
+14 stars, 4 forks, 10 watches  
+created 2019-03-14, last commit 2019-05-21, main language Kotlin  
+
+
+### [sapling-security-analysis](https://github.com/zcash/sapling-security-analysis) by [zcash](https://github.com/zcash)  
+  
+[https://github.com/zcash/sapling-security-analysis](https://github.com/zcash/sapling-security-analysis)  
+0.09 stars per week over 150 weeks  
+13 stars, 1 forks, 13 watches  
+created 2018-11-15, last commit 2019-05-03, main language TeX  
+
+
+### [zcash-android-wallet](https://github.com/zcash/zcash-android-wallet) by [zcash](https://github.com/zcash)  
+Android wallet using the Zcash Android SDK that is maintained by core developers.  
+[https://github.com/zcash/zcash-android-wallet](https://github.com/zcash/zcash-android-wallet)  
+0.13 stars per week over 97 weeks  
+13 stars, 15 forks, 11 watches  
+created 2019-11-24, last commit 2021-09-22, main language Kotlin  
+
+
+### [pasta_curves](https://github.com/zcash/pasta_curves) by [zcash](https://github.com/zcash)  
+Rust implementation for zcash/pasta  
+[https://github.com/zcash/pasta_curves](https://github.com/zcash/pasta_curves)  
+0.39 stars per week over 30 weeks  
+12 stars, 7 forks, 8 watches  
+created 2021-03-03, last commit 2021-09-30, main language Rust  
+
+
+This file was automatically generated on 2021-10-05.  
 
 To curate your own github list, simply clone and change the input csv file.  

@@ -8,8 +8,8 @@ Checkout the interactive version that you can filter and sort:
 ### [constellation](https://github.com/Constellation-Labs/constellation) by [Constellation-Labs](https://github.com/Constellation-Labs)  
 :milky_way::satellite: Decentralized Application Integration Platform  
 [https://github.com/Constellation-Labs/constellation](https://github.com/Constellation-Labs/constellation)  
-0.56 stars per week over 199 weeks  
-111 stars, 31 forks, 36 watches  
+0.56 stars per week over 200 weeks  
+111 stars, 32 forks, 36 watches  
 created 2017-12-05, last commit 2021-09-22, main language Scala  
 
 
@@ -22,6 +22,6 @@ created 2017-12-05, last commit 2021-09-22, main language Scala
 created 2018-01-05, last commit 2018-10-01, main language None  
 
 
-This file was automatically generated on 2021-10-01.  
+This file was automatically generated on 2021-10-05.  
 
 To curate your own github list, simply clone and change the input csv file.  

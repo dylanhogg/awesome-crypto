@@ -1,5 +1,5 @@
 # Crazy Awesome Crypto
-A list of 3 [MinaProtocol](https://github.com/MinaProtocol) project repos ordered by stars.  
+A list of 5 [MinaProtocol](https://github.com/MinaProtocol) project repos ordered by stars.  
 
 Checkout the interactive version that you can filter and sort: 
 [https://awesome-crypto.infocruncher.com/](https://awesome-crypto.infocruncher.com/)  
@@ -9,8 +9,8 @@ Checkout the interactive version that you can filter and sort:
 Mina is a new cryptocurrency with a constant size blockchain, improving scaling while maintaining decentralization and security.  
 [https://minaprotocol.com](https://minaprotocol.com)  
 [https://github.com/MinaProtocol/mina](https://github.com/MinaProtocol/mina)  
-5.63 stars per week over 197 weeks  
-1,113 stars, 235 forks, 77 watches  
+5.65 stars per week over 198 weeks  
+1,119 stars, 237 forks, 79 watches  
 created 2017-12-18, last commit 2021-09-29, main language JavaScript  
 <sub><sup>blockchain, cryptocurrency, mina, ocaml, zk-snarks</sup></sub>
 
@@ -32,6 +32,22 @@ Coda + Dekrypt: The SNARK Challenge - Reference Material
 created 2019-04-05, last commit 2019-07-20, main language C++  
 
 
-This file was automatically generated on 2021-10-01.  
+### [mina-grants](https://github.com/MinaProtocol/mina-grants) by [MinaProtocol](https://github.com/MinaProtocol)  
+All contents related to the Mina grant program and projects in scope  
+[https://github.com/MinaProtocol/mina-grants](https://github.com/MinaProtocol/mina-grants)  
+0.12 stars per week over 112 weeks  
+13 stars, 8 forks, 21 watches  
+created 2019-08-13, last commit 2021-02-07, main language None  
+
+
+### [snark-challenge-prover-reference](https://github.com/MinaProtocol/snark-challenge-prover-reference) by [MinaProtocol](https://github.com/MinaProtocol)  
+  
+[https://github.com/MinaProtocol/snark-challenge-prover-reference](https://github.com/MinaProtocol/snark-challenge-prover-reference)  
+0.09 stars per week over 121 weeks  
+11 stars, 41 forks, 21 watches  
+created 2019-06-05, last commit 2019-07-16, main language C++  
+
+
+This file was automatically generated on 2021-10-05.  
 
 To curate your own github list, simply clone and change the input csv file.  

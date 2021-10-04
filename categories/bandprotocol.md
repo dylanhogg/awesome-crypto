@@ -1,5 +1,5 @@
 # Crazy Awesome Crypto
-A list of 6 [bandprotocol](https://github.com/bandprotocol) project repos ordered by stars.  
+A list of 7 [bandprotocol](https://github.com/bandprotocol) project repos ordered by stars.  
 
 Checkout the interactive version that you can filter and sort: 
 [https://awesome-crypto.infocruncher.com/](https://awesome-crypto.infocruncher.com/)  
@@ -9,8 +9,8 @@ Checkout the interactive version that you can filter and sort:
 BandChain - Decentralized Data Delivery Network  
 [https://bandprotocol.com](https://bandprotocol.com)  
 [https://github.com/bandprotocol/bandchain](https://github.com/bandprotocol/bandchain)  
-2.21 stars per week over 95 weeks  
-210 stars, 52 forks, 20 watches  
+2.22 stars per week over 95 weeks  
+212 stars, 52 forks, 21 watches  
 created 2019-12-06, last commit 2021-05-05, main language Reason  
 <sub><sup>band, blockchain, cosmos, monorepo, oracle</sup></sub>
 
@@ -19,7 +19,7 @@ created 2019-12-06, last commit 2021-05-05, main language Reason
 Monolithic repository of everything Band Protocol  
 [https://bandprotocol.com](https://bandprotocol.com)  
 [https://github.com/bandprotocol/band](https://github.com/bandprotocol/band)  
-0.99 stars per week over 111 weeks  
+0.98 stars per week over 111 weeks  
 110 stars, 13 forks, 10 watches  
 created 2019-08-14, last commit 2020-02-19, main language JavaScript  
 
@@ -45,7 +45,7 @@ created 2019-07-03, last commit 2019-08-24, main language Python
 ### [chain](https://github.com/bandprotocol/chain) by [bandprotocol](https://github.com/bandprotocol)  
 BandChain blockchain reference implementation  
 [https://github.com/bandprotocol/chain](https://github.com/bandprotocol/chain)  
-0.75 stars per week over 45 weeks  
+0.74 stars per week over 45 weeks  
 34 stars, 11 forks, 5 watches  
 created 2020-11-18, last commit 2021-09-15, main language Go  
 
@@ -60,6 +60,14 @@ created 2019-07-04, last commit 2019-07-15, main language JavaScript
 <sub><sup>blockchain, decentralized, libra, typescript, web3</sup></sub>
 
 
-This file was automatically generated on 2021-10-01.  
+### [bandchain.js](https://github.com/bandprotocol/bandchain.js) by [bandprotocol](https://github.com/bandprotocol)  
+  
+[https://github.com/bandprotocol/bandchain.js](https://github.com/bandprotocol/bandchain.js)  
+0.24 stars per week over 53 weeks  
+13 stars, 3 forks, 6 watches  
+created 2020-09-24, last commit 2021-09-30, main language JavaScript  
+
+
+This file was automatically generated on 2021-10-05.  
 
 To curate your own github list, simply clone and change the input csv file.  

@@ -1,5 +1,5 @@
 # Crazy Awesome Crypto
-A list of 8 [skalenetwork](https://github.com/skalenetwork) project repos ordered by stars.  
+A list of 21 [skalenetwork](https://github.com/skalenetwork) project repos ordered by stars.  
 
 Checkout the interactive version that you can filter and sort: 
 [https://awesome-crypto.infocruncher.com/](https://awesome-crypto.infocruncher.com/)  
@@ -19,9 +19,9 @@ created 2019-02-28, last commit 2021-08-30, main language C++
 A multichain network composed of an unlimited number of secure, decentralized, high-performance Ethereum Native  Blockchains.   
 [https://skale.network](https://skale.network)  
 [https://github.com/skalenetwork/skale-network](https://github.com/skalenetwork/skale-network)  
-0.62 stars per week over 126 weeks  
+0.61 stars per week over 127 weeks  
 78 stars, 15 forks, 13 watches  
-created 2019-04-29, last commit 2021-09-29, main language Python  
+created 2019-04-29, last commit 2021-10-01, main language Python  
 <sub><sup>blockchain, cryptography, distributed-systems, proof-of-stake, skale-network</sup></sub>
 
 
@@ -29,9 +29,9 @@ created 2019-04-29, last commit 2021-09-29, main language Python
 SKALED is SKALE Ethereum-compatible, high performance C++ Proof-of-Stake client, tools and libraries. Uses SKALE consensus as a blockchain consensus core. Implements file storage and retrieval as an EVM extension.  
 [https://skale.network](https://skale.network)  
 [https://github.com/skalenetwork/skaled](https://github.com/skalenetwork/skaled)  
-0.5 stars per week over 129 weeks  
+0.49 stars per week over 129 weeks  
 64 stars, 14 forks, 12 watches  
-created 2019-04-12, last commit 2021-09-30, main language C++  
+created 2019-04-12, last commit 2021-10-04, main language C++  
 <sub><sup>cpp, evm, skale-network</sup></sub>
 
 
@@ -58,7 +58,7 @@ created 2019-09-04, last commit 2021-09-29, main language C++
 ### [skale-demo](https://github.com/skalenetwork/skale-demo) by [skalenetwork](https://github.com/skalenetwork)  
 Example dApps used during SKALE presentations  
 [https://github.com/skalenetwork/skale-demo](https://github.com/skalenetwork/skale-demo)  
-0.28 stars per week over 136 weeks  
+0.28 stars per week over 137 weeks  
 38 stars, 7 forks, 5 watches  
 created 2019-02-16, last commit 2021-09-21, main language C#  
 <sub><sup>skale-network</sup></sub>
@@ -82,6 +82,123 @@ created 2019-04-12, last commit 2021-09-23, main language JavaScript
 <sub><sup>blockchain, distributed-storage, filestorage, javascript-library, skale-chains</sup></sub>
 
 
-This file was automatically generated on 2021-10-01.  
+### [skale.py](https://github.com/skalenetwork/skale.py) by [skalenetwork](https://github.com/skalenetwork)  
+Python library for interacting with SKALE Manager  
+[https://github.com/skalenetwork/skale.py](https://github.com/skalenetwork/skale.py)  
+0.18 stars per week over 129 weeks  
+23 stars, 2 forks, 5 watches  
+created 2019-04-12, last commit 2021-09-30, main language Python  
+<sub><sup>python-library, skale-network</sup></sub>
+
+
+### [IMA](https://github.com/skalenetwork/IMA) by [skalenetwork](https://github.com/skalenetwork)  
+SKALE Interchain Messaging Agent  
+[https://skale.network](https://skale.network)  
+[https://github.com/skalenetwork/IMA](https://github.com/skalenetwork/IMA)  
+0.15 stars per week over 139 weeks  
+21 stars, 2 forks, 7 watches  
+created 2019-02-01, last commit 2021-09-28, main language JavaScript  
+<sub><sup>skale-network</sup></sub>
+
+
+### [node-cli](https://github.com/skalenetwork/node-cli) by [skalenetwork](https://github.com/skalenetwork)  
+A command line tool to setup, register and maintain your SKALE node.   Written in Python.  
+[https://skale.network](https://skale.network)  
+[https://github.com/skalenetwork/node-cli](https://github.com/skalenetwork/node-cli)  
+0.14 stars per week over 127 weeks  
+18 stars, 3 forks, 5 watches  
+created 2019-04-30, last commit 2021-10-04, main language Python  
+<sub><sup>skale-network</sup></sub>
+
+
+### [skale.js](https://github.com/skalenetwork/skale.js) by [skalenetwork](https://github.com/skalenetwork)  
+Javascript library for interacting with SKALE Manager  
+[https://github.com/skalenetwork/skale.js](https://github.com/skalenetwork/skale.js)  
+0.12 stars per week over 129 weeks  
+15 stars, 0 forks, 4 watches  
+created 2019-04-12, last commit 2021-09-07, main language TypeScript  
+<sub><sup>javascript-library, skale-network</sup></sub>
+
+
+### [skale-sdk](https://github.com/skalenetwork/skale-sdk) by [skalenetwork](https://github.com/skalenetwork)  
+  
+[https://github.com/skalenetwork/skale-sdk](https://github.com/skalenetwork/skale-sdk)  
+0.21 stars per week over 70 weeks  
+15 stars, 8 forks, 7 watches  
+created 2020-05-29, last commit 2021-07-21, main language Shell  
+
+
+### [skale-node](https://github.com/skalenetwork/skale-node) by [skalenetwork](https://github.com/skalenetwork)  
+Configuration files for SKALE node  
+[https://github.com/skalenetwork/skale-node](https://github.com/skalenetwork/skale-node)  
+0.13 stars per week over 105 weeks  
+14 stars, 2 forks, 7 watches  
+created 2019-09-25, last commit 2021-09-23, main language Jinja  
+
+
+### [skale-nms](https://github.com/skalenetwork/skale-nms) by [skalenetwork](https://github.com/skalenetwork)  
+DEPRECATED: SKALE Node Monitoring Service (NMS) - decentralized SLA metrics and bounty collection  
+[https://skale.network](https://skale.network)  
+[https://github.com/skalenetwork/skale-nms](https://github.com/skalenetwork/skale-nms)  
+0.1 stars per week over 129 weeks  
+13 stars, 0 forks, 4 watches  
+created 2019-04-13, last commit 2020-04-13, main language Python  
+<sub><sup>docker, python, skale-network</sup></sub>
+
+
+### [filestorage](https://github.com/skalenetwork/filestorage) by [skalenetwork](https://github.com/skalenetwork)  
+SKALE filestorage extension to EVM  
+[https://github.com/skalenetwork/filestorage](https://github.com/skalenetwork/filestorage)  
+0.1 stars per week over 129 weeks  
+13 stars, 0 forks, 6 watches  
+created 2019-04-12, last commit 2021-09-17, main language JavaScript  
+
+
+### [truffle-skale-network-box](https://github.com/skalenetwork/truffle-skale-network-box) by [skalenetwork](https://github.com/skalenetwork)  
+Truffle Box for deploying smart contracts directly to the SKALE Network.  
+[https://github.com/skalenetwork/truffle-skale-network-box](https://github.com/skalenetwork/truffle-skale-network-box)  
+0.57 stars per week over 19 weeks  
+11 stars, 1 forks, 5 watches  
+created 2021-05-24, last commit 2021-06-11, main language JavaScript  
+
+
+### [skaled-tests](https://github.com/skalenetwork/skaled-tests) by [skalenetwork](https://github.com/skalenetwork)  
+Skaled tests  
+[https://github.com/skalenetwork/skaled-tests](https://github.com/skalenetwork/skaled-tests)  
+0.08 stars per week over 129 weeks  
+10 stars, 0 forks, 5 watches  
+created 2019-04-12, last commit 2020-07-22, main language Python  
+
+
+### [validator-cli](https://github.com/skalenetwork/validator-cli) by [skalenetwork](https://github.com/skalenetwork)  
+A command line tool for validators and delegators. Written in Python.  
+[https://skale.network](https://skale.network)  
+[https://github.com/skalenetwork/validator-cli](https://github.com/skalenetwork/validator-cli)  
+0.11 stars per week over 89 weeks  
+10 stars, 2 forks, 6 watches  
+created 2020-01-20, last commit 2021-07-14, main language Python  
+<sub><sup>cli, click, python, skale-network, web3py</sup></sub>
+
+
+### [documentation](https://github.com/skalenetwork/documentation) by [skalenetwork](https://github.com/skalenetwork)  
+SKALE Network documentation  
+[https://skale.network/docs/](https://skale.network/docs/)  
+[https://github.com/skalenetwork/documentation](https://github.com/skalenetwork/documentation)  
+0.09 stars per week over 110 weeks  
+10 stars, 6 forks, 6 watches  
+created 2019-08-22, last commit 2021-07-23, main language Handlebars  
+<sub><sup>documentation, skale-network</sup></sub>
+
+
+### [hackathon](https://github.com/skalenetwork/hackathon) by [skalenetwork](https://github.com/skalenetwork)  
+Guidelines for hackathons  
+[https://github.com/skalenetwork/hackathon](https://github.com/skalenetwork/hackathon)  
+0.07 stars per week over 138 weeks  
+10 stars, 3 forks, 5 watches  
+created 2019-02-12, last commit 2019-09-03, main language None  
+<sub><sup>hackathon, skale-network</sup></sub>
+
+
+This file was automatically generated on 2021-10-05.  
 
 To curate your own github list, simply clone and change the input csv file.  

@@ -1,5 +1,5 @@
 # Crazy Awesome Crypto
-A list of 4 [Conflux-Chain](https://github.com/Conflux-Chain) project repos ordered by stars.  
+A list of 11 [Conflux-Chain](https://github.com/Conflux-Chain) project repos ordered by stars.  
 
 Checkout the interactive version that you can filter and sort: 
 [https://awesome-crypto.infocruncher.com/](https://awesome-crypto.infocruncher.com/)  
@@ -8,8 +8,8 @@ Checkout the interactive version that you can filter and sort:
 ### [conflux-rust](https://github.com/Conflux-Chain/conflux-rust) by [Conflux-Chain](https://github.com/Conflux-Chain)  
 The Rust implementation of Conflux protocol.  
 [https://github.com/Conflux-Chain/conflux-rust](https://github.com/Conflux-Chain/conflux-rust)  
-3.42 stars per week over 131 weeks  
-450 stars, 116 forks, 40 watches  
+3.4 stars per week over 132 weeks  
+450 stars, 117 forks, 40 watches  
 created 2019-03-24, last commit 2021-09-14, main language Rust  
 <sub><sup>blockchain, conflux, cryptocurrency, p2p, rust</sup></sub>
 
@@ -18,7 +18,7 @@ created 2019-03-24, last commit 2021-09-14, main language Rust
 :globe_with_meridians: :electric_plug: The ConfluxPortal browser extension enables browsing Conflux blockchain enabled websites.  
 [https://conflux-chain.github.io/conflux-portal-docs](https://conflux-chain.github.io/conflux-portal-docs)  
 [https://github.com/Conflux-Chain/conflux-portal](https://github.com/Conflux-Chain/conflux-portal)  
-0.66 stars per week over 93 weeks  
+0.66 stars per week over 94 weeks  
 62 stars, 15 forks, 6 watches  
 created 2019-12-16, last commit 2021-08-02, main language JavaScript  
 
@@ -26,8 +26,8 @@ created 2019-12-16, last commit 2021-08-02, main language JavaScript
 ### [js-conflux-sdk](https://github.com/Conflux-Chain/js-conflux-sdk) by [Conflux-Chain](https://github.com/Conflux-Chain)  
 The JavaScript SDK for Conflux Chain  
 [https://github.com/Conflux-Chain/js-conflux-sdk](https://github.com/Conflux-Chain/js-conflux-sdk)  
-0.6 stars per week over 86 weeks  
-52 stars, 36 forks, 18 watches  
+0.61 stars per week over 86 weeks  
+53 stars, 36 forks, 18 watches  
 created 2020-02-05, last commit 2021-08-08, main language JavaScript  
 <sub><sup>blockchain, conflux, js-conflux-sdk</sup></sub>
 
@@ -35,11 +35,73 @@ created 2020-02-05, last commit 2021-08-08, main language JavaScript
 ### [open-cfxmine](https://github.com/Conflux-Chain/open-cfxmine) by [Conflux-Chain](https://github.com/Conflux-Chain)  
 Conflux miner  
 [https://github.com/Conflux-Chain/open-cfxmine](https://github.com/Conflux-Chain/open-cfxmine)  
-0.55 stars per week over 49 weeks  
-27 stars, 14 forks, 6 watches  
+0.56 stars per week over 49 weeks  
+28 stars, 14 forks, 6 watches  
 created 2020-10-23, last commit 2020-12-09, main language Cuda  
 
 
-This file was automatically generated on 2021-10-01.  
+### [java-conflux-sdk](https://github.com/Conflux-Chain/java-conflux-sdk) by [Conflux-Chain](https://github.com/Conflux-Chain)  
+Conflux Java SDK  
+[https://github.com/Conflux-Chain/java-conflux-sdk](https://github.com/Conflux-Chain/java-conflux-sdk)  
+0.21 stars per week over 96 weeks  
+20 stars, 8 forks, 15 watches  
+created 2019-11-28, last commit 2021-06-15, main language Java  
+<sub><sup>blockchain, conflux, java-conflux-sdk</sup></sub>
+
+
+### [conflux-truffle](https://github.com/Conflux-Chain/conflux-truffle) by [Conflux-Chain](https://github.com/Conflux-Chain)  
+A tool for developing smart contracts on Conflux.  
+[https://confluxnetwork.org](https://confluxnetwork.org)  
+[https://github.com/Conflux-Chain/conflux-truffle](https://github.com/Conflux-Chain/conflux-truffle)  
+0.28 stars per week over 68 weeks  
+19 stars, 7 forks, 2 watches  
+created 2020-06-15, last commit 2021-06-02, main language JavaScript  
+<sub><sup>conflux, truffle</sup></sub>
+
+
+### [conflux-doc](https://github.com/Conflux-Chain/conflux-doc) by [Conflux-Chain](https://github.com/Conflux-Chain)  
+documentations  
+[https://github.com/Conflux-Chain/conflux-doc](https://github.com/Conflux-Chain/conflux-doc)  
+0.13 stars per week over 130 weeks  
+17 stars, 15 forks, 26 watches  
+created 2019-04-03, last commit 2021-07-20, main language None  
+
+
+### [conflux-developer-site](https://github.com/Conflux-Chain/conflux-developer-site) by [Conflux-Chain](https://github.com/Conflux-Chain)  
+conflux docs for developer  
+[https://developer.confluxnetwork.org/](https://developer.confluxnetwork.org/)  
+[https://github.com/Conflux-Chain/conflux-developer-site](https://github.com/Conflux-Chain/conflux-developer-site)  
+0.16 stars per week over 82 weeks  
+13 stars, 17 forks, 9 watches  
+created 2020-03-05, last commit 2021-09-14, main language JavaScript  
+
+
+### [conflux-wallet](https://github.com/Conflux-Chain/conflux-wallet) by [Conflux-Chain](https://github.com/Conflux-Chain)  
+  
+[https://conflux-wallet-git-master.conflux-chain.now.sh](https://conflux-wallet-git-master.conflux-chain.now.sh)  
+[https://github.com/Conflux-Chain/conflux-wallet](https://github.com/Conflux-Chain/conflux-wallet)  
+0.09 stars per week over 131 weeks  
+12 stars, 10 forks, 8 watches  
+created 2019-04-02, last commit 2021-04-08, main language TypeScript  
+
+
+### [sirius](https://github.com/Conflux-Chain/sirius) by [Conflux-Chain](https://github.com/Conflux-Chain)  
+confluxscan   
+[https://confluxscan.io](https://confluxscan.io)  
+[https://github.com/Conflux-Chain/sirius](https://github.com/Conflux-Chain/sirius)  
+0.17 stars per week over 69 weeks  
+12 stars, 4 forks, 5 watches  
+created 2020-06-05, last commit 2021-09-28, main language TypeScript  
+
+
+### [CIPs](https://github.com/Conflux-Chain/CIPs) by [Conflux-Chain](https://github.com/Conflux-Chain)  
+Conflux Improvement Proposals (CIPs)  
+[https://github.com/Conflux-Chain/CIPs](https://github.com/Conflux-Chain/CIPs)  
+0.15 stars per week over 65 weeks  
+10 stars, 18 forks, 9 watches  
+created 2020-07-02, last commit 2021-08-31, main language None  
+
+
+This file was automatically generated on 2021-10-05.  
 
 To curate your own github list, simply clone and change the input csv file.  

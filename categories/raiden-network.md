@@ -1,5 +1,5 @@
 # Crazy Awesome Crypto
-A list of 5 [raiden-network](https://github.com/raiden-network) project repos ordered by stars.  
+A list of 9 [raiden-network](https://github.com/raiden-network) project repos ordered by stars.  
 
 Checkout the interactive version that you can filter and sort: 
 [https://awesome-crypto.infocruncher.com/](https://awesome-crypto.infocruncher.com/)  
@@ -9,16 +9,16 @@ Checkout the interactive version that you can filter and sort:
 Raiden Network  
 [https://developer.raiden.network](https://developer.raiden.network)  
 [https://github.com/raiden-network/raiden](https://github.com/raiden-network/raiden)  
-6.13 stars per week over 296 weeks  
-1,814 stars, 382 forks, 190 watches  
-created 2016-01-29, last commit 2021-09-29, main language Python  
+6.12 stars per week over 296 weeks  
+1,815 stars, 382 forks, 190 watches  
+created 2016-01-29, last commit 2021-10-04, main language Python  
 <sub><sup>blockchain, ethereum, micropayments, payment, payment-channels, payments, raiden</sup></sub>
 
 
 ### [microraiden](https://github.com/raiden-network/microraiden) by [raiden-network](https://github.com/raiden-network)  
   
 [https://github.com/raiden-network/microraiden](https://github.com/raiden-network/microraiden)  
-1.68 stars per week over 217 weeks  
+1.67 stars per week over 217 weeks  
 364 stars, 104 forks, 63 watches  
 created 2017-08-04, last commit 2018-08-22, main language JavaScript  
 
@@ -26,7 +26,7 @@ created 2017-08-04, last commit 2018-08-22, main language JavaScript
 ### [raiden-token](https://github.com/raiden-network/raiden-token) by [raiden-network](https://github.com/raiden-network)  
 Raiden Token and Issuance Contracts  
 [https://github.com/raiden-network/raiden-token](https://github.com/raiden-network/raiden-token)  
-0.2 stars per week over 225 weeks  
+0.2 stars per week over 226 weeks  
 46 stars, 29 forks, 21 watches  
 created 2017-06-05, last commit 2017-11-14, main language Python  
 
@@ -34,7 +34,7 @@ created 2017-06-05, last commit 2017-11-14, main language Python
 ### [raiden-contracts](https://github.com/raiden-network/raiden-contracts) by [raiden-network](https://github.com/raiden-network)  
 Raiden Network Smart Contracts  
 [https://github.com/raiden-network/raiden-contracts](https://github.com/raiden-network/raiden-contracts)  
-0.21 stars per week over 186 weeks  
+0.21 stars per week over 187 weeks  
 40 stars, 46 forks, 17 watches  
 created 2018-03-05, last commit 2021-09-28, main language Solidity  
 
@@ -47,6 +47,40 @@ Tools and instructions for Raiden workshops
 created 2018-10-24, last commit 2019-06-06, main language Python  
 
 
-This file was automatically generated on 2021-10-01.  
+### [light-client](https://github.com/raiden-network/light-client) by [raiden-network](https://github.com/raiden-network)  
+The Raiden Light Client  
+[https://raiden.network/](https://raiden.network/)  
+[https://github.com/raiden-network/light-client](https://github.com/raiden-network/light-client)  
+0.17 stars per week over 137 weeks  
+24 stars, 20 forks, 12 watches  
+created 2019-02-18, last commit 2021-10-02, main language TypeScript  
+
+
+### [webui](https://github.com/raiden-network/webui) by [raiden-network](https://github.com/raiden-network)  
+Raiden's Web User Interface  
+[https://github.com/raiden-network/webui](https://github.com/raiden-network/webui)  
+0.14 stars per week over 149 weeks  
+21 stars, 13 forks, 12 watches  
+created 2018-11-26, last commit 2021-09-02, main language TypeScript  
+<sub><sup>angular, raiden, raiden-webui, webui</sup></sub>
+
+
+### [awesome-raiden](https://github.com/raiden-network/awesome-raiden) by [raiden-network](https://github.com/raiden-network)  
+A curated list of resources, links, projects, tools and hacks on, for and around Raiden!   
+[https://github.com/raiden-network/awesome-raiden](https://github.com/raiden-network/awesome-raiden)  
+0.15 stars per week over 113 weeks  
+17 stars, 6 forks, 4 watches  
+created 2019-08-06, last commit 2020-01-20, main language None  
+
+
+### [raiden-services](https://github.com/raiden-network/raiden-services) by [raiden-network](https://github.com/raiden-network)  
+Development of the Raiden Monitoring and Pathfinding Services  
+[https://github.com/raiden-network/raiden-services](https://github.com/raiden-network/raiden-services)  
+0.08 stars per week over 141 weeks  
+11 stars, 15 forks, 15 watches  
+created 2019-01-21, last commit 2021-10-01, main language Python  
+
+
+This file was automatically generated on 2021-10-05.  
 
 To curate your own github list, simply clone and change the input csv file.  

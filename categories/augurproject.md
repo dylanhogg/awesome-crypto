@@ -1,5 +1,5 @@
 # Crazy Awesome Crypto
-A list of 10 [AugurProject](https://github.com/AugurProject) project repos ordered by stars.  
+A list of 12 [AugurProject](https://github.com/AugurProject) project repos ordered by stars.  
 
 Checkout the interactive version that you can filter and sort: 
 [https://awesome-crypto.infocruncher.com/](https://awesome-crypto.infocruncher.com/)  
@@ -9,8 +9,8 @@ Checkout the interactive version that you can filter and sort:
 Augur back-end (Ethereum contracts)  
 [https://www.augur.net](https://www.augur.net)  
 [https://github.com/AugurProject/augur-core](https://github.com/AugurProject/augur-core)  
-1.66 stars per week over 355 weeks  
-590 stars, 143 forks, 100 watches  
+1.66 stars per week over 356 weeks  
+591 stars, 143 forks, 100 watches  
 created 2014-12-06, last commit 2019-02-11, main language TypeScript  
 <sub><sup>dapp, ethereum, ethereum-contract, solidity</sup></sub>
 
@@ -19,7 +19,7 @@ created 2014-12-06, last commit 2019-02-11, main language TypeScript
 Augur UI  
 [https://dev.augur.net](https://dev.augur.net)  
 [https://github.com/AugurProject/augur-ui](https://github.com/AugurProject/augur-ui)  
-1.19 stars per week over 347 weeks  
+1.19 stars per week over 348 weeks  
 413 stars, 110 forks, 83 watches  
 created 2015-02-02, last commit 2020-02-07, main language JavaScript  
 <sub><sup>bem, css-modules, ethereum, react, redux, ui, webpack, webpack3</sup></sub>
@@ -28,8 +28,8 @@ created 2015-02-02, last commit 2020-02-07, main language JavaScript
 ### [augur](https://github.com/AugurProject/augur) by [AugurProject](https://github.com/AugurProject)  
 Augur - Prediction Market Protocol and Client  
 [https://github.com/AugurProject/augur](https://github.com/AugurProject/augur)  
-2.09 stars per week over 165 weeks  
-345 stars, 119 forks, 34 watches  
+2.09 stars per week over 166 weeks  
+347 stars, 121 forks, 34 watches  
 created 2018-07-31, last commit 2021-03-30, main language TypeScript  
 <sub><sup>dapp, ethereum, ethereum-contract, ethereum-dapp, nodejs, react, solidity</sup></sub>
 
@@ -63,7 +63,7 @@ created 2016-05-27, last commit 2020-04-04, main language TypeScript
 ### [whitepaper](https://github.com/AugurProject/whitepaper) by [AugurProject](https://github.com/AugurProject)  
 The Augur Project Whitepaper  
 [https://github.com/AugurProject/whitepaper](https://github.com/AugurProject/whitepaper)  
-0.21 stars per week over 180 weeks  
+0.21 stars per week over 181 weeks  
 38 stars, 24 forks, 7 watches  
 created 2018-04-17, last commit 2021-03-30, main language TeX  
 
@@ -72,7 +72,7 @@ created 2018-04-17, last commit 2021-03-30, main language TeX
 Legacy Augur V1 Documentation  
 [http://docs.augur.net](http://docs.augur.net)  
 [https://github.com/AugurProject/docs](https://github.com/AugurProject/docs)  
-0.1 stars per week over 326 weeks  
+0.1 stars per week over 327 weeks  
 32 stars, 15 forks, 26 watches  
 created 2015-06-29, last commit 2019-10-29, main language JavaScript  
 
@@ -94,6 +94,23 @@ created 2017-06-21, last commit 2017-10-26, main language JavaScript
 <sub><sup>blockies, ethereum, identicon, react</sup></sub>
 
 
-This file was automatically generated on 2021-10-01.  
+### [turbo](https://github.com/AugurProject/turbo) by [AugurProject](https://github.com/AugurProject)  
+  
+[https://github.com/AugurProject/turbo](https://github.com/AugurProject/turbo)  
+0.37 stars per week over 29 weeks  
+11 stars, 5 forks, 7 watches  
+created 2021-03-12, last commit 2021-10-03, main language TypeScript  
+
+
+### [augur-audits](https://github.com/AugurProject/augur-audits) by [AugurProject](https://github.com/AugurProject)  
+Summaries of findings from Augurs audits  
+[https://augur.net](https://augur.net)  
+[https://github.com/AugurProject/augur-audits](https://github.com/AugurProject/augur-audits)  
+0.04 stars per week over 232 weeks  
+10 stars, 2 forks, 3 watches  
+created 2017-04-25, last commit 2018-06-28, main language None  
+
+
+This file was automatically generated on 2021-10-05.  
 
 To curate your own github list, simply clone and change the input csv file.  
