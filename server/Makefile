@@ -12,6 +12,7 @@ AWS_REGION=us-east-1
 s3-deploy-files:
 	aws s3 cp ../github_data.json s3://${BUCKET_NAME}/github_data.json --profile ${AWS_PROFILE}
 	aws s3 cp ../github_data.min.json s3://${BUCKET_NAME}/github_data.min.json --profile ${AWS_PROFILE}
+	aws s3 cp ../github_data_org.json s3://${BUCKET_NAME}/github_data_org.json --profile ${AWS_PROFILE}
 	aws s3 cp ../github_data.csv s3://${BUCKET_NAME}/github_data.csv --profile ${AWS_PROFILE}
 	# NOTE: Remember to invalidate Cloudfront cache to materialise changes
 

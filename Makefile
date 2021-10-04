@@ -31,7 +31,7 @@ serve-local-client:
 
 ## AWS S3 cp client app to S3
 s3-deploy-app:
-	aws s3 cp client/app s3://${BUCKET_NAME} --recursive --profile ${AWS_PROFILE}
+	cd client; make s3-deploy-app
 
 
 #################################################################################

@@ -1,14 +1,11 @@
 import json
 from datetime import datetime
 from loguru import logger
-from library import render, readme, requirements, input
-from library.ghw import GithubWrapper
+from library import render, readme, input
 
 
-def write_files(csv_location, token, output_csv_filename, output_json_filename):
+def process(csv_location, ghw, output_csv_filename, output_json_filename):
     start = datetime.now()
-
-    ghw = GithubWrapper(token)
 
     # Read github urls from google docs
     df_input = input.get_input_data(csv_location, ghw)
@@ -42,28 +39,31 @@ def write_files(csv_location, token, output_csv_filename, output_json_filename):
                     else "", axis=1
     )
 
-    # TODO: remove from crypto?
-    # logger.info("Crawling requirements files...")
-    # df["_requirements_filenames"] = df["_repopath"].apply(
-    #     lambda x: requirements.get_requirements(x)
-    # )
-    #
-    # # TODO: handle 'main' master branches also:
-    # df["_requirements_giturls"] = df.apply(
-    #     lambda row: list(map(lambda x: f"https://raw.githubusercontent.com/{row['_repopath']}/master/{x}", row['_requirements_filenames'])), axis=1
-    # )
+    # TODO: review:
+    # Drop unused UI columns before writing to files
+    df = df.drop(columns=["description", "featured", "links", "subcategory"])
 
-    # TODO: get from readme.get_readme above as tuple and zip as per
-    #       https://stackoverflow.com/questions/16236684/apply-pandas-function-to-column-to-create-multiple-new-columns
-    # df["_requirements_localurls"] = df.apply(
-    #     lambda row: list(map(lambda x: f"{row['_repopath'].replace('/', '~')}~{x}", row['_requirements_filenames'])), axis=1
-    # )
-
-    # Write raw results to json table format
+    # Write raw results to json
     with open(output_json_filename, "w") as f:
-        json_results = df.to_json(orient="table")
+        json_results = df.to_json(orient="table", double_precision=2)
         data = json.loads(json_results)
         json.dump(data, f, indent=4)
+
+    # Write raw results to minimised json
+    output_minjson_filename = output_json_filename.replace(".json", ".min.json") \
+        if ".json" in output_json_filename \
+        else output_json_filename + ".min.json"
+
+    with open(output_minjson_filename, "w") as f:
+        json_results = df.to_json(orient="table", double_precision=2)
+        data = json.loads(json_results)
+        json.dump(data, f, separators=(',', ':'))
+
+    # Write raw results to pickle
+    output_pickle_filename = output_json_filename.replace(".json", ".pkl") \
+        if ".json" in output_json_filename \
+        else output_json_filename + ".pkl"
+    df.to_pickle(output_pickle_filename)
 
     # Add markdown columns for local README.md and categories/*.md file lists.
     logger.info(f"Add markdown columns...")

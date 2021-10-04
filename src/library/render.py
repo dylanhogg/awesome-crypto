@@ -56,6 +56,9 @@ def make_markdown(row, include_category=False) -> str:
 
 def process(df_input, ghw) -> pd.DataFrame:
     df = df_input.copy()
+
+    # TODO: more https://pygithub.readthedocs.io/en/latest/examples/Repository.html
+
     df["_repopath"] = df["githuburl"].apply(lambda x: urlparse(x).path.lstrip("/"))
     df["_reponame"] = df["_repopath"].apply(lambda x: ghw.get_repo(x).name)
     df["_stars"] = df["_repopath"].apply(lambda x: ghw.get_repo(x).stargazers_count)

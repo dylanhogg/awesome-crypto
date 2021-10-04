@@ -1,3 +1,4 @@
+import time
 import github
 from loguru import logger
 from typing import List
@@ -7,6 +8,7 @@ class GithubWrapper:
     def __init__(self, token):
         self.gh = github.Github(token)
         self.cache = {}
+        self.sleep_secs_between_calls = 1  # TODO: make env var
 
     def get_repo(self, name, use_cache=True) -> github.Repository:
         if name.endswith("/"):
@@ -18,8 +20,14 @@ class GithubWrapper:
             try:
                 self.cache[key] = self.gh.get_repo(name)
             except Exception as ex:
-                logger.error(f"Exception for name: {name}")
-                raise ex
+                logger.warning(f"Exception for name (will re-try once): {name}")
+                try:
+                    time.sleep(15)
+                    self.cache[key] = self.gh.get_repo(name)
+                except Exception as ex:
+                    logger.error(f"Exception for name: {name}")
+                    raise ex
+            time.sleep(self.sleep_secs_between_calls)
             return self.cache[key]
         else:
             logger.info(f"get_repo: [{name}] (cached)")

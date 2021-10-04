@@ -1,6 +1,8 @@
 PyGithub
 pandas
+numpy
 markdown
+sparklines
 docutils
 Pygments
 python-dotenv

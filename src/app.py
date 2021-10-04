@@ -1,4 +1,7 @@
-from library import log, env, crawler
+import crawler
+import org_aggregation
+from library import log, env
+from library.ghw import GithubWrapper
 
 
 def main():
@@ -10,8 +13,16 @@ def main():
     token = env.get("GITHUB_ACCESS_TOKEN")
     output_csv_filename = "github_data.csv"
     output_json_filename = "github_data.json"
+    ghw = GithubWrapper(token)
 
-    crawler.write_files(csv_location, token, output_csv_filename, output_json_filename)
+    # Crawl and write readme.md files & repo level data csv/json
+    crawler.process(csv_location, ghw, output_csv_filename, output_json_filename)
+
+    # Aggregate repo level data by organisation
+    in_repo_filename = "github_data.pkl"
+    output_org_csv_filename = "github_data_org.csv"
+    output_org_json_filename = "github_data_org.json"
+    org_aggregation.write_agg_data(in_repo_filename, output_org_csv_filename, output_org_json_filename)
 
 
 if __name__ == "__main__":
