@@ -1,5 +1,5 @@
 # Crazy Awesome Crypto
-A list of 39 [status-im](https://github.com/status-im) project repos ordered by stars.  
+A list of 93 [status-im](https://github.com/status-im) project repos ordered by stars.  
 
 Checkout the interactive version that you can filter and sort: 
 [https://awesome-crypto.infocruncher.com/](https://awesome-crypto.infocruncher.com/)  
@@ -9,17 +9,17 @@ Checkout the interactive version that you can filter and sort:
 a free (libre) open source, mobile OS for Ethereum  
 [https://status.im](https://status.im)  
 [https://github.com/status-im/status-react](https://github.com/status-im/status-react)  
-11 stars per week over 292 weeks  
-3,240 stars, 835 forks, 182 watches  
-created 2016-02-22, last commit 2021-09-30, main language Clojure  
+11 stars per week over 293 weeks  
+3,241 stars, 835 forks, 182 watches  
+created 2016-02-22, last commit 2021-10-04, main language Clojure  
 <sub><sup>android, blockchain, clojure, clojurescript, cryptocurrency, ethereum, ios, messenger, mobile, re-frame, react-native, react-native-app, reactnative, reagent, wallet</sup></sub>
 
 
 ### [react-native-desktop-qt](https://github.com/status-im/react-native-desktop-qt) by [status-im](https://github.com/status-im)  
 A Desktop port of React Native, driven by Qt, forked from Canonical  
 [https://github.com/status-im/react-native-desktop-qt](https://github.com/status-im/react-native-desktop-qt)  
-5.32 stars per week over 218 weeks  
-1,160 stars, 82 forks, 57 watches  
+5.31 stars per week over 218 weeks  
+1,161 stars, 83 forks, 57 watches  
 created 2017-07-28, last commit 2021-02-16, main language JavaScript  
 
 
@@ -27,9 +27,9 @@ created 2017-07-28, last commit 2021-02-16, main language JavaScript
 The Status module that consumes go-ethereum  
 [https://status.im](https://status.im)  
 [https://github.com/status-im/status-go](https://github.com/status-im/status-go)  
-2.19 stars per week over 276 weeks  
+2.19 stars per week over 277 weeks  
 606 stars, 203 forks, 73 watches  
-created 2016-06-13, last commit 2021-09-30, main language Go  
+created 2016-06-13, last commit 2021-10-04, main language Go  
 <sub><sup>blockchain, cryptocurrency, ethereum, go, golang</sup></sub>
 
 
@@ -37,8 +37,8 @@ created 2016-06-13, last commit 2021-09-30, main language Go
 Nimbus: an Ethereum 1.0 and 2.0 Client for Resource-Restricted Devices  
 [https://github.com/status-im/nimbus/blob/master/doc/Nimbus%20-%20An%20Ethereum%202.0%20Sharding%20Client_xt.md](https://github.com/status-im/nimbus/blob/master/doc/Nimbus%20-%20An%20Ethereum%202.0%20Sharding%20Client_xt.md)  
 [https://github.com/status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1)  
-2.12 stars per week over 195 weeks  
-413 stars, 63 forks, 56 watches  
+2.11 stars per week over 195 weeks  
+413 stars, 63 forks, 55 watches  
 created 2018-01-04, last commit 2021-09-29, main language Nim  
 <sub><sup>android, blockchain, ethereum, fluffy, ios, mobile, nim, nim-lang, nim-language, nimbus, portal-network, raspberry-pi</sup></sub>
 
@@ -47,8 +47,8 @@ created 2018-01-04, last commit 2021-09-29, main language Nim
 Nim implementation of the Ethereum 2.0 blockchain  
 [https://nimbus.guide/](https://nimbus.guide/)  
 [https://github.com/status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)  
-1.37 stars per week over 167 weeks  
-228 stars, 67 forks, 28 watches  
+1.38 stars per week over 167 weeks  
+231 stars, 67 forks, 29 watches  
 created 2018-07-20, last commit 2021-08-30, main language Nim  
 <sub><sup>beacon-chain, eth2, eth2-clients, ethereum, nim, nimbus, nimbus-eth2, proof-of-stake, serenity</sup></sub>
 
@@ -56,7 +56,7 @@ created 2018-07-20, last commit 2021-08-30, main language Nim
 ### [status-keycard](https://github.com/status-im/status-keycard) by [status-im](https://github.com/status-im)  
 Our Javacard Implementation for making secure transactions within Status and Ethereum  
 [https://github.com/status-im/status-keycard](https://github.com/status-im/status-keycard)  
-0.79 stars per week over 210 weeks  
+0.78 stars per week over 210 weeks  
 165 stars, 43 forks, 31 watches  
 created 2017-09-21, last commit 2021-03-16, main language Java  
 
@@ -64,7 +64,7 @@ created 2017-09-21, last commit 2021-03-16, main language Java
 ### [nim-chronos](https://github.com/status-im/nim-chronos) by [status-im](https://github.com/status-im)  
 Chronos - An efficient library for asynchronous programming  
 [https://github.com/status-im/nim-chronos](https://github.com/status-im/nim-chronos)  
-0.94 stars per week over 176 weeks  
+0.93 stars per week over 176 weeks  
 165 stars, 22 forks, 45 watches  
 created 2018-05-16, last commit 2021-09-27, main language Nim  
 <sub><sup>async, async-await, asynchronous-programming, nim, nim-language</sup></sub>
@@ -74,7 +74,7 @@ created 2018-05-16, last commit 2021-09-27, main language Nim
 Smart Contracts for the Status Contribution Period, along with Genesis and Network Tokens  
 [https://status.im](https://status.im)  
 [https://github.com/status-im/status-network-token](https://github.com/status-im/status-network-token)  
-0.62 stars per week over 230 weeks  
+0.62 stars per week over 231 weeks  
 143 stars, 56 forks, 33 watches  
 created 2017-04-29, last commit 2017-06-20, main language JavaScript  
 <sub><sup>blockchain, cryptocurrency, ethereum, smart-contracts, solidity</sup></sub>
@@ -83,7 +83,7 @@ created 2017-04-29, last commit 2017-06-20, main language JavaScript
 ### [nim-libp2p](https://github.com/status-im/nim-libp2p) by [status-im](https://github.com/status-im)  
 libp2p implementation in Nim  
 [https://github.com/status-im/nim-libp2p](https://github.com/status-im/nim-libp2p)  
-0.88 stars per week over 149 weeks  
+0.87 stars per week over 150 weeks  
 131 stars, 24 forks, 28 watches  
 created 2018-11-19, last commit 2021-09-27, main language Nim  
 <sub><sup>libp2p, nim, p2p, p2p-chat, p2p-network</sup></sub>
@@ -93,7 +93,7 @@ created 2018-11-19, last commit 2021-09-27, main language Nim
 Build a Better Web with Status  
 [https://status.im/](https://status.im/)  
 [https://github.com/status-im/status.im](https://github.com/status-im/status.im)  
-0.53 stars per week over 230 weeks  
+0.53 stars per week over 231 weeks  
 122 stars, 74 forks, 39 watches  
 created 2017-04-29, last commit 2021-09-29, main language JavaScript  
 <sub><sup>github-pages, website</sup></sub>
@@ -103,7 +103,7 @@ created 2017-04-29, last commit 2021-09-29, main language JavaScript
 Enable communities to distribute funds to push their cause forward.  
 [https://openbounty.status.im/](https://openbounty.status.im/)  
 [https://github.com/status-im/open-bounty](https://github.com/status-im/open-bounty)  
-0.45 stars per week over 267 weeks  
+0.45 stars per week over 268 weeks  
 120 stars, 36 forks, 55 watches  
 created 2016-08-13, last commit 2018-07-20, main language JavaScript  
 <sub><sup>blockchain, bot, clojure, ethereum</sup></sub>
@@ -121,16 +121,16 @@ created 2017-10-19, last commit 2019-07-23, main language HTML
 Status Desktop client made in Nim & QML  
 [http://status.im/](http://status.im/)  
 [https://github.com/status-im/status-desktop](https://github.com/status-im/status-desktop)  
-1.26 stars per week over 73 weeks  
-93 stars, 24 forks, 30 watches  
-created 2020-05-04, last commit 2021-09-30, main language QML  
+1.29 stars per week over 74 weeks  
+96 stars, 24 forks, 30 watches  
+created 2020-05-04, last commit 2021-10-01, main language QML  
 <sub><sup>decentralized, messenger, nim, privacy, qml</sup></sub>
 
 
 ### [nim-chronicles](https://github.com/status-im/nim-chronicles) by [status-im](https://github.com/status-im)  
 A crafty implementation of structured logging for Nim.  
 [https://github.com/status-im/nim-chronicles](https://github.com/status-im/nim-chronicles)  
-0.51 stars per week over 179 weeks  
+0.51 stars per week over 180 weeks  
 91 stars, 19 forks, 36 watches  
 created 2018-04-24, last commit 2021-06-28, main language Nim  
 
@@ -146,7 +146,7 @@ created 2017-10-11, last commit 2018-01-09, main language Python
 ### [doubleratchet](https://github.com/status-im/doubleratchet) by [status-im](https://github.com/status-im)  
 The Double Ratchet Algorithm implementation in Go  
 [https://github.com/status-im/doubleratchet](https://github.com/status-im/doubleratchet)  
-0.37 stars per week over 222 weeks  
+0.37 stars per week over 223 weeks  
 83 stars, 10 forks, 10 watches  
 created 2017-06-26, last commit 2019-10-31, main language Go  
 <sub><sup>cryptographic-algorithms, golang, golang-library</sup></sub>
@@ -179,7 +179,7 @@ created 2018-12-19, last commit 2021-09-13, main language Nim
 ### [clj-rn](https://github.com/status-im/clj-rn) by [status-im](https://github.com/status-im)  
  A utility for building ClojureScript-based React Native apps  
 [https://github.com/status-im/clj-rn](https://github.com/status-im/clj-rn)  
-0.31 stars per week over 176 weeks  
+0.31 stars per week over 177 weeks  
 55 stars, 7 forks, 43 watches  
 created 2018-05-15, last commit 2019-05-31, main language Clojure  
 <sub><sup>clj, clojure, deps, edn, reactnative</sup></sub>
@@ -197,7 +197,7 @@ created 2018-02-15, last commit 2021-07-01, main language Nim
 ### [nim-waku](https://github.com/status-im/nim-waku) by [status-im](https://github.com/status-im)  
 Waku node and protocol.  
 [https://github.com/status-im/nim-waku](https://github.com/status-im/nim-waku)  
-0.6 stars per week over 74 weeks  
+0.6 stars per week over 75 weeks  
 45 stars, 8 forks, 27 watches  
 created 2020-04-28, last commit 2021-09-28, main language Nim  
 
@@ -206,10 +206,19 @@ created 2020-04-28, last commit 2021-09-28, main language Nim
 Common utilities for Ethereum  
 [https://nimbus.status.im](https://nimbus.status.im)  
 [https://github.com/status-im/nim-eth](https://github.com/status-im/nim-eth)  
-0.3 stars per week over 138 weeks  
-42 stars, 14 forks, 18 watches  
+0.31 stars per week over 139 weeks  
+43 stars, 14 forks, 18 watches  
 created 2019-02-05, last commit 2021-09-29, main language Nim  
 <sub><sup>devp2p, discv5, eth, ethereum, nim, rlp, whisper</sup></sub>
+
+
+### [nim-websock](https://github.com/status-im/nim-websock) by [status-im](https://github.com/status-im)  
+Websocket for Nim  
+[https://github.com/status-im/nim-websock](https://github.com/status-im/nim-websock)  
+0.82 stars per week over 44 weeks  
+36 stars, 2 forks, 17 watches  
+created 2020-12-01, last commit 2021-09-23, main language Nim  
+<sub><sup>nim, nim-lang, websockets</sup></sub>
 
 
 ### [ETHPrize-interviews](https://github.com/status-im/ETHPrize-interviews) by [status-im](https://github.com/status-im)  
@@ -221,29 +230,20 @@ A repository for the ETHPrize website.
 created 2018-03-01, last commit 2019-07-11, main language HTML  
 
 
-### [nim-websock](https://github.com/status-im/nim-websock) by [status-im](https://github.com/status-im)  
-Websocket for Nim  
-[https://github.com/status-im/nim-websock](https://github.com/status-im/nim-websock)  
-0.83 stars per week over 43 weeks  
-36 stars, 2 forks, 17 watches  
-created 2020-12-01, last commit 2021-09-23, main language Nim  
-<sub><sup>nim, nim-lang, websockets</sup></sub>
-
-
 ### [keycard-cli](https://github.com/status-im/keycard-cli) by [status-im](https://github.com/status-im)  
 A command line tool and shell to manage keycards  
 [https://keycard.tech](https://keycard.tech)  
 [https://github.com/status-im/keycard-cli](https://github.com/status-im/keycard-cli)  
-0.26 stars per week over 132 weeks  
+0.26 stars per week over 133 weeks  
 35 stars, 9 forks, 8 watches  
-created 2019-03-18, last commit 2021-01-08, main language Go  
+created 2019-03-18, last commit 2021-10-04, main language Go  
 <sub><sup>command-line-tool, ethereum, hardware-wallet, keycard, smartcard, wallet</sup></sub>
 
 
 ### [nim-serialization](https://github.com/status-im/nim-serialization) by [status-im](https://github.com/status-im)  
 A modern and extensible serialization framework for Nim  
 [https://github.com/status-im/nim-serialization](https://github.com/status-im/nim-serialization)  
-0.23 stars per week over 150 weeks  
+0.22 stars per week over 151 weeks  
 34 stars, 5 forks, 18 watches  
 created 2018-11-11, last commit 2021-08-16, main language Nim  
 
@@ -259,52 +259,61 @@ created 2018-11-21, last commit 2021-09-08, main language Nim
 ### [js-waku](https://github.com/status-im/js-waku) by [status-im](https://github.com/status-im)  
 JavaScript implementation of Waku v2  
 [https://github.com/status-im/js-waku](https://github.com/status-im/js-waku)  
-1.1 stars per week over 29 weeks  
+1.08 stars per week over 29 weeks  
 32 stars, 7 forks, 10 watches  
 created 2021-03-11, last commit 2021-09-24, main language TypeScript  
+<sub><sup>censorship-resistance, communication, dappconnect, decentralized, ethereum, hacktoberfest, javascript, network, waku</sup></sub>
 
 
 ### [nim-json-serialization](https://github.com/status-im/nim-json-serialization) by [status-im](https://github.com/status-im)  
 Flexible JSON serialization not relying on run-time type information  
 [https://github.com/status-im/nim-json-serialization](https://github.com/status-im/nim-json-serialization)  
-0.21 stars per week over 150 weeks  
+0.2 stars per week over 151 weeks  
 31 stars, 6 forks, 17 watches  
 created 2018-11-11, last commit 2021-08-11, main language Nim  
-
-
-### [nim-graphql](https://github.com/status-im/nim-graphql) by [status-im](https://github.com/status-im)  
-Nim implementation of GraphQL with sugar and steroids  
-[https://github.com/status-im/nim-graphql](https://github.com/status-im/nim-graphql)  
-0.92 stars per week over 32 weeks  
-30 stars, 2 forks, 17 watches  
-created 2021-02-15, last commit 2021-09-20, main language Nim  
-<sub><sup>graphql, graphql-client, graphql-server, nim-graphql</sup></sub>
 
 
 ### [hackathon](https://github.com/status-im/hackathon) by [status-im](https://github.com/status-im)  
 Status API Hackathon  
 [http://hackathon.status.im](http://hackathon.status.im)  
 [https://github.com/status-im/hackathon](https://github.com/status-im/hackathon)  
-0.13 stars per week over 228 weeks  
+0.13 stars per week over 229 weeks  
 30 stars, 48 forks, 11 watches  
 created 2017-05-16, last commit 2019-06-10, main language JavaScript  
 <sub><sup>blockchain, embark, ethereum, truffle, web3</sup></sub>
 
 
+### [nim-graphql](https://github.com/status-im/nim-graphql) by [status-im](https://github.com/status-im)  
+Nim implementation of GraphQL with sugar and steroids  
+[https://github.com/status-im/nim-graphql](https://github.com/status-im/nim-graphql)  
+0.91 stars per week over 33 weeks  
+30 stars, 2 forks, 17 watches  
+created 2021-02-15, last commit 2021-09-20, main language Nim  
+<sub><sup>graphql, graphql-client, graphql-server, nim-graphql</sup></sub>
+
+
 ### [nim-quic](https://github.com/status-im/nim-quic) by [status-im](https://github.com/status-im)  
 QUIC for Nim  
 [https://github.com/status-im/nim-quic](https://github.com/status-im/nim-quic)  
-0.5 stars per week over 56 weeks  
-28 stars, 1 forks, 20 watches  
+0.53 stars per week over 56 weeks  
+30 stars, 1 forks, 20 watches  
 created 2020-09-03, last commit 2021-09-21, main language Nim  
 
 
 ### [nim-metrics](https://github.com/status-im/nim-metrics) by [status-im](https://github.com/status-im)  
 Nim metrics client library supporting the Prometheus monitoring toolkit, StatsD and Carbon  
 [https://github.com/status-im/nim-metrics](https://github.com/status-im/nim-metrics)  
-0.23 stars per week over 116 weeks  
+0.23 stars per week over 117 weeks  
 27 stars, 1 forks, 23 watches  
 created 2019-07-09, last commit 2021-07-15, main language Nim  
+
+
+### [status-electron](https://github.com/status-im/status-electron) by [status-im](https://github.com/status-im)  
+[OUTDATED NOT SUPPORTED] Status Electron (React Native Web and Electron)    
+[https://github.com/status-im/status-electron](https://github.com/status-im/status-electron)  
+0.13 stars per week over 203 weeks  
+27 stars, 9 forks, 50 watches  
+created 2017-11-10, last commit 2018-11-09, main language Clojure  
 
 
 ### [awesome-secure-messaging](https://github.com/status-im/awesome-secure-messaging) by [status-im](https://github.com/status-im)  
@@ -316,42 +325,487 @@ created 2018-11-29, last commit 2019-11-13, main language None
 <sub><sup>anonymity, awesome-list, censorship-resistance, messaging, privacy, security</sup></sub>
 
 
-### [status-electron](https://github.com/status-im/status-electron) by [status-im](https://github.com/status-im)  
-[OUTDATED NOT SUPPORTED] Status Electron (React Native Web and Electron)    
-[https://github.com/status-im/status-electron](https://github.com/status-im/status-electron)  
-0.13 stars per week over 203 weeks  
-27 stars, 9 forks, 50 watches  
-created 2017-11-10, last commit 2018-11-09, main language Clojure  
-
-
 ### [keycard-go](https://github.com/status-im/keycard-go) by [status-im](https://github.com/status-im)  
 Go pkg to interact with the Status Keycard  
 [https://keycard.status.im](https://keycard.status.im)  
 [https://github.com/status-im/keycard-go](https://github.com/status-im/keycard-go)  
 0.17 stars per week over 154 weeks  
 26 stars, 8 forks, 36 watches  
-created 2018-10-19, last commit 2021-09-11, main language Go  
+created 2018-10-19, last commit 2021-10-04, main language Go  
 <sub><sup>ethereum, hardware-wallet, keycard, smartcard, wallet</sup></sub>
+
+
+### [nim-rocksdb](https://github.com/status-im/nim-rocksdb) by [status-im](https://github.com/status-im)  
+Nim wrapper for RocksDB, a persistent key-value store for Flash and RAM Storage.  
+[https://github.com/status-im/nim-rocksdb](https://github.com/status-im/nim-rocksdb)  
+0.13 stars per week over 192 weeks  
+25 stars, 2 forks, 20 watches  
+created 2018-01-27, last commit 2020-07-20, main language Nim  
 
 
 ### [wiki.status.im](https://github.com/status-im/wiki.status.im) by [status-im](https://github.com/status-im)  
 It's the wiki... for Status  
 [https://wiki.status.im](https://wiki.status.im)  
 [https://github.com/status-im/wiki.status.im](https://github.com/status-im/wiki.status.im)  
-0.1 stars per week over 248 weeks  
+0.1 stars per week over 249 weeks  
 25 stars, 31 forks, 58 watches  
 created 2016-12-24, last commit 2018-09-30, main language HTML  
 <sub><sup>blockchain, cryptocurrency, ethereum, wiki</sup></sub>
 
 
-### [nim-rocksdb](https://github.com/status-im/nim-rocksdb) by [status-im](https://github.com/status-im)  
-Nim wrapper for RocksDB, a persistent key-value store for Flash and RAM Storage.  
-[https://github.com/status-im/nim-rocksdb](https://github.com/status-im/nim-rocksdb)  
-0.13 stars per week over 191 weeks  
-25 stars, 2 forks, 20 watches  
-created 2018-01-27, last commit 2020-07-20, main language Nim  
+### [nim-cookbook](https://github.com/status-im/nim-cookbook) by [status-im](https://github.com/status-im)  
+  
+[https://github.com/status-im/nim-cookbook](https://github.com/status-im/nim-cookbook)  
+0.22 stars per week over 106 weeks  
+24 stars, 0 forks, 22 watches  
+created 2019-09-18, last commit 2020-08-27, main language Nim  
 
 
-This file was automatically generated on 2021-10-01.  
+### [mingw-windows10-uwp](https://github.com/status-im/mingw-windows10-uwp) by [status-im](https://github.com/status-im)  
+Minimal Windows 10 Store ready sample of MinGW dll PInvoked from Windows 10 UWP application  
+[https://github.com/status-im/mingw-windows10-uwp](https://github.com/status-im/mingw-windows10-uwp)  
+0.11 stars per week over 212 weeks  
+23 stars, 3 forks, 6 watches  
+created 2017-09-12, last commit 2017-09-12, main language C#  
+<sub><sup>c, dll, mingw, mingw-w64, pinvoke, uwp, windows, windows-10, windows-store, windows-uwp, winrt</sup></sub>
+
+
+### [CryptoLife](https://github.com/status-im/CryptoLife) by [status-im](https://github.com/status-im)  
+A repo for all the #CryptoLife Hackathon submissions, The National House Smichov, Prague, 26-28th October 2018.  
+[https://github.com/status-im/CryptoLife](https://github.com/status-im/CryptoLife)  
+0.14 stars per week over 158 weeks  
+22 stars, 40 forks, 7 watches  
+created 2018-09-25, last commit 2018-10-16, main language None  
+
+
+### [nim-decimal](https://github.com/status-im/nim-decimal) by [status-im](https://github.com/status-im)  
+A correctly-rounded arbitrary precision decimal floating point arithmetic library  
+[https://github.com/status-im/nim-decimal](https://github.com/status-im/nim-decimal)  
+0.11 stars per week over 184 weeks  
+21 stars, 4 forks, 23 watches  
+created 2018-03-22, last commit 2021-01-05, main language C  
+
+
+### [status-teller-network](https://github.com/status-im/status-teller-network) by [status-im](https://github.com/status-im)  
+DApp which provides a platform for borderless, peer-to-peer, fiat-to-crypto echanges that allows Stakeholders to find nearby users to exchange their cash for digital assets and currency.  
+[https://teller.exchange/](https://teller.exchange/)  
+[https://github.com/status-im/status-teller-network](https://github.com/status-im/status-teller-network)  
+0.14 stars per week over 146 weeks  
+21 stars, 11 forks, 15 watches  
+created 2018-12-17, last commit 2020-07-28, main language JavaScript  
+
+
+### [status-chat-widget](https://github.com/status-im/status-chat-widget) by [status-im](https://github.com/status-im)  
+Easily embed a status chatroom in your website - outdated, please use https://github.com/status-im/js-waku  
+[https://github.com/status-im/status-chat-widget](https://github.com/status-im/status-chat-widget)  
+0.16 stars per week over 130 weeks  
+21 stars, 1 forks, 9 watches  
+created 2019-04-09, last commit 2019-04-12, main language JavaScript  
+
+
+### [ethereumj-personal](https://github.com/status-im/ethereumj-personal) by [status-im](https://github.com/status-im)  
+EthereumJ for Personal Devices DEPRECATED  
+[https://github.com/status-im/ethereumj-personal](https://github.com/status-im/ethereumj-personal)  
+0.06 stars per week over 331 weeks  
+20 stars, 15 forks, 12 watches  
+created 2015-05-28, last commit 2015-10-22, main language Java  
+
+
+### [nim-web3](https://github.com/status-im/nim-web3) by [status-im](https://github.com/status-im)  
+  
+[https://github.com/status-im/nim-web3](https://github.com/status-im/nim-web3)  
+0.14 stars per week over 145 weeks  
+20 stars, 2 forks, 16 watches  
+created 2018-12-21, last commit 2021-09-29, main language Nim  
+
+
+### [nim-daemon](https://github.com/status-im/nim-daemon) by [status-im](https://github.com/status-im)  
+Cross-platform process daemonization library for Nim language  
+[https://github.com/status-im/nim-daemon](https://github.com/status-im/nim-daemon)  
+0.11 stars per week over 179 weeks  
+19 stars, 1 forks, 22 watches  
+created 2018-04-26, last commit 2019-01-08, main language Nim  
+<sub><sup>bsd, daemon, daemonize, fork, linux, macos, unix, windows</sup></sub>
+
+
+### [react-native-status-keycard](https://github.com/status-im/react-native-status-keycard) by [status-im](https://github.com/status-im)  
+React Native library to interact with Status Keycard using NFC connection  
+[https://keycard.status.im](https://keycard.status.im)  
+[https://github.com/status-im/react-native-status-keycard](https://github.com/status-im/react-native-status-keycard)  
+0.12 stars per week over 149 weeks  
+18 stars, 11 forks, 39 watches  
+created 2018-11-22, last commit 2021-04-30, main language Java  
+<sub><sup>android, ios, keycard, nfc, nfc-card-reader, nfc-tag, react-native, status-im</sup></sub>
+
+
+### [vyper-debug](https://github.com/status-im/vyper-debug) by [status-im](https://github.com/status-im)  
+Easy to use Vyper debugger | vdb (https://github.com/ethereum/vyper)  
+[https://github.com/status-im/vyper-debug](https://github.com/status-im/vyper-debug)  
+0.11 stars per week over 168 weeks  
+18 stars, 9 forks, 5 watches  
+created 2018-07-11, last commit 2019-06-07, main language Python  
+
+
+### [nim-blscurve](https://github.com/status-im/nim-blscurve) by [status-im](https://github.com/status-im)  
+Nim implementation of BLS signature scheme (Boneh-Lynn-Shacham) over Barreto-Lynn-Scott (BLS) curve BLS12-381  
+[https://github.com/status-im/nim-blscurve](https://github.com/status-im/nim-blscurve)  
+0.11 stars per week over 166 weeks  
+18 stars, 5 forks, 21 watches  
+created 2018-07-26, last commit 2021-09-16, main language C  
+<sub><sup>bls, cryptography, elliptic-curve-arithmetic, elliptic-curve-cryptography, elliptic-curves, pairing, pairing-cryptography, signature-scheme</sup></sub>
+
+
+### [wallet](https://github.com/status-im/wallet) by [status-im](https://github.com/status-im)  
+  
+[https://github.com/status-im/wallet](https://github.com/status-im/wallet)  
+0.06 stars per week over 275 weeks  
+16 stars, 4 forks, 9 watches  
+created 2016-06-23, last commit 2017-04-11, main language CSS  
+
+
+### [ens-usernames](https://github.com/status-im/ens-usernames) by [status-im](https://github.com/status-im)  
+DApp to register usernames for Status Network  
+[https://github.com/status-im/ens-usernames](https://github.com/status-im/ens-usernames)  
+0.1 stars per week over 160 weeks  
+16 stars, 8 forks, 11 watches  
+created 2018-09-05, last commit 2020-07-24, main language JavaScript  
+<sub><sup>dapp, ens, ethereum</sup></sub>
+
+
+### [nim-http-utils](https://github.com/status-im/nim-http-utils) by [status-im](https://github.com/status-im)  
+Nim language HTTP helper procedures  
+[https://github.com/status-im/nim-http-utils](https://github.com/status-im/nim-http-utils)  
+0.09 stars per week over 169 weeks  
+16 stars, 5 forks, 18 watches  
+created 2018-07-10, last commit 2021-07-28, main language Nim  
+<sub><sup>http, nim, parser</sup></sub>
+
+
+### [athenaeum](https://github.com/status-im/athenaeum) by [status-im](https://github.com/status-im)  
+The Ethereum Research companion: research summary, impacts, specifications, status, resources, implementations  
+[https://github.com/status-im/athenaeum](https://github.com/status-im/athenaeum)  
+0.1 stars per week over 167 weeks  
+16 stars, 2 forks, 51 watches  
+created 2018-07-20, last commit 2018-11-12, main language None  
+
+
+### [whisper-tutorial](https://github.com/status-im/whisper-tutorial) by [status-im](https://github.com/status-im)  
+Whisper Tutorial using web3js  
+[https://github.com/status-im/whisper-tutorial](https://github.com/status-im/whisper-tutorial)  
+0.11 stars per week over 151 weeks  
+16 stars, 7 forks, 46 watches  
+created 2018-11-09, last commit 2018-11-25, main language JavaScript  
+<sub><sup>ethereum, nodejs, whisper</sup></sub>
+
+
+### [status-dev-cli](https://github.com/status-im/status-dev-cli) by [status-im](https://github.com/status-im)  
+Status command-line tools  
+[https://github.com/status-im/status-dev-cli](https://github.com/status-im/status-dev-cli)  
+0.06 stars per week over 243 weeks  
+15 stars, 7 forks, 50 watches  
+created 2017-02-02, last commit 2017-10-09, main language JavaScript  
+<sub><sup>blockchain, cryptography, dapp, ethereum, geth</sup></sub>
+
+
+### [status-keycard-java](https://github.com/status-im/status-keycard-java) by [status-im](https://github.com/status-im)  
+Java SDK for the Status Keycard  
+[https://github.com/status-im/status-keycard-java](https://github.com/status-im/status-keycard-java)  
+0.1 stars per week over 154 weeks  
+15 stars, 8 forks, 42 watches  
+created 2018-10-23, last commit 2020-11-09, main language Java  
+
+
+### [general-market-framework](https://github.com/status-im/general-market-framework) by [status-im](https://github.com/status-im)  
+A Generalised Market Framework for Ethereum  
+[https://github.com/status-im/general-market-framework](https://github.com/status-im/general-market-framework)  
+0.05 stars per week over 326 weeks  
+15 stars, 4 forks, 5 watches  
+created 2015-07-03, last commit 2015-07-30, main language Python  
+
+
+### [nimplay](https://github.com/status-im/nimplay) by [status-im](https://github.com/status-im)  
+Nim Ethereum Contract DSL. Targeting eWASM.  
+[https://github.com/status-im/nimplay](https://github.com/status-im/nimplay)  
+0.13 stars per week over 119 weeks  
+15 stars, 4 forks, 14 watches  
+created 2019-06-22, last commit 2020-01-21, main language Nim  
+
+
+### [liquid-funding](https://github.com/status-im/liquid-funding) by [status-im](https://github.com/status-im)  
+Dapp for delegating donations to projects  
+[https://assemble.fund/](https://assemble.fund/)  
+[https://github.com/status-im/liquid-funding](https://github.com/status-im/liquid-funding)  
+0.1 stars per week over 143 weeks  
+15 stars, 7 forks, 12 watches  
+created 2019-01-07, last commit 2020-06-16, main language JavaScript  
+<sub><sup>dapp, ethereum, funding</sup></sub>
+
+
+### [go-ethereum](https://github.com/status-im/go-ethereum) by [status-im](https://github.com/status-im)  
+Official golang implementation of the Ethereum protocol  
+[http://ethereum.github.io/go-ethereum/](http://ethereum.github.io/go-ethereum/)  
+[https://github.com/status-im/go-ethereum](https://github.com/status-im/go-ethereum)  
+0.05 stars per week over 279 weeks  
+14 stars, 7 forks, 23 watches  
+created 2016-05-30, last commit 2021-07-09, main language Go  
+
+
+### [geth_exporter](https://github.com/status-im/geth_exporter) by [status-im](https://github.com/status-im)  
+geth metrics exporter for Prometheus  
+[https://github.com/status-im/geth_exporter](https://github.com/status-im/geth_exporter)  
+0.08 stars per week over 176 weeks  
+14 stars, 2 forks, 8 watches  
+created 2018-05-18, last commit 2019-07-26, main language Go  
+<sub><sup>blockchain, ethereum, geth, go, golang, metrics, prometheus, prometheus-exporter</sup></sub>
+
+
+### [Keycard.swift](https://github.com/status-im/Keycard.swift) by [status-im](https://github.com/status-im)  
+  
+[https://github.com/status-im/Keycard.swift](https://github.com/status-im/Keycard.swift)  
+0.12 stars per week over 117 weeks  
+14 stars, 4 forks, 4 watches  
+created 2019-07-03, last commit 2021-04-30, main language Swift  
+
+
+### [nim-bearssl](https://github.com/status-im/nim-bearssl) by [status-im](https://github.com/status-im)  
+BearSSL wrapper in Nim  
+[https://github.com/status-im/nim-bearssl](https://github.com/status-im/nim-bearssl)  
+0.13 stars per week over 105 weeks  
+14 stars, 4 forks, 16 watches  
+created 2019-09-30, last commit 2021-06-07, main language C  
+
+
+### [nim-taskpools](https://github.com/status-im/nim-taskpools) by [status-im](https://github.com/status-im)  
+Lightweight, energy-efficient, easily auditable threadpool  
+[https://github.com/status-im/nim-taskpools](https://github.com/status-im/nim-taskpools)  
+0.99 stars per week over 14 weeks  
+14 stars, 1 forks, 16 watches  
+created 2021-06-28, last commit 2021-09-29, main language Nim  
+
+
+### [autobounty](https://github.com/status-im/autobounty) by [status-im](https://github.com/status-im)  
+Github bot that automatically funds https://openbounty.status.im bounties  
+[https://github.com/status-im/autobounty](https://github.com/status-im/autobounty)  
+0.07 stars per week over 194 weeks  
+13 stars, 8 forks, 38 watches  
+created 2018-01-10, last commit 2019-02-11, main language JavaScript  
+
+
+### [snt-gas-relay](https://github.com/status-im/snt-gas-relay) by [status-im](https://github.com/status-im)  
+SNT Gas Relay  
+[https://github.com/status-im/snt-gas-relay](https://github.com/status-im/snt-gas-relay)  
+0.08 stars per week over 167 weeks  
+13 stars, 5 forks, 39 watches  
+created 2018-07-20, last commit 2018-12-03, main language JavaScript  
+
+
+### [nescience](https://github.com/status-im/nescience) by [status-im](https://github.com/status-im)  
+A Zero-Knowledge Toolkit  
+[https://github.com/status-im/nescience](https://github.com/status-im/nescience)  
+0.25 stars per week over 52 weeks  
+13 stars, 0 forks, 6 watches  
+created 2020-10-05, last commit 2020-10-15, main language Nim  
+
+
+### [bigbrother-specs](https://github.com/status-im/bigbrother-specs) by [status-im](https://github.com/status-im)  
+Research and specification for Big Brother protocol  
+[https://status-im.github.io/bigbrother-specs/](https://status-im.github.io/bigbrother-specs/)  
+[https://github.com/status-im/bigbrother-specs](https://github.com/status-im/bigbrother-specs)  
+0.1 stars per week over 131 weeks  
+13 stars, 3 forks, 13 watches  
+created 2019-03-28, last commit 2019-07-17, main language None  
+<sub><sup>data-sync, messaging, mixnet, p2p, p2p-messaging</sup></sub>
+
+
+### [keycard-installer-android](https://github.com/status-im/keycard-installer-android) by [status-im](https://github.com/status-im)  
+discontinued, use https://github.com/status-im/keycard-cli - Keycard applet installer over NFC  
+[https://github.com/status-im/keycard-installer-android](https://github.com/status-im/keycard-installer-android)  
+0.08 stars per week over 161 weeks  
+13 stars, 2 forks, 10 watches  
+created 2018-08-30, last commit 2019-05-01, main language Java  
+
+
+### [move](https://github.com/status-im/move) by [status-im](https://github.com/status-im)  
+MOVΞ - A Decentralised Ride Sharing DApp  
+[https://github.com/status-im/move](https://github.com/status-im/move)  
+0.04 stars per week over 322 weeks  
+13 stars, 4 forks, 5 watches  
+created 2015-07-30, last commit 2015-07-30, main language JavaScript  
+
+
+### [murmur](https://github.com/status-im/murmur) by [status-im](https://github.com/status-im)  
+WIP - Whisper node / client implementation built in javascript  
+[https://github.com/status-im/murmur](https://github.com/status-im/murmur)  
+0.08 stars per week over 150 weeks  
+12 stars, 1 forks, 13 watches  
+created 2018-11-16, last commit 2019-02-17, main language JavaScript  
+
+
+### [react-native-webview-bridge](https://github.com/status-im/react-native-webview-bridge) by [status-im](https://github.com/status-im)  
+React Native Webview with Javascript Bridge   
+[https://github.com/status-im/react-native-webview-bridge](https://github.com/status-im/react-native-webview-bridge)  
+0.05 stars per week over 250 weeks  
+12 stars, 16 forks, 26 watches  
+created 2016-12-15, last commit 2019-02-26, main language Java  
+
+
+### [dreddit-devcon](https://github.com/status-im/dreddit-devcon) by [status-im](https://github.com/status-im)  
+  
+[https://github.com/status-im/dreddit-devcon](https://github.com/status-im/dreddit-devcon)  
+0.08 stars per week over 152 weeks  
+12 stars, 0 forks, 9 watches  
+created 2018-10-31, last commit 2018-11-01, main language JavaScript  
+
+
+### [nim-style-guide](https://github.com/status-im/nim-style-guide) by [status-im](https://github.com/status-im)  
+Status style guid for the Nim language  
+[https://github.com/status-im/nim-style-guide](https://github.com/status-im/nim-style-guide)  
+0.33 stars per week over 35 weeks  
+12 stars, 2 forks, 19 watches  
+created 2021-01-27, last commit 2021-07-12, main language CSS  
+
+
+### [nim-libbacktrace](https://github.com/status-im/nim-libbacktrace) by [status-im](https://github.com/status-im)  
+Nim wrapper for libbacktrace  
+[https://github.com/status-im/nim-libbacktrace](https://github.com/status-im/nim-libbacktrace)  
+0.12 stars per week over 93 weeks  
+11 stars, 2 forks, 16 watches  
+created 2019-12-18, last commit 2021-09-09, main language C  
+
+
+### [the-explainers](https://github.com/status-im/the-explainers) by [status-im](https://github.com/status-im)  
+The Explainers Initiative is an open effort to bring technical content regarding the Serenity upgrade of the Ethereum blockchain closer to non-technical and semi-technical communities  
+[https://github.com/status-im/the-explainers](https://github.com/status-im/the-explainers)  
+0.07 stars per week over 150 weeks  
+11 stars, 6 forks, 9 watches  
+created 2018-11-14, last commit 2019-08-06, main language None  
+
+
+### [account-contracts](https://github.com/status-im/account-contracts) by [status-im](https://github.com/status-im)  
+Key managers, recovery, gas abstraction and self-sovereign identity for web3 universal login.  
+[https://github.com/status-im/account-contracts](https://github.com/status-im/account-contracts)  
+0.1 stars per week over 106 weeks  
+11 stars, 7 forks, 9 watches  
+created 2019-09-18, last commit 2020-06-23, main language Solidity  
+<sub><sup>blockchain, dapp, ethereum, sso-solution</sup></sub>
+
+
+### [nim-evmc](https://github.com/status-im/nim-evmc) by [status-im](https://github.com/status-im)  
+Nim EVMC - Ethereum VM binary compatible interface  
+[https://github.com/status-im/nim-evmc](https://github.com/status-im/nim-evmc)  
+0.06 stars per week over 191 weeks  
+11 stars, 2 forks, 19 watches  
+created 2018-02-02, last commit 2021-06-28, main language Nim  
+
+
+### [nim-eth-p2p](https://github.com/status-im/nim-eth-p2p) by [status-im](https://github.com/status-im)  
+Nim Ethereum P2P protocol implementation  
+[https://github.com/status-im/nim-eth-p2p](https://github.com/status-im/nim-eth-p2p)  
+0.06 stars per week over 184 weeks  
+11 stars, 4 forks, 47 watches  
+created 2018-03-27, last commit 2019-03-26, main language Nim  
+
+
+### [status-github-bot](https://github.com/status-im/status-github-bot) by [status-im](https://github.com/status-im)  
+A bot for github  
+[https://status-github-bot.herokuapp.com/](https://status-github-bot.herokuapp.com/)  
+[https://github.com/status-im/status-github-bot](https://github.com/status-im/status-github-bot)  
+0.06 stars per week over 195 weeks  
+11 stars, 12 forks, 36 watches  
+created 2018-01-08, last commit 2020-04-17, main language JavaScript  
+
+
+### [nimbus-launch](https://github.com/status-im/nimbus-launch) by [status-im](https://github.com/status-im)  
+Jumpstart your Nim project at Status  
+[https://github.com/status-im/nimbus-launch](https://github.com/status-im/nimbus-launch)  
+0.06 stars per week over 185 weeks  
+11 stars, 4 forks, 21 watches  
+created 2018-03-14, last commit 2019-08-24, main language Nim  
+
+
+### [syng-client](https://github.com/status-im/syng-client) by [status-im](https://github.com/status-im)  
+The Mobile Client for the Ethereum Network DEPRECATED  
+[https://github.com/status-im/syng-client](https://github.com/status-im/syng-client)  
+0.03 stars per week over 322 weeks  
+11 stars, 3 forks, 7 watches  
+created 2015-07-30, last commit 2015-11-14, main language Java  
+
+
+### [pluto](https://github.com/status-im/pluto) by [status-im](https://github.com/status-im)  
+  
+[https://status-im.github.io/pluto/](https://status-im.github.io/pluto/)  
+[https://github.com/status-im/pluto](https://github.com/status-im/pluto)  
+0.06 stars per week over 189 weeks  
+11 stars, 2 forks, 22 watches  
+created 2018-02-17, last commit 2019-04-19, main language Clojure  
+<sub><sup>clojure, clojurescript, edn, ethereum, ipfs, web3</sup></sub>
+
+
+### [embark-status](https://github.com/status-im/embark-status) by [status-im](https://github.com/status-im)  
+Provides an ability to debug Embark DApps in Status  
+[https://github.com/status-im/embark-status](https://github.com/status-im/embark-status)  
+0.05 stars per week over 238 weeks  
+11 stars, 4 forks, 47 watches  
+created 2017-03-09, last commit 2019-03-20, main language JavaScript  
+
+
+### [github-oracle](https://github.com/status-im/github-oracle) by [status-im](https://github.com/status-im)  
+Contract using Oraclize that mint tokens by github commit stats.  
+[https://github.com/status-im/github-oracle](https://github.com/status-im/github-oracle)  
+0.04 stars per week over 238 weeks  
+10 stars, 5 forks, 5 watches  
+created 2017-03-13, last commit 2017-05-19, main language Python  
+
+
+### [nim-toml-serialization](https://github.com/status-im/nim-toml-serialization) by [status-im](https://github.com/status-im)  
+Flexible TOML serialization [not] relying on run-time type information.  
+[https://github.com/status-im/nim-toml-serialization](https://github.com/status-im/nim-toml-serialization)  
+0.16 stars per week over 60 weeks  
+10 stars, 0 forks, 17 watches  
+created 2020-08-06, last commit 2021-06-03, main language Nim  
+<sub><sup>configuration-file, nim, parser, serialization, serializer, toml</sup></sub>
+
+
+### [status-fiddle](https://github.com/status-im/status-fiddle) by [status-im](https://github.com/status-im)  
+Online UI editor for status-react  
+[https://github.com/status-im/status-fiddle](https://github.com/status-im/status-fiddle)  
+0.05 stars per week over 197 weeks  
+10 stars, 8 forks, 42 watches  
+created 2017-12-26, last commit 2019-07-11, main language JavaScript  
+
+
+### [status-js-desktop](https://github.com/status-im/status-js-desktop) by [status-im](https://github.com/status-im)  
+A Status client reference implementation using status-js  
+[https://github.com/status-im/status-js-desktop](https://github.com/status-im/status-js-desktop)  
+0.07 stars per week over 151 weeks  
+10 stars, 2 forks, 10 watches  
+created 2018-11-08, last commit 2018-12-20, main language JavaScript  
+
+
+### [nimqml](https://github.com/status-im/nimqml) by [status-im](https://github.com/status-im)  
+Qt Qml bindings for the Nim programming language  
+[https://github.com/status-im/nimqml](https://github.com/status-im/nimqml)  
+0.14 stars per week over 72 weeks  
+10 stars, 4 forks, 3 watches  
+created 2020-05-16, last commit 2021-09-20, main language Nim  
+
+
+### [status-console-client](https://github.com/status-im/status-console-client) by [status-im](https://github.com/status-im)  
+Status messaging console user interface  
+[https://github.com/status-im/status-console-client](https://github.com/status-im/status-console-client)  
+0.07 stars per week over 143 weeks  
+10 stars, 2 forks, 10 watches  
+created 2019-01-08, last commit 2020-01-07, main language Go  
+
+
+### [trustdavis](https://github.com/status-im/trustdavis) by [status-im](https://github.com/status-im)  
+TrustDavis: Reputation and Identity through P2P Insurance  
+[https://github.com/status-im/trustdavis](https://github.com/status-im/trustdavis)  
+0.03 stars per week over 338 weeks  
+10 stars, 3 forks, 5 watches  
+created 2015-04-14, last commit 2015-06-15, main language JavaScript  
+
+
+This file was automatically generated on 2021-10-05.  
 
 To curate your own github list, simply clone and change the input csv file.  

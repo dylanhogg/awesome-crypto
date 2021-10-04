@@ -1,5 +1,5 @@
 # Crazy Awesome Crypto
-A list of 2 [kusamanetwork](https://github.com/kusamanetwork) project repos ordered by stars.  
+A list of 3 [kusamanetwork](https://github.com/kusamanetwork) project repos ordered by stars.  
 
 Checkout the interactive version that you can filter and sort: 
 [https://awesome-crypto.infocruncher.com/](https://awesome-crypto.infocruncher.com/)  
@@ -22,6 +22,15 @@ Kusama user guide
 created 2019-07-10, last commit 2020-07-28, main language HTML  
 
 
-This file was automatically generated on 2021-10-01.  
+### [KSM-dapp](https://github.com/kusamanetwork/KSM-dapp) by [kusamanetwork](https://github.com/kusamanetwork)  
+Kusama claiming DApp  
+[https://claim.kusama.network](https://claim.kusama.network)  
+[https://github.com/kusamanetwork/KSM-dapp](https://github.com/kusamanetwork/KSM-dapp)  
+0.11 stars per week over 118 weeks  
+13 stars, 3 forks, 4 watches  
+created 2019-06-28, last commit 2019-10-22, main language JavaScript  
+
+
+This file was automatically generated on 2021-10-05.  
 
 To curate your own github list, simply clone and change the input csv file.  

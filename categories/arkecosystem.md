@@ -1,5 +1,5 @@
 # Crazy Awesome Crypto
-A list of 5 [ArkEcosystem](https://github.com/ArkEcosystem) project repos ordered by stars.  
+A list of 11 [ArkEcosystem](https://github.com/ArkEcosystem) project repos ordered by stars.  
 
 Checkout the interactive version that you can filter and sort: 
 [https://awesome-crypto.infocruncher.com/](https://awesome-crypto.infocruncher.com/)  
@@ -9,8 +9,8 @@ Checkout the interactive version that you can filter and sort:
 The ARK Core Blockchain Framework. Check https://learn.ark.dev for more information.  
 [https://ark.io](https://ark.io)  
 [https://github.com/ArkEcosystem/core](https://github.com/ArkEcosystem/core)  
-1.51 stars per week over 201 weeks  
-303 stars, 306 forks, 37 watches  
+1.5 stars per week over 201 weeks  
+303 stars, 305 forks, 37 watches  
 created 2017-11-22, last commit 2021-09-24, main language TypeScript  
 <sub><sup>ark, blockchain, crypto, dpos, modular-architecture, nodejs, smartbridge, typescript</sup></sub>
 
@@ -19,7 +19,7 @@ created 2017-11-22, last commit 2021-09-24, main language TypeScript
 :computer: Multi Platform ARK Desktop Wallet  
 [https://github.com/PayvoHQ/wallet](https://github.com/PayvoHQ/wallet)  
 [https://github.com/ArkEcosystem/desktop-wallet](https://github.com/ArkEcosystem/desktop-wallet)  
-1.13 stars per week over 254 weeks  
+1.13 stars per week over 255 weeks  
 289 stars, 214 forks, 47 watches  
 created 2016-11-13, last commit 2021-07-07, main language TypeScript  
 <sub><sup>ark, blockchain, cryptocurrency, wallet</sup></sub>
@@ -52,6 +52,61 @@ created 2017-01-26, last commit 2021-09-06, main language None
 <sub><sup>ark, blockchain, cryptocurrency</sup></sub>
 
 
-This file was automatically generated on 2021-10-01.  
+### [paper-wallet](https://github.com/ArkEcosystem/paper-wallet) by [ArkEcosystem](https://github.com/ArkEcosystem)  
+The official Paper Wallet for the ARK Blockchain.  
+[https://arkecosystem.github.io/paper-wallet/](https://arkecosystem.github.io/paper-wallet/)  
+[https://github.com/ArkEcosystem/paper-wallet](https://github.com/ArkEcosystem/paper-wallet)  
+0.09 stars per week over 250 weeks  
+22 stars, 32 forks, 13 watches  
+created 2016-12-14, last commit 2021-10-01, main language Vue  
+<sub><sup>ark, blockchain, cryptocurrency, wallet</sup></sub>
+
+
+### [qrcode](https://github.com/ArkEcosystem/qrcode) by [ArkEcosystem](https://github.com/ArkEcosystem)  
+A web component to generate QR codes for ARK payments.  
+[https://github.com/ArkEcosystem/qrcode](https://github.com/ArkEcosystem/qrcode)  
+0.09 stars per week over 193 weeks  
+17 stars, 13 forks, 4 watches  
+created 2018-01-23, last commit 2021-10-01, main language TypeScript  
+<sub><sup>ark, qr-code</sup></sub>
+
+
+### [python-client](https://github.com/ArkEcosystem/python-client) by [ArkEcosystem](https://github.com/ArkEcosystem)  
+A simple Python API client for the ARK Blockchain.  
+[https://github.com/ArkEcosystem/python-client](https://github.com/ArkEcosystem/python-client)  
+0.09 stars per week over 173 weeks  
+15 stars, 18 forks, 6 watches  
+created 2018-06-08, last commit 2021-09-21, main language Python  
+<sub><sup>api, ark, blockchain, client, crypto, python</sup></sub>
+
+
+### [ledger](https://github.com/ArkEcosystem/ledger) by [ArkEcosystem](https://github.com/ArkEcosystem)  
+A Ledger Hardware Wallet Application in C for the ARK Blockchain.  
+[https://github.com/ArkEcosystem/ledger](https://github.com/ArkEcosystem/ledger)  
+0.06 stars per week over 223 weeks  
+14 stars, 20 forks, 11 watches  
+created 2017-06-22, last commit 2021-08-27, main language C  
+<sub><sup>ark, blockchain, c, hardware, ledger, nanos, nanox, wallet</sup></sub>
+
+
+### [cpp-crypto](https://github.com/ArkEcosystem/cpp-crypto) by [ArkEcosystem](https://github.com/ArkEcosystem)  
+A simple Cryptography Implementation in C++ for the Ark Blockchain.  
+[https://github.com/ArkEcosystem/cpp-crypto](https://github.com/ArkEcosystem/cpp-crypto)  
+0.08 stars per week over 154 weeks  
+12 stars, 10 forks, 13 watches  
+created 2018-10-19, last commit 2020-03-09, main language C++  
+<sub><sup>ark, blockchain, cmake, cpp, crypto, dpos</sup></sub>
+
+
+### [cpp-client](https://github.com/ArkEcosystem/cpp-client) by [ArkEcosystem](https://github.com/ArkEcosystem)  
+A simple C++ API client for the Ark Blockchain.  
+[https://github.com/ArkEcosystem/cpp-client](https://github.com/ArkEcosystem/cpp-client)  
+0.06 stars per week over 154 weeks  
+10 stars, 14 forks, 11 watches  
+created 2018-10-19, last commit 2020-11-23, main language C++  
+<sub><sup>ark, blockchain, cmake, cpp, crypto, dpos</sup></sub>
+
+
+This file was automatically generated on 2021-10-05.  
 
 To curate your own github list, simply clone and change the input csv file.  

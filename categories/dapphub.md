@@ -1,5 +1,5 @@
 # Crazy Awesome Crypto
-A list of 17 [dapphub](https://github.com/dapphub) project repos ordered by stars.  
+A list of 29 [dapphub](https://github.com/dapphub) project repos ordered by stars.  
 
 Checkout the interactive version that you can filter and sort: 
 [https://awesome-crypto.infocruncher.com/](https://awesome-crypto.infocruncher.com/)  
@@ -9,8 +9,8 @@ Checkout the interactive version that you can filter and sort:
 Dapp, Seth, Hevm, and more  
 [https://dapp.tools](https://dapp.tools)  
 [https://github.com/dapphub/dapptools](https://github.com/dapphub/dapptools)  
-4.37 stars per week over 172 weeks  
-753 stars, 157 forks, 43 watches  
+4.45 stars per week over 173 weeks  
+770 stars, 157 forks, 43 watches  
 created 2018-06-12, last commit 2021-09-23, main language Haskell  
 <sub><sup>dapp, ethereum, evm, nix, solc, tools</sup></sub>
 
@@ -19,8 +19,8 @@ created 2018-06-12, last commit 2021-09-23, main language Haskell
 Composable building blocks for Ethereum contracts  
 [http://dapp.tools/dappsys](http://dapp.tools/dappsys)  
 [https://github.com/dapphub/dappsys](https://github.com/dapphub/dappsys)  
-1.29 stars per week over 315 weeks  
-407 stars, 79 forks, 30 watches  
+1.29 stars per week over 316 weeks  
+409 stars, 79 forks, 30 watches  
 created 2015-09-15, last commit 2021-07-29, main language Nix  
 <sub><sup>dappsys, ethereum, solidity</sup></sub>
 
@@ -28,7 +28,7 @@ created 2015-09-15, last commit 2021-07-29, main language Nix
 ### [dapple](https://github.com/dapphub/dapple) by [dapphub](https://github.com/dapphub)  
 EVM contract system developer multitool  
 [https://github.com/dapphub/dapple](https://github.com/dapphub/dapple)  
-0.94 stars per week over 315 weeks  
+0.94 stars per week over 316 weeks  
 296 stars, 65 forks, 23 watches  
 created 2015-09-14, last commit 2017-05-13, main language JavaScript  
 
@@ -46,7 +46,7 @@ created 2017-02-09, last commit 2018-06-13, main language None
 a proxy object that can compose transactions on owner's behalf  
 [https://dapp.tools/dappsys/ds-proxy.html](https://dapp.tools/dappsys/ds-proxy.html)  
 [https://github.com/dapphub/ds-proxy](https://github.com/dapphub/ds-proxy)  
-0.68 stars per week over 249 weeks  
+0.68 stars per week over 250 weeks  
 169 stars, 43 forks, 12 watches  
 created 2016-12-20, last commit 2021-07-29, main language Solidity  
 <sub><sup>dappsys, ethereum, proxy, solidity</sup></sub>
@@ -56,7 +56,7 @@ created 2016-12-20, last commit 2021-07-29, main language Solidity
 (OLD REPO) The command-line Ethereum army knife by DappHub  
 [https://dapp.tools](https://dapp.tools)  
 [https://github.com/dapphub/seth](https://github.com/dapphub/seth)  
-0.54 stars per week over 280 weeks  
+0.54 stars per week over 281 weeks  
 151 stars, 25 forks, 9 watches  
 created 2016-05-16, last commit 2019-01-24, main language None  
 
@@ -66,7 +66,7 @@ Safe arithmetic
 [https://dapp.tools/dappsys/ds-math.html](https://dapp.tools/dappsys/ds-math.html)  
 [https://github.com/dapphub/ds-math](https://github.com/dapphub/ds-math)  
 0.62 stars per week over 235 weeks  
-145 stars, 32 forks, 13 watches  
+146 stars, 32 forks, 13 watches  
 created 2017-03-29, last commit 2021-07-29, main language Solidity  
 <sub><sup>arithmetic, dappsys, ethereum, solidity</sup></sub>
 
@@ -75,8 +75,8 @@ created 2017-03-29, last commit 2021-07-29, main language Solidity
 A simple and sufficient ERC20 implementation  
 [https://dapp.tools/dappsys/ds-token.html](https://dapp.tools/dappsys/ds-token.html)  
 [https://github.com/dapphub/ds-token](https://github.com/dapphub/ds-token)  
-0.52 stars per week over 267 weeks  
-138 stars, 56 forks, 16 watches  
+0.52 stars per week over 268 weeks  
+139 stars, 56 forks, 16 watches  
 created 2016-08-15, last commit 2021-07-29, main language Solidity  
 <sub><sup>dappsys, erc20, ethereum, solidity</sup></sub>
 
@@ -85,7 +85,7 @@ created 2016-08-15, last commit 2021-07-29, main language Solidity
 ERC20 wrapper over the Dai Savings Rate  
 [https://chai.money](https://chai.money)  
 [https://github.com/dapphub/chai](https://github.com/dapphub/chai)  
-1.27 stars per week over 97 weeks  
+1.26 stars per week over 97 weeks  
 123 stars, 21 forks, 15 watches  
 created 2019-11-21, last commit 2020-02-18, main language Solidity  
 <sub><sup>chai, defi, stablecoin</sup></sub>
@@ -104,7 +104,7 @@ created 2017-02-09, last commit 2018-07-25, main language None
 ### [klab](https://github.com/dapphub/klab) by [dapphub](https://github.com/dapphub)  
 K framework proof explorer & smart contract specification format  
 [https://github.com/dapphub/klab](https://github.com/dapphub/klab)  
-0.61 stars per week over 179 weeks  
+0.61 stars per week over 180 weeks  
 109 stars, 30 forks, 16 watches  
 created 2018-04-23, last commit 2021-05-11, main language JavaScript  
 
@@ -113,7 +113,7 @@ created 2018-04-23, last commit 2021-05-11, main language JavaScript
 Updatable, unobtrusive Solidity authorization pattern  
 [https://dapp.tools/dappsys/ds-auth.html](https://dapp.tools/dappsys/ds-auth.html)  
 [https://github.com/dapphub/ds-auth](https://github.com/dapphub/ds-auth)  
-0.35 stars per week over 269 weeks  
+0.34 stars per week over 269 weeks  
 93 stars, 34 forks, 13 watches  
 created 2016-08-04, last commit 2021-07-29, main language Solidity  
 <sub><sup>authorization, dappsys, ethereum, solidity</sup></sub>
@@ -123,7 +123,7 @@ created 2016-08-04, last commit 2021-07-29, main language Solidity
 Dai Automated Clearing House  
 [https://stablecoin.services](https://stablecoin.services)  
 [https://github.com/dapphub/ds-dach](https://github.com/dapphub/ds-dach)  
-0.22 stars per week over 171 weeks  
+0.22 stars per week over 172 weeks  
 38 stars, 7 forks, 10 watches  
 created 2018-06-17, last commit 2020-01-30, main language Shell  
 <sub><sup>chai, dai, defi, uniswap</sup></sub>
@@ -132,7 +132,7 @@ created 2018-06-17, last commit 2020-01-30, main language Shell
 ### [k-dss](https://github.com/dapphub/k-dss) by [dapphub](https://github.com/dapphub)  
 formal verification of multicollateral dai in the K framework  
 [https://github.com/dapphub/k-dss](https://github.com/dapphub/k-dss)  
-0.21 stars per week over 165 weeks  
+0.2 stars per week over 166 weeks  
 34 stars, 19 forks, 16 watches  
 created 2018-07-31, last commit 2019-09-18, main language GCC Machine Description  
 
@@ -140,7 +140,7 @@ created 2018-07-31, last commit 2019-09-18, main language GCC Machine Descriptio
 ### [ds-test](https://github.com/dapphub/ds-test) by [dapphub](https://github.com/dapphub)  
 Assertions, equality checks and other test helpers  
 [https://github.com/dapphub/ds-test](https://github.com/dapphub/ds-test)  
-0.13 stars per week over 252 weeks  
+0.13 stars per week over 253 weeks  
 32 stars, 24 forks, 10 watches  
 created 2016-11-27, last commit 2021-07-29, main language Solidity  
 
@@ -156,11 +156,116 @@ created 2016-03-03, last commit 2017-03-09, main language Makefile
 ### [ethrun](https://github.com/dapphub/ethrun) by [dapphub](https://github.com/dapphub)  
 Directly run EVM bytecode (using Parity technology)  
 [https://github.com/dapphub/ethrun](https://github.com/dapphub/ethrun)  
-0.1 stars per week over 252 weeks  
+0.1 stars per week over 253 weeks  
 26 stars, 10 forks, 6 watches  
 created 2016-11-27, last commit 2017-07-11, main language Rust  
 
 
-This file was automatically generated on 2021-10-01.  
+### [dappsys-monolithic](https://github.com/dapphub/dappsys-monolithic) by [dapphub](https://github.com/dapphub)  
+Dappsys for all  
+[http://dapp.tools/dappsys](http://dapp.tools/dappsys)  
+[https://github.com/dapphub/dappsys-monolithic](https://github.com/dapphub/dappsys-monolithic)  
+0.1 stars per week over 229 weeks  
+23 stars, 15 forks, 8 watches  
+created 2017-05-10, last commit 2018-12-14, main language Solidity  
+
+
+### [ds-group](https://github.com/dapphub/ds-group) by [dapphub](https://github.com/dapphub)  
+Multisig with a command-line interface  
+[https://dapp.tools/dappsys/ds-multisig.html](https://dapp.tools/dappsys/ds-multisig.html)  
+[https://github.com/dapphub/ds-group](https://github.com/dapphub/ds-group)  
+0.08 stars per week over 269 weeks  
+21 stars, 3 forks, 6 watches  
+created 2016-08-05, last commit 2018-11-22, main language Shell  
+<sub><sup>dappsys, ethereum, multisig, solidity</sup></sub>
+
+
+### [ds-vault](https://github.com/dapphub/ds-vault) by [dapphub](https://github.com/dapphub)  
+DSAuth-protected ERC20 token vault  
+[https://dapp.tools/dappsys/ds-vault.html](https://dapp.tools/dappsys/ds-vault.html)  
+[https://github.com/dapphub/ds-vault](https://github.com/dapphub/ds-vault)  
+0.07 stars per week over 265 weeks  
+19 stars, 9 forks, 10 watches  
+created 2016-08-31, last commit 2021-07-29, main language Solidity  
+<sub><sup>dappsys, erc20, ethereum, solidity</sup></sub>
+
+
+### [erc20](https://github.com/dapphub/erc20) by [dapphub](https://github.com/dapphub)  
+erc20 interface definition container package  
+[https://github.com/dapphub/erc20](https://github.com/dapphub/erc20)  
+0.06 stars per week over 284 weeks  
+18 stars, 19 forks, 4 watches  
+created 2016-04-24, last commit 2021-08-24, main language Solidity  
+
+
+### [ds-guard](https://github.com/dapphub/ds-guard) by [dapphub](https://github.com/dapphub)  
+Whitelist DSAuthority for use with DSAuth  
+[https://dapp.tools/dappsys/ds-guard.html](https://dapp.tools/dappsys/ds-guard.html)  
+[https://github.com/dapphub/ds-guard](https://github.com/dapphub/ds-guard)  
+0.06 stars per week over 267 weeks  
+16 stars, 14 forks, 5 watches  
+created 2016-08-22, last commit 2021-07-29, main language Solidity  
+<sub><sup>authorization, dappsys, ds-auth, ethereum, solidity</sup></sub>
+
+
+### [ds-chief](https://github.com/dapphub/ds-chief) by [dapphub](https://github.com/dapphub)  
+approval voting to select who wears the hat by consensus  
+[https://github.com/dapphub/ds-chief](https://github.com/dapphub/ds-chief)  
+0.07 stars per week over 217 weeks  
+16 stars, 28 forks, 10 watches  
+created 2017-08-08, last commit 2020-06-29, main language Solidity  
+
+
+### [keeper](https://github.com/dapphub/keeper) by [dapphub](https://github.com/dapphub)  
+Admin toolkit for incentive-following software daemons  
+[https://github.com/dapphub/keeper](https://github.com/dapphub/keeper)  
+0.05 stars per week over 310 weeks  
+15 stars, 10 forks, 4 watches  
+created 2015-10-22, last commit 2016-09-01, main language Shell  
+
+
+### [ds-cabal](https://github.com/dapphub/ds-cabal) by [dapphub](https://github.com/dapphub)  
+Simple m-of-n multisig proxy written in handcrafted EVM bytcode  
+[https://github.com/dapphub/ds-cabal](https://github.com/dapphub/ds-cabal)  
+0.07 stars per week over 213 weeks  
+14 stars, 2 forks, 7 watches  
+created 2017-08-30, last commit 2017-09-05, main language Makefile  
+
+
+### [fv-tutorial](https://github.com/dapphub/fv-tutorial) by [dapphub](https://github.com/dapphub)  
+Materials for the devcon4 workshop  
+[https://github.com/dapphub/fv-tutorial](https://github.com/dapphub/fv-tutorial)  
+0.08 stars per week over 153 weeks  
+13 stars, 1 forks, 13 watches  
+created 2018-10-24, last commit 2018-11-01, main language GCC Machine Description  
+
+
+### [ds-eth-token](https://github.com/dapphub/ds-eth-token) by [dapphub](https://github.com/dapphub)  
+ERC20 ETH token wrapper. No more special case logic for Ether.  
+[https://github.com/dapphub/ds-eth-token](https://github.com/dapphub/ds-eth-token)  
+0.04 stars per week over 268 weeks  
+11 stars, 4 forks, 12 watches  
+created 2016-08-10, last commit 2018-11-23, main language Makefile  
+
+
+### [ds-weth](https://github.com/dapphub/ds-weth) by [dapphub](https://github.com/dapphub)  
+ETH->ERC20 with extra opinions  
+[https://github.com/dapphub/ds-weth](https://github.com/dapphub/ds-weth)  
+0.04 stars per week over 256 weeks  
+11 stars, 19 forks, 5 watches  
+created 2016-11-07, last commit 2021-09-15, main language Solidity  
+
+
+### [ds-roles](https://github.com/dapphub/ds-roles) by [dapphub](https://github.com/dapphub)  
+A DSAuthority for up to 256 roles  
+[https://dapp.tools/dappsys/ds-roles.html](https://dapp.tools/dappsys/ds-roles.html)  
+[https://github.com/dapphub/ds-roles](https://github.com/dapphub/ds-roles)  
+0.04 stars per week over 266 weeks  
+10 stars, 15 forks, 11 watches  
+created 2016-08-25, last commit 2021-07-29, main language Solidity  
+<sub><sup>authorization, dappsys, ds-auth, ethereum, solidity</sup></sub>
+
+
+This file was automatically generated on 2021-10-05.  
 
 To curate your own github list, simply clone and change the input csv file.  

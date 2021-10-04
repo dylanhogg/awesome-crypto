@@ -1,5 +1,5 @@
 # Crazy Awesome Crypto
-A list of 34 [Uniswap](https://github.com/Uniswap) project repos ordered by stars.  
+A list of 40 [Uniswap](https://github.com/Uniswap) project repos ordered by stars.  
 
 Checkout the interactive version that you can filter and sort: 
 [https://awesome-crypto.infocruncher.com/](https://awesome-crypto.infocruncher.com/)  
@@ -9,8 +9,8 @@ Checkout the interactive version that you can filter and sort:
 🦄 An open source interface for the Uniswap protocol  
 [https://app.uniswap.org](https://app.uniswap.org)  
 [https://github.com/Uniswap/interface](https://github.com/Uniswap/interface)  
-12 stars per week over 204 weeks  
-2,511 stars, 2,348 forks, 160 watches  
+12 stars per week over 205 weeks  
+2,522 stars, 2,363 forks, 164 watches  
 created 2017-10-29, last commit 2021-09-29, main language TypeScript  
 <sub><sup>blockchain, ethereum, uniswap</sup></sub>
 
@@ -20,7 +20,7 @@ created 2017-10-29, last commit 2021-09-29, main language TypeScript
 [https://uniswap.org](https://uniswap.org)  
 [https://github.com/Uniswap/v3-core](https://github.com/Uniswap/v3-core)  
 19 stars per week over 74 weeks  
-1,448 stars, 574 forks, 85 watches  
+1,458 stars, 580 forks, 86 watches  
 created 2020-04-29, last commit 2021-09-16, main language TypeScript  
 <sub><sup>automated-market-maker, core, ethereum, smart-contracts</sup></sub>
 
@@ -30,7 +30,7 @@ created 2020-04-29, last commit 2021-09-16, main language TypeScript
 [https://uniswap.org/docs](https://uniswap.org/docs)  
 [https://github.com/Uniswap/v2-core](https://github.com/Uniswap/v2-core)  
 12 stars per week over 109 weeks  
-1,388 stars, 1,372 forks, 102 watches  
+1,391 stars, 1,382 forks, 102 watches  
 created 2019-08-29, last commit 2020-05-18, main language TypeScript  
 <sub><sup>cryptocurrency, decentralized-exchange, erc20, ethereum, smart-contracts</sup></sub>
 
@@ -40,7 +40,7 @@ created 2019-08-29, last commit 2020-05-18, main language TypeScript
 [https://uniswap.org](https://uniswap.org)  
 [https://github.com/Uniswap/v3-periphery](https://github.com/Uniswap/v3-periphery)  
 15 stars per week over 32 weeks  
-501 stars, 288 forks, 36 watches  
+503 stars, 290 forks, 36 watches  
 created 2021-02-19, last commit 2021-09-28, main language TypeScript  
 <sub><sup>automated-market-maker, bug-bounty, ethereum, periphery, smart-contracts, uniswap</sup></sub>
 
@@ -49,8 +49,8 @@ created 2021-02-19, last commit 2021-09-28, main language TypeScript
 🎚 Peripheral smart contracts for interacting with Uniswap V2  
 [https://uniswap.org/docs](https://uniswap.org/docs)  
 [https://github.com/Uniswap/v2-periphery](https://github.com/Uniswap/v2-periphery)  
-4.84 stars per week over 94 weeks  
-458 stars, 778 forks, 42 watches  
+4.81 stars per week over 95 weeks  
+458 stars, 779 forks, 42 watches  
 created 2019-12-09, last commit 2020-12-22, main language Solidity  
 <sub><sup>cryptocurrency, decentralized-exchange, erc20, ethereum, smart-contracts</sup></sub>
 
@@ -59,8 +59,8 @@ created 2019-12-09, last commit 2020-12-22, main language Solidity
 📚 The Token Lists specification  
 [https://tokenlists.org](https://tokenlists.org)  
 [https://github.com/Uniswap/token-lists](https://github.com/Uniswap/token-lists)  
-5.36 stars per week over 68 weeks  
-366 stars, 352 forks, 60 watches  
+5.33 stars per week over 68 weeks  
+367 stars, 354 forks, 60 watches  
 created 2020-06-10, last commit 2021-09-23, main language TypeScript  
 <sub><sup>erc20, tokens, uniswap</sup></sub>
 
@@ -68,8 +68,8 @@ created 2020-06-10, last commit 2021-09-23, main language TypeScript
 ### [v1-contracts](https://github.com/Uniswap/v1-contracts) by [Uniswap](https://github.com/Uniswap)  
 🐍Uniswap V1 smart contracts  
 [https://github.com/Uniswap/v1-contracts](https://github.com/Uniswap/v1-contracts)  
-2.0 stars per week over 180 weeks  
-361 stars, 214 forks, 24 watches  
+2.0 stars per week over 181 weeks  
+362 stars, 214 forks, 24 watches  
 created 2018-04-17, last commit 2019-01-24, main language Python  
 <sub><sup>cryptocurrency, decentralized-exchange, erc20, ethereum, market-maker, smart-contracts, vyper</sup></sub>
 
@@ -78,16 +78,16 @@ created 2018-04-17, last commit 2019-01-24, main language Python
 🛠 An SDK for building applications on top of Uniswap V2  
 [https://uniswap.org/docs/v2/SDK/getting-started](https://uniswap.org/docs/v2/SDK/getting-started)  
 [https://github.com/Uniswap/v2-sdk](https://github.com/Uniswap/v2-sdk)  
-2.33 stars per week over 122 weeks  
-286 stars, 622 forks, 28 watches  
+2.33 stars per week over 123 weeks  
+287 stars, 623 forks, 28 watches  
 created 2019-05-27, last commit 2021-06-07, main language TypeScript  
 
 
 ### [merkle-distributor](https://github.com/Uniswap/merkle-distributor) by [Uniswap](https://github.com/Uniswap)  
 📦 A smart contract that distributes a balance of tokens according to a merkle root  
 [https://github.com/Uniswap/merkle-distributor](https://github.com/Uniswap/merkle-distributor)  
-4.37 stars per week over 56 weeks  
-246 stars, 166 forks, 18 watches  
+4.34 stars per week over 56 weeks  
+247 stars, 167 forks, 18 watches  
 created 2020-09-02, last commit 2020-09-18, main language TypeScript  
 
 
@@ -96,15 +96,15 @@ created 2020-09-02, last commit 2020-09-18, main language TypeScript
 [https://info.uniswap.org](https://info.uniswap.org)  
 [https://github.com/Uniswap/info](https://github.com/Uniswap/info)  
 1.43 stars per week over 145 weeks  
-208 stars, 417 forks, 18 watches  
+208 stars, 420 forks, 18 watches  
 created 2018-12-20, last commit 2021-08-05, main language JavaScript  
 
 
 ### [v3-sdk](https://github.com/Uniswap/v3-sdk) by [Uniswap](https://github.com/Uniswap)  
 🛠 An SDK for building applications on top of Uniswap V3  
 [https://github.com/Uniswap/v3-sdk](https://github.com/Uniswap/v3-sdk)  
-5.25 stars per week over 35 weeks  
-186 stars, 118 forks, 20 watches  
+5.19 stars per week over 36 weeks  
+187 stars, 118 forks, 21 watches  
 created 2021-01-26, last commit 2021-09-13, main language TypeScript  
 <sub><sup>automatic-market-maker, ethereum, sdk, typescript, uniswap</sup></sub>
 
@@ -113,8 +113,8 @@ created 2021-01-26, last commit 2021-09-13, main language TypeScript
 Uniswap V2 subgraph 📊  
 [https://thegraph.com/explorer/subgraph/uniswap/uniswap-v2](https://thegraph.com/explorer/subgraph/uniswap/uniswap-v2)  
 [https://github.com/Uniswap/v2-subgraph](https://github.com/Uniswap/v2-subgraph)  
-2.13 stars per week over 87 weeks  
-186 stars, 306 forks, 24 watches  
+2.11 stars per week over 88 weeks  
+186 stars, 307 forks, 24 watches  
 created 2020-01-28, last commit 2021-09-29, main language TypeScript  
 
 
@@ -122,8 +122,8 @@ created 2020-01-28, last commit 2021-09-29, main language TypeScript
 Canonical liquidity mining contract for Uniswap V3  
 [https://uniswap.org](https://uniswap.org)  
 [https://github.com/Uniswap/v3-staker](https://github.com/Uniswap/v3-staker)  
-8.59 stars per week over 21 weeks  
-184 stars, 58 forks, 18 watches  
+8.41 stars per week over 22 weeks  
+185 stars, 59 forks, 18 watches  
 created 2021-05-04, last commit 2021-06-28, main language TypeScript  
 <sub><sup>staker, staking, uniswap</sup></sub>
 
@@ -131,7 +131,7 @@ created 2021-05-04, last commit 2021-06-28, main language TypeScript
 ### [universe](https://github.com/Uniswap/universe) by [Uniswap](https://github.com/Uniswap)  
 ✨ An exhaustive list of all things Uniswap.  
 [https://github.com/Uniswap/universe](https://github.com/Uniswap/universe)  
-1.34 stars per week over 126 weeks  
+1.33 stars per week over 127 weeks  
 169 stars, 54 forks, 18 watches  
 created 2019-04-29, last commit 2021-04-05, main language None  
 
@@ -140,16 +140,16 @@ created 2019-04-29, last commit 2021-04-05, main language None
 🌐 Uniswap protocol homepage  
 [https://uniswap.org](https://uniswap.org)  
 [https://github.com/Uniswap/org](https://github.com/Uniswap/org)  
-1.55 stars per week over 88 weeks  
-137 stars, 224 forks, 12 watches  
+1.54 stars per week over 89 weeks  
+137 stars, 224 forks, 13 watches  
 created 2020-01-21, last commit 2021-09-23, main language JavaScript  
 
 
 ### [default-token-list](https://github.com/Uniswap/default-token-list) by [Uniswap](https://github.com/Uniswap)  
 ◦ The Uniswap default token list  
 [https://github.com/Uniswap/default-token-list](https://github.com/Uniswap/default-token-list)  
-2.0 stars per week over 62 weeks  
-125 stars, 427 forks, 19 watches  
+2.0 stars per week over 63 weeks  
+126 stars, 428 forks, 20 watches  
 created 2020-07-20, last commit 2021-01-21, main language JavaScript  
 
 
@@ -157,26 +157,18 @@ created 2020-07-20, last commit 2021-01-21, main language JavaScript
 A site for browsing featured token lists  
 [https://tokenlists.org](https://tokenlists.org)  
 [https://github.com/Uniswap/tokenlists-org](https://github.com/Uniswap/tokenlists-org)  
-1.57 stars per week over 58 weeks  
+1.56 stars per week over 59 weeks  
 92 stars, 68 forks, 11 watches  
 created 2020-08-18, last commit 2021-07-21, main language JavaScript  
-
-
-### [retroactive-query](https://github.com/Uniswap/retroactive-query) by [Uniswap](https://github.com/Uniswap)  
-👀⬅️ Queries for surfacing information about past users of Uniswap  
-[https://github.com/Uniswap/retroactive-query](https://github.com/Uniswap/retroactive-query)  
-1.55 stars per week over 54 weeks  
-84 stars, 67 forks, 16 watches  
-created 2020-09-16, last commit 2020-09-16, main language None  
 
 
 ### [v3-info](https://github.com/Uniswap/v3-info) by [Uniswap](https://github.com/Uniswap)  
 Interface for Uniswap V3 analytics. 📊  
 [https://info.uniswap.org/#/](https://info.uniswap.org/#/)  
 [https://github.com/Uniswap/v3-info](https://github.com/Uniswap/v3-info)  
-2.71 stars per week over 31 weeks  
-84 stars, 67 forks, 13 watches  
-created 2021-02-26, last commit 2021-09-21, main language TypeScript  
+2.69 stars per week over 31 weeks  
+85 stars, 68 forks, 13 watches  
+created 2021-02-26, last commit 2021-10-01, main language TypeScript  
 
 
 ### [api-deprecated](https://github.com/Uniswap/api-deprecated) by [Uniswap](https://github.com/Uniswap)  
@@ -189,44 +181,52 @@ created 2019-06-26, last commit 2020-08-05, main language TypeScript
 <sub><sup>api, uniswap</sup></sub>
 
 
+### [retroactive-query](https://github.com/Uniswap/retroactive-query) by [Uniswap](https://github.com/Uniswap)  
+👀⬅️ Queries for surfacing information about past users of Uniswap  
+[https://github.com/Uniswap/retroactive-query](https://github.com/Uniswap/retroactive-query)  
+1.53 stars per week over 54 weeks  
+84 stars, 67 forks, 16 watches  
+created 2020-09-16, last commit 2020-09-16, main language None  
+
+
 ### [docs](https://github.com/Uniswap/docs) by [Uniswap](https://github.com/Uniswap)  
 📓 Uniswap V3 docs website  
 [https://docs.uniswap.org](https://docs.uniswap.org)  
 [https://github.com/Uniswap/docs](https://github.com/Uniswap/docs)  
-2.68 stars per week over 30 weeks  
-82 stars, 135 forks, 12 watches  
+2.67 stars per week over 31 weeks  
+83 stars, 137 forks, 12 watches  
 created 2021-03-01, last commit 2021-09-17, main language JavaScript  
 
 
 ### [solidity-lib](https://github.com/Uniswap/solidity-lib) by [Uniswap](https://github.com/Uniswap)  
 📖 Solidity libraries that are shared across Uniswap contracts  
 [https://github.com/Uniswap/solidity-lib](https://github.com/Uniswap/solidity-lib)  
-1.03 stars per week over 75 weeks  
+1.02 stars per week over 76 weeks  
 78 stars, 173 forks, 8 watches  
 created 2020-04-20, last commit 2020-12-16, main language TypeScript  
-
-
-### [sybil-list](https://github.com/Uniswap/sybil-list) by [Uniswap](https://github.com/Uniswap)  
-List of verified mappings from Ethereum addresses to social profiles  
-[https://github.com/Uniswap/sybil-list](https://github.com/Uniswap/sybil-list)  
-1.74 stars per week over 43 weeks  
-76 stars, 32 forks, 8 watches  
-created 2020-11-30, last commit 2021-09-29, main language None  
 
 
 ### [v3-subgraph](https://github.com/Uniswap/v3-subgraph) by [Uniswap](https://github.com/Uniswap)  
 Subgraph for Uniswap V3  
 [https://github.com/Uniswap/v3-subgraph](https://github.com/Uniswap/v3-subgraph)  
-2.15 stars per week over 35 weeks  
-76 stars, 78 forks, 25 watches  
+2.18 stars per week over 35 weeks  
+78 stars, 80 forks, 25 watches  
 created 2021-01-27, last commit 2021-09-15, main language TypeScript  
+
+
+### [sybil-list](https://github.com/Uniswap/sybil-list) by [Uniswap](https://github.com/Uniswap)  
+List of verified mappings from Ethereum addresses to social profiles  
+[https://github.com/Uniswap/sybil-list](https://github.com/Uniswap/sybil-list)  
+1.74 stars per week over 44 weeks  
+77 stars, 32 forks, 8 watches  
+created 2020-11-30, last commit 2021-10-02, main language None  
 
 
 ### [unisocks](https://github.com/Uniswap/unisocks) by [Uniswap](https://github.com/Uniswap)  
 🧦  
 [https://unisocks.exchange/](https://unisocks.exchange/)  
 [https://github.com/Uniswap/unisocks](https://github.com/Uniswap/unisocks)  
-0.56 stars per week over 125 weeks  
+0.56 stars per week over 126 weeks  
 70 stars, 77 forks, 9 watches  
 created 2019-05-07, last commit 2021-06-29, main language JavaScript  
 
@@ -235,7 +235,7 @@ created 2019-05-07, last commit 2021-06-29, main language JavaScript
 🏛 Governance contracts for the Uniswap protocol  
 [https://uniswap.org](https://uniswap.org)  
 [https://github.com/Uniswap/governance](https://github.com/Uniswap/governance)  
-0.93 stars per week over 56 weeks  
+0.92 stars per week over 56 weeks  
 52 stars, 73 forks, 12 watches  
 created 2020-09-03, last commit 2020-09-24, main language Solidity  
 
@@ -244,7 +244,7 @@ created 2020-09-03, last commit 2020-09-24, main language Solidity
 Interface that incorporates Sybil, a governance tool for discovering delegates.  
 [https://sybil.org/](https://sybil.org/)  
 [https://github.com/Uniswap/sybil-interface](https://github.com/Uniswap/sybil-interface)  
-0.9 stars per week over 51 weeks  
+0.89 stars per week over 51 weeks  
 46 stars, 55 forks, 6 watches  
 created 2020-10-08, last commit 2021-09-24, main language TypeScript  
 
@@ -252,7 +252,7 @@ created 2020-10-08, last commit 2021-09-24, main language TypeScript
 ### [v1-docs](https://github.com/Uniswap/v1-docs) by [Uniswap](https://github.com/Uniswap)  
   
 [https://github.com/Uniswap/v1-docs](https://github.com/Uniswap/v1-docs)  
-0.27 stars per week over 154 weeks  
+0.27 stars per week over 155 weeks  
 42 stars, 43 forks, 7 watches  
 created 2018-10-13, last commit 2020-03-23, main language None  
 
@@ -268,7 +268,7 @@ created 2019-06-14, last commit 2019-09-24, main language Python
 ### [sdk-core](https://github.com/Uniswap/sdk-core) by [Uniswap](https://github.com/Uniswap)  
 ⚙️ Code shared across TypeScript Uniswap SDK versions  
 [https://github.com/Uniswap/sdk-core](https://github.com/Uniswap/sdk-core)  
-1.06 stars per week over 30 weeks  
+1.04 stars per week over 30 weeks  
 32 stars, 63 forks, 9 watches  
 created 2021-03-04, last commit 2021-07-29, main language TypeScript  
 
@@ -277,15 +277,15 @@ created 2021-03-04, last commit 2021-07-29, main language TypeScript
 🦄🐷  
 [https://unipig.exchange](https://unipig.exchange)  
 [https://github.com/Uniswap/unipig](https://github.com/Uniswap/unipig)  
-0.27 stars per week over 109 weeks  
-30 stars, 22 forks, 7 watches  
+0.26 stars per week over 109 weeks  
+29 stars, 22 forks, 7 watches  
 created 2019-08-29, last commit 2019-10-07, main language JavaScript  
 
 
 ### [hardhat-plugin-deploy-v3](https://github.com/Uniswap/hardhat-plugin-deploy-v3) by [Uniswap](https://github.com/Uniswap)  
 Hardhat plugin for Uniswap V3 deployment  
 [https://github.com/Uniswap/hardhat-plugin-deploy-v3](https://github.com/Uniswap/hardhat-plugin-deploy-v3)  
-1.92 stars per week over 15 weeks  
+1.85 stars per week over 15 weeks  
 29 stars, 9 forks, 3 watches  
 created 2021-06-17, last commit 2021-06-17, main language TypeScript  
 
@@ -308,6 +308,54 @@ Initial UNI liquidity staking contracts
 created 2020-09-02, last commit 2020-09-24, main language TypeScript  
 
 
-This file was automatically generated on 2021-10-01.  
+### [smart-order-router](https://github.com/Uniswap/smart-order-router) by [Uniswap](https://github.com/Uniswap)  
+  
+[https://github.com/Uniswap/smart-order-router](https://github.com/Uniswap/smart-order-router)  
+1.04 stars per week over 20 weeks  
+21 stars, 6 forks, 2 watches  
+created 2021-05-17, last commit 2021-09-28, main language TypeScript  
+
+
+### [unisocks-erc20](https://github.com/Uniswap/unisocks-erc20) by [Uniswap](https://github.com/Uniswap)  
+🧦  
+[https://github.com/Uniswap/unisocks-erc20](https://github.com/Uniswap/unisocks-erc20)  
+0.17 stars per week over 120 weeks  
+20 stars, 12 forks, 3 watches  
+created 2019-06-14, last commit 2019-06-14, main language Python  
+
+
+### [v3-core-optimism](https://github.com/Uniswap/v3-core-optimism) by [Uniswap](https://github.com/Uniswap)  
+Optimism fork of the V3 core contracts  
+[https://github.com/Uniswap/v3-core-optimism](https://github.com/Uniswap/v3-core-optimism)  
+1.01 stars per week over 14 weeks  
+15 stars, 5 forks, 2 watches  
+created 2021-06-23, last commit 2021-07-07, main language TypeScript  
+
+
+### [sybil-verifier-worker](https://github.com/Uniswap/sybil-verifier-worker) by [Uniswap](https://github.com/Uniswap)  
+Cloudlfare worker to verify mappings for Sybil, a governance tool for delegates.   
+[https://github.com/Uniswap/sybil-verifier-worker](https://github.com/Uniswap/sybil-verifier-worker)  
+0.32 stars per week over 43 weeks  
+14 stars, 18 forks, 5 watches  
+created 2020-12-07, last commit 2020-12-15, main language JavaScript  
+
+
+### [advanced-weth](https://github.com/Uniswap/advanced-weth) by [Uniswap](https://github.com/Uniswap)  
+A smart contract that wraps WETH that adds functionality for transparently dealing in WETH  
+[https://github.com/Uniswap/advanced-weth](https://github.com/Uniswap/advanced-weth)  
+0.18 stars per week over 72 weeks  
+13 stars, 13 forks, 4 watches  
+created 2020-05-17, last commit 2020-05-17, main language JavaScript  
+
+
+### [routing-api](https://github.com/Uniswap/routing-api) by [Uniswap](https://github.com/Uniswap)  
+  
+[https://github.com/Uniswap/routing-api](https://github.com/Uniswap/routing-api)  
+0.81 stars per week over 16 weeks  
+13 stars, 3 forks, 3 watches  
+created 2021-06-15, last commit 2021-09-23, main language TypeScript  
+
+
+This file was automatically generated on 2021-10-05.  
 
 To curate your own github list, simply clone and change the input csv file.  

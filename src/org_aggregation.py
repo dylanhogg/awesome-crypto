@@ -33,11 +33,12 @@ def bins(x):
 def write_agg_data(in_repo_filename, output_org_csv_filename, output_org_json_filename):
     # Read data
     df_raw = pd.read_pickle(in_repo_filename)
+    logger.info(f"write_agg_data with input cols: {df_raw.columns}")
     logger.info(f"pickle input shape: {df_raw.shape}")
     logger.info(f"pickle input cols: {', '.join([x for x in df_raw.columns.sort_values()])}")
 
     # df_raw = df_raw.drop(columns=["description", "featured", "links", "subcategory", "githuburl"])
-    df_raw = df_raw.drop(columns=["description"])  # Unused google sheet description col
+    # df_raw = df_raw.drop(columns=["description"])  # Unused google sheet description col
     df_raw["org"] = df_raw["_repopath"].apply(lambda x: x.split("/")[0].lower())
     df_raw.columns = [x.lstrip("_") for x in df_raw.columns]
     logger.info(f"pickle processed shape: {df_raw.shape}")

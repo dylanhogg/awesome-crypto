@@ -1,5 +1,5 @@
 # Crazy Awesome Crypto
-A list of 5 [numerai](https://github.com/numerai) project repos ordered by stars.  
+A list of 6 [numerai](https://github.com/numerai) project repos ordered by stars.  
 
 Checkout the interactive version that you can filter and sort: 
 [https://awesome-crypto.infocruncher.com/](https://awesome-crypto.infocruncher.com/)  
@@ -10,7 +10,7 @@ The official example scripts for the Numerai Data Science Tournament
 [https://numer.ai/](https://numer.ai/)  
 [https://github.com/numerai/example-scripts](https://github.com/numerai/example-scripts)  
 1.27 stars per week over 247 weeks  
-313 stars, 144 forks, 46 watches  
+314 stars, 144 forks, 46 watches  
 created 2017-01-06, last commit 2021-09-13, main language Jupyter Notebook  
 <sub><sup>cryptocurrency, machine-learning, numerai, quant-finance</sup></sub>
 
@@ -18,7 +18,7 @@ created 2017-01-06, last commit 2021-09-13, main language Jupyter Notebook
 ### [numerox](https://github.com/numerai/numerox) by [numerai](https://github.com/numerai)  
 Numerai tournament toolbox written in Python  
 [https://github.com/numerai/numerox](https://github.com/numerai/numerox)  
-0.62 stars per week over 206 weeks  
+0.61 stars per week over 206 weeks  
 127 stars, 37 forks, 26 watches  
 created 2017-10-18, last commit 2020-12-08, main language Python  
 <sub><sup>numerai</sup></sub>
@@ -50,6 +50,14 @@ Python API and command line interface for the numer.ai machine learning competit
 created 2018-11-15, last commit 2021-05-10, main language Python  
 
 
-This file was automatically generated on 2021-10-01.  
+### [docs](https://github.com/numerai/docs) by [numerai](https://github.com/numerai)  
+Documentation    
+[https://github.com/numerai/docs](https://github.com/numerai/docs)  
+0.13 stars per week over 157 weeks  
+21 stars, 15 forks, 14 watches  
+created 2018-09-27, last commit 2021-09-18, main language None  
+
+
+This file was automatically generated on 2021-10-05.  
 
 To curate your own github list, simply clone and change the input csv file.  

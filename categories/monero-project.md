@@ -1,5 +1,5 @@
 # Crazy Awesome Crypto
-A list of 9 [monero-project](https://github.com/monero-project) project repos ordered by stars.  
+A list of 15 [monero-project](https://github.com/monero-project) project repos ordered by stars.  
 
 Checkout the interactive version that you can filter and sort: 
 [https://awesome-crypto.infocruncher.com/](https://awesome-crypto.infocruncher.com/)  
@@ -10,7 +10,7 @@ Monero: the secure, private, untraceable cryptocurrency
 [https://getmonero.org](https://getmonero.org)  
 [https://github.com/monero-project/monero](https://github.com/monero-project/monero)  
 16 stars per week over 387 weeks  
-6,242 stars, 3,072 forks, 489 watches  
+6,256 stars, 3,072 forks, 488 watches  
 created 2014-04-30, last commit 2021-09-24, main language C++  
 <sub><sup>blockchain, c-plus-plus, cmake, cryptocurrency, cryptography, cryptonote, monero, p2p, privacy, security</sup></sub>
 
@@ -19,14 +19,14 @@ created 2014-04-30, last commit 2021-09-24, main language C++
 Monero: the secure, private, untraceable cryptocurrency  
 [https://github.com/monero-project/monero-gui](https://github.com/monero-project/monero-gui)  
 2.62 stars per week over 339 weeks  
-888 stars, 643 forks, 91 watches  
+891 stars, 644 forks, 91 watches  
 created 2015-04-01, last commit 2021-09-24, main language C  
 
 
 ### [kovri](https://github.com/monero-project/kovri) by [monero-project](https://github.com/monero-project)  
 The Kovri I2P Router Project  
 [https://github.com/monero-project/kovri](https://github.com/monero-project/kovri)  
-1.8 stars per week over 306 weeks  
+1.79 stars per week over 307 weeks  
 551 stars, 112 forks, 97 watches  
 created 2015-11-15, last commit 2018-09-07, main language C++  
 
@@ -37,14 +37,14 @@ created 2015-11-15, last commit 2018-09-07, main language C++
 [https://github.com/monero-project/monero-site](https://github.com/monero-project/monero-site)  
 0.43 stars per week over 352 weeks  
 152 stars, 320 forks, 42 watches  
-created 2015-01-02, last commit 2021-09-29, main language CSS  
+created 2015-01-02, last commit 2021-10-03, main language CSS  
 
 
 ### [research-lab](https://github.com/monero-project/research-lab) by [monero-project](https://github.com/monero-project)  
 A general repo for Monero Research Lab work in progress and completed work  
 [https://github.com/monero-project/research-lab](https://github.com/monero-project/research-lab)  
-0.45 stars per week over 308 weeks  
-138 stars, 55 forks, 59 watches  
+0.45 stars per week over 309 weeks  
+139 stars, 55 forks, 59 watches  
 created 2015-11-02, last commit 2018-06-19, main language TeX  
 
 
@@ -52,14 +52,14 @@ created 2015-11-02, last commit 2018-06-19, main language TeX
 The Sekura Monero Hardware Wallet  
 [https://github.com/monero-project/kastelo](https://github.com/monero-project/kastelo)  
 0.47 stars per week over 206 weeks  
-96 stars, 25 forks, 21 watches  
+97 stars, 25 forks, 21 watches  
 created 2017-10-18, last commit 2020-01-28, main language G-code  
 
 
 ### [meta](https://github.com/monero-project/meta) by [monero-project](https://github.com/monero-project)  
 A Meta Repository for General Monero Project Matters  
 [https://github.com/monero-project/meta](https://github.com/monero-project/meta)  
-0.35 stars per week over 258 weeks  
+0.35 stars per week over 259 weeks  
 90 stars, 50 forks, 53 watches  
 created 2016-10-15, last commit 2021-08-08, main language Python  
 
@@ -67,7 +67,7 @@ created 2016-10-15, last commit 2021-08-08, main language Python
 ### [urs](https://github.com/monero-project/urs) by [monero-project](https://github.com/monero-project)  
 Unique Ring Signatures to sign messages anonymously  
 [https://github.com/monero-project/urs](https://github.com/monero-project/urs)  
-0.18 stars per week over 369 weeks  
+0.18 stars per week over 370 weeks  
 68 stars, 28 forks, 7 watches  
 created 2014-08-31, last commit 2015-08-15, main language Go  
 
@@ -75,11 +75,59 @@ created 2014-08-31, last commit 2015-08-15, main language Go
 ### [mininero](https://github.com/monero-project/mininero) by [monero-project](https://github.com/monero-project)  
 A Python reimplementation of the one-time ring signatures as found in Monero  
 [https://github.com/monero-project/mininero](https://github.com/monero-project/mininero)  
-0.14 stars per week over 365 weeks  
+0.14 stars per week over 366 weeks  
 52 stars, 31 forks, 11 watches  
 created 2014-09-28, last commit 2016-05-08, main language Python  
 
 
-This file was automatically generated on 2021-10-01.  
+### [kovri-docs](https://github.com/monero-project/kovri-docs) by [monero-project](https://github.com/monero-project)  
+  
+[https://github.com/monero-project/kovri-docs](https://github.com/monero-project/kovri-docs)  
+0.1 stars per week over 225 weeks  
+23 stars, 33 forks, 11 watches  
+created 2017-06-11, last commit 2018-09-07, main language None  
+
+
+### [gitian.sigs](https://github.com/monero-project/gitian.sigs) by [monero-project](https://github.com/monero-project)  
+  
+[https://github.com/monero-project/gitian.sigs](https://github.com/monero-project/gitian.sigs)  
+0.08 stars per week over 156 weeks  
+13 stars, 34 forks, 12 watches  
+created 2018-10-09, last commit 2021-09-18, main language Standard ML  
+
+
+### [monero-forum](https://github.com/monero-project/monero-forum) by [monero-project](https://github.com/monero-project)  
+The Monero Forum Software  
+[https://github.com/monero-project/monero-forum](https://github.com/monero-project/monero-forum)  
+0.03 stars per week over 352 weeks  
+12 stars, 15 forks, 8 watches  
+created 2015-01-02, last commit 2017-06-02, main language PHP  
+
+
+### [kovri-site](https://github.com/monero-project/kovri-site) by [monero-project](https://github.com/monero-project)  
+  
+[https://github.com/monero-project/kovri-site](https://github.com/monero-project/kovri-site)  
+0.05 stars per week over 225 weeks  
+12 stars, 26 forks, 10 watches  
+created 2017-06-11, last commit 2018-09-07, main language HTML  
+
+
+### [miniupnp](https://github.com/monero-project/miniupnp) by [monero-project](https://github.com/monero-project)  
+  
+[https://github.com/monero-project/miniupnp](https://github.com/monero-project/miniupnp)  
+0.05 stars per week over 211 weeks  
+11 stars, 35 forks, 6 watches  
+created 2017-09-14, last commit 2018-07-06, main language C  
+
+
+### [xmr-seeder](https://github.com/monero-project/xmr-seeder) by [monero-project](https://github.com/monero-project)  
+  
+[https://github.com/monero-project/xmr-seeder](https://github.com/monero-project/xmr-seeder)  
+0.03 stars per week over 374 weeks  
+10 stars, 15 forks, 8 watches  
+created 2014-08-02, last commit 2017-03-07, main language Python  
+
+
+This file was automatically generated on 2021-10-05.  
 
 To curate your own github list, simply clone and change the input csv file.  
