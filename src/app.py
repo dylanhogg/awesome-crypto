@@ -15,9 +15,15 @@ def main():
     output_json_filename = "github_data.json"
     ghw = GithubWrapper(token)
 
+    # Crawl and write readme.md files & repo level data csv/json
     crawler.process(csv_location, ghw, output_csv_filename, output_json_filename)
+
+    # Aggregate repo level data by organisation
+    in_repo_filename = "github_data.pkl"
+    output_org_csv_filename = "github_data_org.csv"
+    output_org_json_filename = "github_data_org.json"
+    org_aggregation.write_agg_data(in_repo_filename, output_org_csv_filename, output_org_json_filename)
 
 
 if __name__ == "__main__":
-    # main()
-    org_aggregation.write_agg_data()
+    main()
