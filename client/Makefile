@@ -15,11 +15,13 @@ serve-local-app:
 ## Copy processed data to local client for testing
 copy-data-local-app: remove-data-local-app
 	cp ../github_data.json app/
+	cp ../github_data_org.json app/
 	cp -r ../data app/data
 
 ## Remove processed data from local client for testing
 remove-data-local-app:
 	rm app/github_data.json || true
+	rm app/github_data_org.json || true
 	rm -rf app/data
 
 ## Browse local js client
