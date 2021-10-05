@@ -152,6 +152,14 @@
             {
                 "name": "last_commit_date_min",
                 "type": "string"
+            },
+            {
+                "name": "ticker",
+                "type": "string"
+            },
+            {
+                "name": "cmc_name",
+                "type": "string"
             }
         ],
         "primaryKey": [
@@ -198,7 +206,9 @@
             "updated_at_max": "2021-10-04T00:00:00.000Z",
             "updated_at_min": "2021-09-29T00:00:00.000Z",
             "last_commit_date_max": "2021-10-04T00:00:00.000Z",
-            "last_commit_date_min": "2018-02-19T00:00:00.000Z"
+            "last_commit_date_min": "2018-02-19T00:00:00.000Z",
+            "ticker": "BTC",
+            "cmc_name": "bitcoin"
         },
         {
             "index": 1,
@@ -238,7 +248,9 @@
             "updated_at_max": "2021-10-04T00:00:00.000Z",
             "updated_at_min": "2020-04-22T00:00:00.000Z",
             "last_commit_date_max": "2021-10-04T00:00:00.000Z",
-            "last_commit_date_min": "2014-07-30T00:00:00.000Z"
+            "last_commit_date_min": "2014-07-30T00:00:00.000Z",
+            "ticker": "ETH",
+            "cmc_name": "ethereum"
         },
         {
             "index": 2,
@@ -278,7 +290,9 @@
             "updated_at_max": "2021-10-04T00:00:00.000Z",
             "updated_at_min": "2021-06-21T00:00:00.000Z",
             "last_commit_date_max": "2021-09-20T00:00:00.000Z",
-            "last_commit_date_min": "2014-06-30T00:00:00.000Z"
+            "last_commit_date_min": "2014-06-30T00:00:00.000Z",
+            "ticker": "DOGE",
+            "cmc_name": "dogecoin"
         },
         {
             "index": 3,
@@ -318,7 +332,9 @@
             "updated_at_max": "2021-10-04T00:00:00.000Z",
             "updated_at_min": "2021-01-21T00:00:00.000Z",
             "last_commit_date_max": "2021-10-04T00:00:00.000Z",
-            "last_commit_date_min": "2019-08-30T00:00:00.000Z"
+            "last_commit_date_min": "2019-08-30T00:00:00.000Z",
+            "ticker": null,
+            "cmc_name": null
         },
         {
             "index": 4,
@@ -358,7 +374,9 @@
             "updated_at_max": "2021-10-04T00:00:00.000Z",
             "updated_at_min": "2020-09-05T00:00:00.000Z",
             "last_commit_date_max": "2021-10-04T00:00:00.000Z",
-            "last_commit_date_min": "2018-06-06T00:00:00.000Z"
+            "last_commit_date_min": "2018-06-06T00:00:00.000Z",
+            "ticker": null,
+            "cmc_name": null
         },
         {
             "index": 5,
@@ -398,7 +416,9 @@
             "updated_at_max": "2021-10-04T00:00:00.000Z",
             "updated_at_min": "2020-06-21T00:00:00.000Z",
             "last_commit_date_max": "2021-10-04T00:00:00.000Z",
-            "last_commit_date_min": "2018-10-01T00:00:00.000Z"
+            "last_commit_date_min": "2018-10-01T00:00:00.000Z",
+            "ticker": null,
+            "cmc_name": null
         },
         {
             "index": 6,
@@ -438,7 +458,9 @@
             "updated_at_max": "2021-10-02T00:00:00.000Z",
             "updated_at_min": "2019-07-18T00:00:00.000Z",
             "last_commit_date_max": "2021-09-23T00:00:00.000Z",
-            "last_commit_date_min": "2017-06-07T00:00:00.000Z"
+            "last_commit_date_min": "2017-06-07T00:00:00.000Z",
+            "ticker": "EOS",
+            "cmc_name": "eos"
         },
         {
             "index": 7,
@@ -478,7 +500,9 @@
             "updated_at_max": "2021-10-04T00:00:00.000Z",
             "updated_at_min": "2021-05-26T00:00:00.000Z",
             "last_commit_date_max": "2021-10-02T00:00:00.000Z",
-            "last_commit_date_min": "2018-10-11T00:00:00.000Z"
+            "last_commit_date_min": "2018-10-11T00:00:00.000Z",
+            "ticker": "XCH",
+            "cmc_name": "chia-network"
         },
         {
             "index": 8,
@@ -518,7 +542,9 @@
             "updated_at_max": "2021-10-04T00:00:00.000Z",
             "updated_at_min": "2021-05-18T00:00:00.000Z",
             "last_commit_date_max": "2021-10-03T00:00:00.000Z",
-            "last_commit_date_min": "2015-08-15T00:00:00.000Z"
+            "last_commit_date_min": "2015-08-15T00:00:00.000Z",
+            "ticker": "XMR",
+            "cmc_name": "monero"
         },
         {
             "index": 9,
@@ -558,7 +584,9 @@
             "updated_at_max": "2021-10-04T00:00:00.000Z",
             "updated_at_min": "2021-04-22T00:00:00.000Z",
             "last_commit_date_max": "2021-10-04T00:00:00.000Z",
-            "last_commit_date_min": "2016-06-25T00:00:00.000Z"
+            "last_commit_date_min": "2016-06-25T00:00:00.000Z",
+            "ticker": null,
+            "cmc_name": null
         },
         {
             "index": 10,
@@ -598,7 +626,9 @@
             "updated_at_max": "2021-10-04T00:00:00.000Z",
             "updated_at_min": "2019-08-30T00:00:00.000Z",
             "last_commit_date_max": "2021-10-04T00:00:00.000Z",
-            "last_commit_date_min": "2016-10-25T00:00:00.000Z"
+            "last_commit_date_min": "2016-10-25T00:00:00.000Z",
+            "ticker": null,
+            "cmc_name": null
         },
         {
             "index": 11,
@@ -638,7 +668,9 @@
             "updated_at_max": "2021-10-04T00:00:00.000Z",
             "updated_at_min": "2020-08-31T00:00:00.000Z",
             "last_commit_date_max": "2021-10-02T00:00:00.000Z",
-            "last_commit_date_min": "2017-02-09T00:00:00.000Z"
+            "last_commit_date_min": "2017-02-09T00:00:00.000Z",
+            "ticker": "ZEC",
+            "cmc_name": "zcash"
         },
         {
             "index": 12,
@@ -678,7 +710,9 @@
             "updated_at_max": "2021-10-04T00:00:00.000Z",
             "updated_at_min": "2021-09-13T00:00:00.000Z",
             "last_commit_date_max": "2021-10-04T00:00:00.000Z",
-            "last_commit_date_min": "2019-01-20T00:00:00.000Z"
+            "last_commit_date_min": "2019-01-20T00:00:00.000Z",
+            "ticker": "SOL",
+            "cmc_name": "solana"
         },
         {
             "index": 13,
@@ -718,7 +752,9 @@
             "updated_at_max": "2021-10-03T00:00:00.000Z",
             "updated_at_min": "2021-05-18T00:00:00.000Z",
             "last_commit_date_max": "2021-06-10T00:00:00.000Z",
-            "last_commit_date_min": "2013-07-07T00:00:00.000Z"
+            "last_commit_date_min": "2013-07-07T00:00:00.000Z",
+            "ticker": "LTC",
+            "cmc_name": "litecoin"
         },
         {
             "index": 14,
@@ -758,7 +794,9 @@
             "updated_at_max": "2021-10-03T00:00:00.000Z",
             "updated_at_min": "2020-01-14T00:00:00.000Z",
             "last_commit_date_max": "2021-09-23T00:00:00.000Z",
-            "last_commit_date_min": "2014-09-08T00:00:00.000Z"
+            "last_commit_date_min": "2014-09-08T00:00:00.000Z",
+            "ticker": "XRP",
+            "cmc_name": "xrp"
         },
         {
             "index": 15,
@@ -798,7 +836,9 @@
             "updated_at_max": "2021-10-04T00:00:00.000Z",
             "updated_at_min": "2020-02-25T00:00:00.000Z",
             "last_commit_date_max": "2021-10-04T00:00:00.000Z",
-            "last_commit_date_min": "2016-10-03T00:00:00.000Z"
+            "last_commit_date_min": "2016-10-03T00:00:00.000Z",
+            "ticker": "ADA",
+            "cmc_name": "cardano"
         },
         {
             "index": 16,
@@ -838,7 +878,9 @@
             "updated_at_max": "2021-10-03T00:00:00.000Z",
             "updated_at_min": "2020-08-28T00:00:00.000Z",
             "last_commit_date_max": "2021-10-01T00:00:00.000Z",
-            "last_commit_date_min": "2018-03-26T00:00:00.000Z"
+            "last_commit_date_min": "2018-03-26T00:00:00.000Z",
+            "ticker": "NEO",
+            "cmc_name": "neo"
         },
         {
             "index": 17,
@@ -878,7 +920,9 @@
             "updated_at_max": "2021-10-03T00:00:00.000Z",
             "updated_at_min": "2021-03-16T00:00:00.000Z",
             "last_commit_date_max": "2021-10-03T00:00:00.000Z",
-            "last_commit_date_min": "2019-10-08T00:00:00.000Z"
+            "last_commit_date_min": "2019-10-08T00:00:00.000Z",
+            "ticker": "NANO",
+            "cmc_name": "nano"
         },
         {
             "index": 18,
@@ -918,7 +962,9 @@
             "updated_at_max": "2021-10-04T00:00:00.000Z",
             "updated_at_min": "2017-11-07T00:00:00.000Z",
             "last_commit_date_max": "2021-10-04T00:00:00.000Z",
-            "last_commit_date_min": "2015-06-15T00:00:00.000Z"
+            "last_commit_date_min": "2015-06-15T00:00:00.000Z",
+            "ticker": "SNT",
+            "cmc_name": "status"
         },
         {
             "index": 19,
@@ -958,7 +1004,9 @@
             "updated_at_max": "2021-10-02T00:00:00.000Z",
             "updated_at_min": "2020-01-13T00:00:00.000Z",
             "last_commit_date_max": "2021-10-02T00:00:00.000Z",
-            "last_commit_date_min": "2016-06-27T00:00:00.000Z"
+            "last_commit_date_min": "2016-06-27T00:00:00.000Z",
+            "ticker": "GLM",
+            "cmc_name": "golem-network-tokens"
         },
         {
             "index": 20,
@@ -998,7 +1046,9 @@
             "updated_at_max": "2021-10-03T00:00:00.000Z",
             "updated_at_min": "2020-09-11T00:00:00.000Z",
             "last_commit_date_max": "2021-09-14T00:00:00.000Z",
-            "last_commit_date_min": "2018-06-14T00:00:00.000Z"
+            "last_commit_date_min": "2018-06-14T00:00:00.000Z",
+            "ticker": "TRX",
+            "cmc_name": "tron"
         },
         {
             "index": 21,
@@ -1038,7 +1088,9 @@
             "updated_at_max": "2021-10-04T00:00:00.000Z",
             "updated_at_min": "2021-06-08T00:00:00.000Z",
             "last_commit_date_max": "2021-10-01T00:00:00.000Z",
-            "last_commit_date_min": "2017-05-20T00:00:00.000Z"
+            "last_commit_date_min": "2017-05-20T00:00:00.000Z",
+            "ticker": "XLM",
+            "cmc_name": "stellar"
         },
         {
             "index": 22,
@@ -1078,7 +1130,9 @@
             "updated_at_max": "2021-10-04T00:00:00.000Z",
             "updated_at_min": "2020-06-29T00:00:00.000Z",
             "last_commit_date_max": "2021-10-04T00:00:00.000Z",
-            "last_commit_date_min": "2018-09-14T00:00:00.000Z"
+            "last_commit_date_min": "2018-09-14T00:00:00.000Z",
+            "ticker": "ATOM",
+            "cmc_name": "cosmos"
         },
         {
             "index": 23,
@@ -1118,7 +1172,9 @@
             "updated_at_max": "2021-10-04T00:00:00.000Z",
             "updated_at_min": "2021-06-14T00:00:00.000Z",
             "last_commit_date_max": "2021-10-04T00:00:00.000Z",
-            "last_commit_date_min": "2018-07-23T00:00:00.000Z"
+            "last_commit_date_min": "2018-07-23T00:00:00.000Z",
+            "ticker": "LSK",
+            "cmc_name": "lisk"
         },
         {
             "index": 24,
@@ -1158,7 +1214,9 @@
             "updated_at_max": "2021-10-04T00:00:00.000Z",
             "updated_at_min": "2021-08-25T00:00:00.000Z",
             "last_commit_date_max": "2021-10-02T00:00:00.000Z",
-            "last_commit_date_min": "2018-10-26T00:00:00.000Z"
+            "last_commit_date_min": "2018-10-26T00:00:00.000Z",
+            "ticker": "UNI",
+            "cmc_name": "uniswap"
         },
         {
             "index": 25,
@@ -1198,7 +1256,9 @@
             "updated_at_max": "2021-10-04T00:00:00.000Z",
             "updated_at_min": "2018-11-20T00:00:00.000Z",
             "last_commit_date_max": "2021-10-04T00:00:00.000Z",
-            "last_commit_date_min": "2016-04-16T00:00:00.000Z"
+            "last_commit_date_min": "2016-04-16T00:00:00.000Z",
+            "ticker": "STX",
+            "cmc_name": "stacks"
         },
         {
             "index": 26,
@@ -1238,7 +1298,9 @@
             "updated_at_max": "2021-10-04T00:00:00.000Z",
             "updated_at_min": "2019-06-20T00:00:00.000Z",
             "last_commit_date_max": "2021-10-04T00:00:00.000Z",
-            "last_commit_date_min": "2017-11-09T00:00:00.000Z"
+            "last_commit_date_min": "2017-11-09T00:00:00.000Z",
+            "ticker": "LINK",
+            "cmc_name": "chainlink"
         },
         {
             "index": 27,
@@ -1278,7 +1340,9 @@
             "updated_at_max": "2021-10-04T00:00:00.000Z",
             "updated_at_min": "2021-07-04T00:00:00.000Z",
             "last_commit_date_max": "2021-10-04T00:00:00.000Z",
-            "last_commit_date_min": "2019-02-11T00:00:00.000Z"
+            "last_commit_date_min": "2019-02-11T00:00:00.000Z",
+            "ticker": null,
+            "cmc_name": null
         },
         {
             "index": 28,
@@ -1318,7 +1382,9 @@
             "updated_at_max": "2021-10-04T00:00:00.000Z",
             "updated_at_min": "2021-02-08T00:00:00.000Z",
             "last_commit_date_max": "2021-10-04T00:00:00.000Z",
-            "last_commit_date_min": "2016-07-05T00:00:00.000Z"
+            "last_commit_date_min": "2016-07-05T00:00:00.000Z",
+            "ticker": "MIOTA",
+            "cmc_name": "iota"
         },
         {
             "index": 29,
@@ -1358,7 +1424,9 @@
             "updated_at_max": "2021-10-04T00:00:00.000Z",
             "updated_at_min": "2020-04-18T00:00:00.000Z",
             "last_commit_date_max": "2021-10-04T00:00:00.000Z",
-            "last_commit_date_min": "2017-09-02T00:00:00.000Z"
+            "last_commit_date_min": "2017-09-02T00:00:00.000Z",
+            "ticker": "STORJ",
+            "cmc_name": "storj"
         },
         {
             "index": 30,
@@ -1398,7 +1466,9 @@
             "updated_at_max": "2021-10-01T00:00:00.000Z",
             "updated_at_min": "2019-05-26T00:00:00.000Z",
             "last_commit_date_max": "2021-08-06T00:00:00.000Z",
-            "last_commit_date_min": "2018-03-20T00:00:00.000Z"
+            "last_commit_date_min": "2018-03-20T00:00:00.000Z",
+            "ticker": "STEEM",
+            "cmc_name": "steem"
         },
         {
             "index": 31,
@@ -1438,7 +1508,9 @@
             "updated_at_max": "2021-10-02T00:00:00.000Z",
             "updated_at_min": "2019-06-06T00:00:00.000Z",
             "last_commit_date_max": "2021-10-04T00:00:00.000Z",
-            "last_commit_date_min": "2017-11-14T00:00:00.000Z"
+            "last_commit_date_min": "2017-11-14T00:00:00.000Z",
+            "ticker": "RDN",
+            "cmc_name": "raiden-network-token"
         },
         {
             "index": 32,
@@ -1478,7 +1550,9 @@
             "updated_at_max": "2021-10-01T00:00:00.000Z",
             "updated_at_min": "2020-02-23T00:00:00.000Z",
             "last_commit_date_max": "2021-09-30T00:00:00.000Z",
-            "last_commit_date_min": "2015-08-30T00:00:00.000Z"
+            "last_commit_date_min": "2015-08-30T00:00:00.000Z",
+            "ticker": "NU",
+            "cmc_name": "nucypher"
         },
         {
             "index": 33,
@@ -1518,7 +1592,9 @@
             "updated_at_max": "2021-10-04T00:00:00.000Z",
             "updated_at_min": "2021-10-04T00:00:00.000Z",
             "last_commit_date_max": "2021-10-04T00:00:00.000Z",
-            "last_commit_date_min": "2021-10-04T00:00:00.000Z"
+            "last_commit_date_min": "2021-10-04T00:00:00.000Z",
+            "ticker": null,
+            "cmc_name": null
         },
         {
             "index": 34,
@@ -1558,7 +1634,9 @@
             "updated_at_max": "2021-10-01T00:00:00.000Z",
             "updated_at_min": "2019-02-11T00:00:00.000Z",
             "last_commit_date_max": "2021-09-27T00:00:00.000Z",
-            "last_commit_date_min": "2014-10-07T00:00:00.000Z"
+            "last_commit_date_min": "2014-10-07T00:00:00.000Z",
+            "ticker": "DASH",
+            "cmc_name": "dash"
         },
         {
             "index": 35,
@@ -1598,7 +1676,9 @@
             "updated_at_max": "2021-10-04T00:00:00.000Z",
             "updated_at_min": "2020-11-10T00:00:00.000Z",
             "last_commit_date_max": "2021-10-04T00:00:00.000Z",
-            "last_commit_date_min": "2018-01-11T00:00:00.000Z"
+            "last_commit_date_min": "2018-01-11T00:00:00.000Z",
+            "ticker": "ZRX",
+            "cmc_name": "0x"
         },
         {
             "index": 36,
@@ -1638,7 +1718,9 @@
             "updated_at_max": "2021-10-04T00:00:00.000Z",
             "updated_at_min": "2019-05-04T00:00:00.000Z",
             "last_commit_date_max": "2021-10-03T00:00:00.000Z",
-            "last_commit_date_min": "2018-01-07T00:00:00.000Z"
+            "last_commit_date_min": "2018-01-07T00:00:00.000Z",
+            "ticker": "XVG",
+            "cmc_name": "verge"
         },
         {
             "index": 37,
@@ -1678,7 +1760,9 @@
             "updated_at_max": "2021-10-04T00:00:00.000Z",
             "updated_at_min": "2021-02-26T00:00:00.000Z",
             "last_commit_date_max": "2021-09-30T00:00:00.000Z",
-            "last_commit_date_min": "2019-02-13T00:00:00.000Z"
+            "last_commit_date_min": "2019-02-13T00:00:00.000Z",
+            "ticker": "GRT",
+            "cmc_name": "the-graph"
         },
         {
             "index": 38,
@@ -1718,7 +1802,9 @@
             "updated_at_max": "2021-10-04T00:00:00.000Z",
             "updated_at_min": "2021-06-03T00:00:00.000Z",
             "last_commit_date_max": "2021-10-04T00:00:00.000Z",
-            "last_commit_date_min": "2021-06-03T00:00:00.000Z"
+            "last_commit_date_min": "2021-06-03T00:00:00.000Z",
+            "ticker": "IOTX",
+            "cmc_name": "iotex"
         },
         {
             "index": 39,
@@ -1758,7 +1844,9 @@
             "updated_at_max": "2021-10-04T00:00:00.000Z",
             "updated_at_min": "2020-02-01T00:00:00.000Z",
             "last_commit_date_max": "2021-09-16T00:00:00.000Z",
-            "last_commit_date_min": "2018-04-21T00:00:00.000Z"
+            "last_commit_date_min": "2018-04-21T00:00:00.000Z",
+            "ticker": null,
+            "cmc_name": null
         },
         {
             "index": 40,
@@ -1798,7 +1886,9 @@
             "updated_at_max": "2021-10-04T00:00:00.000Z",
             "updated_at_min": "2021-02-24T00:00:00.000Z",
             "last_commit_date_max": "2021-10-02T00:00:00.000Z",
-            "last_commit_date_min": "2018-12-30T00:00:00.000Z"
+            "last_commit_date_min": "2018-12-30T00:00:00.000Z",
+            "ticker": "ONE",
+            "cmc_name": "harmony"
         },
         {
             "index": 41,
@@ -1838,7 +1928,9 @@
             "updated_at_max": "2021-10-04T00:00:00.000Z",
             "updated_at_min": "2020-04-22T00:00:00.000Z",
             "last_commit_date_max": "2021-10-04T00:00:00.000Z",
-            "last_commit_date_min": "2016-06-09T00:00:00.000Z"
+            "last_commit_date_min": "2016-06-09T00:00:00.000Z",
+            "ticker": null,
+            "cmc_name": null
         },
         {
             "index": 42,
@@ -1878,7 +1970,9 @@
             "updated_at_max": "2021-10-02T00:00:00.000Z",
             "updated_at_min": "2018-01-23T00:00:00.000Z",
             "last_commit_date_max": "2021-09-28T00:00:00.000Z",
-            "last_commit_date_min": "2017-04-03T00:00:00.000Z"
+            "last_commit_date_min": "2017-04-03T00:00:00.000Z",
+            "ticker": "QTUM",
+            "cmc_name": "qtum"
         },
         {
             "index": 43,
@@ -1918,7 +2012,9 @@
             "updated_at_max": "2021-10-03T00:00:00.000Z",
             "updated_at_min": "2020-06-01T00:00:00.000Z",
             "last_commit_date_max": "2021-09-29T00:00:00.000Z",
-            "last_commit_date_min": "2019-07-09T00:00:00.000Z"
+            "last_commit_date_min": "2019-07-09T00:00:00.000Z",
+            "ticker": "MINA",
+            "cmc_name": "mina"
         },
         {
             "index": 44,
@@ -1958,7 +2054,9 @@
             "updated_at_max": "2021-10-04T00:00:00.000Z",
             "updated_at_min": "2020-04-07T00:00:00.000Z",
             "last_commit_date_max": "2021-10-04T00:00:00.000Z",
-            "last_commit_date_min": "2016-06-27T00:00:00.000Z"
+            "last_commit_date_min": "2016-06-27T00:00:00.000Z",
+            "ticker": "WAVES",
+            "cmc_name": "waves"
         },
         {
             "index": 45,
@@ -1998,7 +2096,9 @@
             "updated_at_max": "2021-10-04T00:00:00.000Z",
             "updated_at_min": "2021-08-18T00:00:00.000Z",
             "last_commit_date_max": "2021-10-03T00:00:00.000Z",
-            "last_commit_date_min": "2020-09-09T00:00:00.000Z"
+            "last_commit_date_min": "2020-09-09T00:00:00.000Z",
+            "ticker": "SUSHI",
+            "cmc_name": "sushiswap"
         },
         {
             "index": 46,
@@ -2038,7 +2138,9 @@
             "updated_at_max": "2021-10-04T00:00:00.000Z",
             "updated_at_min": "2021-06-15T00:00:00.000Z",
             "last_commit_date_max": "2021-10-04T00:00:00.000Z",
-            "last_commit_date_min": "2020-09-23T00:00:00.000Z"
+            "last_commit_date_min": "2020-09-23T00:00:00.000Z",
+            "ticker": "CAKE",
+            "cmc_name": "pancakeswap"
         },
         {
             "index": 47,
@@ -2078,7 +2180,9 @@
             "updated_at_max": "2021-10-03T00:00:00.000Z",
             "updated_at_min": "2020-06-26T00:00:00.000Z",
             "last_commit_date_max": "2021-10-01T00:00:00.000Z",
-            "last_commit_date_min": "2018-01-09T00:00:00.000Z"
+            "last_commit_date_min": "2018-01-09T00:00:00.000Z",
+            "ticker": "ZIL",
+            "cmc_name": "zilliqa"
         },
         {
             "index": 48,
@@ -2118,7 +2222,9 @@
             "updated_at_max": "2021-10-04T00:00:00.000Z",
             "updated_at_min": "2018-12-17T00:00:00.000Z",
             "last_commit_date_max": "2021-10-04T00:00:00.000Z",
-            "last_commit_date_min": "2017-11-27T00:00:00.000Z"
+            "last_commit_date_min": "2017-11-27T00:00:00.000Z",
+            "ticker": "HOT",
+            "cmc_name": "holo"
         },
         {
             "index": 49,
@@ -2158,7 +2264,9 @@
             "updated_at_max": "2021-10-03T00:00:00.000Z",
             "updated_at_min": "2021-10-01T00:00:00.000Z",
             "last_commit_date_max": "2021-10-03T00:00:00.000Z",
-            "last_commit_date_min": "2021-10-01T00:00:00.000Z"
+            "last_commit_date_min": "2021-10-01T00:00:00.000Z",
+            "ticker": "XEC",
+            "cmc_name": "ecash"
         },
         {
             "index": 50,
@@ -2198,7 +2306,9 @@
             "updated_at_max": "2021-09-26T00:00:00.000Z",
             "updated_at_min": "2020-09-03T00:00:00.000Z",
             "last_commit_date_max": "2020-05-01T00:00:00.000Z",
-            "last_commit_date_min": "2009-10-22T00:00:00.000Z"
+            "last_commit_date_min": "2009-10-22T00:00:00.000Z",
+            "ticker": "BTT",
+            "cmc_name": "bittorrent"
         },
         {
             "index": 51,
@@ -2238,7 +2348,9 @@
             "updated_at_max": "2021-10-03T00:00:00.000Z",
             "updated_at_min": "2021-06-22T00:00:00.000Z",
             "last_commit_date_max": "2021-09-30T00:00:00.000Z",
-            "last_commit_date_min": "2018-09-26T00:00:00.000Z"
+            "last_commit_date_min": "2018-09-26T00:00:00.000Z",
+            "ticker": "COMP",
+            "cmc_name": "compound"
         },
         {
             "index": 52,
@@ -2278,7 +2390,9 @@
             "updated_at_max": "2021-10-04T00:00:00.000Z",
             "updated_at_min": "2018-09-18T00:00:00.000Z",
             "last_commit_date_max": "2021-10-04T00:00:00.000Z",
-            "last_commit_date_min": "2017-11-27T00:00:00.000Z"
+            "last_commit_date_min": "2017-11-27T00:00:00.000Z",
+            "ticker": "GNO",
+            "cmc_name": "gnosis-gno"
         },
         {
             "index": 53,
@@ -2318,7 +2432,9 @@
             "updated_at_max": "2021-10-04T00:00:00.000Z",
             "updated_at_min": "2021-01-13T00:00:00.000Z",
             "last_commit_date_max": "2021-09-30T00:00:00.000Z",
-            "last_commit_date_min": "2019-06-04T00:00:00.000Z"
+            "last_commit_date_min": "2019-06-04T00:00:00.000Z",
+            "ticker": "AAVE",
+            "cmc_name": "aave"
         },
         {
             "index": 54,
@@ -2358,7 +2474,9 @@
             "updated_at_max": "2021-10-04T00:00:00.000Z",
             "updated_at_min": "2021-03-05T00:00:00.000Z",
             "last_commit_date_max": "2021-09-15T00:00:00.000Z",
-            "last_commit_date_min": "2019-01-28T00:00:00.000Z"
+            "last_commit_date_min": "2019-01-28T00:00:00.000Z",
+            "ticker": "MLN",
+            "cmc_name": "enzyme"
         },
         {
             "index": 55,
@@ -2398,7 +2516,9 @@
             "updated_at_max": "2021-10-02T00:00:00.000Z",
             "updated_at_min": "2021-07-31T00:00:00.000Z",
             "last_commit_date_max": "2021-09-13T00:00:00.000Z",
-            "last_commit_date_min": "2021-04-06T00:00:00.000Z"
+            "last_commit_date_min": "2021-04-06T00:00:00.000Z",
+            "ticker": "RVN",
+            "cmc_name": "ravencoin"
         },
         {
             "index": 56,
@@ -2438,7 +2558,9 @@
             "updated_at_max": "2021-10-03T00:00:00.000Z",
             "updated_at_min": "2019-08-21T00:00:00.000Z",
             "last_commit_date_max": "2021-10-02T00:00:00.000Z",
-            "last_commit_date_min": "2018-06-14T00:00:00.000Z"
+            "last_commit_date_min": "2018-06-14T00:00:00.000Z",
+            "ticker": "CKB",
+            "cmc_name": "nervos-network"
         },
         {
             "index": 57,
@@ -2478,7 +2600,9 @@
             "updated_at_max": "2021-10-02T00:00:00.000Z",
             "updated_at_min": "2020-04-18T00:00:00.000Z",
             "last_commit_date_max": "2021-07-26T00:00:00.000Z",
-            "last_commit_date_min": "2018-01-26T00:00:00.000Z"
+            "last_commit_date_min": "2018-01-26T00:00:00.000Z",
+            "ticker": null,
+            "cmc_name": null
         },
         {
             "index": 58,
@@ -2518,7 +2642,9 @@
             "updated_at_max": "2021-09-30T00:00:00.000Z",
             "updated_at_min": "2021-06-20T00:00:00.000Z",
             "last_commit_date_max": "2021-09-30T00:00:00.000Z",
-            "last_commit_date_min": "2019-06-03T00:00:00.000Z"
+            "last_commit_date_min": "2019-06-03T00:00:00.000Z",
+            "ticker": null,
+            "cmc_name": null
         },
         {
             "index": 59,
@@ -2558,7 +2684,9 @@
             "updated_at_max": "2021-10-04T00:00:00.000Z",
             "updated_at_min": "2021-04-06T00:00:00.000Z",
             "last_commit_date_max": "2021-09-02T00:00:00.000Z",
-            "last_commit_date_min": "2018-04-09T00:00:00.000Z"
+            "last_commit_date_min": "2018-04-09T00:00:00.000Z",
+            "ticker": null,
+            "cmc_name": null
         },
         {
             "index": 60,
@@ -2598,7 +2726,9 @@
             "updated_at_max": "2021-10-04T00:00:00.000Z",
             "updated_at_min": "2019-06-08T00:00:00.000Z",
             "last_commit_date_max": "2021-09-23T00:00:00.000Z",
-            "last_commit_date_min": "2016-09-01T00:00:00.000Z"
+            "last_commit_date_min": "2016-09-01T00:00:00.000Z",
+            "ticker": null,
+            "cmc_name": null
         },
         {
             "index": 61,
@@ -2638,7 +2768,9 @@
             "updated_at_max": "2021-09-29T00:00:00.000Z",
             "updated_at_min": "2020-11-20T00:00:00.000Z",
             "last_commit_date_max": "2021-09-22T00:00:00.000Z",
-            "last_commit_date_min": "2016-12-10T00:00:00.000Z"
+            "last_commit_date_min": "2016-12-10T00:00:00.000Z",
+            "ticker": "STRAX",
+            "cmc_name": "stratis"
         },
         {
             "index": 62,
@@ -2678,7 +2810,9 @@
             "updated_at_max": "2021-10-01T00:00:00.000Z",
             "updated_at_min": "2021-01-08T00:00:00.000Z",
             "last_commit_date_max": "2021-09-28T00:00:00.000Z",
-            "last_commit_date_min": "2018-04-20T00:00:00.000Z"
+            "last_commit_date_min": "2018-04-20T00:00:00.000Z",
+            "ticker": "ONT",
+            "cmc_name": "ontology"
         },
         {
             "index": 63,
@@ -2718,7 +2852,9 @@
             "updated_at_max": "2021-10-01T00:00:00.000Z",
             "updated_at_min": "2020-12-27T00:00:00.000Z",
             "last_commit_date_max": "2021-08-30T00:00:00.000Z",
-            "last_commit_date_min": "2018-04-04T00:00:00.000Z"
+            "last_commit_date_min": "2018-04-04T00:00:00.000Z",
+            "ticker": "ELF",
+            "cmc_name": "aelf"
         },
         {
             "index": 64,
@@ -2758,7 +2894,9 @@
             "updated_at_max": "2021-10-04T00:00:00.000Z",
             "updated_at_min": "2021-07-19T00:00:00.000Z",
             "last_commit_date_max": "2021-10-04T00:00:00.000Z",
-            "last_commit_date_min": "2021-03-04T00:00:00.000Z"
+            "last_commit_date_min": "2021-03-04T00:00:00.000Z",
+            "ticker": "ICP",
+            "cmc_name": "internet-computer"
         },
         {
             "index": 65,
@@ -2798,7 +2936,9 @@
             "updated_at_max": "2021-09-27T00:00:00.000Z",
             "updated_at_min": "2021-08-02T00:00:00.000Z",
             "last_commit_date_max": "2021-09-21T00:00:00.000Z",
-            "last_commit_date_min": "2017-07-20T00:00:00.000Z"
+            "last_commit_date_min": "2017-07-20T00:00:00.000Z",
+            "ticker": "BNT",
+            "cmc_name": "bancor"
         },
         {
             "index": 66,
@@ -2838,7 +2978,9 @@
             "updated_at_max": "2021-10-02T00:00:00.000Z",
             "updated_at_min": "2019-12-19T00:00:00.000Z",
             "last_commit_date_max": "2021-09-24T00:00:00.000Z",
-            "last_commit_date_min": "2017-11-13T00:00:00.000Z"
+            "last_commit_date_min": "2017-11-13T00:00:00.000Z",
+            "ticker": "VTHO",
+            "cmc_name": "vethor-token"
         },
         {
             "index": 67,
@@ -2878,7 +3020,9 @@
             "updated_at_max": "2021-10-04T00:00:00.000Z",
             "updated_at_min": "2021-02-11T00:00:00.000Z",
             "last_commit_date_max": "2021-10-04T00:00:00.000Z",
-            "last_commit_date_min": "2018-11-21T00:00:00.000Z"
+            "last_commit_date_min": "2018-11-21T00:00:00.000Z",
+            "ticker": "EGLD",
+            "cmc_name": "elrond-egld"
         },
         {
             "index": 68,
@@ -2918,7 +3062,9 @@
             "updated_at_max": "2021-10-03T00:00:00.000Z",
             "updated_at_min": "2021-07-11T00:00:00.000Z",
             "last_commit_date_max": "2021-10-02T00:00:00.000Z",
-            "last_commit_date_min": "2019-01-25T00:00:00.000Z"
+            "last_commit_date_min": "2019-01-25T00:00:00.000Z",
+            "ticker": "ALGO",
+            "cmc_name": "algorand"
         },
         {
             "index": 69,
@@ -2958,7 +3104,9 @@
             "updated_at_max": "2021-10-04T00:00:00.000Z",
             "updated_at_min": "2021-04-11T00:00:00.000Z",
             "last_commit_date_max": "2021-10-01T00:00:00.000Z",
-            "last_commit_date_min": "2020-12-19T00:00:00.000Z"
+            "last_commit_date_min": "2020-12-19T00:00:00.000Z",
+            "ticker": null,
+            "cmc_name": null
         },
         {
             "index": 70,
@@ -2998,7 +3146,9 @@
             "updated_at_max": "2021-10-04T00:00:00.000Z",
             "updated_at_min": "2021-09-22T00:00:00.000Z",
             "last_commit_date_max": "2021-10-03T00:00:00.000Z",
-            "last_commit_date_min": "2020-11-13T00:00:00.000Z"
+            "last_commit_date_min": "2020-11-13T00:00:00.000Z",
+            "ticker": "SRM",
+            "cmc_name": "serum"
         },
         {
             "index": 71,
@@ -3038,7 +3188,9 @@
             "updated_at_max": "2021-10-02T00:00:00.000Z",
             "updated_at_min": "2020-07-01T00:00:00.000Z",
             "last_commit_date_max": "2021-10-01T00:00:00.000Z",
-            "last_commit_date_min": "2018-10-12T00:00:00.000Z"
+            "last_commit_date_min": "2018-10-12T00:00:00.000Z",
+            "ticker": "OGN",
+            "cmc_name": "origin-protocol"
         },
         {
             "index": 72,
@@ -3078,7 +3230,9 @@
             "updated_at_max": "2021-10-04T00:00:00.000Z",
             "updated_at_min": "2021-03-05T00:00:00.000Z",
             "last_commit_date_max": "2021-10-04T00:00:00.000Z",
-            "last_commit_date_min": "2017-12-21T00:00:00.000Z"
+            "last_commit_date_min": "2017-12-21T00:00:00.000Z",
+            "ticker": "SNX",
+            "cmc_name": "synthetix-network-token"
         },
         {
             "index": 73,
@@ -3118,7 +3272,9 @@
             "updated_at_max": "2021-10-02T00:00:00.000Z",
             "updated_at_min": "2021-09-01T00:00:00.000Z",
             "last_commit_date_max": "2021-04-11T00:00:00.000Z",
-            "last_commit_date_min": "2018-07-16T00:00:00.000Z"
+            "last_commit_date_min": "2018-07-16T00:00:00.000Z",
+            "ticker": "BTG",
+            "cmc_name": "bitcoin-gold"
         },
         {
             "index": 74,
@@ -3158,7 +3314,9 @@
             "updated_at_max": "2021-10-03T00:00:00.000Z",
             "updated_at_min": "2019-06-26T00:00:00.000Z",
             "last_commit_date_max": "2021-10-04T00:00:00.000Z",
-            "last_commit_date_min": "2017-05-16T00:00:00.000Z"
+            "last_commit_date_min": "2017-05-16T00:00:00.000Z",
+            "ticker": "DCR",
+            "cmc_name": "decred"
         },
         {
             "index": 75,
@@ -3198,7 +3356,9 @@
             "updated_at_max": "2021-10-04T00:00:00.000Z",
             "updated_at_min": "2021-09-24T00:00:00.000Z",
             "last_commit_date_max": "2021-10-04T00:00:00.000Z",
-            "last_commit_date_min": "2021-08-03T00:00:00.000Z"
+            "last_commit_date_min": "2021-08-03T00:00:00.000Z",
+            "ticker": "RPL",
+            "cmc_name": "rocket-pool"
         },
         {
             "index": 76,
@@ -3238,7 +3398,9 @@
             "updated_at_max": "2021-10-03T00:00:00.000Z",
             "updated_at_min": "2020-12-28T00:00:00.000Z",
             "last_commit_date_max": "2021-10-03T00:00:00.000Z",
-            "last_commit_date_min": "2017-10-26T00:00:00.000Z"
+            "last_commit_date_min": "2017-10-26T00:00:00.000Z",
+            "ticker": "REP",
+            "cmc_name": "augur"
         },
         {
             "index": 77,
@@ -3278,7 +3440,9 @@
             "updated_at_max": "2021-10-04T00:00:00.000Z",
             "updated_at_min": "2021-09-20T00:00:00.000Z",
             "last_commit_date_max": "2021-10-04T00:00:00.000Z",
-            "last_commit_date_min": "2021-05-20T00:00:00.000Z"
+            "last_commit_date_min": "2021-05-20T00:00:00.000Z",
+            "ticker": null,
+            "cmc_name": null
         },
         {
             "index": 78,
@@ -3318,7 +3482,9 @@
             "updated_at_max": "2021-10-04T00:00:00.000Z",
             "updated_at_min": "2020-09-30T00:00:00.000Z",
             "last_commit_date_max": "2021-10-03T00:00:00.000Z",
-            "last_commit_date_min": "2017-07-24T00:00:00.000Z"
+            "last_commit_date_min": "2017-07-24T00:00:00.000Z",
+            "ticker": "DOT",
+            "cmc_name": "polkadot-new"
         },
         {
             "index": 79,
@@ -3358,7 +3524,9 @@
             "updated_at_max": "2021-10-04T00:00:00.000Z",
             "updated_at_min": "2020-03-17T00:00:00.000Z",
             "last_commit_date_max": "2021-10-03T00:00:00.000Z",
-            "last_commit_date_min": "2018-02-26T00:00:00.000Z"
+            "last_commit_date_min": "2018-02-26T00:00:00.000Z",
+            "ticker": "OMG",
+            "cmc_name": "omg"
         },
         {
             "index": 80,
@@ -3398,7 +3566,9 @@
             "updated_at_max": "2021-10-04T00:00:00.000Z",
             "updated_at_min": "2021-05-07T00:00:00.000Z",
             "last_commit_date_max": "2021-10-04T00:00:00.000Z",
-            "last_commit_date_min": "2017-05-07T00:00:00.000Z"
+            "last_commit_date_min": "2017-05-07T00:00:00.000Z",
+            "ticker": "MKR",
+            "cmc_name": "maker"
         },
         {
             "index": 81,
@@ -3438,7 +3608,9 @@
             "updated_at_max": "2021-10-01T00:00:00.000Z",
             "updated_at_min": "2021-05-24T00:00:00.000Z",
             "last_commit_date_max": "2021-07-02T00:00:00.000Z",
-            "last_commit_date_min": "2021-05-24T00:00:00.000Z"
+            "last_commit_date_min": "2021-05-24T00:00:00.000Z",
+            "ticker": "BSV",
+            "cmc_name": "bitcoin-sv"
         },
         {
             "index": 82,
@@ -3478,7 +3650,9 @@
             "updated_at_max": "2021-10-04T00:00:00.000Z",
             "updated_at_min": "2021-07-03T00:00:00.000Z",
             "last_commit_date_max": "2021-10-04T00:00:00.000Z",
-            "last_commit_date_min": "2020-09-02T00:00:00.000Z"
+            "last_commit_date_min": "2020-09-02T00:00:00.000Z",
+            "ticker": "CRV",
+            "cmc_name": "curve-dao-token"
         },
         {
             "index": 83,
@@ -3518,7 +3692,9 @@
             "updated_at_max": "2021-09-30T00:00:00.000Z",
             "updated_at_min": "2021-09-30T00:00:00.000Z",
             "last_commit_date_max": "2021-09-24T00:00:00.000Z",
-            "last_commit_date_min": "2021-09-24T00:00:00.000Z"
+            "last_commit_date_min": "2021-09-24T00:00:00.000Z",
+            "ticker": "OXT",
+            "cmc_name": "orchid"
         },
         {
             "index": 84,
@@ -3558,7 +3734,9 @@
             "updated_at_max": "2021-10-02T00:00:00.000Z",
             "updated_at_min": "2021-06-27T00:00:00.000Z",
             "last_commit_date_max": "2021-09-28T00:00:00.000Z",
-            "last_commit_date_min": "2020-12-09T00:00:00.000Z"
+            "last_commit_date_min": "2020-12-09T00:00:00.000Z",
+            "ticker": "CFX",
+            "cmc_name": "conflux-network"
         },
         {
             "index": 85,
@@ -3598,7 +3776,9 @@
             "updated_at_max": "2021-10-04T00:00:00.000Z",
             "updated_at_min": "2021-09-13T00:00:00.000Z",
             "last_commit_date_max": "2021-10-02T00:00:00.000Z",
-            "last_commit_date_min": "2020-01-06T00:00:00.000Z"
+            "last_commit_date_min": "2020-01-06T00:00:00.000Z",
+            "ticker": "AR",
+            "cmc_name": "arweave"
         },
         {
             "index": 86,
@@ -3638,7 +3818,9 @@
             "updated_at_max": "2021-10-04T00:00:00.000Z",
             "updated_at_min": "2021-09-15T00:00:00.000Z",
             "last_commit_date_max": "2021-10-04T00:00:00.000Z",
-            "last_commit_date_min": "2019-12-06T00:00:00.000Z"
+            "last_commit_date_min": "2019-12-06T00:00:00.000Z",
+            "ticker": null,
+            "cmc_name": null
         },
         {
             "index": 87,
@@ -3678,7 +3860,9 @@
             "updated_at_max": "2021-10-04T00:00:00.000Z",
             "updated_at_min": "2021-06-14T00:00:00.000Z",
             "last_commit_date_max": "2021-08-08T00:00:00.000Z",
-            "last_commit_date_min": "2018-04-12T00:00:00.000Z"
+            "last_commit_date_min": "2018-04-12T00:00:00.000Z",
+            "ticker": "DERO",
+            "cmc_name": "dero"
         },
         {
             "index": 88,
@@ -3718,7 +3902,9 @@
             "updated_at_max": "2021-10-01T00:00:00.000Z",
             "updated_at_min": "2018-12-14T00:00:00.000Z",
             "last_commit_date_max": "2021-10-01T00:00:00.000Z",
-            "last_commit_date_min": "2018-02-16T00:00:00.000Z"
+            "last_commit_date_min": "2018-02-16T00:00:00.000Z",
+            "ticker": "RLC",
+            "cmc_name": "rlc"
         },
         {
             "index": 89,
@@ -3758,7 +3944,9 @@
             "updated_at_max": "2021-10-01T00:00:00.000Z",
             "updated_at_min": "2020-10-20T00:00:00.000Z",
             "last_commit_date_max": "2021-09-30T00:00:00.000Z",
-            "last_commit_date_min": "2017-08-17T00:00:00.000Z"
+            "last_commit_date_min": "2017-08-17T00:00:00.000Z",
+            "ticker": "LPT",
+            "cmc_name": "livepeer"
         },
         {
             "index": 90,
@@ -3798,7 +3986,9 @@
             "updated_at_max": "2021-10-04T00:00:00.000Z",
             "updated_at_min": "2021-04-06T00:00:00.000Z",
             "last_commit_date_max": "2021-10-03T00:00:00.000Z",
-            "last_commit_date_min": "2019-10-08T00:00:00.000Z"
+            "last_commit_date_min": "2019-10-08T00:00:00.000Z",
+            "ticker": "CELO",
+            "cmc_name": "celo"
         },
         {
             "index": 91,
@@ -3838,7 +4028,9 @@
             "updated_at_max": "2021-10-01T00:00:00.000Z",
             "updated_at_min": "2020-09-17T00:00:00.000Z",
             "last_commit_date_max": "2021-09-14T00:00:00.000Z",
-            "last_commit_date_min": "2018-06-05T00:00:00.000Z"
+            "last_commit_date_min": "2018-06-05T00:00:00.000Z",
+            "ticker": "NKN",
+            "cmc_name": "nkn"
         },
         {
             "index": 92,
@@ -3878,7 +4070,9 @@
             "updated_at_max": "2021-09-16T00:00:00.000Z",
             "updated_at_min": "2018-09-10T00:00:00.000Z",
             "last_commit_date_max": "2021-09-15T00:00:00.000Z",
-            "last_commit_date_min": "2015-05-11T00:00:00.000Z"
+            "last_commit_date_min": "2015-05-11T00:00:00.000Z",
+            "ticker": "XEM",
+            "cmc_name": "nem"
         },
         {
             "index": 93,
@@ -3918,7 +4112,9 @@
             "updated_at_max": "2021-10-04T00:00:00.000Z",
             "updated_at_min": "2018-10-17T00:00:00.000Z",
             "last_commit_date_max": "2021-10-04T00:00:00.000Z",
-            "last_commit_date_min": "2015-06-05T00:00:00.000Z"
+            "last_commit_date_min": "2015-06-05T00:00:00.000Z",
+            "ticker": "MANA",
+            "cmc_name": "decentraland"
         },
         {
             "index": 94,
@@ -3958,7 +4154,9 @@
             "updated_at_max": "2021-10-01T00:00:00.000Z",
             "updated_at_min": "2021-03-22T00:00:00.000Z",
             "last_commit_date_max": "2021-10-04T00:00:00.000Z",
-            "last_commit_date_min": "2018-02-05T00:00:00.000Z"
+            "last_commit_date_min": "2018-02-05T00:00:00.000Z",
+            "ticker": "REQ",
+            "cmc_name": "request"
         },
         {
             "index": 95,
@@ -3998,7 +4196,9 @@
             "updated_at_max": "2021-09-26T00:00:00.000Z",
             "updated_at_min": "2021-07-26T00:00:00.000Z",
             "last_commit_date_max": "2020-05-13T00:00:00.000Z",
-            "last_commit_date_min": "2020-03-26T00:00:00.000Z"
+            "last_commit_date_min": "2020-03-26T00:00:00.000Z",
+            "ticker": null,
+            "cmc_name": null
         },
         {
             "index": 96,
@@ -4038,7 +4238,9 @@
             "updated_at_max": "2021-10-04T00:00:00.000Z",
             "updated_at_min": "2021-06-21T00:00:00.000Z",
             "last_commit_date_max": "2021-09-30T00:00:00.000Z",
-            "last_commit_date_min": "2019-05-18T00:00:00.000Z"
+            "last_commit_date_min": "2019-05-18T00:00:00.000Z",
+            "ticker": "DYDX",
+            "cmc_name": "dydx"
         },
         {
             "index": 97,
@@ -4078,7 +4280,9 @@
             "updated_at_max": "2021-10-03T00:00:00.000Z",
             "updated_at_min": "2021-09-12T00:00:00.000Z",
             "last_commit_date_max": "2021-09-30T00:00:00.000Z",
-            "last_commit_date_min": "2020-01-18T00:00:00.000Z"
+            "last_commit_date_min": "2020-01-18T00:00:00.000Z",
+            "ticker": "NMR",
+            "cmc_name": "numeraire"
         },
         {
             "index": 98,
@@ -4118,7 +4322,9 @@
             "updated_at_max": "2021-10-01T00:00:00.000Z",
             "updated_at_min": "2021-01-25T00:00:00.000Z",
             "last_commit_date_max": "2021-10-01T00:00:00.000Z",
-            "last_commit_date_min": "2020-03-09T00:00:00.000Z"
+            "last_commit_date_min": "2020-03-09T00:00:00.000Z",
+            "ticker": "ARK",
+            "cmc_name": "ark"
         },
         {
             "index": 99,
@@ -4158,7 +4364,9 @@
             "updated_at_max": "2021-10-04T00:00:00.000Z",
             "updated_at_min": "2020-11-20T00:00:00.000Z",
             "last_commit_date_max": "2021-10-01T00:00:00.000Z",
-            "last_commit_date_min": "2015-04-15T00:00:00.000Z"
+            "last_commit_date_min": "2015-04-15T00:00:00.000Z",
+            "ticker": "HNT",
+            "cmc_name": "helium"
         },
         {
             "index": 100,
@@ -4198,7 +4406,9 @@
             "updated_at_max": "2021-10-04T00:00:00.000Z",
             "updated_at_min": "2021-05-30T00:00:00.000Z",
             "last_commit_date_max": "2021-10-04T00:00:00.000Z",
-            "last_commit_date_min": "2018-02-10T00:00:00.000Z"
+            "last_commit_date_min": "2018-02-10T00:00:00.000Z",
+            "ticker": "MATIC",
+            "cmc_name": "polygon"
         },
         {
             "index": 101,
@@ -4238,7 +4448,9 @@
             "updated_at_max": "2021-09-30T00:00:00.000Z",
             "updated_at_min": "2020-01-13T00:00:00.000Z",
             "last_commit_date_max": "2021-09-30T00:00:00.000Z",
-            "last_commit_date_min": "2018-01-31T00:00:00.000Z"
+            "last_commit_date_min": "2018-01-31T00:00:00.000Z",
+            "ticker": "POLY",
+            "cmc_name": "polymath-network"
         },
         {
             "index": 102,
@@ -4278,7 +4490,9 @@
             "updated_at_max": "2021-10-03T00:00:00.000Z",
             "updated_at_min": "2021-01-26T00:00:00.000Z",
             "last_commit_date_max": "2021-10-01T00:00:00.000Z",
-            "last_commit_date_min": "2019-06-10T00:00:00.000Z"
+            "last_commit_date_min": "2019-06-10T00:00:00.000Z",
+            "ticker": "KAVA",
+            "cmc_name": "kava"
         },
         {
             "index": 103,
@@ -4318,7 +4532,9 @@
             "updated_at_max": "2021-10-04T00:00:00.000Z",
             "updated_at_min": "2021-10-04T00:00:00.000Z",
             "last_commit_date_max": "2021-09-20T00:00:00.000Z",
-            "last_commit_date_min": "2021-09-20T00:00:00.000Z"
+            "last_commit_date_min": "2021-09-20T00:00:00.000Z",
+            "ticker": null,
+            "cmc_name": null
         },
         {
             "index": 104,
@@ -4358,7 +4574,9 @@
             "updated_at_max": "2021-10-04T00:00:00.000Z",
             "updated_at_min": "2021-09-16T00:00:00.000Z",
             "last_commit_date_max": "2021-10-04T00:00:00.000Z",
-            "last_commit_date_min": "2021-07-15T00:00:00.000Z"
+            "last_commit_date_min": "2021-07-15T00:00:00.000Z",
+            "ticker": "FLOW",
+            "cmc_name": "flow"
         },
         {
             "index": 105,
@@ -4398,7 +4616,9 @@
             "updated_at_max": "2021-10-04T00:00:00.000Z",
             "updated_at_min": "2020-05-05T00:00:00.000Z",
             "last_commit_date_max": "2021-10-04T00:00:00.000Z",
-            "last_commit_date_min": "2015-06-09T00:00:00.000Z"
+            "last_commit_date_min": "2015-06-09T00:00:00.000Z",
+            "ticker": "MAID",
+            "cmc_name": "maidsafecoin"
         },
         {
             "index": 106,
@@ -4438,7 +4658,9 @@
             "updated_at_max": "2021-09-28T00:00:00.000Z",
             "updated_at_min": "2021-06-30T00:00:00.000Z",
             "last_commit_date_max": "2021-09-27T00:00:00.000Z",
-            "last_commit_date_min": "2017-11-02T00:00:00.000Z"
+            "last_commit_date_min": "2017-11-02T00:00:00.000Z",
+            "ticker": "ENJ",
+            "cmc_name": "enjin-coin"
         },
         {
             "index": 107,
@@ -4478,7 +4700,9 @@
             "updated_at_max": "2021-10-03T00:00:00.000Z",
             "updated_at_min": "2021-05-25T00:00:00.000Z",
             "last_commit_date_max": "2021-10-02T00:00:00.000Z",
-            "last_commit_date_min": "2018-08-07T00:00:00.000Z"
+            "last_commit_date_min": "2018-08-07T00:00:00.000Z",
+            "ticker": "HBAR",
+            "cmc_name": "hedera-hashgraph"
         },
         {
             "index": 108,
@@ -4518,7 +4742,9 @@
             "updated_at_max": "2021-10-02T00:00:00.000Z",
             "updated_at_min": "2021-08-22T00:00:00.000Z",
             "last_commit_date_max": "2021-10-04T00:00:00.000Z",
-            "last_commit_date_min": "2018-05-10T00:00:00.000Z"
+            "last_commit_date_min": "2018-05-10T00:00:00.000Z",
+            "ticker": "TUSD",
+            "cmc_name": "trueusd"
         },
         {
             "index": 109,
@@ -4558,7 +4784,9 @@
             "updated_at_max": "2021-10-04T00:00:00.000Z",
             "updated_at_min": "2021-09-10T00:00:00.000Z",
             "last_commit_date_max": "2021-10-04T00:00:00.000Z",
-            "last_commit_date_min": "2020-06-29T00:00:00.000Z"
+            "last_commit_date_min": "2020-06-29T00:00:00.000Z",
+            "ticker": "UMA",
+            "cmc_name": "uma"
         },
         {
             "index": 110,
@@ -4598,7 +4826,9 @@
             "updated_at_max": "2021-10-03T00:00:00.000Z",
             "updated_at_min": "2021-05-03T00:00:00.000Z",
             "last_commit_date_max": "2021-10-03T00:00:00.000Z",
-            "last_commit_date_min": "2018-12-09T00:00:00.000Z"
+            "last_commit_date_min": "2018-12-09T00:00:00.000Z",
+            "ticker": "ETC",
+            "cmc_name": "ethereum-classic"
         },
         {
             "index": 111,
@@ -4638,7 +4868,9 @@
             "updated_at_max": "2021-09-29T00:00:00.000Z",
             "updated_at_min": "2021-09-29T00:00:00.000Z",
             "last_commit_date_max": "2021-09-02T00:00:00.000Z",
-            "last_commit_date_min": "2021-09-02T00:00:00.000Z"
+            "last_commit_date_min": "2021-09-02T00:00:00.000Z",
+            "ticker": null,
+            "cmc_name": null
         },
         {
             "index": 112,
@@ -4678,7 +4910,9 @@
             "updated_at_max": "2021-10-04T00:00:00.000Z",
             "updated_at_min": "2021-07-06T00:00:00.000Z",
             "last_commit_date_max": "2021-08-01T00:00:00.000Z",
-            "last_commit_date_min": "2021-06-16T00:00:00.000Z"
+            "last_commit_date_min": "2021-06-16T00:00:00.000Z",
+            "ticker": "HIVE",
+            "cmc_name": "hive-blockchain"
         },
         {
             "index": 113,
@@ -4718,7 +4952,9 @@
             "updated_at_max": "2021-10-03T00:00:00.000Z",
             "updated_at_min": "2021-04-26T00:00:00.000Z",
             "last_commit_date_max": "2021-09-30T00:00:00.000Z",
-            "last_commit_date_min": "2019-07-15T00:00:00.000Z"
+            "last_commit_date_min": "2019-07-15T00:00:00.000Z",
+            "ticker": "BAND",
+            "cmc_name": "band-protocol"
         },
         {
             "index": 114,
@@ -4758,7 +4994,9 @@
             "updated_at_max": "2021-10-03T00:00:00.000Z",
             "updated_at_min": "2021-08-26T00:00:00.000Z",
             "last_commit_date_max": "2021-10-03T00:00:00.000Z",
-            "last_commit_date_min": "2020-12-28T00:00:00.000Z"
+            "last_commit_date_min": "2020-12-28T00:00:00.000Z",
+            "ticker": "PHA",
+            "cmc_name": "phala-network"
         },
         {
             "index": 115,
@@ -4798,7 +5036,9 @@
             "updated_at_max": "2021-10-03T00:00:00.000Z",
             "updated_at_min": "2020-04-20T00:00:00.000Z",
             "last_commit_date_max": "2021-09-30T00:00:00.000Z",
-            "last_commit_date_min": "2017-07-19T00:00:00.000Z"
+            "last_commit_date_min": "2017-07-19T00:00:00.000Z",
+            "ticker": "ZEN",
+            "cmc_name": "horizen"
         },
         {
             "index": 116,
@@ -4838,7 +5078,9 @@
             "updated_at_max": "2021-10-01T00:00:00.000Z",
             "updated_at_min": "2021-09-16T00:00:00.000Z",
             "last_commit_date_max": "2021-10-01T00:00:00.000Z",
-            "last_commit_date_min": "2021-06-15T00:00:00.000Z"
+            "last_commit_date_min": "2021-06-15T00:00:00.000Z",
+            "ticker": "KLAY",
+            "cmc_name": "klaytn"
         },
         {
             "index": 117,
@@ -4878,7 +5120,9 @@
             "updated_at_max": "2021-10-03T00:00:00.000Z",
             "updated_at_min": "2020-09-01T00:00:00.000Z",
             "last_commit_date_max": "2021-09-29T00:00:00.000Z",
-            "last_commit_date_min": "2019-01-25T00:00:00.000Z"
+            "last_commit_date_min": "2019-01-25T00:00:00.000Z",
+            "ticker": "CELR",
+            "cmc_name": "celer-network"
         },
         {
             "index": 118,
@@ -4918,7 +5162,9 @@
             "updated_at_max": "2021-10-04T00:00:00.000Z",
             "updated_at_min": "2021-07-25T00:00:00.000Z",
             "last_commit_date_max": "2021-10-04T00:00:00.000Z",
-            "last_commit_date_min": "2020-05-27T00:00:00.000Z"
+            "last_commit_date_min": "2020-05-27T00:00:00.000Z",
+            "ticker": "ROSE",
+            "cmc_name": "oasis-network"
         },
         {
             "index": 119,
@@ -4958,7 +5204,9 @@
             "updated_at_max": "2021-10-04T00:00:00.000Z",
             "updated_at_min": "2021-09-04T00:00:00.000Z",
             "last_commit_date_max": "2021-10-04T00:00:00.000Z",
-            "last_commit_date_min": "2019-07-05T00:00:00.000Z"
+            "last_commit_date_min": "2019-07-05T00:00:00.000Z",
+            "ticker": "FTM",
+            "cmc_name": "fantom"
         },
         {
             "index": 120,
@@ -4998,7 +5246,9 @@
             "updated_at_max": "2021-09-30T00:00:00.000Z",
             "updated_at_min": "2021-05-25T00:00:00.000Z",
             "last_commit_date_max": "2021-09-30T00:00:00.000Z",
-            "last_commit_date_min": "2017-09-13T00:00:00.000Z"
+            "last_commit_date_min": "2017-09-13T00:00:00.000Z",
+            "ticker": "CHSB",
+            "cmc_name": "swissborg"
         },
         {
             "index": 121,
@@ -5038,7 +5288,9 @@
             "updated_at_max": "2021-10-02T00:00:00.000Z",
             "updated_at_min": "2019-09-20T00:00:00.000Z",
             "last_commit_date_max": "2021-09-04T00:00:00.000Z",
-            "last_commit_date_min": "2018-03-20T00:00:00.000Z"
+            "last_commit_date_min": "2018-03-20T00:00:00.000Z",
+            "ticker": "SYS",
+            "cmc_name": "syscoin"
         },
         {
             "index": 122,
@@ -5078,7 +5330,9 @@
             "updated_at_max": "2021-09-30T00:00:00.000Z",
             "updated_at_min": "2021-09-15T00:00:00.000Z",
             "last_commit_date_max": "2021-09-20T00:00:00.000Z",
-            "last_commit_date_min": "2021-09-15T00:00:00.000Z"
+            "last_commit_date_min": "2021-09-15T00:00:00.000Z",
+            "ticker": "REEF",
+            "cmc_name": "reef"
         },
         {
             "index": 123,
@@ -5118,7 +5372,9 @@
             "updated_at_max": "2021-09-30T00:00:00.000Z",
             "updated_at_min": "2020-09-18T00:00:00.000Z",
             "last_commit_date_max": "2021-09-22T00:00:00.000Z",
-            "last_commit_date_min": "2018-10-01T00:00:00.000Z"
+            "last_commit_date_min": "2018-10-01T00:00:00.000Z",
+            "ticker": "DAG",
+            "cmc_name": "constellation"
         },
         {
             "index": 124,
@@ -5158,7 +5414,9 @@
             "updated_at_max": "2021-06-05T00:00:00.000Z",
             "updated_at_min": "2021-05-11T00:00:00.000Z",
             "last_commit_date_max": "2019-04-30T00:00:00.000Z",
-            "last_commit_date_min": "2018-01-03T00:00:00.000Z"
+            "last_commit_date_min": "2018-01-03T00:00:00.000Z",
+            "ticker": "BCD",
+            "cmc_name": "bitcoin-diamond"
         },
         {
             "index": 125,
@@ -5198,7 +5456,9 @@
             "updated_at_max": "2021-10-04T00:00:00.000Z",
             "updated_at_min": "2021-10-04T00:00:00.000Z",
             "last_commit_date_max": "2021-10-04T00:00:00.000Z",
-            "last_commit_date_min": "2021-10-04T00:00:00.000Z"
+            "last_commit_date_min": "2021-10-04T00:00:00.000Z",
+            "ticker": "FEI",
+            "cmc_name": "fei-protocol"
         },
         {
             "index": 126,
@@ -5238,7 +5498,9 @@
             "updated_at_max": "2021-10-01T00:00:00.000Z",
             "updated_at_min": "2019-03-28T00:00:00.000Z",
             "last_commit_date_max": "2021-08-11T00:00:00.000Z",
-            "last_commit_date_min": "2018-08-05T00:00:00.000Z"
+            "last_commit_date_min": "2018-08-05T00:00:00.000Z",
+            "ticker": "ORBS",
+            "cmc_name": "orbs"
         },
         {
             "index": 127,
@@ -5278,7 +5540,9 @@
             "updated_at_max": "2021-09-30T00:00:00.000Z",
             "updated_at_min": "2021-01-13T00:00:00.000Z",
             "last_commit_date_max": "2021-09-29T00:00:00.000Z",
-            "last_commit_date_min": "2018-02-26T00:00:00.000Z"
+            "last_commit_date_min": "2018-02-26T00:00:00.000Z",
+            "ticker": "TOMO",
+            "cmc_name": "tomochain"
         },
         {
             "index": 128,
@@ -5318,7 +5582,9 @@
             "updated_at_max": "2021-10-04T00:00:00.000Z",
             "updated_at_min": "2021-01-05T00:00:00.000Z",
             "last_commit_date_max": "2021-10-04T00:00:00.000Z",
-            "last_commit_date_min": "2020-10-31T00:00:00.000Z"
+            "last_commit_date_min": "2020-10-31T00:00:00.000Z",
+            "ticker": "OCEAN",
+            "cmc_name": "ocean-protocol"
         },
         {
             "index": 129,
@@ -5358,7 +5624,9 @@
             "updated_at_max": "2021-10-04T00:00:00.000Z",
             "updated_at_min": "2021-09-07T00:00:00.000Z",
             "last_commit_date_max": "2021-09-23T00:00:00.000Z",
-            "last_commit_date_min": "2019-05-29T00:00:00.000Z"
+            "last_commit_date_min": "2019-05-29T00:00:00.000Z",
+            "ticker": "FET",
+            "cmc_name": "fetch"
         },
         {
             "index": 130,
@@ -5398,7 +5666,9 @@
             "updated_at_max": "2021-10-02T00:00:00.000Z",
             "updated_at_min": "2019-10-15T00:00:00.000Z",
             "last_commit_date_max": "2021-09-28T00:00:00.000Z",
-            "last_commit_date_min": "2018-05-29T00:00:00.000Z"
+            "last_commit_date_min": "2018-05-29T00:00:00.000Z",
+            "ticker": "AGIX",
+            "cmc_name": "singularitynet"
         },
         {
             "index": 131,
@@ -5438,7 +5708,9 @@
             "updated_at_max": "2021-10-03T00:00:00.000Z",
             "updated_at_min": "2021-07-01T00:00:00.000Z",
             "last_commit_date_max": "2021-09-28T00:00:00.000Z",
-            "last_commit_date_min": "2018-10-03T00:00:00.000Z"
+            "last_commit_date_min": "2018-10-03T00:00:00.000Z",
+            "ticker": "COTI",
+            "cmc_name": "coti"
         },
         {
             "index": 132,
@@ -5478,7 +5750,9 @@
             "updated_at_max": "2021-10-04T00:00:00.000Z",
             "updated_at_min": "2020-08-27T00:00:00.000Z",
             "last_commit_date_max": "2021-10-04T00:00:00.000Z",
-            "last_commit_date_min": "2019-09-03T00:00:00.000Z"
+            "last_commit_date_min": "2019-09-03T00:00:00.000Z",
+            "ticker": "SKL",
+            "cmc_name": "skale-network"
         },
         {
             "index": 133,
@@ -5518,7 +5792,9 @@
             "updated_at_max": "2021-10-01T00:00:00.000Z",
             "updated_at_min": "2021-10-01T00:00:00.000Z",
             "last_commit_date_max": "2018-04-20T00:00:00.000Z",
-            "last_commit_date_min": "2018-04-20T00:00:00.000Z"
+            "last_commit_date_min": "2018-04-20T00:00:00.000Z",
+            "ticker": "NEXO",
+            "cmc_name": "nexo"
         },
         {
             "index": 134,
@@ -5558,7 +5834,9 @@
             "updated_at_max": "2021-09-30T00:00:00.000Z",
             "updated_at_min": "2021-07-13T00:00:00.000Z",
             "last_commit_date_max": "2021-08-23T00:00:00.000Z",
-            "last_commit_date_min": "2019-10-03T00:00:00.000Z"
+            "last_commit_date_min": "2019-10-03T00:00:00.000Z",
+            "ticker": "WAXP",
+            "cmc_name": "wax"
         },
         {
             "index": 135,
@@ -5598,7 +5876,9 @@
             "updated_at_max": "2021-10-01T00:00:00.000Z",
             "updated_at_min": "2020-02-11T00:00:00.000Z",
             "last_commit_date_max": "2021-10-01T00:00:00.000Z",
-            "last_commit_date_min": "2018-06-22T00:00:00.000Z"
+            "last_commit_date_min": "2018-06-22T00:00:00.000Z",
+            "ticker": "ICX",
+            "cmc_name": "icon"
         },
         {
             "index": 136,
@@ -5638,7 +5918,9 @@
             "updated_at_max": "2021-10-02T00:00:00.000Z",
             "updated_at_min": "2021-10-02T00:00:00.000Z",
             "last_commit_date_max": "2021-09-30T00:00:00.000Z",
-            "last_commit_date_min": "2021-09-30T00:00:00.000Z"
+            "last_commit_date_min": "2021-09-30T00:00:00.000Z",
+            "ticker": null,
+            "cmc_name": null
         },
         {
             "index": 137,
@@ -5678,7 +5960,9 @@
             "updated_at_max": "2021-10-04T00:00:00.000Z",
             "updated_at_min": "2020-08-25T00:00:00.000Z",
             "last_commit_date_max": "2021-10-04T00:00:00.000Z",
-            "last_commit_date_min": "2019-02-15T00:00:00.000Z"
+            "last_commit_date_min": "2019-02-15T00:00:00.000Z",
+            "ticker": "EWT",
+            "cmc_name": "energy-web-token"
         },
         {
             "index": 138,
@@ -5718,7 +6002,9 @@
             "updated_at_max": "2021-10-03T00:00:00.000Z",
             "updated_at_min": "2021-01-08T00:00:00.000Z",
             "last_commit_date_max": "2021-10-01T00:00:00.000Z",
-            "last_commit_date_min": "2020-03-25T00:00:00.000Z"
+            "last_commit_date_min": "2020-03-25T00:00:00.000Z",
+            "ticker": "CTSI",
+            "cmc_name": "cartesi"
         },
         {
             "index": 139,
@@ -5758,7 +6044,9 @@
             "updated_at_max": "2021-10-01T00:00:00.000Z",
             "updated_at_min": "2021-05-09T00:00:00.000Z",
             "last_commit_date_max": "2021-10-01T00:00:00.000Z",
-            "last_commit_date_min": "2018-12-23T00:00:00.000Z"
+            "last_commit_date_min": "2018-12-23T00:00:00.000Z",
+            "ticker": "RUNE",
+            "cmc_name": "thorchain"
         },
         {
             "index": 140,
@@ -5798,7 +6086,9 @@
             "updated_at_max": "2021-09-23T00:00:00.000Z",
             "updated_at_min": "2021-09-10T00:00:00.000Z",
             "last_commit_date_max": "2021-07-29T00:00:00.000Z",
-            "last_commit_date_min": "2021-04-21T00:00:00.000Z"
+            "last_commit_date_min": "2021-04-21T00:00:00.000Z",
+            "ticker": "DGB",
+            "cmc_name": "digibyte"
         },
         {
             "index": 141,
@@ -5838,7 +6128,9 @@
             "updated_at_max": "2021-09-28T00:00:00.000Z",
             "updated_at_min": "2021-03-11T00:00:00.000Z",
             "last_commit_date_max": "2020-07-28T00:00:00.000Z",
-            "last_commit_date_min": "2019-10-22T00:00:00.000Z"
+            "last_commit_date_min": "2019-10-22T00:00:00.000Z",
+            "ticker": "KSM",
+            "cmc_name": "kusama"
         },
         {
             "index": 142,
@@ -5878,7 +6170,9 @@
             "updated_at_max": "2021-09-14T00:00:00.000Z",
             "updated_at_min": "2020-07-02T00:00:00.000Z",
             "last_commit_date_max": "2021-02-12T00:00:00.000Z",
-            "last_commit_date_min": "2020-02-29T00:00:00.000Z"
+            "last_commit_date_min": "2020-02-29T00:00:00.000Z",
+            "ticker": "NEAR",
+            "cmc_name": "near-protocol"
         },
         {
             "index": 143,
@@ -5918,7 +6212,9 @@
             "updated_at_max": "2021-10-01T00:00:00.000Z",
             "updated_at_min": "2019-08-22T00:00:00.000Z",
             "last_commit_date_max": "2021-09-27T00:00:00.000Z",
-            "last_commit_date_min": "2019-05-02T00:00:00.000Z"
+            "last_commit_date_min": "2019-05-02T00:00:00.000Z",
+            "ticker": "MED",
+            "cmc_name": "medibloc"
         },
         {
             "index": 144,
@@ -5958,7 +6254,9 @@
             "updated_at_max": "2021-09-18T00:00:00.000Z",
             "updated_at_min": "2021-08-30T00:00:00.000Z",
             "last_commit_date_max": "2021-07-09T00:00:00.000Z",
-            "last_commit_date_min": "2020-10-22T00:00:00.000Z"
+            "last_commit_date_min": "2020-10-22T00:00:00.000Z",
+            "ticker": "ALPHA",
+            "cmc_name": "alpha-finance-lab"
         },
         {
             "index": 145,
@@ -5998,7 +6296,9 @@
             "updated_at_max": "2021-09-23T00:00:00.000Z",
             "updated_at_min": "2021-05-13T00:00:00.000Z",
             "last_commit_date_max": "2021-09-23T00:00:00.000Z",
-            "last_commit_date_min": "2018-09-09T00:00:00.000Z"
+            "last_commit_date_min": "2018-09-09T00:00:00.000Z",
+            "ticker": "LRC",
+            "cmc_name": "loopring"
         },
         {
             "index": 146,
@@ -6038,7 +6338,9 @@
             "updated_at_max": "2021-09-29T00:00:00.000Z",
             "updated_at_min": "2021-08-09T00:00:00.000Z",
             "last_commit_date_max": "2020-10-12T00:00:00.000Z",
-            "last_commit_date_min": "2020-09-13T00:00:00.000Z"
+            "last_commit_date_min": "2020-09-13T00:00:00.000Z",
+            "ticker": "BAKE",
+            "cmc_name": "bakerytoken"
         },
         {
             "index": 147,
@@ -6078,7 +6380,9 @@
             "updated_at_max": "2021-09-27T00:00:00.000Z",
             "updated_at_min": "2021-09-27T00:00:00.000Z",
             "last_commit_date_max": "2020-12-04T00:00:00.000Z",
-            "last_commit_date_min": "2020-12-04T00:00:00.000Z"
+            "last_commit_date_min": "2020-12-04T00:00:00.000Z",
+            "ticker": "AMP",
+            "cmc_name": "amp"
         },
         {
             "index": 148,
@@ -6118,7 +6422,9 @@
             "updated_at_max": "2021-09-24T00:00:00.000Z",
             "updated_at_min": "2021-06-08T00:00:00.000Z",
             "last_commit_date_max": "2021-07-23T00:00:00.000Z",
-            "last_commit_date_min": "2020-07-30T00:00:00.000Z"
+            "last_commit_date_min": "2020-07-30T00:00:00.000Z",
+            "ticker": "QNT",
+            "cmc_name": "quant"
         },
         {
             "index": 149,
@@ -6158,7 +6464,9 @@
             "updated_at_max": "2021-09-22T00:00:00.000Z",
             "updated_at_min": "2021-07-17T00:00:00.000Z",
             "last_commit_date_max": "2021-09-14T00:00:00.000Z",
-            "last_commit_date_min": "2020-04-16T00:00:00.000Z"
+            "last_commit_date_min": "2020-04-16T00:00:00.000Z",
+            "ticker": "XYO",
+            "cmc_name": "xyo"
         },
         {
             "index": 150,
@@ -6198,7 +6506,9 @@
             "updated_at_max": "2021-09-29T00:00:00.000Z",
             "updated_at_min": "2021-09-07T00:00:00.000Z",
             "last_commit_date_max": "2021-09-25T00:00:00.000Z",
-            "last_commit_date_min": "2021-04-01T00:00:00.000Z"
+            "last_commit_date_min": "2021-04-01T00:00:00.000Z",
+            "ticker": "XDC",
+            "cmc_name": "xinfin"
         },
         {
             "index": 151,
@@ -6238,7 +6548,9 @@
             "updated_at_max": "2021-10-02T00:00:00.000Z",
             "updated_at_min": "2021-08-24T00:00:00.000Z",
             "last_commit_date_max": "2021-08-05T00:00:00.000Z",
-            "last_commit_date_min": "2019-07-01T00:00:00.000Z"
+            "last_commit_date_min": "2019-07-01T00:00:00.000Z",
+            "ticker": "IMX",
+            "cmc_name": "immutable-x"
         },
         {
             "index": 152,
@@ -6278,7 +6590,9 @@
             "updated_at_max": "2021-09-22T00:00:00.000Z",
             "updated_at_min": "2021-09-22T00:00:00.000Z",
             "last_commit_date_max": "2021-03-22T00:00:00.000Z",
-            "last_commit_date_min": "2021-03-22T00:00:00.000Z"
+            "last_commit_date_min": "2021-03-22T00:00:00.000Z",
+            "ticker": "CEL",
+            "cmc_name": "celsius"
         },
         {
             "index": 153,
@@ -6318,7 +6632,9 @@
             "updated_at_max": "2021-10-03T00:00:00.000Z",
             "updated_at_min": "2021-09-27T00:00:00.000Z",
             "last_commit_date_max": "2021-09-27T00:00:00.000Z",
-            "last_commit_date_min": "2021-06-05T00:00:00.000Z"
+            "last_commit_date_min": "2021-06-05T00:00:00.000Z",
+            "ticker": "INJ",
+            "cmc_name": "injective-protocol"
         },
         {
             "index": 154,
@@ -6358,7 +6674,9 @@
             "updated_at_max": "2021-09-27T00:00:00.000Z",
             "updated_at_min": "2021-05-06T00:00:00.000Z",
             "last_commit_date_max": "2021-09-24T00:00:00.000Z",
-            "last_commit_date_min": "2019-02-28T00:00:00.000Z"
+            "last_commit_date_min": "2019-02-28T00:00:00.000Z",
+            "ticker": "ANKR",
+            "cmc_name": "ankr"
         },
         {
             "index": 155,
@@ -6398,7 +6716,9 @@
             "updated_at_max": "2021-09-20T00:00:00.000Z",
             "updated_at_min": "2021-09-08T00:00:00.000Z",
             "last_commit_date_max": "2021-08-10T00:00:00.000Z",
-            "last_commit_date_min": "2020-07-20T00:00:00.000Z"
+            "last_commit_date_min": "2020-07-20T00:00:00.000Z",
+            "ticker": "RSR",
+            "cmc_name": "reserve-rights"
         },
         {
             "index": 156,
@@ -6438,7 +6758,9 @@
             "updated_at_max": "2021-08-31T00:00:00.000Z",
             "updated_at_min": "2021-08-31T00:00:00.000Z",
             "last_commit_date_max": "2017-09-13T00:00:00.000Z",
-            "last_commit_date_min": "2017-09-13T00:00:00.000Z"
+            "last_commit_date_min": "2017-09-13T00:00:00.000Z",
+            "ticker": "REV",
+            "cmc_name": "revain"
         },
         {
             "index": 157,
@@ -6478,7 +6800,9 @@
             "updated_at_max": "2021-05-05T00:00:00.000Z",
             "updated_at_min": "2021-05-05T00:00:00.000Z",
             "last_commit_date_max": "2017-12-05T00:00:00.000Z",
-            "last_commit_date_min": "2017-12-05T00:00:00.000Z"
+            "last_commit_date_min": "2017-12-05T00:00:00.000Z",
+            "ticker": "STMX",
+            "cmc_name": "stormx"
         },
         {
             "index": 158,
@@ -6518,7 +6842,9 @@
             "updated_at_max": "2021-09-30T00:00:00.000Z",
             "updated_at_min": "2021-09-30T00:00:00.000Z",
             "last_commit_date_max": "2021-09-28T00:00:00.000Z",
-            "last_commit_date_min": "2021-09-28T00:00:00.000Z"
+            "last_commit_date_min": "2021-09-28T00:00:00.000Z",
+            "ticker": "DYDX",
+            "cmc_name": "dydx"
         },
         {
             "index": 159,
@@ -6558,7 +6884,9 @@
             "updated_at_max": "2021-10-02T00:00:00.000Z",
             "updated_at_min": "2021-10-02T00:00:00.000Z",
             "last_commit_date_max": "2019-10-25T00:00:00.000Z",
-            "last_commit_date_min": "2019-10-25T00:00:00.000Z"
+            "last_commit_date_min": "2019-10-25T00:00:00.000Z",
+            "ticker": "CSPR",
+            "cmc_name": "casper"
         },
         {
             "index": 160,
@@ -6598,7 +6926,9 @@
             "updated_at_max": "2021-06-03T00:00:00.000Z",
             "updated_at_min": "2021-06-03T00:00:00.000Z",
             "last_commit_date_max": "2021-05-26T00:00:00.000Z",
-            "last_commit_date_min": "2021-05-26T00:00:00.000Z"
+            "last_commit_date_min": "2021-05-26T00:00:00.000Z",
+            "ticker": "GT",
+            "cmc_name": "gatetoken"
         },
         {
             "index": 161,
@@ -6638,7 +6968,9 @@
             "updated_at_max": "2021-04-15T00:00:00.000Z",
             "updated_at_min": "2021-04-15T00:00:00.000Z",
             "last_commit_date_max": "2018-01-08T00:00:00.000Z",
-            "last_commit_date_min": "2018-01-08T00:00:00.000Z"
+            "last_commit_date_min": "2018-01-08T00:00:00.000Z",
+            "ticker": "TEL",
+            "cmc_name": "telcoin"
         }
     ]
 }
