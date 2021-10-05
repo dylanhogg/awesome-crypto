@@ -11,8 +11,8 @@ def main():
     #       https://docs.google.com/spreadsheets/d/<your_doc_id>/export?gid=0&format=csv
     csv_location = env.get("CSV_LOCATION")
     token = env.get("GITHUB_ACCESS_TOKEN")
-    output_csv_filename = "github_data.csv"
-    output_json_filename = "github_data.json"
+    output_csv_filename = "api_data/github_data.csv"
+    output_json_filename = "api_data/github_data.json"
     throttle_secs = float(env.get("THROTTLE_SECS"))
     ghw = GithubWrapper(token, throttle_secs)
 
@@ -20,10 +20,11 @@ def main():
     crawler.process(csv_location, ghw, output_csv_filename, output_json_filename, throttle_secs)
 
     # Aggregate repo level data by organisation
-    in_repo_filename = "github_data.pkl"
-    output_org_csv_filename = "github_data_org.csv"
-    output_org_json_filename = "github_data_org.json"
-    org_aggregation.write_agg_data(in_repo_filename, output_org_csv_filename, output_org_json_filename)
+    in_repo_filename = "api_data/github_data.pkl"
+    in_ticker_filename = "api_data/ticker_lookup.csv"
+    output_org_csv_filename = "api_data/github_data_org.csv"
+    output_org_json_filename = "api_data/github_data_org.json"
+    org_aggregation.write_agg_data(in_repo_filename, in_ticker_filename, output_org_csv_filename, output_org_json_filename)
 
 
 if __name__ == "__main__":

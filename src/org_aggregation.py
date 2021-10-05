@@ -30,7 +30,7 @@ def bins(x):
     return ",".join(str(x) for x in lin_bins) + " :: " + ",".join(str(x) for x in log_bins)
 
 
-def write_agg_data(in_repo_filename, output_org_csv_filename, output_org_json_filename):
+def write_agg_data(in_repo_filename, in_ticker_filename, output_org_csv_filename, output_org_json_filename):
     # Read repo detail data
     df_raw = pd.read_pickle(in_repo_filename)
     logger.info(f"write_agg_data with input cols: {df_raw.columns}")
@@ -71,7 +71,6 @@ def write_agg_data(in_repo_filename, output_org_csv_filename, output_org_json_fi
 
     # Join/merge ticker data on github organisation name
     # NOTE: ticker_lookup.csv is externally generated with manual additions. Will include code eventually.
-    in_ticker_filename = "api_data/ticker_lookup.csv"
     df_ticker = pd.read_csv(in_ticker_filename)
     df_results = pd.merge(df, df_ticker, on='org', how='left').drop(columns=["ticker_count"])
 
