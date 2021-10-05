@@ -31,18 +31,18 @@ def bins(x):
 
 
 def write_agg_data(in_repo_filename, output_org_csv_filename, output_org_json_filename):
-    # Read data
+    # Read repo detail data
     df_raw = pd.read_pickle(in_repo_filename)
     logger.info(f"write_agg_data with input cols: {df_raw.columns}")
     logger.info(f"pickle input shape: {df_raw.shape}")
     logger.info(f"pickle input cols: {', '.join([x for x in df_raw.columns.sort_values()])}")
 
-    # df_raw = df_raw.drop(columns=["description", "featured", "links", "subcategory", "githuburl"])
-    # df_raw = df_raw.drop(columns=["description"])  # Unused google sheet description col
     df_raw["org"] = df_raw["_repopath"].apply(lambda x: x.split("/")[0].lower())
     df_raw.columns = [x.lstrip("_") for x in df_raw.columns]
     logger.info(f"pickle processed shape: {df_raw.shape}")
     logger.info(f"pickle processed cols: {', '.join([x for x in df_raw.columns.sort_values()])}")
+
+    # Perform aggregation by org
     df = (df_raw
           .sort_values(by=["stars"], ascending=False)
           .groupby(["org"])
@@ -69,10 +69,16 @@ def write_agg_data(in_repo_filename, output_org_csv_filename, output_org_json_fi
     df = df.reset_index()
     logger.info(f"agg shape: {df.shape}")
 
+    # Join/merge ticker data on github organisation name
+    # NOTE: ticker_lookup.csv is externally generated with manual additions. Will include code eventually.
+    in_ticker_filename = "api_data/ticker_lookup.csv"
+    df_ticker = pd.read_csv(in_ticker_filename)
+    df_results = pd.merge(df, df_ticker, on='org', how='left').drop(columns=["ticker_count"])
+
     # Write to files
-    df.to_csv(output_org_csv_filename)
+    df_results.to_csv(output_org_csv_filename)
 
     with open(output_org_json_filename, "w") as f:
-        json_results = df.to_json(orient="table", double_precision=2)
+        json_results = df_results.to_json(orient="table", double_precision=2)
         data = json.loads(json_results)
         json.dump(data, f, indent=4)

@@ -20,9 +20,19 @@ $(document).ready( function () {
             var cnt = this.api().data().length.toString().replace(/\B(?=(\d{3})+(?!\d))/g, ",");
             $('#count').text(cnt);
         },
-        order: [[ 4, "desc" ]],
+        order: [[ 5, "desc" ]],
+        columnDefs: [{ targets:"_all", orderSequence: ["desc", "asc"] }],
         paging: false,
         columns: [
+          { title: "Symbol",
+            render: function(data, type, row, meta) {
+                if (row.ticker == null || row.cmc_name == null) {
+                    return ""
+                } else {
+                    return "<a href='https://coinmarketcap.com/currencies/" + row.cmc_name + "'>" + row.ticker + "</a>";
+                }
+            }
+          },
           { title: "Github<br />Organisation",
             render: function(data, type, row, meta) {
                 return "<a href='https://github.com/" + row.org + "'>" + row.org + "</a>";
@@ -39,15 +49,10 @@ $(document).ready( function () {
                 return repos_links.slice(0, 3).join("<br />");
             }
           },
-          //{ data: "stars_min", title: "Stars<br />(min)", className: "text-nowrap", render: $.fn.dataTable.render.number(',', '.', 0) },
-          //{ data: "stars_median", title: "Stars<br />(med)", className: "text-nowrap", render: $.fn.dataTable.render.number(',', '.', 0) },
           { data: "stars_max", title: "Max<br />Stars", className: "text-nowrap", render: $.fn.dataTable.render.number(',', '.', 0) },
           { data: "stars_sum", title: "Sum of<br />Stars", className: "text-nowrap", render: $.fn.dataTable.render.number(',', '.', 0) },
-          //{ data: "stars_per_week_min", title: "Stars/wk<br />(min)", className: "text-nowrap", render: $.fn.dataTable.render.number(',', '.', 0) },
-          //{ data: "stars_per_week_mean", title: "Stars/wk<br />(mean)", className: "text-nowrap", render: $.fn.dataTable.render.number(',', '.', 0) },
           //{ data: "stars_per_week_max", title: "Stars/wk<br />(max)", className: "text-nowrap", render: $.fn.dataTable.render.number(',', '.', 0) },
           { data: "stars_per_week_sum", title: "Sum of<br />Stars/week", className: "text-nowrap", render: $.fn.dataTable.render.number(',', '.', 0) },
-          //{ data: "age_weeks_median", title: "Age weeks (med)" },
           { title: "Project Age<br />Histogram",
             render: function(data, type, row, meta) {
                 return row.age_weeks_hist + " weeks";
@@ -87,6 +92,7 @@ $(document).ready( function () {
             $('#count').text(cnt);
         },
         order: [[ 4, "desc" ]],
+        columnDefs: [{ targets:"_all", orderSequence: ["desc", "asc"] }],
         paging: true,
         lengthChange: false,
         lengthMenu: [ 10, 100, 1000, 10000 ],
