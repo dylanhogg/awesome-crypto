@@ -1,4 +1,4 @@
-const version = "v0.0.7";
+const version = "v0.0.8";
 const ms_per_day = 1000 * 60 * 60 * 24;
 
 function dateDiffInWeeks(a, b) {
@@ -33,6 +33,7 @@ $(document).ready( function () {
                 }
             }
           },
+          { data: "market_cap_usd_mil", title: "Market<br />Cap", className: "text-nowrap", render: $.fn.dataTable.render.number(',', '.', 0, '$', 'M') },
           { title: "Github<br />Organisation",
             render: function(data, type, row, meta) {
                 return "<a href='https://github.com/" + row.org + "'>" + row.org + "</a>";

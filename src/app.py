@@ -1,5 +1,6 @@
-import crawler
+import github_data
 import org_aggregation
+import market_data
 from library import log, env
 from library.ghw import GithubWrapper
 
@@ -16,8 +17,8 @@ def main():
     throttle_secs = float(env.get("THROTTLE_SECS"))
     ghw = GithubWrapper(token, throttle_secs)
 
-    # Crawl and write readme.md files & repo level data csv/json
-    crawler.process(csv_location, ghw, output_csv_filename, output_json_filename, throttle_secs)
+    # Crawl and write Github readme.md files & repo level API data csv/json
+    github_data.process(csv_location, ghw, output_csv_filename, output_json_filename, throttle_secs)
 
     # Aggregate repo level data by organisation
     in_repo_filename = "api_data/github_data.pkl"

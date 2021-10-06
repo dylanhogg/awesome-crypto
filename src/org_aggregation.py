@@ -2,6 +2,7 @@ import math
 import json
 import pandas as pd
 import numpy as np
+import market_data
 from loguru import logger
 from sparklines import sparklines
 
@@ -71,8 +72,14 @@ def write_agg_data(in_repo_filename, in_ticker_filename, output_org_csv_filename
 
     # Join/merge ticker data on github organisation name
     # NOTE: ticker_lookup.csv is externally generated with manual additions. Will include code eventually.
+    # TODO: replace in_ticker_filename with just coingecko data
     df_ticker = pd.read_csv(in_ticker_filename)
     df_results = pd.merge(df, df_ticker, on='org', how='left').drop(columns=["ticker_count"])
+
+    # TODO: This market_cap addition is very hacky, fix me up
+    df_results["market_cap_usd_mil"] = df_results["ticker"].apply(lambda x: "" if not isinstance(x, str) else market_data.get_coins_by_symbol(x, "usd")[0]["market_cap"]/1e6)
+    df_results["market_cap_rank"] = df_results["ticker"].apply(lambda x: "" if not isinstance(x, str) else market_data.get_coins_by_symbol(x, "usd")[0]["market_cap_rank"])
+    df_results["market_cap_datetime"] = df_results["ticker"].apply(lambda x: "" if not isinstance(x, str) else market_data.get_coins_by_symbol(x, "usd")[0]["market_cap_datetime"])
 
     # Write to files
     df_results.to_csv(output_org_csv_filename)
