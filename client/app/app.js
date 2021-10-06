@@ -33,7 +33,7 @@ $(document).ready( function () {
                 }
             }
           },
-          { data: "market_cap_usd_mil", title: "Market<br />Cap", className: "text-nowrap", render: $.fn.dataTable.render.number(',', '.', 0, '$', 'M') },
+          { data: "market_cap_usd_mil", title: "Market<br />Cap USD", className: "text-nowrap", render: $.fn.dataTable.render.number(',', '.', 0, '', 'M') },
           { title: "Github<br />Organisation",
             render: function(data, type, row, meta) {
                 return "<a href='https://github.com/" + row.org + "'>" + row.org + "</a>";
