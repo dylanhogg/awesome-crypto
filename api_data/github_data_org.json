@@ -221,9 +221,9 @@
             "last_commit_date_min": "2018-02-19T00:00:00.000Z",
             "ticker": "BTC",
             "cmc_name": "bitcoin",
-            "market_cap_usd_mil": 966796.52,
+            "market_cap_usd_mil": 1081570.02,
             "market_cap_rank": 1,
-            "market_cap_datetime": "2021-10-06 12:09:07.011360"
+            "market_cap_datetime": "2021-10-12 10:12:29.945618"
         },
         {
             "index": 1,
@@ -266,9 +266,9 @@
             "last_commit_date_min": "2014-07-30T00:00:00.000Z",
             "ticker": "ETH",
             "cmc_name": "ethereum",
-            "market_cap_usd_mil": 405827.8,
+            "market_cap_usd_mil": 416252.78,
             "market_cap_rank": 2,
-            "market_cap_datetime": "2021-10-05 23:10:36.835937"
+            "market_cap_datetime": "2021-10-12 10:12:34.553326"
         },
         {
             "index": 2,
@@ -311,9 +311,9 @@
             "last_commit_date_min": "2014-06-30T00:00:00.000Z",
             "ticker": "DOGE",
             "cmc_name": "dogecoin",
-            "market_cap_usd_mil": 31467.53,
+            "market_cap_usd_mil": 30534.29,
             "market_cap_rank": 10,
-            "market_cap_datetime": "2021-10-05 23:10:27.400957"
+            "market_cap_datetime": "2021-10-12 10:12:41.626750"
         },
         {
             "index": 3,
@@ -491,9 +491,9 @@
             "last_commit_date_min": "2017-06-07T00:00:00.000Z",
             "ticker": "EOS",
             "cmc_name": "eos",
-            "market_cap_usd_mil": 4524.99,
-            "market_cap_rank": 40,
-            "market_cap_datetime": "2021-10-05 23:10:34.980837"
+            "market_cap_usd_mil": 4416.75,
+            "market_cap_rank": 41,
+            "market_cap_datetime": "2021-10-12 10:12:48.721513"
         },
         {
             "index": 7,
@@ -536,9 +536,9 @@
             "last_commit_date_min": "2018-10-11T00:00:00.000Z",
             "ticker": "XCH",
             "cmc_name": "chia-network",
-            "market_cap_usd_mil": 318.91,
-            "market_cap_rank": 211,
-            "market_cap_datetime": "2021-10-05 23:19:58.230343"
+            "market_cap_usd_mil": 311.32,
+            "market_cap_rank": 222,
+            "market_cap_datetime": "2021-10-12 10:12:52.091197"
         },
         {
             "index": 8,
@@ -581,9 +581,9 @@
             "last_commit_date_min": "2015-08-15T00:00:00.000Z",
             "ticker": "XMR",
             "cmc_name": "monero",
-            "market_cap_usd_mil": 4849.49,
-            "market_cap_rank": 36,
-            "market_cap_datetime": "2021-10-05 23:20:15.026234"
+            "market_cap_usd_mil": 4942.1,
+            "market_cap_rank": 38,
+            "market_cap_datetime": "2021-10-12 10:12:55.523860"
         },
         {
             "index": 9,
@@ -716,9 +716,9 @@
             "last_commit_date_min": "2017-02-09T00:00:00.000Z",
             "ticker": "ZEC",
             "cmc_name": "zcash",
-            "market_cap_usd_mil": 1388.67,
-            "market_cap_rank": 87,
-            "market_cap_datetime": "2021-10-05 23:20:33.443580"
+            "market_cap_usd_mil": 1395.84,
+            "market_cap_rank": 86,
+            "market_cap_datetime": "2021-10-12 10:12:58.939392"
         },
         {
             "index": 12,
@@ -761,9 +761,9 @@
             "last_commit_date_min": "2019-01-20T00:00:00.000Z",
             "ticker": "SOL",
             "cmc_name": "solana",
-            "market_cap_usd_mil": 50117.78,
-            "market_cap_rank": 6,
-            "market_cap_datetime": "2021-10-05 23:18:41.919454"
+            "market_cap_usd_mil": 43355.2,
+            "market_cap_rank": 7,
+            "market_cap_datetime": "2021-10-12 10:13:02.531489"
         },
         {
             "index": 13,
@@ -806,9 +806,9 @@
             "last_commit_date_min": "2013-07-07T00:00:00.000Z",
             "ticker": "LTC",
             "cmc_name": "litecoin",
-            "market_cap_usd_mil": 11844.05,
-            "market_cap_rank": 17,
-            "market_cap_datetime": "2021-10-05 23:15:46.392572"
+            "market_cap_usd_mil": 12333.88,
+            "market_cap_rank": 15,
+            "market_cap_datetime": "2021-10-12 10:13:09.347246"
         },
         {
             "index": 14,
@@ -851,9 +851,9 @@
             "last_commit_date_min": "2014-09-08T00:00:00.000Z",
             "ticker": "XRP",
             "cmc_name": "xrp",
-            "market_cap_usd_mil": 49606.75,
-            "market_cap_rank": 7,
-            "market_cap_datetime": "2021-10-05 23:20:18.324718"
+            "market_cap_usd_mil": 53080.41,
+            "market_cap_rank": 6,
+            "market_cap_datetime": "2021-10-12 10:13:16.339333"
         },
         {
             "index": 15,
@@ -896,9 +896,9 @@
             "last_commit_date_min": "2016-10-03T00:00:00.000Z",
             "ticker": "ADA",
             "cmc_name": "cardano",
-            "market_cap_usd_mil": 71331.54,
+            "market_cap_usd_mil": 69564.78,
             "market_cap_rank": 3,
-            "market_cap_datetime": "2021-10-05 23:09:54.033692"
+            "market_cap_datetime": "2021-10-12 10:13:24.663980"
         },
         {
             "index": 16,
@@ -941,9 +941,9 @@
             "last_commit_date_min": "2018-03-26T00:00:00.000Z",
             "ticker": "NEO",
             "cmc_name": "neo",
-            "market_cap_usd_mil": 3097.61,
-            "market_cap_rank": 52,
-            "market_cap_datetime": "2021-10-05 23:16:30.526938"
+            "market_cap_usd_mil": 3172.83,
+            "market_cap_rank": 53,
+            "market_cap_datetime": "2021-10-12 10:13:28.206060"
         },
         {
             "index": 17,
@@ -986,9 +986,9 @@
             "last_commit_date_min": "2019-10-08T00:00:00.000Z",
             "ticker": "NANO",
             "cmc_name": "nano",
-            "market_cap_usd_mil": 733.48,
-            "market_cap_rank": 127,
-            "market_cap_datetime": "2021-10-05 23:16:23.768915"
+            "market_cap_usd_mil": 694.53,
+            "market_cap_rank": 128,
+            "market_cap_datetime": "2021-10-12 10:13:31.737695"
         },
         {
             "index": 18,
@@ -1031,9 +1031,9 @@
             "last_commit_date_min": "2015-06-15T00:00:00.000Z",
             "ticker": "SNT",
             "cmc_name": "status",
-            "market_cap_usd_mil": 334.21,
-            "market_cap_rank": 203,
-            "market_cap_datetime": "2021-10-05 23:18:35.257753"
+            "market_cap_usd_mil": 362.87,
+            "market_cap_rank": 195,
+            "market_cap_datetime": "2021-10-12 10:13:36.039288"
         },
         {
             "index": 19,
@@ -1076,9 +1076,9 @@
             "last_commit_date_min": "2016-06-27T00:00:00.000Z",
             "ticker": "GLM",
             "cmc_name": "golem-network-tokens",
-            "market_cap_usd_mil": 534.39,
-            "market_cap_rank": 146,
-            "market_cap_datetime": "2021-10-05 23:10:44.015519"
+            "market_cap_usd_mil": 556.14,
+            "market_cap_rank": 145,
+            "market_cap_datetime": "2021-10-12 10:13:39.899045"
         },
         {
             "index": 20,
@@ -1121,9 +1121,9 @@
             "last_commit_date_min": "2018-06-14T00:00:00.000Z",
             "ticker": "TRX",
             "cmc_name": "tron",
-            "market_cap_usd_mil": 6847.42,
-            "market_cap_rank": 31,
-            "market_cap_datetime": "2021-10-05 23:19:27.577210"
+            "market_cap_usd_mil": 6979.72,
+            "market_cap_rank": 29,
+            "market_cap_datetime": "2021-10-12 10:13:44.164650"
         },
         {
             "index": 21,
@@ -1166,9 +1166,9 @@
             "last_commit_date_min": "2017-05-20T00:00:00.000Z",
             "ticker": "XLM",
             "cmc_name": "stellar",
-            "market_cap_usd_mil": 7529.22,
-            "market_cap_rank": 26,
-            "market_cap_datetime": "2021-10-05 23:20:11.712818"
+            "market_cap_usd_mil": 8200.67,
+            "market_cap_rank": 24,
+            "market_cap_datetime": "2021-10-12 10:13:51.798497"
         },
         {
             "index": 22,
@@ -1211,9 +1211,9 @@
             "last_commit_date_min": "2018-09-14T00:00:00.000Z",
             "ticker": "ATOM",
             "cmc_name": "cosmos",
-            "market_cap_usd_mil": 10578.27,
-            "market_cap_rank": 19,
-            "market_cap_datetime": "2021-10-05 23:10:03.248896"
+            "market_cap_usd_mil": 8976.17,
+            "market_cap_rank": 21,
+            "market_cap_datetime": "2021-10-12 10:13:55.587056"
         },
         {
             "index": 23,
@@ -1256,9 +1256,9 @@
             "last_commit_date_min": "2018-07-23T00:00:00.000Z",
             "ticker": "LSK",
             "cmc_name": "lisk",
-            "market_cap_usd_mil": 500.26,
-            "market_cap_rank": 155,
-            "market_cap_datetime": "2021-10-05 23:15:43.013494"
+            "market_cap_usd_mil": 466.8,
+            "market_cap_rank": 159,
+            "market_cap_datetime": "2021-10-12 10:13:59.125708"
         },
         {
             "index": 24,
@@ -1301,9 +1301,9 @@
             "last_commit_date_min": "2018-10-26T00:00:00.000Z",
             "ticker": "UNI",
             "cmc_name": "uniswap",
-            "market_cap_usd_mil": 13235.3,
-            "market_cap_rank": 13,
-            "market_cap_datetime": "2021-10-05 23:19:41.646876"
+            "market_cap_usd_mil": 12528.95,
+            "market_cap_rank": 14,
+            "market_cap_datetime": "2021-10-12 10:14:06.193974"
         },
         {
             "index": 25,
@@ -1346,9 +1346,9 @@
             "last_commit_date_min": "2016-04-16T00:00:00.000Z",
             "ticker": "STX",
             "cmc_name": "stacks",
-            "market_cap_usd_mil": 1499.1,
-            "market_cap_rank": 82,
-            "market_cap_datetime": "2021-10-05 23:19:03.101657"
+            "market_cap_usd_mil": 2068.04,
+            "market_cap_rank": 68,
+            "market_cap_datetime": "2021-10-12 10:14:13.959822"
         },
         {
             "index": 26,
@@ -1391,9 +1391,9 @@
             "last_commit_date_min": "2017-11-09T00:00:00.000Z",
             "ticker": "LINK",
             "cmc_name": "chainlink",
-            "market_cap_usd_mil": 12287.64,
-            "market_cap_rank": 16,
-            "market_cap_datetime": "2021-10-05 23:15:32.875674"
+            "market_cap_usd_mil": 11554.29,
+            "market_cap_rank": 18,
+            "market_cap_datetime": "2021-10-12 10:14:20.836349"
         },
         {
             "index": 27,
@@ -1481,9 +1481,9 @@
             "last_commit_date_min": "2016-07-05T00:00:00.000Z",
             "ticker": "MIOTA",
             "cmc_name": "iota",
-            "market_cap_usd_mil": 3408.61,
-            "market_cap_rank": 51,
-            "market_cap_datetime": "2021-10-05 23:16:13.629684"
+            "market_cap_usd_mil": 4052.0,
+            "market_cap_rank": 44,
+            "market_cap_datetime": "2021-10-12 10:14:25.225805"
         },
         {
             "index": 29,
@@ -1526,9 +1526,9 @@
             "last_commit_date_min": "2017-09-02T00:00:00.000Z",
             "ticker": "STORJ",
             "cmc_name": "storj",
-            "market_cap_usd_mil": 183.23,
-            "market_cap_rank": 291,
-            "market_cap_datetime": "2021-10-05 23:18:55.423303"
+            "market_cap_usd_mil": 201.71,
+            "market_cap_rank": 279,
+            "market_cap_datetime": "2021-10-12 10:14:29.629841"
         },
         {
             "index": 30,
@@ -1571,9 +1571,9 @@
             "last_commit_date_min": "2018-03-20T00:00:00.000Z",
             "ticker": "STEEM",
             "cmc_name": "steem",
-            "market_cap_usd_mil": 219.15,
-            "market_cap_rank": 259,
-            "market_cap_datetime": "2021-10-05 23:18:48.563638"
+            "market_cap_usd_mil": 240.17,
+            "market_cap_rank": 251,
+            "market_cap_datetime": "2021-10-12 10:14:33.094478"
         },
         {
             "index": 31,
@@ -1616,9 +1616,9 @@
             "last_commit_date_min": "2017-11-14T00:00:00.000Z",
             "ticker": "RDN",
             "cmc_name": "raiden-network-token",
-            "market_cap_usd_mil": 36.56,
-            "market_cap_rank": 659,
-            "market_cap_datetime": "2021-10-05 23:17:39.324705"
+            "market_cap_usd_mil": 35.65,
+            "market_cap_rank": 687,
+            "market_cap_datetime": "2021-10-12 10:14:36.488349"
         },
         {
             "index": 32,
@@ -1661,9 +1661,9 @@
             "last_commit_date_min": "2015-08-30T00:00:00.000Z",
             "ticker": "NU",
             "cmc_name": "nucypher",
-            "market_cap_usd_mil": 175.46,
-            "market_cap_rank": 300,
-            "market_cap_datetime": "2021-10-05 23:16:44.349241"
+            "market_cap_usd_mil": 166.84,
+            "market_cap_rank": 317,
+            "market_cap_datetime": "2021-10-12 10:14:39.894084"
         },
         {
             "index": 33,
@@ -1751,9 +1751,9 @@
             "last_commit_date_min": "2014-10-07T00:00:00.000Z",
             "ticker": "DASH",
             "cmc_name": "dash",
-            "market_cap_usd_mil": 1827.06,
-            "market_cap_rank": 74,
-            "market_cap_datetime": "2021-10-05 23:10:23.888451"
+            "market_cap_usd_mil": 1900.19,
+            "market_cap_rank": 72,
+            "market_cap_datetime": "2021-10-12 10:14:43.489327"
         },
         {
             "index": 35,
@@ -1796,9 +1796,9 @@
             "last_commit_date_min": "2018-01-11T00:00:00.000Z",
             "ticker": "ZRX",
             "cmc_name": "0x",
-            "market_cap_usd_mil": 836.37,
-            "market_cap_rank": 117,
-            "market_cap_datetime": "2021-10-05 23:20:43.561118"
+            "market_cap_usd_mil": 855.84,
+            "market_cap_rank": 121,
+            "market_cap_datetime": "2021-10-12 10:14:47.049586"
         },
         {
             "index": 36,
@@ -1841,9 +1841,9 @@
             "last_commit_date_min": "2018-01-07T00:00:00.000Z",
             "ticker": "XVG",
             "cmc_name": "verge",
-            "market_cap_usd_mil": 374.84,
-            "market_cap_rank": 179,
-            "market_cap_datetime": "2021-10-05 23:20:25.844457"
+            "market_cap_usd_mil": 392.77,
+            "market_cap_rank": 184,
+            "market_cap_datetime": "2021-10-12 10:14:51.840401"
         },
         {
             "index": 37,
@@ -1886,9 +1886,9 @@
             "last_commit_date_min": "2019-02-13T00:00:00.000Z",
             "ticker": "GRT",
             "cmc_name": "the-graph",
-            "market_cap_usd_mil": 3871.39,
-            "market_cap_rank": 46,
-            "market_cap_datetime": "2021-10-05 23:10:46.462165"
+            "market_cap_usd_mil": 3364.06,
+            "market_cap_rank": 52,
+            "market_cap_datetime": "2021-10-12 10:14:59.412293"
         },
         {
             "index": 38,
@@ -1931,9 +1931,9 @@
             "last_commit_date_min": "2021-06-03T00:00:00.000Z",
             "ticker": "IOTX",
             "cmc_name": "iotex",
-            "market_cap_usd_mil": 605.54,
-            "market_cap_rank": 138,
-            "market_cap_datetime": "2021-10-05 23:15:16.199688"
+            "market_cap_usd_mil": 668.63,
+            "market_cap_rank": 134,
+            "market_cap_datetime": "2021-10-12 10:15:06.477481"
         },
         {
             "index": 39,
@@ -2021,9 +2021,9 @@
             "last_commit_date_min": "2018-12-30T00:00:00.000Z",
             "ticker": "ONE",
             "cmc_name": "harmony",
-            "market_cap_usd_mil": 1924.15,
-            "market_cap_rank": 72,
-            "market_cap_datetime": "2021-10-05 23:17:01.971868"
+            "market_cap_usd_mil": 2482.5,
+            "market_cap_rank": 62,
+            "market_cap_datetime": "2021-10-12 10:15:10.743048"
         },
         {
             "index": 41,
@@ -2111,9 +2111,9 @@
             "last_commit_date_min": "2017-04-03T00:00:00.000Z",
             "ticker": "QTUM",
             "cmc_name": "qtum",
-            "market_cap_usd_mil": 1373.29,
+            "market_cap_usd_mil": 1362.77,
             "market_cap_rank": 88,
-            "market_cap_datetime": "2021-10-05 23:17:36.043705"
+            "market_cap_datetime": "2021-10-12 10:15:25.998771"
         },
         {
             "index": 43,
@@ -2156,9 +2156,9 @@
             "last_commit_date_min": "2019-07-09T00:00:00.000Z",
             "ticker": "MINA",
             "cmc_name": "mina",
-            "market_cap_usd_mil": 1227.18,
-            "market_cap_rank": 94,
-            "market_cap_datetime": "2021-10-05 23:16:10.309326"
+            "market_cap_usd_mil": 1101.86,
+            "market_cap_rank": 99,
+            "market_cap_datetime": "2021-10-12 10:15:29.837816"
         },
         {
             "index": 44,
@@ -2201,9 +2201,9 @@
             "last_commit_date_min": "2016-06-27T00:00:00.000Z",
             "ticker": "WAVES",
             "cmc_name": "waves",
-            "market_cap_usd_mil": 2807.29,
-            "market_cap_rank": 55,
-            "market_cap_datetime": "2021-10-05 23:19:51.641443"
+            "market_cap_usd_mil": 2748.63,
+            "market_cap_rank": 57,
+            "market_cap_datetime": "2021-10-12 10:15:34.117889"
         },
         {
             "index": 45,
@@ -2246,9 +2246,9 @@
             "last_commit_date_min": "2020-09-09T00:00:00.000Z",
             "ticker": "SUSHI",
             "cmc_name": "sushiswap",
-            "market_cap_usd_mil": 2058.52,
-            "market_cap_rank": 68,
-            "market_cap_datetime": "2021-10-05 23:19:09.861839"
+            "market_cap_usd_mil": 1981.64,
+            "market_cap_rank": 69,
+            "market_cap_datetime": "2021-10-12 10:15:37.724431"
         },
         {
             "index": 46,
@@ -2291,9 +2291,9 @@
             "last_commit_date_min": "2020-09-23T00:00:00.000Z",
             "ticker": "CAKE",
             "cmc_name": "pancakeswap",
-            "market_cap_usd_mil": 4470.82,
-            "market_cap_rank": 41,
-            "market_cap_datetime": "2021-10-05 23:10:11.007337"
+            "market_cap_usd_mil": 4368.62,
+            "market_cap_rank": 42,
+            "market_cap_datetime": "2021-10-12 10:15:41.116097"
         },
         {
             "index": 47,
@@ -2336,9 +2336,9 @@
             "last_commit_date_min": "2018-01-09T00:00:00.000Z",
             "ticker": "ZIL",
             "cmc_name": "zilliqa",
-            "market_cap_usd_mil": 1291.41,
-            "market_cap_rank": 92,
-            "market_cap_datetime": "2021-10-05 23:20:40.144431"
+            "market_cap_usd_mil": 1194.14,
+            "market_cap_rank": 96,
+            "market_cap_datetime": "2021-10-12 10:15:44.540884"
         },
         {
             "index": 48,
@@ -2381,9 +2381,9 @@
             "last_commit_date_min": "2017-11-27T00:00:00.000Z",
             "ticker": "HOT",
             "cmc_name": "holo",
-            "market_cap_usd_mil": 1669.57,
-            "market_cap_rank": 77,
-            "market_cap_datetime": "2021-10-05 23:14:52.734571"
+            "market_cap_usd_mil": 1648.72,
+            "market_cap_rank": 80,
+            "market_cap_datetime": "2021-10-12 10:15:48.035613"
         },
         {
             "index": 49,
@@ -2426,9 +2426,9 @@
             "last_commit_date_min": "2021-10-01T00:00:00.000Z",
             "ticker": "XEC",
             "cmc_name": "ecash",
-            "market_cap_usd_mil": 4426.82,
-            "market_cap_rank": 42,
-            "market_cap_datetime": "2021-10-05 23:20:04.917328"
+            "market_cap_usd_mil": 4040.19,
+            "market_cap_rank": 45,
+            "market_cap_datetime": "2021-10-12 10:15:58.323775"
         },
         {
             "index": 50,
@@ -2471,9 +2471,9 @@
             "last_commit_date_min": "2009-10-22T00:00:00.000Z",
             "ticker": "BTT",
             "cmc_name": "bittorrent",
-            "market_cap_usd_mil": 2349.53,
-            "market_cap_rank": 64,
-            "market_cap_datetime": "2021-10-05 23:10:10.007190"
+            "market_cap_usd_mil": 2542.14,
+            "market_cap_rank": 61,
+            "market_cap_datetime": "2021-10-12 10:16:02.595909"
         },
         {
             "index": 51,
@@ -2516,9 +2516,9 @@
             "last_commit_date_min": "2018-09-26T00:00:00.000Z",
             "ticker": "COMP",
             "cmc_name": "compound",
-            "market_cap_usd_mil": 1898.82,
-            "market_cap_rank": 73,
-            "market_cap_datetime": "2021-10-05 23:10:18.813099"
+            "market_cap_usd_mil": 1840.59,
+            "market_cap_rank": 74,
+            "market_cap_datetime": "2021-10-12 10:16:09.468911"
         },
         {
             "index": 52,
@@ -2561,9 +2561,9 @@
             "last_commit_date_min": "2017-11-27T00:00:00.000Z",
             "ticker": "GNO",
             "cmc_name": "gnosis-gno",
-            "market_cap_usd_mil": 418.92,
-            "market_cap_rank": 171,
-            "market_cap_datetime": "2021-10-05 23:10:44.821486"
+            "market_cap_usd_mil": 454.65,
+            "market_cap_rank": 165,
+            "market_cap_datetime": "2021-10-12 10:16:12.951081"
         },
         {
             "index": 53,
@@ -2606,9 +2606,9 @@
             "last_commit_date_min": "2019-06-04T00:00:00.000Z",
             "ticker": "AAVE",
             "cmc_name": "aave",
-            "market_cap_usd_mil": 4020.2,
-            "market_cap_rank": 45,
-            "market_cap_datetime": "2021-10-05 23:09:53.241224"
+            "market_cap_usd_mil": 3829.71,
+            "market_cap_rank": 48,
+            "market_cap_datetime": "2021-10-12 10:16:16.535305"
         },
         {
             "index": 54,
@@ -2651,9 +2651,9 @@
             "last_commit_date_min": "2019-01-28T00:00:00.000Z",
             "ticker": "MLN",
             "cmc_name": "enzyme",
-            "market_cap_usd_mil": 205.58,
-            "market_cap_rank": 271,
-            "market_cap_datetime": "2021-10-05 23:16:20.436124"
+            "market_cap_usd_mil": 186.98,
+            "market_cap_rank": 293,
+            "market_cap_datetime": "2021-10-12 10:16:20.763053"
         },
         {
             "index": 55,
@@ -2696,9 +2696,9 @@
             "last_commit_date_min": "2021-04-06T00:00:00.000Z",
             "ticker": "RVN",
             "cmc_name": "ravencoin",
-            "market_cap_usd_mil": 1089.81,
-            "market_cap_rank": 101,
-            "market_cap_datetime": "2021-10-05 23:18:28.697057"
+            "market_cap_usd_mil": 1064.99,
+            "market_cap_rank": 100,
+            "market_cap_datetime": "2021-10-12 10:16:24.317374"
         },
         {
             "index": 56,
@@ -2741,9 +2741,9 @@
             "last_commit_date_min": "2018-06-14T00:00:00.000Z",
             "ticker": "CKB",
             "cmc_name": "nervos-network",
-            "market_cap_usd_mil": 387.83,
-            "market_cap_rank": 177,
-            "market_cap_datetime": "2021-10-05 23:10:16.968934"
+            "market_cap_usd_mil": 415.53,
+            "market_cap_rank": 176,
+            "market_cap_datetime": "2021-10-12 10:16:27.699069"
         },
         {
             "index": 57,
@@ -2966,9 +2966,9 @@
             "last_commit_date_min": "2016-12-10T00:00:00.000Z",
             "ticker": "STRAX",
             "cmc_name": "stratis",
-            "market_cap_usd_mil": 213.11,
-            "market_cap_rank": 265,
-            "market_cap_datetime": "2021-10-05 23:18:59.724245"
+            "market_cap_usd_mil": 237.92,
+            "market_cap_rank": 255,
+            "market_cap_datetime": "2021-10-12 10:16:31.207510"
         },
         {
             "index": 62,
@@ -3011,9 +3011,9 @@
             "last_commit_date_min": "2018-04-20T00:00:00.000Z",
             "ticker": "ONT",
             "cmc_name": "ontology",
-            "market_cap_usd_mil": 777.12,
-            "market_cap_rank": 124,
-            "market_cap_datetime": "2021-10-05 23:17:15.296186"
+            "market_cap_usd_mil": 833.67,
+            "market_cap_rank": 122,
+            "market_cap_datetime": "2021-10-12 10:16:37.976379"
         },
         {
             "index": 63,
@@ -3056,9 +3056,9 @@
             "last_commit_date_min": "2018-04-04T00:00:00.000Z",
             "ticker": "ELF",
             "cmc_name": "aelf",
-            "market_cap_usd_mil": 313.95,
-            "market_cap_rank": 212,
-            "market_cap_datetime": "2021-10-05 23:10:32.432709"
+            "market_cap_usd_mil": 318.53,
+            "market_cap_rank": 215,
+            "market_cap_datetime": "2021-10-12 10:16:41.582622"
         },
         {
             "index": 64,
@@ -3101,9 +3101,9 @@
             "last_commit_date_min": "2021-03-04T00:00:00.000Z",
             "ticker": "ICP",
             "cmc_name": "internet-computer",
-            "market_cap_usd_mil": 9167.94,
-            "market_cap_rank": 21,
-            "market_cap_datetime": "2021-10-05 23:15:02.769235"
+            "market_cap_usd_mil": 7515.09,
+            "market_cap_rank": 25,
+            "market_cap_datetime": "2021-10-12 10:16:44.954099"
         },
         {
             "index": 65,
@@ -3146,9 +3146,9 @@
             "last_commit_date_min": "2017-07-20T00:00:00.000Z",
             "ticker": "BNT",
             "cmc_name": "bancor",
-            "market_cap_usd_mil": 887.43,
-            "market_cap_rank": 111,
-            "market_cap_datetime": "2021-10-05 23:10:06.625745"
+            "market_cap_usd_mil": 883.61,
+            "market_cap_rank": 116,
+            "market_cap_datetime": "2021-10-12 10:16:49.231835"
         },
         {
             "index": 66,
@@ -3191,9 +3191,9 @@
             "last_commit_date_min": "2017-11-13T00:00:00.000Z",
             "ticker": "VTHO",
             "cmc_name": "vethor-token",
-            "market_cap_usd_mil": 425.54,
-            "market_cap_rank": 169,
-            "market_cap_datetime": "2021-10-05 23:19:48.261114"
+            "market_cap_usd_mil": 368.86,
+            "market_cap_rank": 191,
+            "market_cap_datetime": "2021-10-12 10:16:52.639266"
         },
         {
             "index": 67,
@@ -3236,9 +3236,9 @@
             "last_commit_date_min": "2018-11-21T00:00:00.000Z",
             "ticker": "EGLD",
             "cmc_name": "elrond-egld",
-            "market_cap_usd_mil": 4951.52,
-            "market_cap_rank": 35,
-            "market_cap_datetime": "2021-10-05 23:10:31.568731"
+            "market_cap_usd_mil": 4954.21,
+            "market_cap_rank": 37,
+            "market_cap_datetime": "2021-10-12 10:16:56.611754"
         },
         {
             "index": 68,
@@ -3281,9 +3281,9 @@
             "last_commit_date_min": "2019-01-25T00:00:00.000Z",
             "ticker": "ALGO",
             "cmc_name": "algorand",
-            "market_cap_usd_mil": 11998.25,
-            "market_cap_rank": 16,
-            "market_cap_datetime": "2021-10-06 12:06:43.836490"
+            "market_cap_usd_mil": 10539.06,
+            "market_cap_rank": 20,
+            "market_cap_datetime": "2021-10-12 10:17:00.517891"
         },
         {
             "index": 69,
@@ -3371,9 +3371,9 @@
             "last_commit_date_min": "2020-11-13T00:00:00.000Z",
             "ticker": "SRM",
             "cmc_name": "serum",
-            "market_cap_usd_mil": 1146.01,
-            "market_cap_rank": 96,
-            "market_cap_datetime": "2021-10-05 23:18:45.236221"
+            "market_cap_usd_mil": 977.71,
+            "market_cap_rank": 108,
+            "market_cap_datetime": "2021-10-12 10:17:04.814086"
         },
         {
             "index": 71,
@@ -3416,9 +3416,9 @@
             "last_commit_date_min": "2018-10-12T00:00:00.000Z",
             "ticker": "OGN",
             "cmc_name": "origin-protocol",
-            "market_cap_usd_mil": 332.37,
-            "market_cap_rank": 204,
-            "market_cap_datetime": "2021-10-05 23:16:51.007125"
+            "market_cap_usd_mil": 285.67,
+            "market_cap_rank": 233,
+            "market_cap_datetime": "2021-10-12 10:17:08.998117"
         },
         {
             "index": 72,
@@ -3461,9 +3461,9 @@
             "last_commit_date_min": "2017-12-21T00:00:00.000Z",
             "ticker": "SNX",
             "cmc_name": "synthetix-network-token",
-            "market_cap_usd_mil": 1801.89,
-            "market_cap_rank": 75,
-            "market_cap_datetime": "2021-10-05 23:18:38.630954"
+            "market_cap_usd_mil": 1672.01,
+            "market_cap_rank": 77,
+            "market_cap_datetime": "2021-10-12 10:17:12.945832"
         },
         {
             "index": 73,
@@ -3506,9 +3506,9 @@
             "last_commit_date_min": "2018-07-16T00:00:00.000Z",
             "ticker": "BTG",
             "cmc_name": "bitcoin-gold",
-            "market_cap_usd_mil": 1057.45,
-            "market_cap_rank": 103,
-            "market_cap_datetime": "2021-10-05 23:10:09.186110"
+            "market_cap_usd_mil": 1267.55,
+            "market_cap_rank": 92,
+            "market_cap_datetime": "2021-10-12 10:17:16.584114"
         },
         {
             "index": 74,
@@ -3551,9 +3551,9 @@
             "last_commit_date_min": "2017-05-16T00:00:00.000Z",
             "ticker": "DCR",
             "cmc_name": "decred",
-            "market_cap_usd_mil": 1681.68,
+            "market_cap_usd_mil": 1773.53,
             "market_cap_rank": 76,
-            "market_cap_datetime": "2021-10-05 23:10:24.678177"
+            "market_cap_datetime": "2021-10-12 10:17:20.760705"
         },
         {
             "index": 75,
@@ -3596,9 +3596,9 @@
             "last_commit_date_min": "2021-08-03T00:00:00.000Z",
             "ticker": "RPL",
             "cmc_name": "rocket-pool",
-            "market_cap_usd_mil": 525.37,
-            "market_cap_rank": 149,
-            "market_cap_datetime": "2021-10-05 23:18:12.005442"
+            "market_cap_usd_mil": 537.27,
+            "market_cap_rank": 150,
+            "market_cap_datetime": "2021-10-12 10:17:24.223398"
         },
         {
             "index": 76,
@@ -3641,9 +3641,9 @@
             "last_commit_date_min": "2017-10-26T00:00:00.000Z",
             "ticker": "REP",
             "cmc_name": "augur",
-            "market_cap_usd_mil": 163.45,
-            "market_cap_rank": 317,
-            "market_cap_datetime": "2021-10-05 23:17:47.327385"
+            "market_cap_usd_mil": 170.99,
+            "market_cap_rank": 312,
+            "market_cap_datetime": "2021-10-12 10:17:27.809155"
         },
         {
             "index": 77,
@@ -3731,9 +3731,9 @@
             "last_commit_date_min": "2017-07-24T00:00:00.000Z",
             "ticker": "DOT",
             "cmc_name": "polkadot-new",
-            "market_cap_usd_mil": 32997.39,
+            "market_cap_usd_mil": 35377.66,
             "market_cap_rank": 8,
-            "market_cap_datetime": "2021-10-05 23:10:29.902139"
+            "market_cap_datetime": "2021-10-12 10:17:35.464381"
         },
         {
             "index": 79,
@@ -3776,9 +3776,9 @@
             "last_commit_date_min": "2018-02-26T00:00:00.000Z",
             "ticker": "OMG",
             "cmc_name": "omg",
-            "market_cap_usd_mil": 2260.93,
-            "market_cap_rank": 66,
-            "market_cap_datetime": "2021-10-05 23:16:55.306773"
+            "market_cap_usd_mil": 1904.28,
+            "market_cap_rank": 71,
+            "market_cap_datetime": "2021-10-12 10:17:38.900311"
         },
         {
             "index": 80,
@@ -3821,9 +3821,9 @@
             "last_commit_date_min": "2017-05-07T00:00:00.000Z",
             "ticker": "MKR",
             "cmc_name": "maker",
-            "market_cap_usd_mil": 2299.86,
-            "market_cap_rank": 65,
-            "market_cap_datetime": "2021-10-05 23:16:17.011388"
+            "market_cap_usd_mil": 2204.01,
+            "market_cap_rank": 67,
+            "market_cap_datetime": "2021-10-12 10:17:42.349287"
         },
         {
             "index": 81,
@@ -3866,9 +3866,9 @@
             "last_commit_date_min": "2021-05-24T00:00:00.000Z",
             "ticker": "BSV",
             "cmc_name": "bitcoin-sv",
-            "market_cap_usd_mil": 2746.71,
-            "market_cap_rank": 57,
-            "market_cap_datetime": "2021-10-05 23:10:07.446364"
+            "market_cap_usd_mil": 3370.38,
+            "market_cap_rank": 51,
+            "market_cap_datetime": "2021-10-12 10:17:45.833017"
         },
         {
             "index": 82,
@@ -3911,9 +3911,9 @@
             "last_commit_date_min": "2020-09-02T00:00:00.000Z",
             "ticker": "CRV",
             "cmc_name": "curve-dao-token",
-            "market_cap_usd_mil": 1135.84,
-            "market_cap_rank": 97,
-            "market_cap_datetime": "2021-10-05 23:10:20.553235"
+            "market_cap_usd_mil": 1051.73,
+            "market_cap_rank": 101,
+            "market_cap_datetime": "2021-10-12 10:17:49.407617"
         },
         {
             "index": 83,
@@ -3956,9 +3956,9 @@
             "last_commit_date_min": "2021-09-24T00:00:00.000Z",
             "ticker": "OXT",
             "cmc_name": "orchid",
-            "market_cap_usd_mil": 201.34,
-            "market_cap_rank": 274,
-            "market_cap_datetime": "2021-10-05 23:17:22.750432"
+            "market_cap_usd_mil": 200.69,
+            "market_cap_rank": 280,
+            "market_cap_datetime": "2021-10-12 10:17:53.818000"
         },
         {
             "index": 84,
@@ -4001,9 +4001,9 @@
             "last_commit_date_min": "2020-12-09T00:00:00.000Z",
             "ticker": "CFX",
             "cmc_name": "conflux-network",
-            "market_cap_usd_mil": 348.57,
-            "market_cap_rank": 192,
-            "market_cap_datetime": "2021-10-05 23:10:15.226970"
+            "market_cap_usd_mil": 346.54,
+            "market_cap_rank": 202,
+            "market_cap_datetime": "2021-10-12 10:17:57.929495"
         },
         {
             "index": 85,
@@ -4047,8 +4047,8 @@
             "ticker": "AR",
             "cmc_name": "arweave",
             "market_cap_usd_mil": 2366.44,
-            "market_cap_rank": 62,
-            "market_cap_datetime": "2021-10-05 23:10:01.592964"
+            "market_cap_rank": 64,
+            "market_cap_datetime": "2021-10-12 10:18:02.240436"
         },
         {
             "index": 86,
@@ -4136,9 +4136,9 @@
             "last_commit_date_min": "2018-04-12T00:00:00.000Z",
             "ticker": "DERO",
             "cmc_name": "dero",
-            "market_cap_usd_mil": 265.13,
-            "market_cap_rank": 234,
-            "market_cap_datetime": "2021-10-05 23:10:25.751449"
+            "market_cap_usd_mil": 241.01,
+            "market_cap_rank": 253,
+            "market_cap_datetime": "2021-10-12 10:18:05.798800"
         },
         {
             "index": 88,
@@ -4181,9 +4181,9 @@
             "last_commit_date_min": "2018-02-16T00:00:00.000Z",
             "ticker": "RLC",
             "cmc_name": "rlc",
-            "market_cap_usd_mil": 274.5,
-            "market_cap_rank": 232,
-            "market_cap_datetime": "2021-10-05 23:18:05.247760"
+            "market_cap_usd_mil": 266.6,
+            "market_cap_rank": 242,
+            "market_cap_datetime": "2021-10-12 10:18:09.184890"
         },
         {
             "index": 89,
@@ -4226,9 +4226,9 @@
             "last_commit_date_min": "2017-08-17T00:00:00.000Z",
             "ticker": "LPT",
             "cmc_name": "livepeer",
-            "market_cap_usd_mil": 432.19,
-            "market_cap_rank": 166,
-            "market_cap_datetime": "2021-10-05 23:15:36.253841"
+            "market_cap_usd_mil": 432.59,
+            "market_cap_rank": 170,
+            "market_cap_datetime": "2021-10-12 10:18:12.659232"
         },
         {
             "index": 90,
@@ -4271,9 +4271,9 @@
             "last_commit_date_min": "2019-10-08T00:00:00.000Z",
             "ticker": "CELO",
             "cmc_name": "celo",
-            "market_cap_usd_mil": 1981.34,
-            "market_cap_rank": 71,
-            "market_cap_datetime": "2021-10-05 23:10:13.608145"
+            "market_cap_usd_mil": 1817.34,
+            "market_cap_rank": 75,
+            "market_cap_datetime": "2021-10-12 10:18:16.250454"
         },
         {
             "index": 91,
@@ -4316,9 +4316,9 @@
             "last_commit_date_min": "2018-06-05T00:00:00.000Z",
             "ticker": "NKN",
             "cmc_name": "nkn",
-            "market_cap_usd_mil": 221.1,
+            "market_cap_usd_mil": 235.72,
             "market_cap_rank": 257,
-            "market_cap_datetime": "2021-10-05 23:16:37.186479"
+            "market_cap_datetime": "2021-10-12 10:18:19.727699"
         },
         {
             "index": 92,
@@ -4361,9 +4361,9 @@
             "last_commit_date_min": "2015-05-11T00:00:00.000Z",
             "ticker": "XEM",
             "cmc_name": "nem",
-            "market_cap_usd_mil": 1449.98,
-            "market_cap_rank": 86,
-            "market_cap_datetime": "2021-10-05 23:20:08.334085"
+            "market_cap_usd_mil": 1615.54,
+            "market_cap_rank": 82,
+            "market_cap_datetime": "2021-10-12 10:18:23.191676"
         },
         {
             "index": 93,
@@ -4406,9 +4406,9 @@
             "last_commit_date_min": "2015-06-05T00:00:00.000Z",
             "ticker": "MANA",
             "cmc_name": "decentraland",
-            "market_cap_usd_mil": 1025.03,
+            "market_cap_usd_mil": 1010.98,
             "market_cap_rank": 104,
-            "market_cap_datetime": "2021-10-05 23:15:57.050253"
+            "market_cap_datetime": "2021-10-12 10:18:27.199418"
         },
         {
             "index": 94,
@@ -4451,9 +4451,9 @@
             "last_commit_date_min": "2018-02-05T00:00:00.000Z",
             "ticker": "REQ",
             "cmc_name": "request",
-            "market_cap_usd_mil": 158.37,
-            "market_cap_rank": 319,
-            "market_cap_datetime": "2021-10-05 23:17:51.730666"
+            "market_cap_usd_mil": 158.17,
+            "market_cap_rank": 324,
+            "market_cap_datetime": "2021-10-12 10:18:30.578058"
         },
         {
             "index": 95,
@@ -4541,9 +4541,9 @@
             "last_commit_date_min": "2019-05-18T00:00:00.000Z",
             "ticker": "DYDX",
             "cmc_name": "dydx",
-            "market_cap_usd_mil": 1212.05,
-            "market_cap_rank": 95,
-            "market_cap_datetime": "2021-10-05 23:10:30.791084"
+            "market_cap_usd_mil": 1316.94,
+            "market_cap_rank": 89,
+            "market_cap_datetime": "2021-10-12 10:18:34.226779"
         },
         {
             "index": 97,
@@ -4586,9 +4586,9 @@
             "last_commit_date_min": "2020-01-18T00:00:00.000Z",
             "ticker": "NMR",
             "cmc_name": "numeraire",
-            "market_cap_usd_mil": 258.45,
-            "market_cap_rank": 238,
-            "market_cap_datetime": "2021-10-05 23:16:40.457974"
+            "market_cap_usd_mil": 251.27,
+            "market_cap_rank": 250,
+            "market_cap_datetime": "2021-10-12 10:18:37.999274"
         },
         {
             "index": 98,
@@ -4631,9 +4631,9 @@
             "last_commit_date_min": "2020-03-09T00:00:00.000Z",
             "ticker": "ARK",
             "cmc_name": "ark",
-            "market_cap_usd_mil": 258.15,
+            "market_cap_usd_mil": 271.02,
             "market_cap_rank": 239,
-            "market_cap_datetime": "2021-10-05 23:10:02.426829"
+            "market_cap_datetime": "2021-10-12 10:18:41.450352"
         },
         {
             "index": 99,
@@ -4676,9 +4676,9 @@
             "last_commit_date_min": "2015-04-15T00:00:00.000Z",
             "ticker": "HNT",
             "cmc_name": "helium",
-            "market_cap_usd_mil": 2107.52,
-            "market_cap_rank": 67,
-            "market_cap_datetime": "2021-10-05 23:14:49.366858"
+            "market_cap_usd_mil": 1877.01,
+            "market_cap_rank": 73,
+            "market_cap_datetime": "2021-10-12 10:18:45.063479"
         },
         {
             "index": 100,
@@ -4721,9 +4721,9 @@
             "last_commit_date_min": "2018-02-10T00:00:00.000Z",
             "ticker": "MATIC",
             "cmc_name": "polygon",
-            "market_cap_usd_mil": 8787.17,
+            "market_cap_usd_mil": 8358.13,
             "market_cap_rank": 22,
-            "market_cap_datetime": "2021-10-05 23:16:00.352470"
+            "market_cap_datetime": "2021-10-12 10:18:52.331763"
         },
         {
             "index": 101,
@@ -4766,9 +4766,9 @@
             "last_commit_date_min": "2018-01-31T00:00:00.000Z",
             "ticker": "POLY",
             "cmc_name": "polymath-network",
-            "market_cap_usd_mil": 753.7,
-            "market_cap_rank": 125,
-            "market_cap_datetime": "2021-10-05 23:17:29.406501"
+            "market_cap_usd_mil": 665.74,
+            "market_cap_rank": 135,
+            "market_cap_datetime": "2021-10-12 10:18:55.770917"
         },
         {
             "index": 102,
@@ -4811,9 +4811,9 @@
             "last_commit_date_min": "2019-06-10T00:00:00.000Z",
             "ticker": "KAVA",
             "cmc_name": "kava",
-            "market_cap_usd_mil": 576.48,
-            "market_cap_rank": 143,
-            "market_cap_datetime": "2021-10-05 23:15:22.942648"
+            "market_cap_usd_mil": 554.0,
+            "market_cap_rank": 146,
+            "market_cap_datetime": "2021-10-12 10:18:59.252237"
         },
         {
             "index": 103,
@@ -4901,9 +4901,9 @@
             "last_commit_date_min": "2021-07-15T00:00:00.000Z",
             "ticker": "FLOW",
             "cmc_name": "flow",
-            "market_cap_usd_mil": 1384.57,
-            "market_cap_rank": 88,
-            "market_cap_datetime": "2021-10-05 23:10:40.585035"
+            "market_cap_usd_mil": 1191.61,
+            "market_cap_rank": 97,
+            "market_cap_datetime": "2021-10-12 10:19:02.836094"
         },
         {
             "index": 105,
@@ -4946,9 +4946,9 @@
             "last_commit_date_min": "2015-06-09T00:00:00.000Z",
             "ticker": "MAID",
             "cmc_name": "maidsafecoin",
-            "market_cap_usd_mil": 262.19,
-            "market_cap_rank": 235,
-            "market_cap_datetime": "2021-10-05 23:15:53.560100"
+            "market_cap_usd_mil": 256.1,
+            "market_cap_rank": 247,
+            "market_cap_datetime": "2021-10-12 10:19:06.424035"
         },
         {
             "index": 106,
@@ -4991,9 +4991,9 @@
             "last_commit_date_min": "2017-11-02T00:00:00.000Z",
             "ticker": "ENJ",
             "cmc_name": "enjin-coin",
-            "market_cap_usd_mil": 1499.84,
-            "market_cap_rank": 82,
-            "market_cap_datetime": "2021-10-05 23:10:33.240042"
+            "market_cap_usd_mil": 1460.22,
+            "market_cap_rank": 83,
+            "market_cap_datetime": "2021-10-12 10:19:09.811177"
         },
         {
             "index": 107,
@@ -5036,9 +5036,9 @@
             "last_commit_date_min": "2018-08-07T00:00:00.000Z",
             "ticker": "HBAR",
             "cmc_name": "hedera-hashgraph",
-            "market_cap_usd_mil": 4262.02,
-            "market_cap_rank": 43,
-            "market_cap_datetime": "2021-10-05 23:10:48.200219"
+            "market_cap_usd_mil": 5158.75,
+            "market_cap_rank": 36,
+            "market_cap_datetime": "2021-10-12 10:19:13.185899"
         },
         {
             "index": 108,
@@ -5081,9 +5081,9 @@
             "last_commit_date_min": "2018-05-10T00:00:00.000Z",
             "ticker": "TUSD",
             "cmc_name": "trueusd",
-            "market_cap_usd_mil": 1342.79,
+            "market_cap_usd_mil": 1311.29,
             "market_cap_rank": 90,
-            "market_cap_datetime": "2021-10-05 23:19:30.957284"
+            "market_cap_datetime": "2021-10-12 10:19:16.989312"
         },
         {
             "index": 109,
@@ -5126,9 +5126,9 @@
             "last_commit_date_min": "2020-06-29T00:00:00.000Z",
             "ticker": "UMA",
             "cmc_name": "uma",
-            "market_cap_usd_mil": 632.08,
-            "market_cap_rank": 136,
-            "market_cap_datetime": "2021-10-05 23:19:34.259349"
+            "market_cap_usd_mil": 630.24,
+            "market_cap_rank": 139,
+            "market_cap_datetime": "2021-10-12 10:19:20.439801"
         },
         {
             "index": 110,
@@ -5171,9 +5171,9 @@
             "last_commit_date_min": "2018-12-09T00:00:00.000Z",
             "ticker": "ETC",
             "cmc_name": "ethereum-classic",
-            "market_cap_usd_mil": 6981.08,
-            "market_cap_rank": 29,
-            "market_cap_datetime": "2021-10-05 23:10:35.914179"
+            "market_cap_usd_mil": 7035.74,
+            "market_cap_rank": 28,
+            "market_cap_datetime": "2021-10-12 10:19:23.960858"
         },
         {
             "index": 111,
@@ -5261,9 +5261,9 @@
             "last_commit_date_min": "2021-06-16T00:00:00.000Z",
             "ticker": "HIVE",
             "cmc_name": "hive-blockchain",
-            "market_cap_usd_mil": 242.18,
-            "market_cap_rank": 244,
-            "market_cap_datetime": "2021-10-05 23:10:49.122112"
+            "market_cap_usd_mil": 290.06,
+            "market_cap_rank": 229,
+            "market_cap_datetime": "2021-10-12 10:19:27.875074"
         },
         {
             "index": 113,
@@ -5306,9 +5306,9 @@
             "last_commit_date_min": "2019-07-15T00:00:00.000Z",
             "ticker": "BAND",
             "cmc_name": "band-protocol",
-            "market_cap_usd_mil": 355.24,
-            "market_cap_rank": 188,
-            "market_cap_datetime": "2021-10-05 23:10:05.011583"
+            "market_cap_usd_mil": 318.45,
+            "market_cap_rank": 216,
+            "market_cap_datetime": "2021-10-12 10:19:31.427832"
         },
         {
             "index": 114,
@@ -5351,9 +5351,9 @@
             "last_commit_date_min": "2020-12-28T00:00:00.000Z",
             "ticker": "PHA",
             "cmc_name": "phala-network",
-            "market_cap_usd_mil": 130.13,
-            "market_cap_rank": 361,
-            "market_cap_datetime": "2021-10-05 23:17:26.026369"
+            "market_cap_usd_mil": 144.18,
+            "market_cap_rank": 350,
+            "market_cap_datetime": "2021-10-12 10:19:34.887732"
         },
         {
             "index": 115,
@@ -5396,9 +5396,9 @@
             "last_commit_date_min": "2017-07-19T00:00:00.000Z",
             "ticker": "ZEN",
             "cmc_name": "horizen",
-            "market_cap_usd_mil": 887.96,
-            "market_cap_rank": 110,
-            "market_cap_datetime": "2021-10-05 23:20:36.801080"
+            "market_cap_usd_mil": 864.55,
+            "market_cap_rank": 118,
+            "market_cap_datetime": "2021-10-12 10:19:38.892079"
         },
         {
             "index": 116,
@@ -5441,9 +5441,9 @@
             "last_commit_date_min": "2021-06-15T00:00:00.000Z",
             "ticker": "KLAY",
             "cmc_name": "klaytn",
-            "market_cap_usd_mil": 3503.2,
-            "market_cap_rank": 50,
-            "market_cap_datetime": "2021-10-05 23:15:26.263966"
+            "market_cap_usd_mil": 4023.91,
+            "market_cap_rank": 46,
+            "market_cap_datetime": "2021-10-12 10:19:42.438094"
         },
         {
             "index": 117,
@@ -5486,9 +5486,9 @@
             "last_commit_date_min": "2019-01-25T00:00:00.000Z",
             "ticker": "CELR",
             "cmc_name": "celer-network",
-            "market_cap_usd_mil": 828.91,
-            "market_cap_rank": 117,
-            "market_cap_datetime": "2021-10-05 23:10:14.417287"
+            "market_cap_usd_mil": 821.32,
+            "market_cap_rank": 124,
+            "market_cap_datetime": "2021-10-12 10:19:46.779069"
         },
         {
             "index": 118,
@@ -5531,9 +5531,9 @@
             "last_commit_date_min": "2020-05-27T00:00:00.000Z",
             "ticker": "ROSE",
             "cmc_name": "oasis-network",
-            "market_cap_usd_mil": 276.1,
-            "market_cap_rank": 231,
-            "market_cap_datetime": "2021-10-05 23:18:08.624994"
+            "market_cap_usd_mil": 322.76,
+            "market_cap_rank": 213,
+            "market_cap_datetime": "2021-10-12 10:19:50.229184"
         },
         {
             "index": 119,
@@ -5576,9 +5576,9 @@
             "last_commit_date_min": "2019-07-05T00:00:00.000Z",
             "ticker": "FTM",
             "cmc_name": "fantom",
-            "market_cap_usd_mil": 3626.59,
-            "market_cap_rank": 49,
-            "market_cap_datetime": "2021-10-05 23:10:43.104601"
+            "market_cap_usd_mil": 5941.99,
+            "market_cap_rank": 34,
+            "market_cap_datetime": "2021-10-12 10:19:53.628384"
         },
         {
             "index": 120,
@@ -5621,9 +5621,9 @@
             "last_commit_date_min": "2017-09-13T00:00:00.000Z",
             "ticker": "CHSB",
             "cmc_name": "swissborg",
-            "market_cap_usd_mil": 654.97,
-            "market_cap_rank": 134,
-            "market_cap_datetime": "2021-10-05 23:10:16.096477"
+            "market_cap_usd_mil": 627.4,
+            "market_cap_rank": 140,
+            "market_cap_datetime": "2021-10-12 10:20:01.100595"
         },
         {
             "index": 121,
@@ -5666,9 +5666,9 @@
             "last_commit_date_min": "2018-03-20T00:00:00.000Z",
             "ticker": "SYS",
             "cmc_name": "syscoin",
-            "market_cap_usd_mil": 189.32,
-            "market_cap_rank": 285,
-            "market_cap_datetime": "2021-10-05 23:19:13.245668"
+            "market_cap_usd_mil": 169.12,
+            "market_cap_rank": 314,
+            "market_cap_datetime": "2021-10-12 10:20:04.479569"
         },
         {
             "index": 122,
@@ -5711,9 +5711,9 @@
             "last_commit_date_min": "2021-09-15T00:00:00.000Z",
             "ticker": "REEF",
             "cmc_name": "reef",
-            "market_cap_usd_mil": 294.39,
-            "market_cap_rank": 219,
-            "market_cap_datetime": "2021-10-05 23:17:42.617077"
+            "market_cap_usd_mil": 274.33,
+            "market_cap_rank": 237,
+            "market_cap_datetime": "2021-10-12 10:20:07.831874"
         },
         {
             "index": 123,
@@ -5756,9 +5756,9 @@
             "last_commit_date_min": "2018-10-01T00:00:00.000Z",
             "ticker": "DAG",
             "cmc_name": "constellation",
-            "market_cap_usd_mil": 519.36,
-            "market_cap_rank": 150,
-            "market_cap_datetime": "2021-10-05 23:10:23.077425"
+            "market_cap_usd_mil": 469.07,
+            "market_cap_rank": 157,
+            "market_cap_datetime": "2021-10-12 10:20:11.650723"
         },
         {
             "index": 124,
@@ -5801,9 +5801,9 @@
             "last_commit_date_min": "2018-01-03T00:00:00.000Z",
             "ticker": "BCD",
             "cmc_name": "bitcoin-diamond",
-            "market_cap_usd_mil": 369.28,
-            "market_cap_rank": 183,
-            "market_cap_datetime": "2021-10-05 23:10:05.810458"
+            "market_cap_usd_mil": 468.29,
+            "market_cap_rank": 158,
+            "market_cap_datetime": "2021-10-12 10:20:15.013491"
         },
         {
             "index": 125,
@@ -5846,9 +5846,9 @@
             "last_commit_date_min": "2021-10-04T00:00:00.000Z",
             "ticker": "FEI",
             "cmc_name": "fei-protocol",
-            "market_cap_usd_mil": 511.45,
-            "market_cap_rank": 153,
-            "market_cap_datetime": "2021-10-05 23:10:38.471839"
+            "market_cap_usd_mil": 513.13,
+            "market_cap_rank": 152,
+            "market_cap_datetime": "2021-10-12 10:20:18.407048"
         },
         {
             "index": 126,
@@ -5891,9 +5891,9 @@
             "last_commit_date_min": "2018-08-05T00:00:00.000Z",
             "ticker": "ORBS",
             "cmc_name": "orbs",
-            "market_cap_usd_mil": 349.71,
-            "market_cap_rank": 191,
-            "market_cap_datetime": "2021-10-05 23:17:19.371291"
+            "market_cap_usd_mil": 364.98,
+            "market_cap_rank": 193,
+            "market_cap_datetime": "2021-10-12 10:20:21.768576"
         },
         {
             "index": 127,
@@ -5936,9 +5936,9 @@
             "last_commit_date_min": "2018-02-26T00:00:00.000Z",
             "ticker": "TOMO",
             "cmc_name": "tomochain",
-            "market_cap_usd_mil": 215.09,
-            "market_cap_rank": 263,
-            "market_cap_datetime": "2021-10-05 23:19:20.920750"
+            "market_cap_usd_mil": 186.99,
+            "market_cap_rank": 292,
+            "market_cap_datetime": "2021-10-12 10:20:25.166785"
         },
         {
             "index": 128,
@@ -5981,9 +5981,9 @@
             "last_commit_date_min": "2020-10-31T00:00:00.000Z",
             "ticker": "OCEAN",
             "cmc_name": "ocean-protocol",
-            "market_cap_usd_mil": 325.76,
-            "market_cap_rank": 208,
-            "market_cap_datetime": "2021-10-05 23:16:47.637633"
+            "market_cap_usd_mil": 343.18,
+            "market_cap_rank": 204,
+            "market_cap_datetime": "2021-10-12 10:20:28.538964"
         },
         {
             "index": 129,
@@ -6026,9 +6026,9 @@
             "last_commit_date_min": "2019-05-29T00:00:00.000Z",
             "ticker": "FET",
             "cmc_name": "fetch",
-            "market_cap_usd_mil": 528.64,
-            "market_cap_rank": 147,
-            "market_cap_datetime": "2021-10-05 23:10:39.303482"
+            "market_cap_usd_mil": 510.79,
+            "market_cap_rank": 153,
+            "market_cap_datetime": "2021-10-12 10:20:32.189712"
         },
         {
             "index": 130,
@@ -6071,9 +6071,9 @@
             "last_commit_date_min": "2018-05-29T00:00:00.000Z",
             "ticker": "AGIX",
             "cmc_name": "singularitynet",
-            "market_cap_usd_mil": 342.68,
-            "market_cap_rank": 201,
-            "market_cap_datetime": "2021-10-05 23:09:55.668898"
+            "market_cap_usd_mil": 324.93,
+            "market_cap_rank": 210,
+            "market_cap_datetime": "2021-10-12 10:20:35.713729"
         },
         {
             "index": 131,
@@ -6116,9 +6116,9 @@
             "last_commit_date_min": "2018-10-03T00:00:00.000Z",
             "ticker": "COTI",
             "cmc_name": "coti",
-            "market_cap_usd_mil": 483.09,
-            "market_cap_rank": 157,
-            "market_cap_datetime": "2021-10-05 23:10:19.630095"
+            "market_cap_usd_mil": 443.14,
+            "market_cap_rank": 166,
+            "market_cap_datetime": "2021-10-12 10:20:39.076128"
         },
         {
             "index": 132,
@@ -6161,9 +6161,9 @@
             "last_commit_date_min": "2019-09-03T00:00:00.000Z",
             "ticker": "SKL",
             "cmc_name": "skale-network",
-            "market_cap_usd_mil": 423.06,
-            "market_cap_rank": 170,
-            "market_cap_datetime": "2021-10-05 23:18:31.976050"
+            "market_cap_usd_mil": 618.82,
+            "market_cap_rank": 141,
+            "market_cap_datetime": "2021-10-12 10:20:42.535301"
         },
         {
             "index": 133,
@@ -6206,9 +6206,9 @@
             "last_commit_date_min": "2018-04-20T00:00:00.000Z",
             "ticker": "NEXO",
             "cmc_name": "nexo",
-            "market_cap_usd_mil": 959.86,
-            "market_cap_rank": 106,
-            "market_cap_datetime": "2021-10-05 23:16:33.905247"
+            "market_cap_usd_mil": 971.1,
+            "market_cap_rank": 110,
+            "market_cap_datetime": "2021-10-12 10:20:46.631938"
         },
         {
             "index": 134,
@@ -6251,9 +6251,9 @@
             "last_commit_date_min": "2019-10-03T00:00:00.000Z",
             "ticker": "WAXP",
             "cmc_name": "wax",
-            "market_cap_usd_mil": 536.13,
-            "market_cap_rank": 146,
-            "market_cap_datetime": "2021-10-05 23:19:54.948035"
+            "market_cap_usd_mil": 483.62,
+            "market_cap_rank": 154,
+            "market_cap_datetime": "2021-10-12 10:20:50.090025"
         },
         {
             "index": 135,
@@ -6296,9 +6296,9 @@
             "last_commit_date_min": "2018-06-22T00:00:00.000Z",
             "ticker": "ICX",
             "cmc_name": "icon",
-            "market_cap_usd_mil": 1575.4,
-            "market_cap_rank": 80,
-            "market_cap_datetime": "2021-10-05 23:15:06.149358"
+            "market_cap_usd_mil": 1436.52,
+            "market_cap_rank": 84,
+            "market_cap_datetime": "2021-10-12 10:20:53.533567"
         },
         {
             "index": 136,
@@ -6386,9 +6386,9 @@
             "last_commit_date_min": "2019-02-15T00:00:00.000Z",
             "ticker": "EWT",
             "cmc_name": "energy-web-token",
-            "market_cap_usd_mil": 390.29,
-            "market_cap_rank": 176,
-            "market_cap_datetime": "2021-10-05 23:10:37.652960"
+            "market_cap_usd_mil": 416.4,
+            "market_cap_rank": 175,
+            "market_cap_datetime": "2021-10-12 10:20:57.831654"
         },
         {
             "index": 138,
@@ -6431,9 +6431,9 @@
             "last_commit_date_min": "2020-03-25T00:00:00.000Z",
             "ticker": "CTSI",
             "cmc_name": "cartesi",
-            "market_cap_usd_mil": 293.65,
-            "market_cap_rank": 221,
-            "market_cap_datetime": "2021-10-05 23:10:22.298122"
+            "market_cap_usd_mil": 264.67,
+            "market_cap_rank": 243,
+            "market_cap_datetime": "2021-10-12 10:21:01.460450"
         },
         {
             "index": 139,
@@ -6476,9 +6476,9 @@
             "last_commit_date_min": "2018-12-23T00:00:00.000Z",
             "ticker": "RUNE",
             "cmc_name": "thorchain",
-            "market_cap_usd_mil": 2350.2,
-            "market_cap_rank": 63,
-            "market_cap_datetime": "2021-10-05 23:18:25.318261"
+            "market_cap_usd_mil": 1944.85,
+            "market_cap_rank": 70,
+            "market_cap_datetime": "2021-10-12 10:21:08.482969"
         },
         {
             "index": 140,
@@ -6521,9 +6521,9 @@
             "last_commit_date_min": "2021-04-21T00:00:00.000Z",
             "ticker": "DGB",
             "cmc_name": "digibyte",
-            "market_cap_usd_mil": 732.45,
-            "market_cap_rank": 128,
-            "market_cap_datetime": "2021-10-05 23:10:26.597311"
+            "market_cap_usd_mil": 710.58,
+            "market_cap_rank": 127,
+            "market_cap_datetime": "2021-10-12 10:21:15.798382"
         },
         {
             "index": 141,
@@ -6566,9 +6566,9 @@
             "last_commit_date_min": "2019-10-22T00:00:00.000Z",
             "ticker": "KSM",
             "cmc_name": "kusama",
-            "market_cap_usd_mil": 3027.13,
-            "market_cap_rank": 53,
-            "market_cap_datetime": "2021-10-05 23:15:29.546700"
+            "market_cap_usd_mil": 2960.35,
+            "market_cap_rank": 54,
+            "market_cap_datetime": "2021-10-12 10:21:19.486245"
         },
         {
             "index": 142,
@@ -6611,9 +6611,9 @@
             "last_commit_date_min": "2020-02-29T00:00:00.000Z",
             "ticker": "NEAR",
             "cmc_name": "near-protocol",
-            "market_cap_usd_mil": 3805.6,
-            "market_cap_rank": 48,
-            "market_cap_datetime": "2021-10-05 23:16:27.146880"
+            "market_cap_usd_mil": 3525.94,
+            "market_cap_rank": 50,
+            "market_cap_datetime": "2021-10-12 10:21:22.922365"
         },
         {
             "index": 143,
@@ -6656,9 +6656,9 @@
             "last_commit_date_min": "2019-05-02T00:00:00.000Z",
             "ticker": "MED",
             "cmc_name": "medibloc",
-            "market_cap_usd_mil": 374.53,
-            "market_cap_rank": 181,
-            "market_cap_datetime": "2021-10-05 23:16:03.642568"
+            "market_cap_usd_mil": 405.61,
+            "market_cap_rank": 179,
+            "market_cap_datetime": "2021-10-12 10:21:26.553899"
         },
         {
             "index": 144,
@@ -6701,9 +6701,9 @@
             "last_commit_date_min": "2020-10-22T00:00:00.000Z",
             "ticker": "ALPHA",
             "cmc_name": "alpha-finance-lab",
-            "market_cap_usd_mil": 430.54,
-            "market_cap_rank": 168,
-            "market_cap_datetime": "2021-10-05 23:09:57.340957"
+            "market_cap_usd_mil": 427.35,
+            "market_cap_rank": 173,
+            "market_cap_datetime": "2021-10-12 10:21:33.365563"
         },
         {
             "index": 145,
@@ -6746,9 +6746,9 @@
             "last_commit_date_min": "2018-09-09T00:00:00.000Z",
             "ticker": "LRC",
             "cmc_name": "loopring",
-            "market_cap_usd_mil": 509.41,
-            "market_cap_rank": 154,
-            "market_cap_datetime": "2021-10-05 23:15:39.632650"
+            "market_cap_usd_mil": 460.34,
+            "market_cap_rank": 162,
+            "market_cap_datetime": "2021-10-12 10:21:40.435326"
         },
         {
             "index": 146,
@@ -6791,9 +6791,9 @@
             "last_commit_date_min": "2020-09-13T00:00:00.000Z",
             "ticker": "BAKE",
             "cmc_name": "bakerytoken",
-            "market_cap_usd_mil": 344.79,
-            "market_cap_rank": 197,
-            "market_cap_datetime": "2021-10-05 23:10:04.168567"
+            "market_cap_usd_mil": 346.37,
+            "market_cap_rank": 203,
+            "market_cap_datetime": "2021-10-12 10:21:44.117702"
         },
         {
             "index": 147,
@@ -6836,9 +6836,9 @@
             "last_commit_date_min": "2020-12-04T00:00:00.000Z",
             "ticker": "AMP",
             "cmc_name": "amp",
-            "market_cap_usd_mil": 2632.69,
-            "market_cap_rank": 59,
-            "market_cap_datetime": "2021-10-05 23:09:58.893064"
+            "market_cap_usd_mil": 2283.88,
+            "market_cap_rank": 66,
+            "market_cap_datetime": "2021-10-12 10:21:47.576702"
         },
         {
             "index": 148,
@@ -6881,9 +6881,9 @@
             "last_commit_date_min": "2020-07-30T00:00:00.000Z",
             "ticker": "QNT",
             "cmc_name": "quant",
-            "market_cap_usd_mil": 4145.43,
-            "market_cap_rank": 44,
-            "market_cap_datetime": "2021-10-05 23:17:32.697856"
+            "market_cap_usd_mil": 3852.38,
+            "market_cap_rank": 47,
+            "market_cap_datetime": "2021-10-12 10:21:51.575995"
         },
         {
             "index": 149,
@@ -6926,9 +6926,9 @@
             "last_commit_date_min": "2020-04-16T00:00:00.000Z",
             "ticker": "XYO",
             "cmc_name": "xyo",
-            "market_cap_usd_mil": 343.88,
-            "market_cap_rank": 198,
-            "market_cap_datetime": "2021-10-05 23:20:29.221737"
+            "market_cap_usd_mil": 370.67,
+            "market_cap_rank": 189,
+            "market_cap_datetime": "2021-10-12 10:21:55.178876"
         },
         {
             "index": 150,
@@ -6971,9 +6971,9 @@
             "last_commit_date_min": "2021-04-01T00:00:00.000Z",
             "ticker": "XDC",
             "cmc_name": "xinfin",
-            "market_cap_usd_mil": 1583.16,
-            "market_cap_rank": 79,
-            "market_cap_datetime": "2021-10-05 23:20:01.588592"
+            "market_cap_usd_mil": 1430.82,
+            "market_cap_rank": 85,
+            "market_cap_datetime": "2021-10-12 10:21:59.576781"
         },
         {
             "index": 151,
@@ -7016,9 +7016,9 @@
             "last_commit_date_min": "2019-07-01T00:00:00.000Z",
             "ticker": "IMX",
             "cmc_name": "immutable-x",
-            "market_cap_usd_mil": 3.04,
-            "market_cap_rank": 1586,
-            "market_cap_datetime": "2021-10-05 23:15:09.518425"
+            "market_cap_usd_mil": 4.2,
+            "market_cap_rank": 1465,
+            "market_cap_datetime": "2021-10-12 10:22:03.134911"
         },
         {
             "index": 152,
@@ -7061,9 +7061,9 @@
             "last_commit_date_min": "2021-03-22T00:00:00.000Z",
             "ticker": "CEL",
             "cmc_name": "celsius",
-            "market_cap_usd_mil": 2391.68,
-            "market_cap_rank": 61,
-            "market_cap_datetime": "2021-10-05 23:10:12.769392"
+            "market_cap_usd_mil": 2429.05,
+            "market_cap_rank": 63,
+            "market_cap_datetime": "2021-10-12 10:22:06.896459"
         },
         {
             "index": 153,
@@ -7106,9 +7106,9 @@
             "last_commit_date_min": "2021-06-05T00:00:00.000Z",
             "ticker": "INJ",
             "cmc_name": "injective-protocol",
-            "market_cap_usd_mil": 344.08,
-            "market_cap_rank": 198,
-            "market_cap_datetime": "2021-10-05 23:15:12.905767"
+            "market_cap_usd_mil": 348.07,
+            "market_cap_rank": 201,
+            "market_cap_datetime": "2021-10-12 10:22:11.210009"
         },
         {
             "index": 154,
@@ -7151,9 +7151,9 @@
             "last_commit_date_min": "2019-02-28T00:00:00.000Z",
             "ticker": "ANKR",
             "cmc_name": "ankr",
-            "market_cap_usd_mil": 660.94,
-            "market_cap_rank": 133,
-            "market_cap_datetime": "2021-10-05 23:09:59.867238"
+            "market_cap_usd_mil": 680.47,
+            "market_cap_rank": 130,
+            "market_cap_datetime": "2021-10-12 10:22:14.729034"
         },
         {
             "index": 155,
@@ -7196,9 +7196,9 @@
             "last_commit_date_min": "2020-07-20T00:00:00.000Z",
             "ticker": "RSR",
             "cmc_name": "reserve-rights",
-            "market_cap_usd_mil": 482.81,
-            "market_cap_rank": 156,
-            "market_cap_datetime": "2021-10-05 23:18:15.385707"
+            "market_cap_usd_mil": 456.57,
+            "market_cap_rank": 163,
+            "market_cap_datetime": "2021-10-12 10:22:18.255286"
         },
         {
             "index": 156,
@@ -7241,9 +7241,9 @@
             "last_commit_date_min": "2017-09-13T00:00:00.000Z",
             "ticker": "REV",
             "cmc_name": "revain",
-            "market_cap_usd_mil": 8.77,
-            "market_cap_rank": 1148,
-            "market_cap_datetime": "2021-10-05 23:17:58.386431"
+            "market_cap_usd_mil": 7.8,
+            "market_cap_rank": 1202,
+            "market_cap_datetime": "2021-10-12 10:22:26.921790"
         },
         {
             "index": 157,
@@ -7286,9 +7286,9 @@
             "last_commit_date_min": "2017-12-05T00:00:00.000Z",
             "ticker": "STMX",
             "cmc_name": "stormx",
-            "market_cap_usd_mil": 299.34,
-            "market_cap_rank": 217,
-            "market_cap_datetime": "2021-10-05 23:18:51.940506"
+            "market_cap_usd_mil": 304.72,
+            "market_cap_rank": 225,
+            "market_cap_datetime": "2021-10-12 10:22:34.233310"
         },
         {
             "index": 158,
@@ -7331,9 +7331,9 @@
             "last_commit_date_min": "2021-09-28T00:00:00.000Z",
             "ticker": "DYDX",
             "cmc_name": "dydx",
-            "market_cap_usd_mil": 1212.05,
-            "market_cap_rank": 95,
-            "market_cap_datetime": "2021-10-05 23:10:30.791084"
+            "market_cap_usd_mil": 1316.94,
+            "market_cap_rank": 89,
+            "market_cap_datetime": "2021-10-12 10:18:34.226779"
         },
         {
             "index": 159,
@@ -7376,9 +7376,9 @@
             "last_commit_date_min": "2019-10-25T00:00:00.000Z",
             "ticker": "CSPR",
             "cmc_name": "casper",
-            "market_cap_usd_mil": 246.33,
-            "market_cap_rank": 243,
-            "market_cap_datetime": "2021-10-05 23:10:21.340272"
+            "market_cap_usd_mil": 277.9,
+            "market_cap_rank": 235,
+            "market_cap_datetime": "2021-10-12 10:22:38.011945"
         },
         {
             "index": 160,
@@ -7421,9 +7421,9 @@
             "last_commit_date_min": "2021-05-26T00:00:00.000Z",
             "ticker": "GT",
             "cmc_name": "gatetoken",
-            "market_cap_usd_mil": 661.6,
-            "market_cap_rank": 131,
-            "market_cap_datetime": "2021-10-05 23:10:47.381102"
+            "market_cap_usd_mil": 646.51,
+            "market_cap_rank": 137,
+            "market_cap_datetime": "2021-10-12 10:22:41.613799"
         },
         {
             "index": 161,
@@ -7466,9 +7466,9 @@
             "last_commit_date_min": "2018-01-08T00:00:00.000Z",
             "ticker": "TEL",
             "cmc_name": "telcoin",
-            "market_cap_usd_mil": 1112.19,
-            "market_cap_rank": 99,
-            "market_cap_datetime": "2021-10-05 23:19:17.540914"
+            "market_cap_usd_mil": 1010.81,
+            "market_cap_rank": 106,
+            "market_cap_datetime": "2021-10-12 10:22:45.865083"
         }
     ]
 }
