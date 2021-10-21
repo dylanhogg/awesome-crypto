@@ -40,7 +40,7 @@ $(document).ready( function () {
             }
           },
           { data: "repo_count", title: "Project<br />Count" },
-          { title: "Top Projects by Stars <img src='img/star.png' class='github-img' />",
+          { title: "Top Projects<br />by Stars <img src='img/star.png' class='github-img' />",
             render: function(data, type, row, meta) {
                 var repos = row.repopath_first5.split(",");
                 var repos_links = repos.map(repo =>
