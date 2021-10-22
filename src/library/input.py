@@ -47,6 +47,7 @@ def _explode_org_repos(df, ghw):
     logger.info(f"Expaning wildcard repos (star_limit = {star_limit})...")
     for row in wildcard_repos_list:
         org = urlparse(row.githuburl).path.lstrip("/").rstrip("/*")
+        logger.info(f"Read repos for wildcard org: {org}...")
         org_repos = ghw.get_org_repos(org)
         giturls = [[row.category,
                     row.subcategory,
@@ -60,6 +61,6 @@ def _explode_org_repos(df, ghw):
         exploded_rows.extend(giturls)
 
     df_expanded_repos = pd.DataFrame(exploded_rows, columns=df_normal_repos.columns)
-    print(f"Total matching wildcard repos: {len(exploded_rows)}")
+    logger.info(f"Total matching wildcard repos: {len(exploded_rows)}")
 
     return df_normal_repos, df_expanded_repos
