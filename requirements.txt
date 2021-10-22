@@ -5,6 +5,7 @@ markdown
 sparklines
 docutils
 Pygments
+pycoingecko
 python-dotenv
 black
 loguru
