@@ -6,13 +6,13 @@ Checkout the interactive version that you can filter and sort:
 
 
 ### [fei-protocol-core](https://github.com/fei-protocol/fei-protocol-core) by [fei-protocol](https://github.com/fei-protocol)  
-Smart contract code for Fei Protocol  
+FEI Protocol smart contract code, tests, and scripts/utilities for DAO proposals.  
 [https://github.com/fei-protocol/fei-protocol-core](https://github.com/fei-protocol/fei-protocol-core)  
-2.5 stars per week over 40 weeks  
-100 stars, 49 forks, 20 watches  
-created 2020-12-29, last commit 2021-10-04, main language TypeScript  
+2.45 stars per week over 42 weeks  
+104 stars, 51 forks, 19 watches  
+created 2020-12-29, last commit 2021-10-21, main language TypeScript  
 
 
-This file was automatically generated on 2021-10-05.  
+This file was automatically generated on 2021-10-22.  
 
 To curate your own github list, simply clone and change the input csv file.  

@@ -9,12 +9,12 @@ Checkout the interactive version that you can filter and sort:
 A Framework for Building Ethereum-compatible Blockchain Networks  
 [https://polygon.technology/](https://polygon.technology/)  
 [https://github.com/0xPolygon/polygon-sdk](https://github.com/0xPolygon/polygon-sdk)  
-4.67 stars per week over 59 weeks  
-278 stars, 57 forks, 34 watches  
-created 2020-08-14, last commit 2021-09-20, main language Go  
+4.74 stars per week over 62 weeks  
+294 stars, 57 forks, 35 watches  
+created 2020-08-14, last commit 2021-10-21, main language Go  
 <sub><sup>blockchain, ethereum, protocol</sup></sub>
 
 
-This file was automatically generated on 2021-10-05.  
+This file was automatically generated on 2021-10-22.  
 
 To curate your own github list, simply clone and change the input csv file.  

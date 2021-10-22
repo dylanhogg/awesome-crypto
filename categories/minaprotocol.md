@@ -9,16 +9,16 @@ Checkout the interactive version that you can filter and sort:
 Mina is a new cryptocurrency with a constant size blockchain, improving scaling while maintaining decentralization and security.  
 [https://minaprotocol.com](https://minaprotocol.com)  
 [https://github.com/MinaProtocol/mina](https://github.com/MinaProtocol/mina)  
-5.65 stars per week over 198 weeks  
-1,119 stars, 237 forks, 79 watches  
-created 2017-12-18, last commit 2021-09-29, main language JavaScript  
+5.7 stars per week over 200 weeks  
+1,143 stars, 240 forks, 82 watches  
+created 2017-12-18, last commit 2021-10-18, main language JavaScript  
 <sub><sup>blockchain, cryptocurrency, mina, ocaml, zk-snarks</sup></sub>
 
 
 ### [gpu-groth16-prover-3x](https://github.com/MinaProtocol/gpu-groth16-prover-3x) by [MinaProtocol](https://github.com/MinaProtocol)  
 On O(1) Labs' reference machine, this SNARK prover is 3x faster than libsnark!  
 [https://github.com/MinaProtocol/gpu-groth16-prover-3x](https://github.com/MinaProtocol/gpu-groth16-prover-3x)  
-0.35 stars per week over 117 weeks  
+0.34 stars per week over 120 weeks  
 41 stars, 18 forks, 3 watches  
 created 2019-07-03, last commit 2019-07-09, main language C++  
 
@@ -27,27 +27,27 @@ created 2019-07-03, last commit 2019-07-09, main language C++
 Coda + Dekrypt: The SNARK Challenge - Reference Material  
 [https://coinlist.co/build/coda](https://coinlist.co/build/coda)  
 [https://github.com/MinaProtocol/snark-challenge](https://github.com/MinaProtocol/snark-challenge)  
-0.2 stars per week over 130 weeks  
-26 stars, 20 forks, 24 watches  
+0.2 stars per week over 133 weeks  
+26 stars, 20 forks, 25 watches  
 created 2019-04-05, last commit 2019-07-20, main language C++  
 
 
 ### [mina-grants](https://github.com/MinaProtocol/mina-grants) by [MinaProtocol](https://github.com/MinaProtocol)  
 All contents related to the Mina grant program and projects in scope  
 [https://github.com/MinaProtocol/mina-grants](https://github.com/MinaProtocol/mina-grants)  
-0.12 stars per week over 112 weeks  
-13 stars, 8 forks, 21 watches  
+0.11 stars per week over 114 weeks  
+13 stars, 8 forks, 22 watches  
 created 2019-08-13, last commit 2021-02-07, main language None  
 
 
 ### [snark-challenge-prover-reference](https://github.com/MinaProtocol/snark-challenge-prover-reference) by [MinaProtocol](https://github.com/MinaProtocol)  
   
 [https://github.com/MinaProtocol/snark-challenge-prover-reference](https://github.com/MinaProtocol/snark-challenge-prover-reference)  
-0.09 stars per week over 121 weeks  
-11 stars, 41 forks, 21 watches  
+0.09 stars per week over 124 weeks  
+11 stars, 41 forks, 22 watches  
 created 2019-06-05, last commit 2019-07-16, main language C++  
 
 
-This file was automatically generated on 2021-10-05.  
+This file was automatically generated on 2021-10-22.  
 
 To curate your own github list, simply clone and change the input csv file.  

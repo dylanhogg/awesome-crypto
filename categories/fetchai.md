@@ -9,9 +9,9 @@ Checkout the interactive version that you can filter and sort:
 A framework for autonomous economic agent (AEA) development  
 [https://docs.fetch.ai/aea/](https://docs.fetch.ai/aea/)  
 [https://github.com/fetchai/agents-aea](https://github.com/fetchai/agents-aea)  
-0.86 stars per week over 110 weeks  
-95 stars, 31 forks, 21 watches  
-created 2019-08-21, last commit 2021-06-03, main language Python  
+0.86 stars per week over 113 weeks  
+97 stars, 31 forks, 20 watches  
+created 2019-08-21, last commit 2021-10-15, main language Python  
 <sub><sup>aea, agent, agent-framework, autonomous, autonomous-agents, autonomous-economic-agents, cryptocurrencies, cryptocurrency, decentralized, decentralized-network, fetch-ai, multi-agent, multi-agent-systems</sup></sub>
 
 
@@ -19,8 +19,8 @@ created 2019-08-21, last commit 2021-06-03, main language Python
 Official Fetch.AI Ledger C++ implementation  
 [https://fetch.ai](https://fetch.ai)  
 [https://github.com/fetchai/ledger](https://github.com/fetchai/ledger)  
-0.32 stars per week over 194 weeks  
-63 stars, 44 forks, 25 watches  
+0.32 stars per week over 196 weeks  
+63 stars, 44 forks, 24 watches  
 created 2018-01-15, last commit 2020-03-11, main language C++  
 
 
@@ -28,9 +28,9 @@ created 2018-01-15, last commit 2020-03-11, main language C++
 This repo contains documentation for public Fetch.ai products.  
 [https://docs.fetch.ai/](https://docs.fetch.ai/)  
 [https://github.com/fetchai/docs](https://github.com/fetchai/docs)  
-0.3 stars per week over 122 weeks  
+0.3 stars per week over 125 weeks  
 37 stars, 31 forks, 13 watches  
-created 2019-05-30, last commit 2021-09-23, main language HTML  
+created 2019-05-30, last commit 2021-10-06, main language HTML  
 <sub><sup>aea, agents, autonomous-agents, autonomous-economic-agents, decentralized-network, ledger, multi-agent-systems</sup></sub>
 
 
@@ -38,8 +38,8 @@ created 2019-05-30, last commit 2021-09-23, main language HTML
   
 [https://fetch.ai](https://fetch.ai)  
 [https://github.com/fetchai/ledger-archive](https://github.com/fetchai/ledger-archive)  
-0.17 stars per week over 163 weeks  
-28 stars, 12 forks, 13 watches  
+0.17 stars per week over 166 weeks  
+28 stars, 12 forks, 12 watches  
 created 2018-08-17, last commit 2019-05-29, main language C++  
 
 
@@ -47,8 +47,8 @@ created 2018-08-17, last commit 2019-05-29, main language C++
 Competition and Agent Frameworks for the Trading Agents Competition  
 [https://fetchai.github.io/agents-tac](https://fetchai.github.io/agents-tac)  
 [https://github.com/fetchai/agents-tac](https://github.com/fetchai/agents-tac)  
-0.2 stars per week over 132 weeks  
-26 stars, 9 forks, 9 watches  
+0.18 stars per week over 135 weeks  
+25 stars, 9 forks, 9 watches  
 created 2019-03-21, last commit 2021-02-21, main language Jupyter Notebook  
 <sub><sup>aea, agent-frameworks, autonomous-agents, autonomous-economic-agents, python, trading-agents-competition</sup></sub>
 
@@ -56,32 +56,32 @@ created 2019-03-21, last commit 2021-02-21, main language Jupyter Notebook
 ### [fetchd](https://github.com/fetchai/fetchd) by [fetchai](https://github.com/fetchai)  
 Source for the Fetch.ai blockchain nodes  
 [https://github.com/fetchai/fetchd](https://github.com/fetchai/fetchd)  
-0.33 stars per week over 68 weeks  
-23 stars, 13 forks, 11 watches  
-created 2020-06-10, last commit 2021-09-23, main language Go  
+0.34 stars per week over 71 weeks  
+24 stars, 15 forks, 11 watches  
+created 2020-06-10, last commit 2021-10-06, main language Go  
+
+
+### [colearn](https://github.com/fetchai/colearn) by [fetchai](https://github.com/fetchai)  
+  
+[https://github.com/fetchai/colearn](https://github.com/fetchai/colearn)  
+0.26 stars per week over 61 weeks  
+16 stars, 8 forks, 5 watches  
+created 2020-08-19, last commit 2021-10-21, main language Python  
 
 
 ### [ledger-api-py](https://github.com/fetchai/ledger-api-py) by [fetchai](https://github.com/fetchai)  
 Official Python client library for interacting with the Fetch.AI Ledger  
 [https://fetch.ai](https://fetch.ai)  
 [https://github.com/fetchai/ledger-api-py](https://github.com/fetchai/ledger-api-py)  
-0.11 stars per week over 136 weeks  
-15 stars, 15 forks, 18 watches  
+0.11 stars per week over 139 weeks  
+15 stars, 15 forks, 17 watches  
 created 2019-02-20, last commit 2020-06-23, main language Python  
-
-
-### [colearn](https://github.com/fetchai/colearn) by [fetchai](https://github.com/fetchai)  
-  
-[https://github.com/fetchai/colearn](https://github.com/fetchai/colearn)  
-0.25 stars per week over 58 weeks  
-15 stars, 8 forks, 6 watches  
-created 2020-08-19, last commit 2021-07-22, main language Python  
 
 
 ### [research-dvrf](https://github.com/fetchai/research-dvrf) by [fetchai](https://github.com/fetchai)  
 C++ implementation of Distributed Verifiable Random Functions  
 [https://github.com/fetchai/research-dvrf](https://github.com/fetchai/research-dvrf)  
-0.15 stars per week over 89 weeks  
+0.14 stars per week over 91 weeks  
 13 stars, 1 forks, 4 watches  
 created 2020-01-21, last commit 2020-02-17, main language C++  
 
@@ -89,11 +89,11 @@ created 2020-01-21, last commit 2020-02-17, main language C++
 ### [mettalex-market-maker](https://github.com/fetchai/mettalex-market-maker) by [fetchai](https://github.com/fetchai)  
   
 [https://github.com/fetchai/mettalex-market-maker](https://github.com/fetchai/mettalex-market-maker)  
-0.18 stars per week over 54 weeks  
+0.18 stars per week over 56 weeks  
 10 stars, 7 forks, 11 watches  
 created 2020-09-21, last commit 2021-08-05, main language Solidity  
 
 
-This file was automatically generated on 2021-10-05.  
+This file was automatically generated on 2021-10-22.  
 
 To curate your own github list, simply clone and change the input csv file.  

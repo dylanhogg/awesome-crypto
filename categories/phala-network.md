@@ -9,15 +9,15 @@ Checkout the interactive version that you can filter and sort:
 The Phala Network Blockchain, pRuntime and the bridge.  
 [https://phala.network](https://phala.network)  
 [https://github.com/Phala-Network/phala-blockchain](https://github.com/Phala-Network/phala-blockchain)  
-2.22 stars per week over 90 weeks  
-202 stars, 86 forks, 30 watches  
-created 2020-01-08, last commit 2021-10-01, main language Rust  
+2.2 stars per week over 93 weeks  
+205 stars, 92 forks, 31 watches  
+created 2020-01-08, last commit 2021-10-20, main language Rust  
 
 
 ### [phala-docs](https://github.com/Phala-Network/phala-docs) by [Phala-Network](https://github.com/Phala-Network)  
 Documentations and wiki for Phala Network  
 [https://github.com/Phala-Network/phala-docs](https://github.com/Phala-Network/phala-docs)  
-0.28 stars per week over 81 weeks  
+0.27 stars per week over 84 weeks  
 23 stars, 6 forks, 3 watches  
 created 2020-03-12, last commit 2020-12-28, main language None  
 
@@ -25,16 +25,16 @@ created 2020-03-12, last commit 2020-12-28, main language None
 ### [runtime-bridge](https://github.com/Phala-Network/runtime-bridge) by [Phala-Network](https://github.com/Phala-Network)  
   
 [https://github.com/Phala-Network/runtime-bridge](https://github.com/Phala-Network/runtime-bridge)  
-0.46 stars per week over 41 weeks  
-19 stars, 22 forks, 8 watches  
-created 2020-12-21, last commit 2021-10-03, main language JavaScript  
+0.44 stars per week over 43 weeks  
+19 stars, 23 forks, 8 watches  
+created 2020-12-21, last commit 2021-10-12, main language JavaScript  
 
 
 ### [apps-ng](https://github.com/Phala-Network/apps-ng) by [Phala-Network](https://github.com/Phala-Network)  
 Yet another UI for Phala Network.  
 [https://app.phala.network](https://app.phala.network)  
 [https://github.com/Phala-Network/apps-ng](https://github.com/Phala-Network/apps-ng)  
-0.29 stars per week over 63 weeks  
+0.28 stars per week over 65 weeks  
 18 stars, 30 forks, 12 watches  
 created 2020-07-21, last commit 2021-04-06, main language JavaScript  
 
@@ -42,11 +42,11 @@ created 2020-07-21, last commit 2021-04-06, main language JavaScript
 ### [solo-mining-scripts](https://github.com/Phala-Network/solo-mining-scripts) by [Phala-Network](https://github.com/Phala-Network)  
   
 [https://github.com/Phala-Network/solo-mining-scripts](https://github.com/Phala-Network/solo-mining-scripts)  
-0.28 stars per week over 40 weeks  
-11 stars, 12 forks, 11 watches  
-created 2020-12-29, last commit 2021-09-26, main language Shell  
+0.26 stars per week over 42 weeks  
+11 stars, 12 forks, 10 watches  
+created 2020-12-29, last commit 2021-10-14, main language Shell  
 
 
-This file was automatically generated on 2021-10-05.  
+This file was automatically generated on 2021-10-22.  
 
 To curate your own github list, simply clone and change the input csv file.  

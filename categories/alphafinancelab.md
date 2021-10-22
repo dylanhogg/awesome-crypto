@@ -8,35 +8,35 @@ Checkout the interactive version that you can filter and sort:
 ### [alpha-homora-v1-eth-contract](https://github.com/AlphaFinanceLab/alpha-homora-v1-eth-contract) by [AlphaFinanceLab](https://github.com/AlphaFinanceLab)  
   
 [https://github.com/AlphaFinanceLab/alpha-homora-v1-eth-contract](https://github.com/AlphaFinanceLab/alpha-homora-v1-eth-contract)  
-0.95 stars per week over 53 weeks  
-51 stars, 28 forks, 8 watches  
+0.95 stars per week over 55 weeks  
+53 stars, 28 forks, 8 watches  
 created 2020-09-26, last commit 2021-04-26, main language Solidity  
 
 
 ### [alpha-homora-v2-contract](https://github.com/AlphaFinanceLab/alpha-homora-v2-contract) by [AlphaFinanceLab](https://github.com/AlphaFinanceLab)  
   
 [https://github.com/AlphaFinanceLab/alpha-homora-v2-contract](https://github.com/AlphaFinanceLab/alpha-homora-v2-contract)  
-0.57 stars per week over 45 weeks  
-26 stars, 13 forks, 4 watches  
+0.54 stars per week over 48 weeks  
+26 stars, 14 forks, 4 watches  
 created 2020-11-20, last commit 2021-05-10, main language Python  
 
 
 ### [alpha-lending-smart-contract](https://github.com/AlphaFinanceLab/alpha-lending-smart-contract) by [AlphaFinanceLab](https://github.com/AlphaFinanceLab)  
   
 [https://github.com/AlphaFinanceLab/alpha-lending-smart-contract](https://github.com/AlphaFinanceLab/alpha-lending-smart-contract)  
-0.29 stars per week over 55 weeks  
-16 stars, 20 forks, 3 watches  
+0.29 stars per week over 58 weeks  
+17 stars, 20 forks, 3 watches  
 created 2020-09-09, last commit 2020-10-22, main language JavaScript  
 
 
 ### [alpha-homora-v1-bsc-contract](https://github.com/AlphaFinanceLab/alpha-homora-v1-bsc-contract) by [AlphaFinanceLab](https://github.com/AlphaFinanceLab)  
   
 [https://github.com/AlphaFinanceLab/alpha-homora-v1-bsc-contract](https://github.com/AlphaFinanceLab/alpha-homora-v1-bsc-contract)  
-0.4 stars per week over 32 weeks  
-13 stars, 6 forks, 3 watches  
+0.38 stars per week over 34 weeks  
+13 stars, 7 forks, 3 watches  
 created 2021-02-22, last commit 2021-07-09, main language Solidity  
 
 
-This file was automatically generated on 2021-10-05.  
+This file was automatically generated on 2021-10-22.  
 
 To curate your own github list, simply clone and change the input csv file.  

@@ -8,9 +8,9 @@ Checkout the interactive version that you can filter and sort:
 ### [sdk-go](https://github.com/InjectiveLabs/sdk-go) by [InjectiveLabs](https://github.com/InjectiveLabs)  
 Tools to work with the Injective Chain, Injective EVM and EIP712.  
 [https://github.com/InjectiveLabs/sdk-go](https://github.com/InjectiveLabs/sdk-go)  
-0.19 stars per week over 88 weeks  
-17 stars, 2 forks, 5 watches  
-created 2020-01-25, last commit 2021-09-27, main language Go  
+0.2 stars per week over 90 weeks  
+18 stars, 2 forks, 5 watches  
+created 2020-01-25, last commit 2021-10-22, main language Go  
 <sub><sup>eip712, ethereum, evm, wrappers</sup></sub>
 
 
@@ -18,11 +18,11 @@ created 2020-01-25, last commit 2021-09-27, main language Go
 :globe_with_meridians: :electric_plug: The MetaMask browser extension enables browsing Ethereum blockchain enabled websites  
 [https://metamask.io](https://metamask.io)  
 [https://github.com/InjectiveLabs/metamask-extension](https://github.com/InjectiveLabs/metamask-extension)  
-0.33 stars per week over 33 weeks  
-11 stars, 2 forks, 1 watches  
+0.36 stars per week over 36 weeks  
+13 stars, 2 forks, 1 watches  
 created 2021-02-11, last commit 2021-06-05, main language JavaScript  
 
 
-This file was automatically generated on 2021-10-05.  
+This file was automatically generated on 2021-10-22.  
 
 To curate your own github list, simply clone and change the input csv file.  
