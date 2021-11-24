@@ -38,10 +38,8 @@ TODO: WIP: Clear /_coingeko folder to skip cache of market data on Organisation 
 make run
 
 2) Run locally to view changes
-Edit client/app/app.js references for ajax data to local test URL
 cd client; make copy-data-local-app; make serve-local-app
 Visit localhost:8004
-Revert client/app/app.js references to full URL for ajax data
 
 3) Commit `/categories` and `/api_data` folders to github
 

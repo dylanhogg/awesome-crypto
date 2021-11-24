@@ -24,7 +24,7 @@ black:
 
 ## Serve local client
 serve-local-client:
-	cd client/app; python3 -m http.server 8002
+	cd client/app; python3 -m http.server 8004
 
 ## AWS S3 cp client app to S3
 s3-deploy-app:
