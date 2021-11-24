@@ -8,8 +8,8 @@ Checkout the interactive version that you can filter and sort:
 ### [graviton](https://github.com/deroproject/graviton) by [deroproject](https://github.com/deroproject)  
 Graviton Database: ZFS for key-value stores.  
 [https://github.com/deroproject/graviton](https://github.com/deroproject/graviton)  
-6.81 stars per week over 59 weeks  
-402 stars, 16 forks, 18 watches  
+6.31 stars per week over 63 weeks  
+403 stars, 16 forks, 18 watches  
 created 2020-09-04, last commit 2020-12-18, main language Go  
 
 
@@ -17,64 +17,64 @@ created 2020-09-04, last commit 2020-12-18, main language Go
 DERO: Secure, Anonymous Blockchain with Smart Contracts.  Subscribe to Dero announcements by sending mail to lists@dero.io with subject: subscribe announcements  
 [http://wiki.dero.io](http://wiki.dero.io)  
 [https://github.com/deroproject/derosuite](https://github.com/deroproject/derosuite)  
-1.25 stars per week over 196 weeks  
-245 stars, 88 forks, 49 watches  
+1.27 stars per week over 201 weeks  
+255 stars, 90 forks, 50 watches  
 created 2018-01-18, last commit 2020-11-22, main language Go  
 <sub><sup>blockchain, crypto, cryptonote, dero, go, golang, privacy, protocol</sup></sub>
+
+
+### [derohe](https://github.com/deroproject/derohe) by [deroproject](https://github.com/deroproject)  
+DERO Homomorphic Encryption Blockchain Protocol  
+[https://github.com/deroproject/derohe](https://github.com/deroproject/derohe)  
+0.88 stars per week over 48 weeks  
+43 stars, 8 forks, 15 watches  
+created 2020-12-19, last commit 2021-11-24, main language Go  
 
 
 ### [dero](https://github.com/deroproject/dero) by [deroproject](https://github.com/deroproject)  
 DERO: Secure, Private Blockchain with Smart Contracts.  
 [https://forum.dero.io](https://forum.dero.io)  
 [https://github.com/deroproject/dero](https://github.com/deroproject/dero)  
-0.2 stars per week over 202 weeks  
-40 stars, 15 forks, 16 watches  
+0.2 stars per week over 207 weeks  
+41 stars, 15 forks, 16 watches  
 created 2017-12-06, last commit 2018-04-12, main language C++  
-
-
-### [derohe](https://github.com/deroproject/derohe) by [deroproject](https://github.com/deroproject)  
-DERO Homomorphic Encryption Blockchain Protocol  
-[https://github.com/deroproject/derohe](https://github.com/deroproject/derohe)  
-0.91 stars per week over 43 weeks  
-40 stars, 7 forks, 14 watches  
-created 2020-12-19, last commit 2021-08-08, main language Go  
 
 
 ### [astrobwt](https://github.com/deroproject/astrobwt) by [deroproject](https://github.com/deroproject)  
 ASIC/FPGA/GPU resistant CPU mining algorithm.  
 [http://dero.io](http://dero.io)  
 [https://github.com/deroproject/astrobwt](https://github.com/deroproject/astrobwt)  
-0.27 stars per week over 91 weeks  
-25 stars, 4 forks, 1 watches  
+0.3 stars per week over 96 weeks  
+29 stars, 4 forks, 2 watches  
 created 2020-01-22, last commit 2021-06-30, main language Go  
 
 
 ### [documentation](https://github.com/deroproject/documentation) by [deroproject](https://github.com/deroproject)  
 Documentation, Guides, Whitepapers  
-[https://forum.dero.io/](https://forum.dero.io/)  
+[https://forum.dero.io](https://forum.dero.io)  
 [https://github.com/deroproject/documentation](https://github.com/deroproject/documentation)  
-0.08 stars per week over 193 weeks  
-15 stars, 10 forks, 5 watches  
-created 2018-02-04, last commit 2020-11-23, main language None  
+0.08 stars per week over 198 weeks  
+16 stars, 10 forks, 6 watches  
+created 2018-02-04, last commit 2021-11-23, main language Shell  
 <sub><sup>blockchain, crypto, cryptonote, dero, golang</sup></sub>
 
 
 ### [wiki](https://github.com/deroproject/wiki) by [deroproject](https://github.com/deroproject)  
 Dero wiki for commands, tutorials, guides.  
 [https://github.com/deroproject/wiki](https://github.com/deroproject/wiki)  
-0.06 stars per week over 183 weeks  
-11 stars, 4 forks, 3 watches  
+0.07 stars per week over 188 weeks  
+13 stars, 4 forks, 3 watches  
 created 2018-04-15, last commit 2018-12-22, main language None  
 
 
 ### [dero_gui_wallet](https://github.com/deroproject/dero_gui_wallet) by [deroproject](https://github.com/deroproject)  
 DERO GUI wallet in Golang with QT bindings.  
 [https://github.com/deroproject/dero_gui_wallet](https://github.com/deroproject/dero_gui_wallet)  
-0.06 stars per week over 167 weeks  
+0.06 stars per week over 172 weeks  
 10 stars, 12 forks, 6 watches  
 created 2018-08-04, last commit 2018-08-05, main language QML  
 
 
-This file was automatically generated on 2021-10-22.  
+This file was automatically generated on 2021-11-25.  
 
 To curate your own github list, simply clone and change the input csv file.  

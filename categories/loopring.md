@@ -1,15 +1,33 @@
 # Crazy Awesome Crypto
-A list of 9 [Loopring](https://github.com/Loopring) project repos ordered by stars.  
+A list of 11 [Loopring](https://github.com/Loopring) project repos ordered by stars.  
 
 Checkout the interactive version that you can filter and sort: 
 [https://awesome-crypto.infocruncher.com/](https://awesome-crypto.infocruncher.com/)  
 
 
+### [protocols](https://github.com/Loopring/protocols) by [Loopring](https://github.com/Loopring)  
+A zkRollup DEX & Payment Protocol  
+[https://loopring.org](https://loopring.org)  
+[https://github.com/Loopring/protocols](https://github.com/Loopring/protocols)  
+0.57 stars per week over 151 weeks  
+86 stars, 18 forks, 37 watches  
+created 2018-12-29, last commit 2021-09-07, main language Solidity  
+<sub><sup>blockchain, dex, loopring, lrc, oedax, smartwallet, zero-knowledge, zkrollup, zksnarks</sup></sub>
+
+
+### [loopring_sdk](https://github.com/Loopring/loopring_sdk) by [Loopring](https://github.com/Loopring)  
+  
+[https://github.com/Loopring/loopring_sdk](https://github.com/Loopring/loopring_sdk)  
+3.65 stars per week over 22 weeks  
+83 stars, 10 forks, 47 watches  
+created 2021-06-19, last commit 2021-11-24, main language TypeScript  
+
+
 ### [dexwebapp](https://github.com/Loopring/dexwebapp) by [Loopring](https://github.com/Loopring)  
 Public repository for user feedback and bug reports  
 [https://github.com/Loopring/dexwebapp](https://github.com/Loopring/dexwebapp)  
-0.52 stars per week over 88 weeks  
-46 stars, 34 forks, 23 watches  
+0.53 stars per week over 93 weeks  
+49 stars, 35 forks, 24 watches  
 created 2020-02-11, last commit 2021-04-01, main language JavaScript  
 
 
@@ -17,17 +35,25 @@ created 2020-02-11, last commit 2021-04-01, main language JavaScript
 This is the whitepaper for Loopring protocol 1.0, 1.5, and 2.0.  
 [https://loopring.org](https://loopring.org)  
 [https://github.com/Loopring/whitepaper](https://github.com/Loopring/whitepaper)  
-0.16 stars per week over 226 weeks  
-37 stars, 44 forks, 29 watches  
+0.19 stars per week over 231 weeks  
+43 stars, 46 forks, 28 watches  
 created 2017-06-22, last commit 2018-09-09, main language TeX  
+
+
+### [awesome-loopring](https://github.com/Loopring/awesome-loopring) by [Loopring](https://github.com/Loopring)  
+A curated list of awesome things built on Loopring.  
+[https://github.com/Loopring/awesome-loopring](https://github.com/Loopring/awesome-loopring)  
+0.6 stars per week over 63 weeks  
+38 stars, 3 forks, 14 watches  
+created 2020-09-07, last commit 2021-10-07, main language None  
 
 
 ### [protocol3-circuits](https://github.com/Loopring/protocol3-circuits) by [Loopring](https://github.com/Loopring)  
 ZKP Circuits code for Loopring Protocol 3.0  
 [https://loopring.org/#/protocol](https://loopring.org/#/protocol)  
 [https://github.com/Loopring/protocol3-circuits](https://github.com/Loopring/protocol3-circuits)  
-0.27 stars per week over 123 weeks  
-33 stars, 6 forks, 18 watches  
+0.28 stars per week over 127 weeks  
+36 stars, 7 forks, 19 watches  
 created 2019-06-14, last commit 2020-05-05, main language C++  
 
 
@@ -35,34 +61,24 @@ created 2019-06-14, last commit 2020-05-05, main language C++
 Hummingbot: a client for crypto market making  
 [https://www.hummingbot.io/](https://www.hummingbot.io/)  
 [https://github.com/Loopring/hummingbot](https://github.com/Loopring/hummingbot)  
-0.47 stars per week over 67 weeks  
-32 stars, 6 forks, 4 watches  
+0.46 stars per week over 72 weeks  
+33 stars, 6 forks, 5 watches  
 created 2020-07-07, last commit 2021-02-09, main language Python  
 
 
-### [awesome-loopring](https://github.com/Loopring/awesome-loopring) by [Loopring](https://github.com/Loopring)  
-A curated list of awesome things built on Loopring.  
-[https://github.com/Loopring/awesome-loopring](https://github.com/Loopring/awesome-loopring)  
-0.48 stars per week over 58 weeks  
-28 stars, 3 forks, 9 watches  
-created 2020-09-07, last commit 2021-10-07, main language None  
-
-
-### [protocols](https://github.com/Loopring/protocols) by [Loopring](https://github.com/Loopring)  
-A zkRollup DEX & Payment Protocol  
-[https://loopring.org](https://loopring.org)  
-[https://github.com/Loopring/protocols](https://github.com/Loopring/protocols)  
-0.19 stars per week over 146 weeks  
-28 stars, 6 forks, 15 watches  
-created 2018-12-29, last commit 2021-10-21, main language Solidity  
-<sub><sup>blockchain, dex, loopring, lrc, oedax, smartwallet, zero-knowledge, zkrollup, zksnarks</sup></sub>
+### [hello_loopring](https://github.com/Loopring/hello_loopring) by [Loopring](https://github.com/Loopring)  
+hello_loopring  
+[https://github.com/Loopring/hello_loopring](https://github.com/Loopring/hello_loopring)  
+0.23 stars per week over 86 weeks  
+20 stars, 12 forks, 7 watches  
+created 2020-04-02, last commit 2021-09-23, main language Python  
 
 
 ### [vnpy](https://github.com/Loopring/vnpy) by [Loopring](https://github.com/Loopring)  
 基于Python的开源量化交易平台开发框架  
 [http://www.vnpy.com](http://www.vnpy.com)  
 [https://github.com/Loopring/vnpy](https://github.com/Loopring/vnpy)  
-0.27 stars per week over 67 weeks  
+0.25 stars per week over 72 weeks  
 18 stars, 5 forks, 2 watches  
 created 2020-07-08, last commit 2021-09-06, main language Python  
 
@@ -70,19 +86,19 @@ created 2020-07-08, last commit 2021-09-06, main language Python
 ### [loopring-swap](https://github.com/Loopring/loopring-swap) by [Loopring](https://github.com/Loopring)  
 An effort to implement order-book-transparent L2 token swaps powered by the Loopring protocol.  
 [https://github.com/Loopring/loopring-swap](https://github.com/Loopring/loopring-swap)  
-0.28 stars per week over 61 weeks  
-17 stars, 8 forks, 1 watches  
+0.26 stars per week over 66 weeks  
+17 stars, 9 forks, 2 watches  
 created 2020-08-20, last commit 2020-09-25, main language JavaScript  
 
 
-### [hello_loopring](https://github.com/Loopring/hello_loopring) by [Loopring](https://github.com/Loopring)  
-hello_loopring  
-[https://github.com/Loopring/hello_loopring](https://github.com/Loopring/hello_loopring)  
-0.2 stars per week over 81 weeks  
-16 stars, 9 forks, 6 watches  
-created 2020-04-02, last commit 2021-09-23, main language Python  
+### [eddsa-metamask-plugin](https://github.com/Loopring/eddsa-metamask-plugin) by [Loopring](https://github.com/Loopring)  
+  
+[https://github.com/Loopring/eddsa-metamask-plugin](https://github.com/Loopring/eddsa-metamask-plugin)  
+0.1 stars per week over 96 weeks  
+10 stars, 2 forks, 10 watches  
+created 2020-01-21, last commit 2021-11-17, main language JavaScript  
 
 
-This file was automatically generated on 2021-10-22.  
+This file was automatically generated on 2021-11-25.  
 
 To curate your own github list, simply clone and change the input csv file.  

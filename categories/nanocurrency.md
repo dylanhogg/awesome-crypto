@@ -9,9 +9,9 @@ Checkout the interactive version that you can filter and sort:
 Nano is a cryptocurrency  
 [https://nano.org](https://nano.org)  
 [https://github.com/nanocurrency/nano-node](https://github.com/nanocurrency/nano-node)  
-8.45 stars per week over 390 weeks  
-3,296 stars, 744 forks, 276 watches  
-created 2014-05-01, last commit 2021-10-21, main language C++  
+8.41 stars per week over 395 weeks  
+3,320 stars, 754 forks, 273 watches  
+created 2014-05-01, last commit 2021-11-24, main language C++  
 <sub><sup>blockchain, cryptocurrencies, cryptocurrency, nano, nanocurrency</sup></sub>
 
 
@@ -19,32 +19,32 @@ created 2014-05-01, last commit 2021-10-21, main language C++
 Documentation for the Nano protocol  
 [https://docs.nano.org/](https://docs.nano.org/)  
 [https://github.com/nanocurrency/nano-docs](https://github.com/nanocurrency/nano-docs)  
-0.87 stars per week over 133 weeks  
-116 stars, 95 forks, 13 watches  
-created 2019-04-03, last commit 2021-10-05, main language HTML  
+0.87 stars per week over 138 weeks  
+120 stars, 102 forks, 13 watches  
+created 2019-04-03, last commit 2021-11-24, main language HTML  
 <sub><sup>blockchain, cryptocurrencies, cryptocurrency, documentation, nano, nanocurrency</sup></sub>
 
 
 ### [nano-work-server](https://github.com/nanocurrency/nano-work-server) by [nanocurrency](https://github.com/nanocurrency)  
 A dedicated work server for the Nano cryptocurrency  
 [https://github.com/nanocurrency/nano-work-server](https://github.com/nanocurrency/nano-work-server)  
-0.34 stars per week over 180 weeks  
-62 stars, 37 forks, 18 watches  
+0.35 stars per week over 185 weeks  
+64 stars, 37 forks, 18 watches  
 created 2018-05-07, last commit 2021-07-21, main language Rust  
 
 
 ### [protocol](https://github.com/nanocurrency/protocol) by [nanocurrency](https://github.com/nanocurrency)  
 Implementation independent content related to the Nano protocol  
 [https://github.com/nanocurrency/protocol](https://github.com/nanocurrency/protocol)  
-0.2 stars per week over 159 weeks  
+0.2 stars per week over 164 weeks  
 32 stars, 9 forks, 17 watches  
-created 2018-10-04, last commit 2021-05-12, main language Kaitai Struct  
+created 2018-10-04, last commit 2021-11-23, main language Kaitai Struct  
 
 
 ### [nano-pow](https://github.com/nanocurrency/nano-pow) by [nanocurrency](https://github.com/nanocurrency)  
 A simple, memory hard, Proof-of-Work scheme  
 [https://github.com/nanocurrency/nano-pow](https://github.com/nanocurrency/nano-pow)  
-0.21 stars per week over 127 weeks  
+0.2 stars per week over 132 weeks  
 27 stars, 6 forks, 15 watches  
 created 2019-05-12, last commit 2019-10-08, main language C++  
 
@@ -53,8 +53,8 @@ created 2019-05-12, last commit 2019-10-08, main language C++
 Issues covering broader features and network upgrades for inclusion in the Nano public roadmap  
 [https://github.com/orgs/nanocurrency/projects/5](https://github.com/orgs/nanocurrency/projects/5)  
 [https://github.com/nanocurrency/roadmap](https://github.com/nanocurrency/roadmap)  
-0.38 stars per week over 55 weeks  
-21 stars, 2 forks, 12 watches  
+0.37 stars per week over 59 weeks  
+22 stars, 2 forks, 13 watches  
 created 2020-10-02, last commit 2021-10-04, main language None  
 
 
@@ -62,7 +62,7 @@ created 2020-10-02, last commit 2021-10-04, main language None
 Whitepaper for Nano digital currency (out of date, last updated Nov 2017)  
 [https://nano.org/whitepaper/en](https://nano.org/whitepaper/en)  
 [https://github.com/nanocurrency/nano-whitepaper](https://github.com/nanocurrency/nano-whitepaper)  
-0.07 stars per week over 135 weeks  
+0.07 stars per week over 140 weeks  
 10 stars, 4 forks, 13 watches  
 created 2019-03-18, last commit 2021-02-03, main language TeX  
 <sub><sup>blockchain, cryptocurrencies, cryptocurrency, nano, nanocurrency</sup></sub>
@@ -71,11 +71,11 @@ created 2019-03-18, last commit 2021-02-03, main language TeX
 ### [nano-pow-server](https://github.com/nanocurrency/nano-pow-server) by [nanocurrency](https://github.com/nanocurrency)  
 Standalone work server for nano-pow (work in progress, currently returns mock data)  
 [https://github.com/nanocurrency/nano-pow-server](https://github.com/nanocurrency/nano-pow-server)  
-0.09 stars per week over 111 weeks  
+0.09 stars per week over 116 weeks  
 10 stars, 4 forks, 9 watches  
 created 2019-09-05, last commit 2020-06-15, main language C++  
 
 
-This file was automatically generated on 2021-10-22.  
+This file was automatically generated on 2021-11-25.  
 
 To curate your own github list, simply clone and change the input csv file.  

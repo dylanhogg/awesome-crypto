@@ -1,5 +1,5 @@
 # Crazy Awesome Crypto
-A list of 4 [dappnode](https://github.com/dappnode) project repos ordered by stars.  
+A list of 6 [dappnode](https://github.com/dappnode) project repos ordered by stars.  
 
 Checkout the interactive version that you can filter and sort: 
 [https://awesome-crypto.infocruncher.com/](https://awesome-crypto.infocruncher.com/)  
@@ -8,37 +8,54 @@ Checkout the interactive version that you can filter and sort:
 ### [DAppNode](https://github.com/dappnode/DAppNode) by [dappnode](https://github.com/dappnode)  
 General repository of the project dappnode  
 [https://github.com/dappnode/DAppNode](https://github.com/dappnode/DAppNode)  
-1.95 stars per week over 190 weeks  
-372 stars, 42 forks, 43 watches  
-created 2018-02-27, last commit 2021-09-01, main language Shell  
+1.94 stars per week over 195 weeks  
+379 stars, 44 forks, 43 watches  
+created 2018-02-27, last commit 2021-11-11, main language Shell  
 
 
 ### [DAppNodeSDK](https://github.com/dappnode/DAppNodeSDK) by [dappnode](https://github.com/dappnode)  
 dappnodesdk is a tool to mantain dappnode packages. It helps to initialize and publish an Aragon Package Manager Repository  
 [https://github.com/dappnode/DAppNodeSDK](https://github.com/dappnode/DAppNodeSDK)  
-0.15 stars per week over 161 weeks  
-25 stars, 12 forks, 8 watches  
+0.16 stars per week over 166 weeks  
+26 stars, 13 forks, 8 watches  
 created 2018-09-15, last commit 2021-08-27, main language TypeScript  
 
 
 ### [DNP_DAPPMANAGER](https://github.com/dappnode/DNP_DAPPMANAGER) by [dappnode](https://github.com/dappnode)  
 DAppNode package responsible for providing the DAppNode Package Manager  
 [https://github.com/dappnode/DNP_DAPPMANAGER](https://github.com/dappnode/DNP_DAPPMANAGER)  
-0.06 stars per week over 188 weeks  
-11 stars, 17 forks, 9 watches  
-created 2018-03-13, last commit 2021-10-18, main language TypeScript  
+0.06 stars per week over 193 weeks  
+12 stars, 18 forks, 9 watches  
+created 2018-03-13, last commit 2021-11-23, main language TypeScript  
 <sub><sup>dapp, dappnode, ethereum</sup></sub>
+
+
+### [DAppNodeDocs](https://github.com/dappnode/DAppNodeDocs) by [dappnode](https://github.com/dappnode)  
+DAppNode documentation  
+[https://docs.dappnode.io](https://docs.dappnode.io)  
+[https://github.com/dappnode/DAppNodeDocs](https://github.com/dappnode/DAppNodeDocs)  
+0.07 stars per week over 148 weeks  
+11 stars, 15 forks, 9 watches  
+created 2019-01-23, last commit 2021-11-23, main language JavaScript  
 
 
 ### [DDDNS](https://github.com/dappnode/DDDNS) by [dappnode](https://github.com/dappnode)  
 Decentralized Dynamic Domain Name Service  
 [https://github.com/dappnode/DDDNS](https://github.com/dappnode/DDDNS)  
-0.11 stars per week over 91 weeks  
+0.1 stars per week over 95 weeks  
 10 stars, 3 forks, 4 watches  
 created 2020-01-24, last commit 2020-04-21, main language Go  
 <sub><sup>dns, dyndns, libp2p</sup></sub>
 
 
-This file was automatically generated on 2021-10-22.  
+### [DAppNode_Installer](https://github.com/dappnode/DAppNode_Installer) by [dappnode](https://github.com/dappnode)  
+Repo for providing the instructions to generate a new ISO or the installations scripts of DappNode   
+[https://github.com/dappnode/DAppNode_Installer](https://github.com/dappnode/DAppNode_Installer)  
+0.05 stars per week over 193 weeks  
+10 stars, 19 forks, 9 watches  
+created 2018-03-13, last commit 2021-07-06, main language Shell  
+
+
+This file was automatically generated on 2021-11-25.  
 
 To curate your own github list, simply clone and change the input csv file.  

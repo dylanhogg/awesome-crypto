@@ -8,11 +8,11 @@ Checkout the interactive version that you can filter and sort:
 ### [ico](https://github.com/telcoin/ico) by [telcoin](https://github.com/telcoin)  
   
 [https://github.com/telcoin/ico](https://github.com/telcoin/ico)  
-0.05 stars per week over 211 weeks  
+0.05 stars per week over 215 weeks  
 11 stars, 3 forks, 7 watches  
 created 2017-10-06, last commit 2018-01-08, main language JavaScript  
 
 
-This file was automatically generated on 2021-10-22.  
+This file was automatically generated on 2021-11-25.  
 
 To curate your own github list, simply clone and change the input csv file.  

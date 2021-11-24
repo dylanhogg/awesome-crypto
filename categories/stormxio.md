@@ -8,12 +8,12 @@ Checkout the interactive version that you can filter and sort:
 ### [crowdsale](https://github.com/stormxio/crowdsale) by [stormxio](https://github.com/stormxio)  
 StormX crowdsale  
 [https://github.com/stormxio/crowdsale](https://github.com/stormxio/crowdsale)  
-0.07 stars per week over 211 weeks  
+0.06 stars per week over 216 weeks  
 14 stars, 9 forks, 11 watches  
 created 2017-10-01, last commit 2017-12-05, main language JavaScript  
 <sub><sup>crowdsale, smartcontract, solidity</sup></sub>
 
 
-This file was automatically generated on 2021-10-22.  
+This file was automatically generated on 2021-11-25.  
 
 To curate your own github list, simply clone and change the input csv file.  
