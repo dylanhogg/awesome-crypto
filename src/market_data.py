@@ -1,7 +1,9 @@
+import os
 import json
 import time
 import datetime
 import os.path
+from pathlib import Path
 from loguru import logger
 from pycoingecko import CoinGeckoAPI
 
@@ -12,6 +14,7 @@ def _get_coins_list(use_cache=True, filename="_coingecko/coins_list.json"):
     cg = CoinGeckoAPI()
 
     if use_cache and os.path.isfile(filename):
+        logger.info(f"Loading from cache: {filename}")
         with open(filename) as f:
             return json.load(f)
 
@@ -20,6 +23,8 @@ def _get_coins_list(use_cache=True, filename="_coingecko/coins_list.json"):
     for coin in coins:
         coin["_crawl_datetime"] = crawl_date
 
+    folder = os.path.dirname(filename)
+    Path(folder).mkdir(parents=True, exist_ok=True)
     coin_json = json.dumps(coins, indent=4)
     with open(filename, "w") as f:
         f.write(coin_json)
@@ -69,6 +74,9 @@ def get_marketcap_by_cg_id(cg_id, currency="usd"):
 
 
 def get_coins_by_symbol(symbol, currency="usd"):
+    if not isinstance(symbol, str):
+        return None
+
     coins = []
     for coin in _get_coins_list():
         if coin["symbol"].lower() == symbol.lower():
@@ -80,15 +88,16 @@ def get_coins_by_symbol(symbol, currency="usd"):
                 coin["market_cap_datetime"] = crawl_datetime
                 coins.append(coin)
 
-    best_coin = None
-    for coin in coins:
-        if best_coin is None:
-            best_coin = coin
-        else:
-            if coin["market_cap_rank"] < best_coin["market_cap_rank"]:
-                best_coin = coin
+    if len(coins) == 0:
+        logger.error(f"get_coins_by_symbol couldn't get coin by symbol '{symbol}'")
+        return None
 
-    return best_coin, coins
+    best_coin = coins[0]
+    for coin in coins:
+        if coin["market_cap_rank"] < best_coin["market_cap_rank"]:
+            best_coin = coin
+
+    return best_coin
 
 
 def get_coins_by_symbols(symbols, currency="usd"):
@@ -97,3 +106,55 @@ def get_coins_by_symbols(symbols, currency="usd"):
         best_coin, coins = get_coins_by_symbol(symbol, currency)
         results.append(best_coin)
     return results
+
+
+# Methods testing coingeko api:
+
+def get_global(use_cache=True, filename="_coingecko/global.json"):
+    # https://api.coingecko.com/api/v3/global
+    cg = CoinGeckoAPI()
+
+    if use_cache and os.path.isfile(filename):
+        logger.info(f"Loading from cache: {filename}")
+        with open(filename) as f:
+            return json.load(f)
+
+    crawl_date = str(datetime.datetime.now())
+    response = cg.get_global()
+    response["_crawl_datetime"] = crawl_date
+
+    response_json = json.dumps(response, indent=4)
+    with open(filename, "w") as f:
+        f.write(response_json)
+
+    return response
+
+
+def get_prices(ids, use_cache=False, filename="_coingecko/_prices.json"):
+    # https://api.coingecko.com/api/v3/simple/price?ids=ethereum%2Cbitcoin&vs_currencies=usd&include_market_cap=true&include_24hr_vol=true&include_24hr_change=true&include_last_updated_at=true
+    cg = CoinGeckoAPI()
+
+    if use_cache and os.path.isfile(filename):
+        logger.info(f"Loading from cache: {filename}")
+        with open(filename) as f:
+            return json.load(f)
+
+    crawl_date = str(datetime.datetime.now())
+    prices = cg.get_price(ids,
+                          vs_currencies='usd', include_market_cap='true', include_24hr_vol='true',
+                          include_24hr_change='true', include_last_updated_at='true')
+
+    if len(prices) != len(ids):
+        logger.warning(f"get_prices only matched {len(prices)} of {len(ids)} requested ids")
+    else:
+        logger.info(f"get_prices matched all {len(prices)} of {len(ids)} requested ids")
+
+    for coin in prices:
+        prices[coin]["_crawl_datetime"] = crawl_date
+
+    price_json = json.dumps(prices, indent=4)
+    with open(filename, "w") as f:
+        f.write(price_json)
+
+    return prices
+

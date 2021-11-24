@@ -77,9 +77,9 @@ def write_agg_data(in_repo_filename, in_ticker_filename, output_org_csv_filename
     df_results = pd.merge(df, df_ticker, on='org', how='left').drop(columns=["ticker_count"])
 
     # TODO: This market_cap addition is very hacky, fix me up
-    df_results["market_cap_usd_mil"] = df_results["ticker"].apply(lambda x: "" if not isinstance(x, str) else market_data.get_coins_by_symbol(x, "usd")[0]["market_cap"]/1e6)
-    df_results["market_cap_rank"] = df_results["ticker"].apply(lambda x: "" if not isinstance(x, str) else market_data.get_coins_by_symbol(x, "usd")[0]["market_cap_rank"])
-    df_results["market_cap_datetime"] = df_results["ticker"].apply(lambda x: "" if not isinstance(x, str) else market_data.get_coins_by_symbol(x, "usd")[0]["market_cap_datetime"])
+    df_results["market_cap_usd_mil"] = df_results["ticker"].apply(lambda x: "" if market_data.get_coins_by_symbol(x, "usd") is None else market_data.get_coins_by_symbol(x, "usd")["market_cap"]/1e6)
+    df_results["market_cap_rank"] = df_results["ticker"].apply(lambda x: "" if market_data.get_coins_by_symbol(x, "usd") is None else market_data.get_coins_by_symbol(x, "usd")["market_cap_rank"])
+    df_results["market_cap_datetime"] = df_results["ticker"].apply(lambda x: "" if market_data.get_coins_by_symbol(x, "usd") is None else market_data.get_coins_by_symbol(x, "usd")["market_cap_datetime"])
 
     # Write to files
     df_results.to_csv(output_org_csv_filename)

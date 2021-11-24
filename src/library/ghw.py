@@ -28,12 +28,12 @@ class GithubWrapper:
             try:
                 self.cache[key] = self.gh.get_repo(name)
             except Exception as ex:
-                logger.warning(f"Exception for name (will re-try once): {name}")
+                logger.warning(f"Exception for get_repo with name (will re-try once): {name}")
                 try:
-                    time.sleep(15)
+                    time.sleep(30)
                     self.cache[key] = self.gh.get_repo(name)
                 except Exception as ex:
-                    logger.error(f"Exception for name: {name}")
+                    logger.error(f"Exception for get_repo with name: {name}")
                     raise ex
             return self.cache[key]
         else:
@@ -45,11 +45,32 @@ class GithubWrapper:
         logger.debug(f"get_org_repos: {name}")
         if throttled:
             time.sleep(self.throttle_secs)
-        org = self.gh.get_organization(name)
-        repos = []
-        for repo in org.get_repos():
-            repos.append(repo)
-        return repos
+
+        try:
+            org = self.gh.get_organization(name)
+        except Exception as ex:
+            logger.warning(f"Exception for get_org_repos with name (will re-try once): {name}")
+            try:
+                time.sleep(30)
+                org = self.gh.get_organization(name)
+            except Exception as ex:
+                logger.error(f"Exception for get_org_repos with name: {name}")
+                raise ex
+        try:
+            repos = org.get_repos()
+        except Exception as ex:
+            logger.warning(f"Exception for get_repos with name (will re-try once): {name}")
+            try:
+                time.sleep(30)
+                repos = org.get_repos()
+            except Exception as ex:
+                logger.error(f"Exception for get_repos with name: {name}")
+                raise ex
+
+        result_repos = []
+        for repo in repos:
+            result_repos.append(repo)
+        return result_repos
 
     def get_organization(self, name, throttled=True) -> github.Organization.Organization:
         logger.debug(f"get_organization: {name}")
