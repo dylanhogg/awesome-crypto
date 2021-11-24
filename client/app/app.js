@@ -9,11 +9,19 @@ function dateDiffInWeeks(a, b) {
 }
 
 $(document).ready( function () {
+    var ajax_url_orgs = 'https://crazy-awesome-crypto-api.infocruncher.com/github_data_org.json';
+    var ajax_url_repos = 'https://crazy-awesome-crypto-api.infocruncher.com/github_data.min.json';
+
+    if (location.hostname === "localhost" || location.hostname === "127.0.0.1") {
+        // Use local testing json data
+        ajax_url_orgs = '/github_data_org.json';
+        ajax_url_repos = '/github_data.json';
+    }
+
     // Github orgainisation table
     $("#org-table").DataTable( {
         ajax: {
-            // url: '/github_data_org.json',  // Local testing
-            url: 'https://crazy-awesome-crypto-api.infocruncher.com/github_data_org.json',
+            url: ajax_url_orgs,
             dataSrc: 'data'
         },
         initComplete: function(settings, json) {
@@ -79,13 +87,11 @@ $(document).ready( function () {
         ],
     });
 
-    // Github project repository table
+    // Github repository table
     $("#repo-table").DataTable( {
         // dom: 'iftrip',  // https://datatables.net/reference/option/dom
         ajax: {
-            // url: '/github_data.json',  // Local testing
-            url: 'https://crazy-awesome-crypto-api.infocruncher.com/github_data.min.json',
-            // url: 'https://crazy-awesome-crypto-api.infocruncher.com/github_data.json',
+            url: ajax_url_repos,
             dataSrc: 'data'
         },
         initComplete: function(settings, json) {
