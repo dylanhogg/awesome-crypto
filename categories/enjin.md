@@ -1,5 +1,5 @@
 # Crazy Awesome Crypto
-A list of 5 [enjin](https://github.com/enjin) project repos ordered by stars.  
+A list of 6 [enjin](https://github.com/enjin) project repos ordered by stars.  
 
 Checkout the interactive version that you can filter and sort: 
 [https://awesome-crypto.infocruncher.com/](https://awesome-crypto.infocruncher.com/)  
@@ -8,16 +8,16 @@ Checkout the interactive version that you can filter and sort:
 ### [erc-1155](https://github.com/enjin/erc-1155) by [enjin](https://github.com/enjin)  
 ERC-1155: Smart Contract Sample Implementation  
 [https://github.com/enjin/erc-1155](https://github.com/enjin/erc-1155)  
-1.53 stars per week over 171 weeks  
-262 stars, 140 forks, 35 watches  
+1.58 stars per week over 178 weeks  
+282 stars, 153 forks, 34 watches  
 created 2018-06-26, last commit 2020-10-04, main language Solidity  
 
 
 ### [contracts](https://github.com/enjin/contracts) by [enjin](https://github.com/enjin)  
 Enjin Coin Contracts  
 [https://github.com/enjin/contracts](https://github.com/enjin/contracts)  
-0.27 stars per week over 214 weeks  
-58 stars, 22 forks, 20 watches  
+0.28 stars per week over 222 weeks  
+63 stars, 23 forks, 21 watches  
 created 2017-08-23, last commit 2017-11-02, main language JavaScript  
 
 
@@ -25,9 +25,9 @@ created 2017-08-23, last commit 2017-11-02, main language JavaScript
 Minecraft plugin for integration with the Enjin Platform.  
 [https://enjin.io/](https://enjin.io/)  
 [https://github.com/enjin/enjincraft](https://github.com/enjin/enjincraft)  
-0.18 stars per week over 191 weeks  
-34 stars, 11 forks, 14 watches  
-created 2018-02-05, last commit 2021-05-31, main language Java  
+0.21 stars per week over 198 weeks  
+41 stars, 21 forks, 14 watches  
+created 2018-02-05, last commit 2021-10-13, main language Java  
 <sub><sup>enjin-coin-platform, enjin-platform, ethereum, gaming, minecraft, minecraft-plugin</sup></sub>
 
 
@@ -35,9 +35,9 @@ created 2018-02-05, last commit 2021-05-31, main language Java
 Enjin Platform SDK for Java.  
 [https://enjin.io/products/platform](https://enjin.io/products/platform)  
 [https://github.com/enjin/enjin-java-sdk](https://github.com/enjin/enjin-java-sdk)  
-0.12 stars per week over 204 weeks  
-24 stars, 19 forks, 15 watches  
-created 2017-11-01, last commit 2021-09-27, main language Java  
+0.14 stars per week over 212 weeks  
+29 stars, 23 forks, 15 watches  
+created 2017-11-01, last commit 2021-11-09, main language Java  
 <sub><sup>blockchain, blockchain-sdk, enjin-platform, enjin-sdk, java, nft, nfts, non-fungible-tokens, sdk, sdk-java</sup></sub>
 
 
@@ -45,12 +45,22 @@ created 2017-11-01, last commit 2021-09-27, main language Java
 Enjin Platform SDK for Godot.  
 [https://enjin.io/products/platform](https://enjin.io/products/platform)  
 [https://github.com/enjin/enjin-godot-sdk](https://github.com/enjin/enjin-godot-sdk)  
-0.12 stars per week over 188 weeks  
-22 stars, 8 forks, 7 watches  
+0.14 stars per week over 195 weeks  
+28 stars, 8 forks, 8 watches  
 created 2018-02-26, last commit 2020-11-13, main language GDScript  
 <sub><sup>blockchain, blockchain-sdk, enjin-platform, enjin-sdk, godot, nft, nfts, non-fungible-tokens, sdk, sdk-godot</sup></sub>
 
 
-This file was automatically generated on 2021-10-05.  
+### [enjin-csharp-sdk](https://github.com/enjin/enjin-csharp-sdk) by [enjin](https://github.com/enjin)  
+Enjin Platform SDK for C#.  
+[https://enjin.io/products/platform](https://enjin.io/products/platform)  
+[https://github.com/enjin/enjin-csharp-sdk](https://github.com/enjin/enjin-csharp-sdk)  
+0.16 stars per week over 94 weeks  
+15 stars, 3 forks, 6 watches  
+created 2020-02-03, last commit 2021-11-18, main language C#  
+<sub><sup>blockchain, blockchain-sdk, csharp, enjin-platform, enjin-sdk, nft, nfts, non-fungible-tokens, sdk, sdk-csharp</sup></sub>
+
+
+This file was automatically generated on 2021-11-25.  
 
 To curate your own github list, simply clone and change the input csv file.  

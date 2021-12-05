@@ -9,36 +9,36 @@ Checkout the interactive version that you can filter and sort:
 TrustToken smart contracts  
 [https://trusttoken.com](https://trusttoken.com)  
 [https://github.com/trusttoken/smart-contracts](https://github.com/trusttoken/smart-contracts)  
-1.22 stars per week over 197 weeks  
-241 stars, 86 forks, 31 watches  
-created 2017-12-26, last commit 2021-10-04, main language TypeScript  
+1.2 stars per week over 204 weeks  
+245 stars, 94 forks, 33 watches  
+created 2017-12-26, last commit 2021-11-24, main language TypeScript  
 
 
 ### [truefi-spec](https://github.com/trusttoken/truefi-spec) by [trusttoken](https://github.com/trusttoken)  
 Under-collateralized lending and defi smart contracts  
 [https://github.com/trusttoken/truefi-spec](https://github.com/trusttoken/truefi-spec)  
-0.4 stars per week over 60 weeks  
-24 stars, 9 forks, 6 watches  
-created 2020-08-09, last commit 2021-09-30, main language None  
+0.37 stars per week over 67 weeks  
+25 stars, 10 forks, 6 watches  
+created 2020-08-09, last commit 2021-10-27, main language None  
 
 
 ### [TrustToken-smart-contracts](https://github.com/trusttoken/TrustToken-smart-contracts) by [trusttoken](https://github.com/trusttoken)  
 The TrustToken smart contracts for staking on asset tokens such as TrueUSD  
 [https://github.com/trusttoken/TrustToken-smart-contracts](https://github.com/trusttoken/TrustToken-smart-contracts)  
-0.08 stars per week over 177 weeks  
-14 stars, 16 forks, 8 watches  
+0.08 stars per week over 185 weeks  
+14 stars, 17 forks, 8 watches  
 created 2018-05-09, last commit 2018-05-10, main language None  
 
 
 ### [registry](https://github.com/trusttoken/registry) by [trusttoken](https://github.com/trusttoken)  
 On-chain registry for Ethereum addresses that have passed KYC/AML or other checks  
 [https://github.com/trusttoken/registry](https://github.com/trusttoken/registry)  
-0.08 stars per week over 180 weeks  
+0.07 stars per week over 188 weeks  
 14 stars, 14 forks, 6 watches  
 created 2018-04-19, last commit 2020-03-30, main language JavaScript  
 <sub><sup>cryptocurrencies, ethereum, kyc</sup></sub>
 
 
-This file was automatically generated on 2021-10-05.  
+This file was automatically generated on 2021-11-25.  
 
 To curate your own github list, simply clone and change the input csv file.  

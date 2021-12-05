@@ -14,8 +14,8 @@ serve-local-app:
 
 ## Copy processed data to local client for testing
 copy-data-local-app: remove-data-local-app
-	cp ../github_data.json app/
-	cp ../github_data_org.json app/
+	cp ../api_data/github_data.json app/
+	cp ../api_data/github_data_org.json app/
 	cp -r ../data app/data
 
 ## Remove processed data from local client for testing
@@ -41,7 +41,7 @@ browse-s3:
 s3-deploy-app: remove-data-local-app
 	aws s3 cp app s3://${BUCKET_NAME} --recursive --profile ${AWS_PROFILE}
 	aws s3 cp ../data s3://${BUCKET_NAME}/data --recursive --profile ${AWS_PROFILE}
-	# NOTE: Remember to invalidate Cloudfront cache to materialise changes
+	# NOTE: Remember to invalidate Cloudfront cache to materialise changes: "make cf-invalidation"
 
 ## AWS S3 rm static_files from S3
 s3-delete-app:

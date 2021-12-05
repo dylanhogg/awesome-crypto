@@ -8,11 +8,11 @@ Checkout the interactive version that you can filter and sort:
 ### [governance-contracts](https://github.com/dydxfoundation/governance-contracts) by [dydxfoundation](https://github.com/dydxfoundation)  
   
 [https://github.com/dydxfoundation/governance-contracts](https://github.com/dydxfoundation/governance-contracts)  
-1.33 stars per week over 9 weeks  
-12 stars, 2 forks, 2 watches  
-created 2021-08-03, last commit 2021-09-28, main language Solidity  
+0.8 stars per week over 16 weeks  
+13 stars, 5 forks, 4 watches  
+created 2021-08-03, last commit 2021-11-16, main language Solidity  
 
 
-This file was automatically generated on 2021-10-05.  
+This file was automatically generated on 2021-11-25.  
 
 To curate your own github list, simply clone and change the input csv file.  

@@ -1,6 +1,7 @@
 .EXPORT_ALL_VARIABLES:
 AWS_PROFILE=prd-non-tf-905234897161
 BUCKET_NAME=awesome-crypto.infocruncher.com
+THROTTLE_SECS=2.0
 
 .PHONY: venv
 ## Create virtual environment
@@ -17,22 +18,21 @@ clean:
 run:
 	source venv/bin/activate ; PYTHONPATH='./src' python -m app
 
-## Deploy server json data
-s3-deploy-files:
-	cd server; make s3-deploy-files
-
 ## Run black code formatter
 black:
 	source venv/bin/activate ; black .
 
 ## Serve local client
 serve-local-client:
-	cd client/app; python3 -m http.server 8002
+	cd client/app; python3 -m http.server 8004
 
 ## AWS S3 cp client app to S3
 s3-deploy-app:
-	cd client; make s3-deploy-app
+	cd client; make s3-deploy-app; make cf-invalidation
 
+## Deploy server json data
+s3-deploy-files:
+	cd server; make s3-deploy-files; make cf-invalidation
 
 #################################################################################
 # Self Documenting Commands                                                     #

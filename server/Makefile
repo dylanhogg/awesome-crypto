@@ -14,7 +14,7 @@ s3-deploy-files:
 	aws s3 cp ../api_data/github_data.min.json s3://${BUCKET_NAME}/github_data.min.json --profile ${AWS_PROFILE}
 	aws s3 cp ../api_data/github_data_org.json s3://${BUCKET_NAME}/github_data_org.json --profile ${AWS_PROFILE}
 	aws s3 cp ../api_data/github_data.csv s3://${BUCKET_NAME}/github_data.csv --profile ${AWS_PROFILE}
-	# NOTE: Remember to invalidate Cloudfront cache to materialise changes
+	# NOTE: Remember to invalidate Cloudfront cache to materialise changes: "make cf-invalidation"
 
 ## AWS Cloudfront invalidation (limit 1000 free calls per month)
 cf-invalidation:
