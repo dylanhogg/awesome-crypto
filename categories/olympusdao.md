@@ -1,5 +1,5 @@
 # Crazy Awesome Crypto
-A list of 3 [OlympusDAO](https://github.com/OlympusDAO) project repos ordered by stars.  
+A list of 4 [OlympusDAO](https://github.com/OlympusDAO) project repos ordered by stars.  
 
 Checkout the interactive version that you can filter and sort: 
 [https://awesome-crypto.infocruncher.com/](https://awesome-crypto.infocruncher.com/)  
@@ -8,27 +8,35 @@ Checkout the interactive version that you can filter and sort:
 ### [olympus-contracts](https://github.com/OlympusDAO/olympus-contracts) by [OlympusDAO](https://github.com/OlympusDAO)  
   
 [https://github.com/OlympusDAO/olympus-contracts](https://github.com/OlympusDAO/olympus-contracts)  
-7.23 stars per week over 39 weeks  
-284 stars, 277 forks, 24 watches  
-created 2021-02-23, last commit 2021-11-11, main language Solidity  
+8.74 stars per week over 40 weeks  
+356 stars, 377 forks, 26 watches  
+created 2021-02-23, last commit 2021-12-03, main language Solidity  
 
 
 ### [olympus-frontend](https://github.com/OlympusDAO/olympus-frontend) by [OlympusDAO](https://github.com/OlympusDAO)  
   
 [https://github.com/OlympusDAO/olympus-frontend](https://github.com/OlympusDAO/olympus-frontend)  
-3.83 stars per week over 25 weeks  
-99 stars, 202 forks, 14 watches  
-created 2021-05-28, last commit 2021-11-24, main language JavaScript  
+4.76 stars per week over 27 weeks  
+130 stars, 291 forks, 16 watches  
+created 2021-05-28, last commit 2021-12-05, main language JavaScript  
 
 
 ### [olympus-subgraph](https://github.com/OlympusDAO/olympus-subgraph) by [OlympusDAO](https://github.com/OlympusDAO)  
   
 [https://github.com/OlympusDAO/olympus-subgraph](https://github.com/OlympusDAO/olympus-subgraph)  
-0.93 stars per week over 28 weeks  
-26 stars, 57 forks, 6 watches  
+1.16 stars per week over 29 weeks  
+34 stars, 78 forks, 6 watches  
 created 2021-05-13, last commit 2021-11-23, main language TypeScript  
 
 
-This file was automatically generated on 2021-11-25.  
+### [olympus-external](https://github.com/OlympusDAO/olympus-external) by [OlympusDAO](https://github.com/OlympusDAO)  
+Repository for all of our partner/helper contracts.   
+[https://github.com/OlympusDAO/olympus-external](https://github.com/OlympusDAO/olympus-external)  
+1.17 stars per week over 8 weeks  
+10 stars, 39 forks, 2 watches  
+created 2021-10-06, last commit 2021-11-30, main language Solidity  
+
+
+This file was automatically generated on 2021-12-05.  
 
 To curate your own github list, simply clone and change the input csv file.  

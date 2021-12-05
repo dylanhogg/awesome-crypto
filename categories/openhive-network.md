@@ -9,8 +9,8 @@ Checkout the interactive version that you can filter and sort:
 Fast. Scalable. Powerful. The Blockchain for Web3  
 [https://hive.io](https://hive.io)  
 [https://github.com/openhive-network/hive](https://github.com/openhive-network/hive)  
-2.8 stars per week over 87 weeks  
-246 stars, 81 forks, 38 watches  
+2.82 stars per week over 89 weeks  
+252 stars, 81 forks, 38 watches  
 created 2020-03-20, last commit 2021-11-18, main language C++  
 <sub><sup>blockchain, cryptocurrency, dapps, decentralization, hive, openhive, p2p, platform, web3</sup></sub>
 
@@ -18,8 +18,8 @@ created 2020-03-20, last commit 2021-11-18, main language C++
 ### [hivemind](https://github.com/openhive-network/hivemind) by [openhive-network](https://github.com/openhive-network)  
 Hive API server (offloads most API calls from hived) implemented using Python+SQL  
 [https://github.com/openhive-network/hivemind](https://github.com/openhive-network/hivemind)  
-1.31 stars per week over 32 weeks  
-42 stars, 31 forks, 6 watches  
+1.28 stars per week over 33 weeks  
+43 stars, 31 forks, 6 watches  
 created 2021-04-14, last commit 2021-11-09, main language Python  
 <sub><sup>blockchain, communities, dapps, decentralization, hive, web3</sup></sub>
 
@@ -28,12 +28,12 @@ created 2021-04-14, last commit 2021-11-09, main language Python
 A curated list of awesome Hive resources.  
 [https://hive.io](https://hive.io)  
 [https://github.com/openhive-network/awesome-hive](https://github.com/openhive-network/awesome-hive)  
-0.22 stars per week over 69 weeks  
+0.21 stars per week over 70 weeks  
 15 stars, 10 forks, 5 watches  
 created 2020-07-27, last commit 2021-11-12, main language None  
 <sub><sup>awesome, awesome-list, blockchain, blockchain-platform, blog-engine, censorship-resistance, collections, communities, dapps, decentralized, developer-tools, hive</sup></sub>
 
 
-This file was automatically generated on 2021-11-25.  
+This file was automatically generated on 2021-12-05.  
 
 To curate your own github list, simply clone and change the input csv file.  

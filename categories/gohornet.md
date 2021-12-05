@@ -8,12 +8,12 @@ Checkout the interactive version that you can filter and sort:
 ### [hornet](https://github.com/gohornet/hornet) by [gohornet](https://github.com/gohornet)  
 HORNET is a powerful IOTA fullnode software  
 [https://github.com/gohornet/hornet](https://github.com/gohornet/hornet)  
-2.16 stars per week over 103 weeks  
-223 stars, 108 forks, 18 watches  
-created 2019-12-04, last commit 2021-09-02, main language Go  
+2.16 stars per week over 104 weeks  
+226 stars, 108 forks, 18 watches  
+created 2019-12-04, last commit 2021-12-03, main language Go  
 <sub><sup>fullnode, golang, iota</sup></sub>
 
 
-This file was automatically generated on 2021-11-25.  
+This file was automatically generated on 2021-12-05.  
 
 To curate your own github list, simply clone and change the input csv file.  
