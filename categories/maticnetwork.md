@@ -20,9 +20,19 @@ Javascript developer library to interact with Matic Network
 [https://maticnetwork.github.io/matic.js](https://maticnetwork.github.io/matic.js)  
 [https://github.com/maticnetwork/matic.js](https://github.com/maticnetwork/matic.js)  
 1.42 stars per week over 171 weeks  
-243 stars, 107 forks, 30 watches  
+244 stars, 107 forks, 30 watches  
 created 2018-08-23, last commit 2021-11-30, main language TypeScript  
 <sub><sup>dapps, ethereum, matic, maticnetwork, polygon, sidechain, smart-contracts, web3</sup></sub>
+
+
+### [bor](https://github.com/maticnetwork/bor) by [maticnetwork](https://github.com/maticnetwork)  
+Official repository for the Matic Blockchain  
+[https://matic.network/](https://matic.network/)  
+[https://github.com/maticnetwork/bor](https://github.com/maticnetwork/bor)  
+1.89 stars per week over 109 weeks  
+208 stars, 104 forks, 34 watches  
+created 2019-10-29, last commit 2021-12-03, main language Go  
+<sub><sup>bor, ethereum, go, matic</sup></sub>
 
 
 ### [dagger.js](https://github.com/maticnetwork/dagger.js) by [maticnetwork](https://github.com/maticnetwork)  
@@ -35,20 +45,10 @@ created 2017-08-05, last commit 2020-09-21, main language JavaScript
 <sub><sup>ethereum, ethereum-dapp, geth, parity, web3</sup></sub>
 
 
-### [bor](https://github.com/maticnetwork/bor) by [maticnetwork](https://github.com/maticnetwork)  
-Official repository for the Matic Blockchain  
-[https://matic.network/](https://matic.network/)  
-[https://github.com/maticnetwork/bor](https://github.com/maticnetwork/bor)  
-1.87 stars per week over 109 weeks  
-205 stars, 102 forks, 33 watches  
-created 2019-10-29, last commit 2021-12-03, main language Go  
-<sub><sup>bor, ethereum, go, matic</sup></sub>
-
-
 ### [pos-portal](https://github.com/maticnetwork/pos-portal) by [maticnetwork](https://github.com/maticnetwork)  
 Smart contracts that powers the PoS (proof-of-stake) based bridge mechanism for Matic Network  
 [https://github.com/maticnetwork/pos-portal](https://github.com/maticnetwork/pos-portal)  
-1.4 stars per week over 85 weeks  
+1.4 stars per week over 86 weeks  
 120 stars, 111 forks, 30 watches  
 created 2020-04-13, last commit 2021-09-20, main language Solidity  
 <sub><sup>blockchain, ethereum, matic, web3</sup></sub>
@@ -58,15 +58,15 @@ created 2020-04-13, last commit 2021-09-20, main language Solidity
 Matic whitepaper  
 [https://github.com/maticnetwork/whitepaper](https://github.com/maticnetwork/whitepaper)  
 0.58 stars per week over 181 weeks  
-105 stars, 24 forks, 12 watches  
+106 stars, 24 forks, 12 watches  
 created 2018-06-12, last commit 2020-06-01, main language CSS  
 
 
 ### [miden](https://github.com/maticnetwork/miden) by [maticnetwork](https://github.com/maticnetwork)  
 STARK-based virtual machine  
 [https://github.com/maticnetwork/miden](https://github.com/maticnetwork/miden)  
-6.67 stars per week over 12 weeks  
-82 stars, 7 forks, 7 watches  
+6.76 stars per week over 12 weeks  
+84 stars, 7 forks, 7 watches  
 created 2021-09-10, last commit 2021-11-16, main language Rust  
 <sub><sup>cryptography, stark, virtual-machine, zero-knowledge</sup></sub>
 
@@ -84,7 +84,7 @@ created 2019-01-16, last commit 2021-12-03, main language CSS
 Validator node for Matic PoS  layer  
 [https://github.com/maticnetwork/heimdall](https://github.com/maticnetwork/heimdall)  
 0.38 stars per week over 161 weeks  
-61 stars, 41 forks, 20 watches  
+62 stars, 41 forks, 20 watches  
 created 2018-11-01, last commit 2021-11-29, main language JavaScript  
 <sub><sup>dapps, decentralized-applications, ethereum, matic, proof-of-stake</sup></sub>
 
@@ -92,7 +92,7 @@ created 2018-11-01, last commit 2021-11-29, main language JavaScript
 ### [ethindia-workshop](https://github.com/maticnetwork/ethindia-workshop) by [maticnetwork](https://github.com/maticnetwork)  
   
 [https://github.com/maticnetwork/ethindia-workshop](https://github.com/maticnetwork/ethindia-workshop)  
-0.29 stars per week over 122 weeks  
+0.28 stars per week over 122 weeks  
 35 stars, 44 forks, 27 watches  
 created 2019-07-30, last commit 2020-01-28, main language Vue  
 
@@ -116,14 +116,6 @@ created 2020-01-07, last commit 2021-12-02, main language JavaScript
 <sub><sup>matic</sup></sub>
 
 
-### [subgraphs](https://github.com/maticnetwork/subgraphs) by [maticnetwork](https://github.com/maticnetwork)  
-Subgraph for Matic contracts  
-[https://github.com/maticnetwork/subgraphs](https://github.com/maticnetwork/subgraphs)  
-0.4 stars per week over 62 weeks  
-25 stars, 15 forks, 19 watches  
-created 2020-09-23, last commit 2021-11-17, main language TypeScript  
-
-
 ### [sol-trace](https://github.com/maticnetwork/sol-trace) by [maticnetwork](https://github.com/maticnetwork)  
 Trace runtime failures for solidity  
 [https://github.com/maticnetwork/sol-trace](https://github.com/maticnetwork/sol-trace)  
@@ -133,11 +125,19 @@ created 2018-06-19, last commit 2019-05-08, main language JavaScript
 <sub><sup>decentralized-applications, ethereum, ethereum-contract, solidity</sup></sub>
 
 
+### [subgraphs](https://github.com/maticnetwork/subgraphs) by [maticnetwork](https://github.com/maticnetwork)  
+Subgraph for Matic contracts  
+[https://github.com/maticnetwork/subgraphs](https://github.com/maticnetwork/subgraphs)  
+0.4 stars per week over 62 weeks  
+25 stars, 15 forks, 19 watches  
+created 2020-09-23, last commit 2021-11-17, main language TypeScript  
+
+
 ### [launch](https://github.com/maticnetwork/launch) by [maticnetwork](https://github.com/maticnetwork)  
 Matic network mainnet v1 launch   
 [https://github.com/maticnetwork/launch](https://github.com/maticnetwork/launch)  
 0.29 stars per week over 79 weeks  
-23 stars, 27 forks, 24 watches  
+23 stars, 28 forks, 24 watches  
 created 2020-05-31, last commit 2021-12-05, main language Shell  
 <sub><sup>ethereum, matic, web3</sup></sub>
 
@@ -165,7 +165,7 @@ created 2019-05-18, last commit 2019-06-14, main language JavaScript
 Examples for eth-dagger  
 [https://matic.network/dagger](https://matic.network/dagger)  
 [https://github.com/maticnetwork/eth-dagger-examples](https://github.com/maticnetwork/eth-dagger-examples)  
-0.08 stars per week over 213 weeks  
+0.08 stars per week over 214 weeks  
 17 stars, 3 forks, 14 watches  
 created 2017-10-30, last commit 2018-02-10, main language JavaScript  
 <sub><sup>blockchain, ethereum, ethereum-dapp, smart-contracts</sup></sub>
@@ -183,7 +183,7 @@ created 2020-12-23, last commit 2021-11-18, main language TeX
 A CLI to setup Matic network  
 [https://github.com/maticnetwork/matic-cli](https://github.com/maticnetwork/matic-cli)  
 0.13 stars per week over 104 weeks  
-14 stars, 14 forks, 23 watches  
+14 stars, 15 forks, 23 watches  
 created 2019-12-06, last commit 2021-06-14, main language JavaScript  
 <sub><sup>blockchain, ethereum, matic, web3</sup></sub>
 
@@ -197,6 +197,6 @@ created 2019-12-06, last commit 2021-06-14, main language JavaScript
 created 2018-10-20, last commit 2020-06-16, main language Go  
 
 
-This file was automatically generated on 2021-12-05.  
+This file was automatically generated on 2021-12-06.  
 
 To curate your own github list, simply clone and change the input csv file.  

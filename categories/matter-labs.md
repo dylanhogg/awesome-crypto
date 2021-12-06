@@ -9,7 +9,7 @@ Checkout the interactive version that you can filter and sort:
 A curated list of awesome things related to learning Zero-Knowledge Proofs (ZKP).  
 [https://github.com/matter-labs/awesome-zero-knowledge-proofs](https://github.com/matter-labs/awesome-zero-knowledge-proofs)  
 10 stars per week over 160 weeks  
-1,660 stars, 236 forks, 111 watches  
+1,663 stars, 236 forks, 111 watches  
 created 2018-11-10, last commit 2021-10-26, main language None  
 <sub><sup>explaining-snarks, knowledge-proofs, snark, team-crypto, zk-snarks</sup></sub>
 
@@ -18,8 +18,8 @@ created 2018-11-10, last commit 2021-10-26, main language None
 zkSync: trustless scaling and privacy engine for Ethereum  
 [https://zksync.io](https://zksync.io)  
 [https://github.com/matter-labs/zksync](https://github.com/matter-labs/zksync)  
-7.53 stars per week over 131 weeks  
-991 stars, 226 forks, 61 watches  
+7.54 stars per week over 131 weeks  
+993 stars, 226 forks, 61 watches  
 created 2019-05-29, last commit 2021-11-11, main language Rust  
 <sub><sup>team-core</sup></sub>
 
@@ -28,7 +28,7 @@ created 2019-05-29, last commit 2021-11-11, main language Rust
 The Zinc language public repository  
 [https://zinc.zksync.io/](https://zinc.zksync.io/)  
 [https://github.com/matter-labs/zinc](https://github.com/matter-labs/zinc)  
-2.81 stars per week over 86 weeks  
+2.8 stars per week over 86 weeks  
 243 stars, 31 forks, 20 watches  
 created 2020-04-08, last commit 2021-09-25, main language Rust  
 <sub><sup>team-compiler</sup></sub>
@@ -66,8 +66,8 @@ created 2019-03-08, last commit 2021-08-03, main language Rust
 zkSync web wallet  
 [https://wallet.zksync.io](https://wallet.zksync.io)  
 [https://github.com/matter-labs/zksync-wallet-vue](https://github.com/matter-labs/zksync-wallet-vue)  
-0.85 stars per week over 49 weeks  
-42 stars, 17 forks, 11 watches  
+0.87 stars per week over 49 weeks  
+43 stars, 17 forks, 11 watches  
 created 2020-12-24, last commit 2021-12-02, main language Vue  
 <sub><sup>ethereum-dapp, ethereum-wallet, nuxt, team-frontend, vuejs, wallet, web3js, zksync</sup></sub>
 
@@ -114,18 +114,9 @@ created 2020-04-09, last commit 2021-11-23, main language CSS
 ### [solidity_plonk_verifier](https://github.com/matter-labs/solidity_plonk_verifier) by [matter-labs](https://github.com/matter-labs)  
 Solidity verifier for Plonk  
 [https://github.com/matter-labs/solidity_plonk_verifier](https://github.com/matter-labs/solidity_plonk_verifier)  
-0.16 stars per week over 90 weeks  
+0.15 stars per week over 90 weeks  
 14 stars, 6 forks, 4 watches  
 created 2020-03-13, last commit 2021-05-14, main language Solidity  
-<sub><sup>team-crypto</sup></sub>
-
-
-### [ff](https://github.com/matter-labs/ff) by [matter-labs](https://github.com/matter-labs)  
-Traits and utilities for working with finite fields  
-[https://github.com/matter-labs/ff](https://github.com/matter-labs/ff)  
-0.08 stars per week over 155 weeks  
-12 stars, 9 forks, 7 watches  
-created 2018-12-12, last commit 2021-05-14, main language Rust  
 <sub><sup>team-crypto</sup></sub>
 
 
@@ -138,6 +129,15 @@ created 2018-12-07, last commit 2021-05-10, main language Rust
 <sub><sup>team-crypto</sup></sub>
 
 
+### [ff](https://github.com/matter-labs/ff) by [matter-labs](https://github.com/matter-labs)  
+Traits and utilities for working with finite fields  
+[https://github.com/matter-labs/ff](https://github.com/matter-labs/ff)  
+0.08 stars per week over 155 weeks  
+12 stars, 9 forks, 7 watches  
+created 2018-12-12, last commit 2021-05-14, main language Rust  
+<sub><sup>team-crypto</sup></sub>
+
+
 ### [recursive_aggregation_circuit](https://github.com/matter-labs/recursive_aggregation_circuit) by [matter-labs](https://github.com/matter-labs)  
 Kate commitment based PLONK recursive aggregation circuit  
 [https://github.com/matter-labs/recursive_aggregation_circuit](https://github.com/matter-labs/recursive_aggregation_circuit)  
@@ -147,6 +147,6 @@ created 2020-07-07, last commit 2021-01-25, main language Solidity
 <sub><sup>team-crypto</sup></sub>
 
 
-This file was automatically generated on 2021-12-05.  
+This file was automatically generated on 2021-12-06.  
 
 To curate your own github list, simply clone and change the input csv file.  

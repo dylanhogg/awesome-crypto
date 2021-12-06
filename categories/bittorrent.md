@@ -49,7 +49,7 @@ created 2016-05-03, last commit 2017-02-21, main language C
 ### [btc](https://github.com/bittorrent/btc) by [bittorrent](https://github.com/bittorrent)  
 Command-line BitTorrent remote control (btc)  
 [https://github.com/bittorrent/btc](https://github.com/bittorrent/btc)  
-0.31 stars per week over 477 weeks  
+0.31 stars per week over 478 weeks  
 147 stars, 20 forks, 66 watches  
 created 2012-10-08, last commit 2016-03-08, main language Python  
 
@@ -57,7 +57,7 @@ created 2012-10-08, last commit 2016-03-08, main language Python
 ### [webui](https://github.com/bittorrent/webui) by [bittorrent](https://github.com/bittorrent)  
   
 [https://github.com/bittorrent/webui](https://github.com/bittorrent/webui)  
-0.2 stars per week over 558 weeks  
+0.19 stars per week over 559 weeks  
 109 stars, 32 forks, 50 watches  
 created 2011-03-21, last commit 2017-02-17, main language JavaScript  
 
@@ -65,7 +65,7 @@ created 2011-03-21, last commit 2017-02-17, main language JavaScript
 ### [bencode](https://github.com/bittorrent/bencode) by [bittorrent](https://github.com/bittorrent)  
   
 [https://github.com/bittorrent/bencode](https://github.com/bittorrent/bencode)  
-0.13 stars per week over 575 weeks  
+0.13 stars per week over 576 weeks  
 75 stars, 22 forks, 28 watches  
 created 2010-11-22, last commit 2010-11-22, main language Python  
 
@@ -73,7 +73,7 @@ created 2010-11-22, last commit 2010-11-22, main language Python
 ### [libbtdht](https://github.com/bittorrent/libbtdht) by [bittorrent](https://github.com/bittorrent)  
   
 [https://github.com/bittorrent/libbtdht](https://github.com/bittorrent/libbtdht)  
-0.12 stars per week over 286 weeks  
+0.12 stars per week over 287 weeks  
 35 stars, 14 forks, 13 watches  
 created 2016-06-06, last commit 2017-04-19, main language C++  
 
@@ -108,7 +108,7 @@ created 2016-03-24, last commit 2017-01-19, main language C++
   
 [https://github.com/bittorrent/torrent-web-tools](https://github.com/bittorrent/torrent-web-tools)  
 0.04 stars per week over 328 weeks  
-12 stars, 5 forks, 18 watches  
+13 stars, 5 forks, 18 watches  
 created 2015-08-21, last commit 2015-08-21, main language Python  
 
 
@@ -120,6 +120,6 @@ created 2015-08-21, last commit 2015-08-21, main language Python
 created 2015-05-29, last commit 2015-07-14, main language Python  
 
 
-This file was automatically generated on 2021-12-05.  
+This file was automatically generated on 2021-12-06.  
 
 To curate your own github list, simply clone and change the input csv file.  

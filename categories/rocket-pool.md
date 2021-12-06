@@ -20,7 +20,7 @@ The install script for a Rocket Pool smart node.
 [https://github.com/rocket-pool/smartnode-install](https://github.com/rocket-pool/smartnode-install)  
 0.24 stars per week over 183 weeks  
 44 stars, 18 forks, 12 watches  
-created 2018-05-29, last commit 2021-11-30, main language Shell  
+created 2018-05-29, last commit 2021-12-06, main language Shell  
 
 
 ### [smartnode](https://github.com/rocket-pool/smartnode) by [rocket-pool](https://github.com/rocket-pool)  
@@ -28,13 +28,13 @@ The CLI package for Rocket Pool smart nodes.
 [https://github.com/rocket-pool/smartnode](https://github.com/rocket-pool/smartnode)  
 0.19 stars per week over 171 weeks  
 33 stars, 28 forks, 9 watches  
-created 2018-08-23, last commit 2021-12-03, main language Go  
+created 2018-08-23, last commit 2021-12-06, main language Go  
 
 
 ### [rocketpool-research](https://github.com/rocket-pool/rocketpool-research) by [rocket-pool](https://github.com/rocket-pool)  
   
 [https://github.com/rocket-pool/rocketpool-research](https://github.com/rocket-pool/rocketpool-research)  
-0.8 stars per week over 23 weeks  
+0.79 stars per week over 24 weeks  
 19 stars, 6 forks, 3 watches  
 created 2021-06-21, last commit 2021-10-08, main language None  
 
@@ -44,9 +44,9 @@ Rocket Pool Documentation & Guide Hub
 [https://github.com/rocket-pool/docs.rocketpool.net](https://github.com/rocket-pool/docs.rocketpool.net)  
 0.18 stars per week over 55 weeks  
 10 stars, 40 forks, 8 watches  
-created 2020-11-11, last commit 2021-12-03, main language JavaScript  
+created 2020-11-11, last commit 2021-12-06, main language JavaScript  
 
 
-This file was automatically generated on 2021-12-05.  
+This file was automatically generated on 2021-12-06.  
 
 To curate your own github list, simply clone and change the input csv file.  

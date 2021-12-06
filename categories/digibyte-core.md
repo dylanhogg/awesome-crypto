@@ -22,6 +22,6 @@ A list of items that we want to do for DigiByte, some with / without bounties et
 created 2020-04-12, last commit 2021-04-21, main language None  
 
 
-This file was automatically generated on 2021-12-05.  
+This file was automatically generated on 2021-12-06.  
 
 To curate your own github list, simply clone and change the input csv file.  

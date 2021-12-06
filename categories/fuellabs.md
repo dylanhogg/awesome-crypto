@@ -35,6 +35,6 @@ created 2020-06-28, last commit 2021-04-14, main language JavaScript
 <sub><sup>ethereum, layer-2, optimistic, rollups</sup></sub>
 
 
-This file was automatically generated on 2021-12-05.  
+This file was automatically generated on 2021-12-06.  
 
 To curate your own github list, simply clone and change the input csv file.  

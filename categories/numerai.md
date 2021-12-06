@@ -38,7 +38,7 @@ Fully automated submission workflow in the cloud for <$1/mo
 [https://github.com/numerai/numerai-cli](https://github.com/numerai/numerai-cli)  
 0.5 stars per week over 132 weeks  
 66 stars, 23 forks, 17 watches  
-created 2019-05-22, last commit 2021-10-22, main language Python  
+created 2019-05-22, last commit 2021-12-05, main language Python  
 
 
 ### [numerapi](https://github.com/numerai/numerapi) by [numerai](https://github.com/numerai)  
@@ -58,6 +58,6 @@ Documentation
 created 2018-09-27, last commit 2021-12-01, main language None  
 
 
-This file was automatically generated on 2021-12-05.  
+This file was automatically generated on 2021-12-06.  
 
 To curate your own github list, simply clone and change the input csv file.  

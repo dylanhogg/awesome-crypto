@@ -19,7 +19,7 @@ created 2019-08-21, last commit 2021-11-10, main language Python
 Official Fetch.AI Ledger C++ implementation  
 [https://fetch.ai](https://fetch.ai)  
 [https://github.com/fetchai/ledger](https://github.com/fetchai/ledger)  
-0.33 stars per week over 202 weeks  
+0.33 stars per week over 203 weeks  
 67 stars, 45 forks, 23 watches  
 created 2018-01-15, last commit 2021-11-18, main language C++  
 
@@ -61,14 +61,6 @@ Source for the Fetch.ai blockchain nodes
 created 2020-06-10, last commit 2021-11-10, main language Go  
 
 
-### [colearn](https://github.com/fetchai/colearn) by [fetchai](https://github.com/fetchai)  
-  
-[https://github.com/fetchai/colearn](https://github.com/fetchai/colearn)  
-0.24 stars per week over 67 weeks  
-16 stars, 7 forks, 5 watches  
-created 2020-08-19, last commit 2021-12-02, main language Python  
-
-
 ### [ledger-api-py](https://github.com/fetchai/ledger-api-py) by [fetchai](https://github.com/fetchai)  
 Official Python client library for interacting with the Fetch.AI Ledger  
 [https://fetch.ai](https://fetch.ai)  
@@ -76,6 +68,14 @@ Official Python client library for interacting with the Fetch.AI Ledger
 0.11 stars per week over 145 weeks  
 16 stars, 16 forks, 17 watches  
 created 2019-02-20, last commit 2021-11-18, main language Python  
+
+
+### [colearn](https://github.com/fetchai/colearn) by [fetchai](https://github.com/fetchai)  
+  
+[https://github.com/fetchai/colearn](https://github.com/fetchai/colearn)  
+0.24 stars per week over 67 weeks  
+16 stars, 7 forks, 5 watches  
+created 2020-08-19, last commit 2021-12-02, main language Python  
 
 
 ### [research-dvrf](https://github.com/fetchai/research-dvrf) by [fetchai](https://github.com/fetchai)  
@@ -89,11 +89,11 @@ created 2020-01-21, last commit 2020-02-17, main language C++
 ### [mettalex-market-maker](https://github.com/fetchai/mettalex-market-maker) by [fetchai](https://github.com/fetchai)  
   
 [https://github.com/fetchai/mettalex-market-maker](https://github.com/fetchai/mettalex-market-maker)  
-0.17 stars per week over 62 weeks  
+0.17 stars per week over 63 weeks  
 11 stars, 7 forks, 11 watches  
 created 2020-09-21, last commit 2021-08-05, main language Solidity  
 
 
-This file was automatically generated on 2021-12-05.  
+This file was automatically generated on 2021-12-06.  
 
 To curate your own github list, simply clone and change the input csv file.  

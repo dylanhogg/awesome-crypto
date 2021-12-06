@@ -19,7 +19,7 @@ created 2014-12-06, last commit 2019-02-11, main language TypeScript
 Augur UI  
 [https://dev.augur.net](https://dev.augur.net)  
 [https://github.com/AugurProject/augur-ui](https://github.com/AugurProject/augur-ui)  
-1.15 stars per week over 356 weeks  
+1.15 stars per week over 357 weeks  
 411 stars, 111 forks, 82 watches  
 created 2015-02-02, last commit 2020-02-07, main language JavaScript  
 <sub><sup>bem, css-modules, ethereum, react, redux, ui, webpack, webpack3</sup></sub>
@@ -72,7 +72,7 @@ created 2018-04-17, last commit 2021-03-30, main language TeX
 Legacy Augur V1 Documentation  
 [http://docs.augur.net](http://docs.augur.net)  
 [https://github.com/AugurProject/v1-docs](https://github.com/AugurProject/v1-docs)  
-0.1 stars per week over 335 weeks  
+0.1 stars per week over 336 weeks  
 33 stars, 15 forks, 27 watches  
 created 2015-06-29, last commit 2019-10-29, main language JavaScript  
 
@@ -119,6 +119,6 @@ Grab bag of utility functions for formatting and ABI encoding/decoding
 created 2015-08-21, last commit 2018-07-20, main language JavaScript  
 
 
-This file was automatically generated on 2021-12-05.  
+This file was automatically generated on 2021-12-06.  
 
 To curate your own github list, simply clone and change the input csv file.  

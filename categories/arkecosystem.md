@@ -80,15 +80,6 @@ created 2018-06-08, last commit 2021-09-21, main language Python
 <sub><sup>api, ark, blockchain, client, crypto, python</sup></sub>
 
 
-### [ledger](https://github.com/ArkEcosystem/ledger) by [ArkEcosystem](https://github.com/ArkEcosystem)  
-A Ledger Hardware Wallet Application in C for the ARK Blockchain.  
-[https://github.com/ArkEcosystem/ledger](https://github.com/ArkEcosystem/ledger)  
-0.06 stars per week over 232 weeks  
-14 stars, 20 forks, 13 watches  
-created 2017-06-22, last commit 2021-08-27, main language C  
-<sub><sup>ark, blockchain, c, hardware, ledger, nanos, nanox, wallet</sup></sub>
-
-
 ### [cpp-crypto](https://github.com/ArkEcosystem/cpp-crypto) by [ArkEcosystem](https://github.com/ArkEcosystem)  
 A simple Cryptography Implementation in C++ for the Ark Blockchain.  
 [https://github.com/ArkEcosystem/cpp-crypto](https://github.com/ArkEcosystem/cpp-crypto)  
@@ -96,6 +87,15 @@ A simple Cryptography Implementation in C++ for the Ark Blockchain.
 14 stars, 10 forks, 14 watches  
 created 2018-10-19, last commit 2020-03-09, main language C++  
 <sub><sup>ark, blockchain, cmake, cpp, crypto, dpos</sup></sub>
+
+
+### [ledger](https://github.com/ArkEcosystem/ledger) by [ArkEcosystem](https://github.com/ArkEcosystem)  
+A Ledger Hardware Wallet Application in C for the ARK Blockchain.  
+[https://github.com/ArkEcosystem/ledger](https://github.com/ArkEcosystem/ledger)  
+0.06 stars per week over 232 weeks  
+14 stars, 20 forks, 13 watches  
+created 2017-06-22, last commit 2021-08-27, main language C  
+<sub><sup>ark, blockchain, c, hardware, ledger, nanos, nanox, wallet</sup></sub>
 
 
 ### [cpp-client](https://github.com/ArkEcosystem/cpp-client) by [ArkEcosystem](https://github.com/ArkEcosystem)  
@@ -107,6 +107,6 @@ created 2018-10-19, last commit 2020-11-23, main language C++
 <sub><sup>ark, blockchain, cmake, cpp, crypto, dpos</sup></sub>
 
 
-This file was automatically generated on 2021-12-05.  
+This file was automatically generated on 2021-12-06.  
 
 To curate your own github list, simply clone and change the input csv file.  

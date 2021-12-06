@@ -9,9 +9,9 @@ Checkout the interactive version that you can filter and sort:
 Crypto.org Chain desktop wallet (Beta)  
 [https://crypto.org/desktopwallet](https://crypto.org/desktopwallet)  
 [https://github.com/crypto-com/chain-desktop-wallet](https://github.com/crypto-com/chain-desktop-wallet)  
-3.92 stars per week over 52 weeks  
-207 stars, 55 forks, 23 watches  
-created 2020-11-30, last commit 2021-12-04, main language TypeScript  
+3.92 stars per week over 53 weeks  
+208 stars, 55 forks, 23 watches  
+created 2020-11-30, last commit 2021-12-06, main language TypeScript  
 <sub><sup>cryptocurrency, electron, wallet</sup></sub>
 
 
@@ -25,14 +25,6 @@ created 2019-02-12, last commit 2021-02-25, main language Rust
 <sub><sup>chain, cro, crypto, rust, tendermint</sup></sub>
 
 
-### [swap-token-list](https://github.com/crypto-com/swap-token-list) by [crypto-com](https://github.com/crypto-com)  
-  
-[https://github.com/crypto-com/swap-token-list](https://github.com/crypto-com/swap-token-list)  
-0.3 stars per week over 64 weeks  
-19 stars, 28 forks, 6 watches  
-created 2020-09-11, last commit 2021-03-15, main language JavaScript  
-
-
 ### [chain-indexing](https://github.com/crypto-com/chain-indexing) by [crypto-com](https://github.com/crypto-com)  
   
 [https://github.com/crypto-com/chain-indexing](https://github.com/crypto-com/chain-indexing)  
@@ -41,12 +33,20 @@ created 2020-09-11, last commit 2021-03-15, main language JavaScript
 created 2020-09-05, last commit 2021-12-02, main language Go  
 
 
+### [swap-token-list](https://github.com/crypto-com/swap-token-list) by [crypto-com](https://github.com/crypto-com)  
+  
+[https://github.com/crypto-com/swap-token-list](https://github.com/crypto-com/swap-token-list)  
+0.29 stars per week over 64 weeks  
+19 stars, 28 forks, 6 watches  
+created 2020-09-11, last commit 2021-03-15, main language JavaScript  
+
+
 ### [swap-interface](https://github.com/crypto-com/swap-interface) by [crypto-com](https://github.com/crypto-com)  
 DeFi Swap Interface  
 [https://crypto.com/defi/swap](https://crypto.com/defi/swap)  
 [https://github.com/crypto-com/swap-interface](https://github.com/crypto-com/swap-interface)  
 0.28 stars per week over 64 weeks  
-18 stars, 16 forks, 6 watches  
+18 stars, 17 forks, 6 watches  
 created 2020-09-10, last commit 2020-09-11, main language TypeScript  
 
 
@@ -67,6 +67,6 @@ created 2021-04-08, last commit 2021-12-02, main language Rust
 <sub><sup>cosmos, ibc, solo-machine, tendermint</sup></sub>
 
 
-This file was automatically generated on 2021-12-05.  
+This file was automatically generated on 2021-12-06.  
 
 To curate your own github list, simply clone and change the input csv file.  

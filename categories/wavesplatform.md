@@ -28,7 +28,7 @@ created 2016-04-07, last commit 2019-11-26, main language JavaScript
 ### [WavesExplorerLite](https://github.com/wavesplatform/WavesExplorerLite) by [wavesplatform](https://github.com/wavesplatform)  
 Waves Explorer is a tool for viewing blocks and transactions in the public blockchain of the Waves protocol  
 [https://github.com/wavesplatform/WavesExplorerLite](https://github.com/wavesplatform/WavesExplorerLite)  
-0.26 stars per week over 294 weeks  
+0.25 stars per week over 294 weeks  
 75 stars, 67 forks, 39 watches  
 created 2016-04-17, last commit 2021-11-22, main language JavaScript  
 
@@ -36,7 +36,7 @@ created 2016-04-17, last commit 2021-11-22, main language JavaScript
 ### [gowaves](https://github.com/wavesplatform/gowaves) by [wavesplatform](https://github.com/wavesplatform)  
 Go implementation of Waves node, libraries and tools for Waves blockchain  
 [https://github.com/wavesplatform/gowaves](https://github.com/wavesplatform/gowaves)  
-0.36 stars per week over 165 weeks  
+0.36 stars per week over 166 weeks  
 59 stars, 21 forks, 13 watches  
 created 2018-10-01, last commit 2021-12-03, main language Go  
 
@@ -54,7 +54,7 @@ created 2017-07-26, last commit 2019-11-19, main language Kotlin
 ### [demo-python-trading-bot](https://github.com/wavesplatform/demo-python-trading-bot) by [wavesplatform](https://github.com/wavesplatform)  
 Demo bot for scalping strategy on Waves based DEXes (waves.exchange)  
 [https://github.com/wavesplatform/demo-python-trading-bot](https://github.com/wavesplatform/demo-python-trading-bot)  
-0.25 stars per week over 194 weeks  
+0.25 stars per week over 195 weeks  
 49 stars, 35 forks, 30 watches  
 created 2018-03-12, last commit 2020-03-02, main language Python  
 
@@ -82,7 +82,7 @@ created 2018-08-16, last commit 2021-12-04, main language TypeScript
 A Java library for interacting with the Waves blockchain  
 [https://github.com/wavesplatform/WavesJ](https://github.com/wavesplatform/WavesJ)  
 0.17 stars per week over 210 weeks  
-35 stars, 35 forks, 28 watches  
+35 stars, 34 forks, 28 watches  
 created 2017-11-23, last commit 2021-10-11, main language Java  
 <sub><sup>blockchain, cryptography, java-library</sup></sub>
 
@@ -90,7 +90,7 @@ created 2017-11-23, last commit 2021-10-11, main language Java
 ### [curve25519-js](https://github.com/wavesplatform/curve25519-js) by [wavesplatform](https://github.com/wavesplatform)  
 Curve25519 Javascript Implementation  
 [https://github.com/wavesplatform/curve25519-js](https://github.com/wavesplatform/curve25519-js)  
-0.12 stars per week over 283 weeks  
+0.12 stars per week over 284 weeks  
 33 stars, 28 forks, 10 watches  
 created 2016-06-27, last commit 2016-06-27, main language JavaScript  
 
@@ -123,7 +123,7 @@ created 2017-12-05, last commit 2020-04-03, main language C#
 Examples of scripts for accounts, dApps and assets using RIDE programming language.  
 [https://github.com/wavesplatform/ride-examples](https://github.com/wavesplatform/ride-examples)  
 0.17 stars per week over 148 weeks  
-26 stars, 30 forks, 11 watches  
+26 stars, 30 forks, 12 watches  
 created 2019-01-30, last commit 2021-07-06, main language Scala  
 <sub><sup>dapp, dapp-example, ride, smart-contracts</sup></sub>
 
@@ -139,7 +139,7 @@ created 2018-11-22, last commit 2021-11-18, main language TypeScript
 ### [signer](https://github.com/wavesplatform/signer) by [wavesplatform](https://github.com/wavesplatform)  
 TypeScript/JavaScript library for your web app for interacting with the Waves blockchain. Using Signer you can easily create and sign transactions.  
 [https://github.com/wavesplatform/signer](https://github.com/wavesplatform/signer)  
-0.21 stars per week over 101 weeks  
+0.21 stars per week over 102 weeks  
 21 stars, 16 forks, 8 watches  
 created 2019-12-23, last commit 2021-10-19, main language TypeScript  
 
@@ -164,7 +164,7 @@ created 2018-02-02, last commit 2020-04-03, main language C
 IDE for waves blockchain RIDE language  
 [https://ide.wavesplatform.com](https://ide.wavesplatform.com)  
 [https://github.com/wavesplatform/waves-ide](https://github.com/wavesplatform/waves-ide)  
-0.09 stars per week over 170 weeks  
+0.09 stars per week over 171 weeks  
 16 stars, 17 forks, 6 watches  
 created 2018-08-27, last commit 2021-11-26, main language TypeScript  
 <sub><sup>dapps, ride, smart-contracts, waves, waves-ide</sup></sub>
@@ -214,6 +214,14 @@ created 2018-04-28, last commit 2020-04-07, main language TypeScript
 created 2019-10-25, last commit 2019-11-05, main language None  
 
 
+### [ride-vscode](https://github.com/wavesplatform/ride-vscode) by [wavesplatform](https://github.com/wavesplatform)  
+  
+[https://github.com/wavesplatform/ride-vscode](https://github.com/wavesplatform/ride-vscode)  
+0.06 stars per week over 168 weeks  
+10 stars, 2 forks, 5 watches  
+created 2018-09-13, last commit 2021-11-10, main language TypeScript  
+
+
 ### [ts-lib-crypto](https://github.com/wavesplatform/ts-lib-crypto) by [wavesplatform](https://github.com/wavesplatform)  
 All algorithm implementations like signature verification and protocol entries like address used in Waves protocol.  
 [https://github.com/wavesplatform/ts-lib-crypto](https://github.com/wavesplatform/ts-lib-crypto)  
@@ -223,14 +231,6 @@ created 2018-11-22, last commit 2020-06-17, main language TypeScript
 <sub><sup>crypto, cryptography, signature</sup></sub>
 
 
-### [ride-vscode](https://github.com/wavesplatform/ride-vscode) by [wavesplatform](https://github.com/wavesplatform)  
-  
-[https://github.com/wavesplatform/ride-vscode](https://github.com/wavesplatform/ride-vscode)  
-0.06 stars per week over 168 weeks  
-10 stars, 2 forks, 5 watches  
-created 2018-09-13, last commit 2021-11-10, main language TypeScript  
-
-
-This file was automatically generated on 2021-12-05.  
+This file was automatically generated on 2021-12-06.  
 
 To curate your own github list, simply clone and change the input csv file.  

@@ -8,7 +8,7 @@ Checkout the interactive version that you can filter and sort:
 ### [zerodb](https://github.com/nucypher/zerodb) by [nucypher](https://github.com/nucypher)  
 *This project is no longer actively maintained. If you'd like to become the maintainer, please let us know.* ZeroDB is an end-to-end encrypted database. Data can be stored and queried on untrusted database servers without ever exposing the encryption key. Clients can execute remote queries against the encrypted data without downloading all of it or suffering an excessive performance hit.  
 [https://github.com/nucypher/zerodb](https://github.com/nucypher/zerodb)  
-5.01 stars per week over 313 weeks  
+5.0 stars per week over 313 weeks  
 1,567 stars, 104 forks, 83 watches  
 created 2015-12-06, last commit 2018-06-11, main language Python  
 
@@ -35,7 +35,7 @@ created 2018-04-08, last commit 2020-03-18, main language Python
 NuCypher's reference implementation of Umbral (threshold proxy re-encryption) using OpenSSL and Cryptography.io  
 [https://pyumbral.readthedocs.io](https://pyumbral.readthedocs.io)  
 [https://github.com/nucypher/pyUmbral](https://github.com/nucypher/pyUmbral)  
-1.14 stars per week over 206 weeks  
+1.13 stars per week over 206 weeks  
 234 stars, 61 forks, 18 watches  
 created 2017-12-23, last commit 2021-09-15, main language Python  
 
@@ -44,7 +44,7 @@ created 2017-12-23, last commit 2021-09-15, main language Python
 ZeroDB server and client-side example of using it  
 [https://docs.zerodb.com/](https://docs.zerodb.com/)  
 [https://github.com/nucypher/zerodb-server](https://github.com/nucypher/zerodb-server)  
-0.44 stars per week over 312 weeks  
+0.44 stars per week over 313 weeks  
 137 stars, 21 forks, 18 watches  
 created 2015-12-07, last commit 2016-07-28, main language Python  
 
@@ -68,7 +68,7 @@ created 2018-01-31, last commit 2018-09-13, main language Go
 ### [constantSorrow](https://github.com/nucypher/constantSorrow) by [nucypher](https://github.com/nucypher)  
 Special Value Constants for Python.  I am the man of constant sorrow; I've seen special values as ints, all my days.  
 [https://github.com/nucypher/constantSorrow](https://github.com/nucypher/constantSorrow)  
-0.17 stars per week over 191 weeks  
+0.17 stars per week over 192 weeks  
 33 stars, 3 forks, 7 watches  
 created 2018-04-02, last commit 2020-04-23, main language Python  
 
@@ -100,7 +100,7 @@ created 2017-07-16, last commit 2017-10-08, main language C
 ### [umbral-doc](https://github.com/nucypher/umbral-doc) by [nucypher](https://github.com/nucypher)  
 Documentation of the Umbral PRE cryptosystem  
 [https://github.com/nucypher/umbral-doc](https://github.com/nucypher/umbral-doc)  
-0.09 stars per week over 214 weeks  
+0.09 stars per week over 215 weeks  
 20 stars, 2 forks, 7 watches  
 created 2017-10-23, last commit 2018-05-05, main language TeX  
 
@@ -121,20 +121,20 @@ Guidelines for the hackathon
 created 2018-08-11, last commit 2019-11-09, main language None  
 
 
+### [kafka-as-module-oss](https://github.com/nucypher/kafka-as-module-oss) by [nucypher](https://github.com/nucypher)  
+NuCypher for Kafka. Start building from this module (it fetches the appropriate branch from Kafka repository)  
+[https://github.com/nucypher/kafka-as-module-oss](https://github.com/nucypher/kafka-as-module-oss)  
+0.08 stars per week over 238 weeks  
+18 stars, 1 forks, 6 watches  
+created 2017-05-15, last commit 2017-10-13, main language Java  
+
+
 ### [nucypher-kms-ethereum](https://github.com/nucypher/nucypher-kms-ethereum) by [nucypher](https://github.com/nucypher)  
 Ethereum (solidity) code for nucypher-kms  
 [https://github.com/nucypher/nucypher-kms-ethereum](https://github.com/nucypher/nucypher-kms-ethereum)  
 0.08 stars per week over 220 weeks  
 18 stars, 6 forks, 5 watches  
 created 2017-09-12, last commit 2018-04-10, main language Python  
-
-
-### [kafka-as-module-oss](https://github.com/nucypher/kafka-as-module-oss) by [nucypher](https://github.com/nucypher)  
-NuCypher for Kafka. Start building from this module (it fetches the appropriate branch from Kafka repository)  
-[https://github.com/nucypher/kafka-as-module-oss](https://github.com/nucypher/kafka-as-module-oss)  
-0.08 stars per week over 237 weeks  
-18 stars, 1 forks, 6 watches  
-created 2017-05-15, last commit 2017-10-13, main language Java  
 
 
 ### [NuBLS](https://github.com/nucypher/NuBLS) by [nucypher](https://github.com/nucypher)  
@@ -148,7 +148,7 @@ created 2020-05-08, last commit 2020-11-10, main language Rust
 ### [protocol](https://github.com/nucypher/protocol) by [nucypher](https://github.com/nucypher)  
 Upstream research, development and discussion relating to the NuCypher protocol and economic design  
 [https://github.com/nucypher/protocol](https://github.com/nucypher/protocol)  
-0.09 stars per week over 142 weeks  
+0.09 stars per week over 143 weeks  
 13 stars, 4 forks, 8 watches  
 created 2019-03-11, last commit 2020-02-01, main language Jupyter Notebook  
 
@@ -161,6 +161,6 @@ Script to fetch info of all users in Telegram channel
 created 2017-12-23, last commit 2018-08-24, main language Python  
 
 
-This file was automatically generated on 2021-12-05.  
+This file was automatically generated on 2021-12-06.  
 
 To curate your own github list, simply clone and change the input csv file.  

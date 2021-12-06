@@ -9,7 +9,7 @@ Checkout the interactive version that you can filter and sort:
 Mirror of the release branches for Tezos, a self-amending cryptographic ledger  
 [https://gitlab.com/tezos/tezos](https://gitlab.com/tezos/tezos)  
 [https://github.com/tezos/tezos](https://github.com/tezos/tezos)  
-5.27 stars per week over 275 weeks  
+5.26 stars per week over 275 weeks  
 1,451 stars, 197 forks, 258 watches  
 created 2016-08-24, last commit 2018-12-04, main language None  
 <sub><sup>blockchain, ocaml, smart-contracts, tezos</sup></sub>
@@ -47,6 +47,6 @@ A block explorer for Tezos
 created 2017-02-15, last commit 2017-03-31, main language Makefile  
 
 
-This file was automatically generated on 2021-12-05.  
+This file was automatically generated on 2021-12-06.  
 
 To curate your own github list, simply clone and change the input csv file.  

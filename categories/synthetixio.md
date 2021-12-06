@@ -9,8 +9,8 @@ Checkout the interactive version that you can filter and sort:
 Synthetix Solidity smart contracts  
 [https://synthetix.io/](https://synthetix.io/)  
 [https://github.com/Synthetixio/synthetix](https://github.com/Synthetixio/synthetix)  
-3.2 stars per week over 209 weeks  
-671 stars, 358 forks, 49 watches  
+3.22 stars per week over 209 weeks  
+674 stars, 359 forks, 49 watches  
 created 2017-11-30, last commit 2021-12-03, main language JavaScript  
 <sub><sup>blockchain, defi, derivatives, ethereum, synthetix</sup></sub>
 
@@ -19,8 +19,8 @@ created 2017-11-30, last commit 2021-12-03, main language JavaScript
 The Synthetix Exchange dApp code  
 [https://synthetix.exchange](https://synthetix.exchange)  
 [https://github.com/Synthetixio/synthetix-exchange](https://github.com/Synthetixio/synthetix-exchange)  
-0.75 stars per week over 158 weeks  
-119 stars, 86 forks, 14 watches  
+0.75 stars per week over 159 weeks  
+119 stars, 85 forks, 14 watches  
 created 2018-11-19, last commit 2021-06-24, main language TypeScript  
 <sub><sup>dapp, defi, ethereum, synthetix</sup></sub>
 
@@ -38,7 +38,7 @@ created 2020-11-18, last commit 2021-11-26, main language JavaScript
 Synthetix's Mintr v2.0: Lock up SNX to mint sUSD, claim weekly SNX and sUSD rewards for staking in the system..  
 [https://mintr.synthetix.io/](https://mintr.synthetix.io/)  
 [https://github.com/Synthetixio/synthetix-mintr](https://github.com/Synthetixio/synthetix-mintr)  
-0.58 stars per week over 128 weeks  
+0.58 stars per week over 129 weeks  
 75 stars, 66 forks, 16 watches  
 created 2019-06-17, last commit 2021-05-17, main language JavaScript  
 <sub><sup>dapp, defi, ethereum, synthetix, web3</sup></sub>
@@ -59,7 +59,7 @@ The Synthetix Improvement Proposal repository
 [https://github.com/Synthetixio/SIPs](https://github.com/Synthetixio/SIPs)  
 0.42 stars per week over 130 weeks  
 55 stars, 101 forks, 15 watches  
-created 2019-06-06, last commit 2021-12-02, main language Jupyter Notebook  
+created 2019-06-06, last commit 2021-12-06, main language Jupyter Notebook  
 <sub><sup>defi, ethereum, synthetix</sup></sub>
 
 
@@ -95,7 +95,7 @@ created 2019-10-12, last commit 2021-04-22, main language JavaScript
 ### [Unipool](https://github.com/Synthetixio/Unipool) by [Synthetixio](https://github.com/Synthetixio)  
   
 [https://github.com/Synthetixio/Unipool](https://github.com/Synthetixio/Unipool)  
-0.18 stars per week over 108 weeks  
+0.17 stars per week over 108 weeks  
 19 stars, 20 forks, 3 watches  
 created 2019-11-07, last commit 2020-04-29, main language Solidity  
 
@@ -125,6 +125,15 @@ Agent-based model of the proposed stablecoin.
 created 2017-09-28, last commit 2017-12-21, main language Python  
 
 
+### [synthetix-dashboard](https://github.com/Synthetixio/synthetix-dashboard) by [Synthetixio](https://github.com/Synthetixio)  
+Synthetix Dashboard website  
+[https://synthetix-dashboard.synthetixio.vercel.app](https://synthetix-dashboard.synthetixio.vercel.app)  
+[https://github.com/Synthetixio/synthetix-dashboard](https://github.com/Synthetixio/synthetix-dashboard)  
+0.06 stars per week over 174 weeks  
+10 stars, 9 forks, 9 watches  
+created 2018-08-06, last commit 2020-09-02, main language CSS  
+
+
 ### [js](https://github.com/Synthetixio/js) by [Synthetixio](https://github.com/Synthetixio)  
 BETA: Javascript library for interacting with the Synthetix protocol  
 [https://github.com/Synthetixio/js](https://github.com/Synthetixio/js)  
@@ -134,15 +143,6 @@ created 2020-08-04, last commit 2021-03-24, main language TypeScript
 <sub><sup>defi, ethereum, synthetix</sup></sub>
 
 
-### [synthetix-dashboard](https://github.com/Synthetixio/synthetix-dashboard) by [Synthetixio](https://github.com/Synthetixio)  
-Synthetix Dashboard website  
-[https://synthetix-dashboard.synthetixio.vercel.app](https://synthetix-dashboard.synthetixio.vercel.app)  
-[https://github.com/Synthetixio/synthetix-dashboard](https://github.com/Synthetixio/synthetix-dashboard)  
-0.06 stars per week over 173 weeks  
-10 stars, 9 forks, 9 watches  
-created 2018-08-06, last commit 2020-09-02, main language CSS  
-
-
-This file was automatically generated on 2021-12-05.  
+This file was automatically generated on 2021-12-06.  
 
 To curate your own github list, simply clone and change the input csv file.  

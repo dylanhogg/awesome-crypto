@@ -9,8 +9,8 @@ Checkout the interactive version that you can filter and sort:
 Solidity-compatible BLS signatures, threshold encryption, distributed key generation library in modern C++. Actively maintained and used by SKALE for consensus, distributed random number gen, inter-chain communication and protection of transactions. BLS threshold signatures can be verified in Solidity, and used as random beacon (common coin)  
 [https://skale.network](https://skale.network)  
 [https://github.com/skalenetwork/libBLS](https://github.com/skalenetwork/libBLS)  
-0.63 stars per week over 144 weeks  
-91 stars, 22 forks, 7 watches  
+0.64 stars per week over 144 weeks  
+92 stars, 23 forks, 7 watches  
 created 2019-02-28, last commit 2021-11-24, main language C++  
 <sub><sup>bls, bls-signature, bls-signatures, bls-threshold-signatures, common-coin, cryptography, distributed-key-generation, dkg, elliptic-curves, joint-feldman, skale, solidity, threshold-cryptography, threshold-encryption, threshold-signatures</sup></sub>
 
@@ -19,9 +19,9 @@ created 2019-02-28, last commit 2021-11-24, main language C++
 A multichain network composed of an unlimited number of secure, decentralized, high-performance Ethereum Native  Blockchains.   
 [https://skale.network](https://skale.network)  
 [https://github.com/skalenetwork/skale-network](https://github.com/skalenetwork/skale-network)  
-0.62 stars per week over 135 weeks  
+0.62 stars per week over 136 weeks  
 84 stars, 18 forks, 13 watches  
-created 2019-04-29, last commit 2021-11-24, main language Python  
+created 2019-04-29, last commit 2021-12-06, main language Python  
 <sub><sup>blockchain, cryptography, distributed-systems, proof-of-stake, skale-network</sup></sub>
 
 
@@ -119,13 +119,12 @@ SKALE filestorage extension to EVM
 created 2019-04-12, last commit 2021-12-03, main language JavaScript  
 
 
-### [skale.js](https://github.com/skalenetwork/skale.js) by [skalenetwork](https://github.com/skalenetwork)  
-Javascript library for interacting with SKALE Manager  
-[https://github.com/skalenetwork/skale.js](https://github.com/skalenetwork/skale.js)  
-0.11 stars per week over 138 weeks  
-15 stars, 0 forks, 4 watches  
-created 2019-04-12, last commit 2021-09-07, main language TypeScript  
-<sub><sup>javascript-library, skale-network</sup></sub>
+### [skale-sdk](https://github.com/skalenetwork/skale-sdk) by [skalenetwork](https://github.com/skalenetwork)  
+  
+[https://github.com/skalenetwork/skale-sdk](https://github.com/skalenetwork/skale-sdk)  
+0.19 stars per week over 79 weeks  
+15 stars, 8 forks, 7 watches  
+created 2020-05-29, last commit 2021-07-21, main language Shell  
 
 
 ### [skale-node](https://github.com/skalenetwork/skale-node) by [skalenetwork](https://github.com/skalenetwork)  
@@ -136,12 +135,13 @@ Configuration files for SKALE node
 created 2019-09-25, last commit 2021-10-25, main language Jinja  
 
 
-### [skale-sdk](https://github.com/skalenetwork/skale-sdk) by [skalenetwork](https://github.com/skalenetwork)  
-  
-[https://github.com/skalenetwork/skale-sdk](https://github.com/skalenetwork/skale-sdk)  
-0.19 stars per week over 79 weeks  
-15 stars, 8 forks, 7 watches  
-created 2020-05-29, last commit 2021-07-21, main language Shell  
+### [skale.js](https://github.com/skalenetwork/skale.js) by [skalenetwork](https://github.com/skalenetwork)  
+Javascript library for interacting with SKALE Manager  
+[https://github.com/skalenetwork/skale.js](https://github.com/skalenetwork/skale.js)  
+0.11 stars per week over 138 weeks  
+15 stars, 0 forks, 4 watches  
+created 2019-04-12, last commit 2021-09-07, main language TypeScript  
+<sub><sup>javascript-library, skale-network</sup></sub>
 
 
 ### [skale-nms](https://github.com/skalenetwork/skale-nms) by [skalenetwork](https://github.com/skalenetwork)  
@@ -157,7 +157,7 @@ created 2019-04-13, last commit 2020-04-13, main language Python
 ### [truffle-skale-network-box](https://github.com/skalenetwork/truffle-skale-network-box) by [skalenetwork](https://github.com/skalenetwork)  
 Truffle Box for deploying smart contracts directly to the SKALE Network.  
 [https://github.com/skalenetwork/truffle-skale-network-box](https://github.com/skalenetwork/truffle-skale-network-box)  
-0.39 stars per week over 27 weeks  
+0.39 stars per week over 28 weeks  
 11 stars, 1 forks, 5 watches  
 created 2021-05-24, last commit 2021-06-11, main language JavaScript  
 
@@ -179,16 +179,6 @@ Skaled tests
 created 2019-04-12, last commit 2020-07-22, main language Python  
 
 
-### [validator-cli](https://github.com/skalenetwork/validator-cli) by [skalenetwork](https://github.com/skalenetwork)  
-A command line tool for validators and delegators. Written in Python.  
-[https://skale.network](https://skale.network)  
-[https://github.com/skalenetwork/validator-cli](https://github.com/skalenetwork/validator-cli)  
-0.1 stars per week over 97 weeks  
-10 stars, 2 forks, 6 watches  
-created 2020-01-20, last commit 2021-07-14, main language Python  
-<sub><sup>cli, click, python, skale-network, web3py</sup></sub>
-
-
 ### [documentation](https://github.com/skalenetwork/documentation) by [skalenetwork](https://github.com/skalenetwork)  
 SKALE Network documentation  
 [https://skale.network/docs/](https://skale.network/docs/)  
@@ -199,6 +189,16 @@ created 2019-08-22, last commit 2021-07-23, main language Handlebars
 <sub><sup>documentation, skale-network</sup></sub>
 
 
-This file was automatically generated on 2021-12-05.  
+### [validator-cli](https://github.com/skalenetwork/validator-cli) by [skalenetwork](https://github.com/skalenetwork)  
+A command line tool for validators and delegators. Written in Python.  
+[https://skale.network](https://skale.network)  
+[https://github.com/skalenetwork/validator-cli](https://github.com/skalenetwork/validator-cli)  
+0.1 stars per week over 98 weeks  
+10 stars, 2 forks, 6 watches  
+created 2020-01-20, last commit 2021-07-14, main language Python  
+<sub><sup>cli, click, python, skale-network, web3py</sup></sub>
+
+
+This file was automatically generated on 2021-12-06.  
 
 To curate your own github list, simply clone and change the input csv file.  

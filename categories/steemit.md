@@ -39,7 +39,7 @@ created 2016-07-21, last commit 2020-06-30, main language JavaScript
 The official Python (3) library for the Steem Blockchain.  
 [https://steem.io](https://steem.io)  
 [https://github.com/steemit/steem-python](https://github.com/steemit/steem-python)  
-0.64 stars per week over 246 weeks  
+0.64 stars per week over 247 weeks  
 159 stars, 110 forks, 53 watches  
 created 2017-03-13, last commit 2019-02-06, main language Python  
 <sub><sup>steem, steem-blockchain, steemit</sup></sub>
@@ -121,6 +121,6 @@ The wallet functionality of condenser
 created 2019-01-25, last commit 2021-06-18, main language JavaScript  
 
 
-This file was automatically generated on 2021-12-05.  
+This file was automatically generated on 2021-12-06.  
 
 To curate your own github list, simply clone and change the input csv file.  

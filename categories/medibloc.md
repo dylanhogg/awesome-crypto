@@ -44,11 +44,11 @@ created 2018-04-12, last commit 2019-05-02, main language JavaScript
 Explorer developed by MediBloc, using React.js  
 [https://medibloc.org](https://medibloc.org)  
 [https://github.com/medibloc/explorer](https://github.com/medibloc/explorer)  
-0.08 stars per week over 179 weeks  
-15 stars, 6 forks, 16 watches  
+0.09 stars per week over 180 weeks  
+16 stars, 6 forks, 16 watches  
 created 2018-06-25, last commit 2021-07-07, main language JavaScript  
 
 
-This file was automatically generated on 2021-12-05.  
+This file was automatically generated on 2021-12-06.  
 
 To curate your own github list, simply clone and change the input csv file.  

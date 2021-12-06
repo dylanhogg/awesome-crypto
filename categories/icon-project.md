@@ -28,8 +28,8 @@ created 2018-04-24, last commit 2021-11-03, main language JavaScript
 A blockchain node written in Go  
 [https://github.com/icon-project/goloop](https://github.com/icon-project/goloop)  
 0.61 stars per week over 65 weeks  
-40 stars, 14 forks, 21 watches  
-created 2020-09-03, last commit 2021-12-03, main language Go  
+40 stars, 15 forks, 21 watches  
+created 2020-09-03, last commit 2021-12-06, main language Go  
 <sub><sup>blockchain</sup></sub>
 
 
@@ -81,20 +81,20 @@ ICON SDK for Java
 created 2018-08-07, last commit 2021-11-08, main language Java  
 
 
+### [LFT2](https://github.com/icon-project/LFT2) by [icon-project](https://github.com/icon-project)  
+Consensus algorithm  
+[https://github.com/icon-project/LFT2](https://github.com/icon-project/LFT2)  
+0.2 stars per week over 95 weeks  
+19 stars, 6 forks, 10 watches  
+created 2020-02-10, last commit 2020-04-09, main language Python  
+
+
 ### [btp](https://github.com/icon-project/btp) by [icon-project](https://github.com/icon-project)  
   
 [https://github.com/icon-project/btp](https://github.com/icon-project/btp)  
-0.33 stars per week over 57 weeks  
+0.33 stars per week over 58 weeks  
 19 stars, 10 forks, 14 watches  
 created 2020-10-26, last commit 2021-11-04, main language Go  
-
-
-### [icon_sdk_for_python](https://github.com/icon-project/icon_sdk_for_python) by [icon-project](https://github.com/icon-project)  
-**Obsolete** ICON SDK for Python based on ICON JSON RPC API V2  
-[https://github.com/icon-project/icon_sdk_for_python](https://github.com/icon-project/icon_sdk_for_python)  
-0.1 stars per week over 188 weeks  
-19 stars, 10 forks, 14 watches  
-created 2018-04-26, last commit 2019-01-02, main language Python  
 
 
 ### [multisig-wallet](https://github.com/icon-project/multisig-wallet) by [icon-project](https://github.com/icon-project)  
@@ -105,12 +105,20 @@ Multi Signature Wallet SCORE
 created 2018-10-13, last commit 2021-09-08, main language Python  
 
 
-### [LFT2](https://github.com/icon-project/LFT2) by [icon-project](https://github.com/icon-project)  
-Consensus algorithm  
-[https://github.com/icon-project/LFT2](https://github.com/icon-project/LFT2)  
-0.2 stars per week over 94 weeks  
-19 stars, 6 forks, 10 watches  
-created 2020-02-10, last commit 2020-04-09, main language Python  
+### [icon_sdk_for_python](https://github.com/icon-project/icon_sdk_for_python) by [icon-project](https://github.com/icon-project)  
+**Obsolete** ICON SDK for Python based on ICON JSON RPC API V2  
+[https://github.com/icon-project/icon_sdk_for_python](https://github.com/icon-project/icon_sdk_for_python)  
+0.1 stars per week over 188 weeks  
+19 stars, 10 forks, 14 watches  
+created 2018-04-26, last commit 2019-01-02, main language Python  
+
+
+### [icon-rpc-server](https://github.com/icon-project/icon-rpc-server) by [icon-project](https://github.com/icon-project)  
+ICON RPC Server  
+[https://github.com/icon-project/icon-rpc-server](https://github.com/icon-project/icon-rpc-server)  
+0.1 stars per week over 171 weeks  
+18 stars, 14 forks, 20 watches  
+created 2018-08-24, last commit 2021-10-22, main language Python  
 
 
 ### [icon_cli_tool](https://github.com/icon-project/icon_cli_tool) by [icon-project](https://github.com/icon-project)  
@@ -127,14 +135,6 @@ Python AMQP RPC library
 0.1 stars per week over 172 weeks  
 18 stars, 4 forks, 14 watches  
 created 2018-08-17, last commit 2020-12-29, main language Python  
-
-
-### [icon-rpc-server](https://github.com/icon-project/icon-rpc-server) by [icon-project](https://github.com/icon-project)  
-ICON RPC Server  
-[https://github.com/icon-project/icon-rpc-server](https://github.com/icon-project/icon-rpc-server)  
-0.11 stars per week over 171 weeks  
-18 stars, 14 forks, 20 watches  
-created 2018-08-24, last commit 2021-10-22, main language Python  
 
 
 ### [icon-dex](https://github.com/icon-project/icon-dex) by [icon-project](https://github.com/icon-project)  
@@ -157,22 +157,22 @@ created 2019-04-26, last commit 2020-09-10, main language Java
 ICONex for Android  
 [https://github.com/icon-project/iconex_android](https://github.com/icon-project/iconex_android)  
 0.09 stars per week over 173 weeks  
-15 stars, 9 forks, 14 watches  
+15 stars, 10 forks, 14 watches  
 created 2018-08-07, last commit 2020-01-20, main language Java  
 
 
 ### [iconex_ios](https://github.com/icon-project/iconex_ios) by [icon-project](https://github.com/icon-project)  
 ICONex for iOS  
 [https://github.com/icon-project/iconex_ios](https://github.com/icon-project/iconex_ios)  
-0.07 stars per week over 173 weeks  
-13 stars, 8 forks, 11 watches  
+0.07 stars per week over 174 weeks  
+13 stars, 9 forks, 11 watches  
 created 2018-08-06, last commit 2019-11-11, main language Swift  
 
 
 ### [governance](https://github.com/icon-project/governance) by [icon-project](https://github.com/icon-project)  
 Governance SCORE  
 [https://github.com/icon-project/governance](https://github.com/icon-project/governance)  
-0.08 stars per week over 167 weeks  
+0.08 stars per week over 168 weeks  
 13 stars, 4 forks, 15 watches  
 created 2018-09-17, last commit 2021-12-01, main language Python  
 
@@ -181,7 +181,7 @@ created 2018-09-17, last commit 2021-12-01, main language Python
   
 [https://icondev.io](https://icondev.io)  
 [https://github.com/icon-project/icon-project.github.io](https://github.com/icon-project/icon-project.github.io)  
-0.07 stars per week over 168 weeks  
+0.07 stars per week over 169 weeks  
 11 stars, 11 forks, 15 watches  
 created 2018-09-10, last commit 2019-04-30, main language HTML  
 
@@ -203,6 +203,6 @@ ICON documentation
 created 2019-01-22, last commit 2019-10-04, main language None  
 
 
-This file was automatically generated on 2021-12-05.  
+This file was automatically generated on 2021-12-06.  
 
 To curate your own github list, simply clone and change the input csv file.  

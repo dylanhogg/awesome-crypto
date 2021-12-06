@@ -9,7 +9,7 @@ Checkout the interactive version that you can filter and sort:
 Binance Smart Chain  
 [http://binance.org/#smartChain](http://binance.org/#smartChain)  
 [https://github.com/binance-chain/whitepaper](https://github.com/binance-chain/whitepaper)  
-15 stars per week over 85 weeks  
+15 stars per week over 86 weeks  
 1,348 stars, 294 forks, 171 watches  
 created 2020-04-13, last commit 2021-02-04, main language None  
 <sub><sup>binance-chain, blockchain</sup></sub>
@@ -19,7 +19,7 @@ created 2020-04-13, last commit 2021-02-04, main language None
 A Binance Smart Chain client based on the go-ethereum fork  
 [https://github.com/binance-chain/bsc](https://github.com/binance-chain/bsc)  
 14 stars per week over 80 weeks  
-1,133 stars, 451 forks, 66 watches  
+1,141 stars, 452 forks, 65 watches  
 created 2020-05-21, last commit 2021-12-05, main language Go  
 <sub><sup>binance, blockchain</sup></sub>
 
@@ -27,7 +27,7 @@ created 2020-05-21, last commit 2021-12-05, main language Go
 ### [BEPs](https://github.com/binance-chain/BEPs) by [binance-chain](https://github.com/binance-chain)  
 Binance Evolution Proposals  
 [https://github.com/binance-chain/BEPs](https://github.com/binance-chain/BEPs)  
-2.22 stars per week over 138 weeks  
+2.22 stars per week over 139 weeks  
 308 stars, 201 forks, 39 watches  
 created 2019-04-08, last commit 2021-10-22, main language None  
 <sub><sup>bep</sup></sub>
@@ -36,16 +36,16 @@ created 2019-04-08, last commit 2021-10-22, main language None
 ### [bsc-ecosystem](https://github.com/binance-chain/bsc-ecosystem) by [binance-chain](https://github.com/binance-chain)  
 A guide to available tools, components, and platforms for developing applications on BSC.  
 [https://github.com/binance-chain/bsc-ecosystem](https://github.com/binance-chain/bsc-ecosystem)  
-4.95 stars per week over 59 weeks  
-295 stars, 132 forks, 35 watches  
-created 2020-10-14, last commit 2021-07-22, main language None  
+4.97 stars per week over 59 weeks  
+297 stars, 132 forks, 35 watches  
+created 2020-10-14, last commit 2021-12-05, main language None  
 
 
 ### [tss-lib](https://github.com/binance-chain/tss-lib) by [binance-chain](https://github.com/binance-chain)  
 Threshold Signature Scheme, for ECDSA  
 [https://github.com/binance-chain/tss-lib](https://github.com/binance-chain/tss-lib)  
-1.95 stars per week over 134 weeks  
-262 stars, 95 forks, 18 watches  
+1.96 stars per week over 134 weeks  
+263 stars, 95 forks, 18 watches  
 created 2019-05-11, last commit 2021-11-12, main language Go  
 <sub><sup>tss</sup></sub>
 
@@ -64,14 +64,14 @@ created 2018-08-30, last commit 2021-08-31, main language TypeScript
 [https://github.com/binance-chain/docs-site](https://github.com/binance-chain/docs-site)  
 1.36 stars per week over 173 weeks  
 235 stars, 149 forks, 39 watches  
-created 2018-08-10, last commit 2021-12-01, main language Makefile  
+created 2018-08-10, last commit 2021-12-06, main language Makefile  
 
 
 ### [bsc-genesis-contract](https://github.com/binance-chain/bsc-genesis-contract) by [binance-chain](https://github.com/binance-chain)  
 The genesis contracts of Binance Smart Chain.  
 [https://github.com/binance-chain/bsc-genesis-contract](https://github.com/binance-chain/bsc-genesis-contract)  
-2.43 stars per week over 80 weeks  
-196 stars, 243 forks, 23 watches  
+2.47 stars per week over 80 weeks  
+199 stars, 242 forks, 23 watches  
 created 2020-05-20, last commit 2021-10-25, main language Solidity  
 <sub><sup>binance, binance-chain, smart-contracts</sup></sub>
 
@@ -87,7 +87,7 @@ created 2019-01-22, last commit 2021-02-22, main language Shell
 ### [go-sdk](https://github.com/binance-chain/go-sdk) by [binance-chain](https://github.com/binance-chain)  
   
 [https://github.com/binance-chain/go-sdk](https://github.com/binance-chain/go-sdk)  
-0.77 stars per week over 162 weeks  
+0.77 stars per week over 163 weeks  
 126 stars, 69 forks, 26 watches  
 created 2018-10-22, last commit 2021-08-23, main language Go  
 <sub><sup>sdk</sup></sub>
@@ -105,16 +105,16 @@ created 2018-12-28, last commit 2021-08-24, main language Java
 ### [bsc-snapshots](https://github.com/binance-chain/bsc-snapshots) by [binance-chain](https://github.com/binance-chain)  
   
 [https://github.com/binance-chain/bsc-snapshots](https://github.com/binance-chain/bsc-snapshots)  
-2.19 stars per week over 29 weeks  
-64 stars, 28 forks, 39 watches  
+2.24 stars per week over 29 weeks  
+66 stars, 28 forks, 41 watches  
 created 2021-05-14, last commit 2021-12-02, main language None  
 
 
 ### [eth-bsc-swap-contracts](https://github.com/binance-chain/eth-bsc-swap-contracts) by [binance-chain](https://github.com/binance-chain)  
   
 [https://github.com/binance-chain/eth-bsc-swap-contracts](https://github.com/binance-chain/eth-bsc-swap-contracts)  
-0.65 stars per week over 64 weeks  
-42 stars, 63 forks, 13 watches  
+0.66 stars per week over 64 weeks  
+43 stars, 63 forks, 13 watches  
 created 2020-09-09, last commit 2021-03-31, main language Solidity  
 
 
@@ -182,7 +182,7 @@ created 2019-05-09, last commit 2019-04-29, main language C#
 ### [bsc-use-wallet](https://github.com/binance-chain/bsc-use-wallet) by [binance-chain](https://github.com/binance-chain)  
 👛 useWallet() · All-in-one solution to connect a dapp to an Ethereum provider.  
 [https://github.com/binance-chain/bsc-use-wallet](https://github.com/binance-chain/bsc-use-wallet)  
-0.43 stars per week over 58 weeks  
+0.42 stars per week over 58 weeks  
 25 stars, 21 forks, 1 watches  
 created 2020-10-20, last commit 2020-12-04, main language JavaScript  
 <sub><sup>frontend</sup></sub>
@@ -210,7 +210,7 @@ created 2020-09-27, last commit 2021-06-08, main language Solidity
 [https://github.com/binance-chain/peg-token-stats](https://github.com/binance-chain/peg-token-stats)  
 0.35 stars per week over 60 weeks  
 21 stars, 19 forks, 11 watches  
-created 2020-10-09, last commit 2021-12-05, main language None  
+created 2020-10-09, last commit 2021-12-06, main language None  
 
 
 ### [swift-sdk](https://github.com/binance-chain/swift-sdk) by [binance-chain](https://github.com/binance-chain)  
@@ -231,14 +231,6 @@ created 2019-01-02, last commit 2019-06-20, main language C
 <sub><sup>hardware-wallet</sup></sub>
 
 
-### [cplusplus-sdk](https://github.com/binance-chain/cplusplus-sdk) by [binance-chain](https://github.com/binance-chain)  
-  
-[https://github.com/binance-chain/cplusplus-sdk](https://github.com/binance-chain/cplusplus-sdk)  
-0.11 stars per week over 150 weeks  
-16 stars, 10 forks, 15 watches  
-created 2019-01-17, last commit 2019-04-01, main language C  
-
-
 ### [oracle-relayer](https://github.com/binance-chain/oracle-relayer) by [binance-chain](https://github.com/binance-chain)  
 Oracle Relayer is responsible for relaying events of bsc to binance chain.  
 [https://github.com/binance-chain/oracle-relayer](https://github.com/binance-chain/oracle-relayer)  
@@ -248,12 +240,28 @@ created 2020-05-20, last commit 2020-12-14, main language Go
 <sub><sup>binance, binance-chain, bsc, oracle</sup></sub>
 
 
+### [cplusplus-sdk](https://github.com/binance-chain/cplusplus-sdk) by [binance-chain](https://github.com/binance-chain)  
+  
+[https://github.com/binance-chain/cplusplus-sdk](https://github.com/binance-chain/cplusplus-sdk)  
+0.11 stars per week over 150 weeks  
+16 stars, 10 forks, 15 watches  
+created 2019-01-17, last commit 2019-04-01, main language C  
+
+
 ### [bsc-docker](https://github.com/binance-chain/bsc-docker) by [binance-chain](https://github.com/binance-chain)  
   
 [https://github.com/binance-chain/bsc-docker](https://github.com/binance-chain/bsc-docker)  
-1.85 stars per week over 7 weeks  
+1.81 stars per week over 7 weeks  
 14 stars, 5 forks, 7 watches  
 created 2021-10-13, last commit 2021-10-22, main language Shell  
+
+
+### [token-canal-project](https://github.com/binance-chain/token-canal-project) by [binance-chain](https://github.com/binance-chain)  
+Project Token Canal is a new initiative, similar to many existing ‘wrapped coins’ in the crypto community, Binance.com, the largest crypto token vault and exchange, will stand to issue and bind more token assets on Binance Chain, Binance Smart Chain and Ethereum, and guarantee the conversion from and to the original tokens with our own credibility and infrastructure.  
+[https://github.com/binance-chain/token-canal-project](https://github.com/binance-chain/token-canal-project)  
+0.19 stars per week over 61 weeks  
+12 stars, 12 forks, 6 watches  
+created 2020-10-01, last commit 2020-11-02, main language Solidity  
 
 
 ### [validator-directory](https://github.com/binance-chain/validator-directory) by [binance-chain](https://github.com/binance-chain)  
@@ -272,14 +280,6 @@ Tools and ecosystem kits
 created 2019-05-22, last commit 2021-02-22, main language Shell  
 
 
-### [token-canal-project](https://github.com/binance-chain/token-canal-project) by [binance-chain](https://github.com/binance-chain)  
-Project Token Canal is a new initiative, similar to many existing ‘wrapped coins’ in the crypto community, Binance.com, the largest crypto token vault and exchange, will stand to issue and bind more token assets on Binance Chain, Binance Smart Chain and Ethereum, and guarantee the conversion from and to the original tokens with our own credibility and infrastructure.  
-[https://github.com/binance-chain/token-canal-project](https://github.com/binance-chain/token-canal-project)  
-0.18 stars per week over 61 weeks  
-11 stars, 12 forks, 6 watches  
-created 2020-10-01, last commit 2020-11-02, main language Solidity  
-
-
-This file was automatically generated on 2021-12-05.  
+This file was automatically generated on 2021-12-06.  
 
 To curate your own github list, simply clone and change the input csv file.  

@@ -9,9 +9,9 @@ Checkout the interactive version that you can filter and sort:
 Official Go implementation of the Livepeer protocol  
 [http://livepeer.org](http://livepeer.org)  
 [https://github.com/livepeer/go-livepeer](https://github.com/livepeer/go-livepeer)  
-1.75 stars per week over 232 weeks  
+1.75 stars per week over 233 weeks  
 408 stars, 111 forks, 34 watches  
-created 2017-06-19, last commit 2021-11-24, main language Go  
+created 2017-06-19, last commit 2021-12-06, main language Go  
 <sub><sup>broadcasting, ethereum, transcode, video-stream</sup></sub>
 
 
@@ -20,7 +20,7 @@ Livepeer media server
 [https://github.com/livepeer/lpms](https://github.com/livepeer/lpms)  
 0.89 stars per week over 253 weeks  
 225 stars, 53 forks, 22 watches  
-created 2017-01-27, last commit 2021-11-30, main language Go  
+created 2017-01-27, last commit 2021-12-06, main language Go  
 
 
 ### [wiki](https://github.com/livepeer/wiki) by [livepeer](https://github.com/livepeer)  
@@ -70,9 +70,18 @@ created 2017-03-02, last commit 2017-08-17, main language Go
 ### [merkle-mine](https://github.com/livepeer/merkle-mine) by [livepeer](https://github.com/livepeer)  
 Token distribution based on providing Merkle proofs of inclusion in genesis state to generate allocation  
 [https://github.com/livepeer/merkle-mine](https://github.com/livepeer/merkle-mine)  
-0.15 stars per week over 190 weeks  
+0.15 stars per week over 191 weeks  
 29 stars, 8 forks, 6 watches  
 created 2018-04-09, last commit 2018-07-26, main language JavaScript  
+
+
+### [livepeer-com](https://github.com/livepeer/livepeer-com) by [livepeer](https://github.com/livepeer)  
+Livepeer.com an open source gateway that developers and broadcasters can use to easily stream directly into the Livepeer network. Build and scale next generation streaming platforms and services with the world's open video infrastructure.  
+[https://livepeer.com](https://livepeer.com)  
+[https://github.com/livepeer/livepeer-com](https://github.com/livepeer/livepeer-com)  
+0.23 stars per week over 70 weeks  
+16 stars, 8 forks, 8 watches  
+created 2020-07-29, last commit 2021-12-03, main language TypeScript  
 
 
 ### [go-livepeer-basicnet](https://github.com/livepeer/go-livepeer-basicnet) by [livepeer](https://github.com/livepeer)  
@@ -89,15 +98,6 @@ Desktop Application For Livepeer (Out of date)
 0.07 stars per week over 241 weeks  
 16 stars, 5 forks, 9 watches  
 created 2017-04-19, last commit 2018-01-05, main language JavaScript  
-
-
-### [livepeer-com](https://github.com/livepeer/livepeer-com) by [livepeer](https://github.com/livepeer)  
-Livepeer.com an open source gateway that developers and broadcasters can use to easily stream directly into the Livepeer network. Build and scale next generation streaming platforms and services with the world's open video infrastructure.  
-[https://livepeer.com](https://livepeer.com)  
-[https://github.com/livepeer/livepeer-com](https://github.com/livepeer/livepeer-com)  
-0.23 stars per week over 70 weeks  
-16 stars, 8 forks, 8 watches  
-created 2020-07-29, last commit 2021-12-03, main language TypeScript  
 
 
 ### [verification-truebit](https://github.com/livepeer/verification-truebit) by [livepeer](https://github.com/livepeer)  
@@ -134,6 +134,6 @@ created 2018-04-19, last commit 2018-07-08, main language JavaScript
 <sub><sup>ethereum, ethereum-dapp, livepeer</sup></sub>
 
 
-This file was automatically generated on 2021-12-05.  
+This file was automatically generated on 2021-12-06.  
 
 To curate your own github list, simply clone and change the input csv file.  

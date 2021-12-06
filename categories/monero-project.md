@@ -10,7 +10,7 @@ Monero: the secure, private, untraceable cryptocurrency
 [https://getmonero.org](https://getmonero.org)  
 [https://github.com/monero-project/monero](https://github.com/monero-project/monero)  
 16 stars per week over 396 weeks  
-6,463 stars, 3,131 forks, 486 watches  
+6,466 stars, 3,132 forks, 486 watches  
 created 2014-04-30, last commit 2021-11-30, main language C++  
 <sub><sup>blockchain, c-plus-plus, cmake, cryptocurrency, cryptography, cryptonote, monero, p2p, privacy, security</sup></sub>
 
@@ -43,8 +43,8 @@ created 2015-01-02, last commit 2021-11-10, main language CSS
 ### [research-lab](https://github.com/monero-project/research-lab) by [monero-project](https://github.com/monero-project)  
 A general repo for Monero Research Lab work in progress and completed work  
 [https://github.com/monero-project/research-lab](https://github.com/monero-project/research-lab)  
-0.48 stars per week over 317 weeks  
-151 stars, 56 forks, 60 watches  
+0.48 stars per week over 318 weeks  
+152 stars, 56 forks, 59 watches  
 created 2015-11-02, last commit 2018-06-19, main language TeX  
 
 
@@ -128,6 +128,6 @@ created 2017-09-14, last commit 2018-07-06, main language C
 created 2014-08-02, last commit 2017-03-07, main language Python  
 
 
-This file was automatically generated on 2021-12-05.  
+This file was automatically generated on 2021-12-06.  
 
 To curate your own github list, simply clone and change the input csv file.  

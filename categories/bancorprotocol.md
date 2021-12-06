@@ -9,7 +9,7 @@ Checkout the interactive version that you can filter and sort:
 Bancor Protocol Contracts  
 [https://github.com/bancorprotocol/contracts-solidity](https://github.com/bancorprotocol/contracts-solidity)  
 2.96 stars per week over 250 weeks  
-742 stars, 338 forks, 55 watches  
+743 stars, 338 forks, 55 watches  
 created 2017-02-15, last commit 2021-11-13, main language JavaScript  
 
 
@@ -41,7 +41,7 @@ created 2019-12-19, last commit 2021-05-13, main language TypeScript
 ### [translations](https://github.com/bancorprotocol/translations) by [bancorprotocol](https://github.com/bancorprotocol)  
   
 [https://github.com/bancorprotocol/translations](https://github.com/bancorprotocol/translations)  
-0.06 stars per week over 244 weeks  
+0.06 stars per week over 245 weeks  
 14 stars, 22 forks, 8 watches  
 created 2017-03-27, last commit 2017-07-20, main language None  
 
@@ -55,6 +55,6 @@ created 2017-03-27, last commit 2017-07-20, main language None
 created 2021-05-16, last commit 2021-11-30, main language TypeScript  
 
 
-This file was automatically generated on 2021-12-05.  
+This file was automatically generated on 2021-12-06.  
 
 To curate your own github list, simply clone and change the input csv file.  

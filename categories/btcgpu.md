@@ -22,6 +22,6 @@ ElectrumG; Bitcoin Gold thin client
 created 2018-02-13, last commit 2018-07-16, main language Python  
 
 
-This file was automatically generated on 2021-12-05.  
+This file was automatically generated on 2021-12-06.  
 
 To curate your own github list, simply clone and change the input csv file.  

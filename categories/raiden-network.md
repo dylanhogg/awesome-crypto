@@ -10,8 +10,8 @@ Raiden Network
 [https://developer.raiden.network](https://developer.raiden.network)  
 [https://github.com/raiden-network/raiden](https://github.com/raiden-network/raiden)  
 5.97 stars per week over 305 weeks  
-1,822 stars, 383 forks, 188 watches  
-created 2016-01-29, last commit 2021-12-03, main language Python  
+1,822 stars, 383 forks, 189 watches  
+created 2016-01-29, last commit 2021-12-06, main language Python  
 <sub><sup>blockchain, ethereum, micropayments, payment, payment-channels, payments, raiden</sup></sub>
 
 
@@ -26,7 +26,7 @@ created 2017-08-04, last commit 2018-08-22, main language JavaScript
 ### [raiden-token](https://github.com/raiden-network/raiden-token) by [raiden-network](https://github.com/raiden-network)  
 Raiden Token and Issuance Contracts  
 [https://github.com/raiden-network/raiden-token](https://github.com/raiden-network/raiden-token)  
-0.2 stars per week over 234 weeks  
+0.2 stars per week over 235 weeks  
 46 stars, 29 forks, 21 watches  
 created 2017-06-05, last commit 2017-11-14, main language Python  
 
@@ -34,7 +34,7 @@ created 2017-06-05, last commit 2017-11-14, main language Python
 ### [raiden-contracts](https://github.com/raiden-network/raiden-contracts) by [raiden-network](https://github.com/raiden-network)  
 Raiden Network Smart Contracts  
 [https://github.com/raiden-network/raiden-contracts](https://github.com/raiden-network/raiden-contracts)  
-0.2 stars per week over 195 weeks  
+0.2 stars per week over 196 weeks  
 40 stars, 47 forks, 16 watches  
 created 2018-03-05, last commit 2021-12-02, main language Solidity  
 
@@ -43,7 +43,7 @@ created 2018-03-05, last commit 2021-12-02, main language Solidity
 The Raiden Light Client  
 [https://raiden.network/](https://raiden.network/)  
 [https://github.com/raiden-network/light-client](https://github.com/raiden-network/light-client)  
-0.18 stars per week over 145 weeks  
+0.18 stars per week over 146 weeks  
 26 stars, 20 forks, 12 watches  
 created 2019-02-18, last commit 2021-11-25, main language TypeScript  
 
@@ -59,7 +59,7 @@ created 2018-10-24, last commit 2019-06-06, main language Python
 ### [webui](https://github.com/raiden-network/webui) by [raiden-network](https://github.com/raiden-network)  
 Raiden's Web User Interface  
 [https://github.com/raiden-network/webui](https://github.com/raiden-network/webui)  
-0.15 stars per week over 157 weeks  
+0.15 stars per week over 158 weeks  
 23 stars, 15 forks, 12 watches  
 created 2018-11-26, last commit 2021-09-02, main language TypeScript  
 <sub><sup>angular, raiden, raiden-webui, webui</sup></sub>
@@ -76,11 +76,11 @@ created 2019-08-06, last commit 2020-01-20, main language None
 ### [raiden-services](https://github.com/raiden-network/raiden-services) by [raiden-network](https://github.com/raiden-network)  
 Development of the Raiden Monitoring and Pathfinding Services  
 [https://github.com/raiden-network/raiden-services](https://github.com/raiden-network/raiden-services)  
-0.07 stars per week over 149 weeks  
+0.07 stars per week over 150 weeks  
 11 stars, 17 forks, 15 watches  
-created 2019-01-21, last commit 2021-12-03, main language Python  
+created 2019-01-21, last commit 2021-12-06, main language Python  
 
 
-This file was automatically generated on 2021-12-05.  
+This file was automatically generated on 2021-12-06.  
 
 To curate your own github list, simply clone and change the input csv file.  

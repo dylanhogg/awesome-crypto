@@ -9,7 +9,7 @@ Checkout the interactive version that you can filter and sort:
 very currency  
 [https://github.com/dogecoin/dogecoin](https://github.com/dogecoin/dogecoin)  
 32 stars per week over 417 weeks  
-13,542 stars, 2,386 forks, 870 watches  
+13,553 stars, 2,387 forks, 870 watches  
 created 2013-12-06, last commit 2021-11-07, main language C++  
 
 
@@ -30,14 +30,6 @@ created 2015-04-11, last commit 2021-08-10, main language Java
 <sub><sup>altcoins, bitcoinj, dogecoin, litecoin, namecoin</sup></sub>
 
 
-### [dips](https://github.com/dogecoin/dips) by [dogecoin](https://github.com/dogecoin)  
-Dogecoin Improvement Proposals  
-[https://github.com/dogecoin/dips](https://github.com/dogecoin/dips)  
-0.07 stars per week over 399 weeks  
-28 stars, 18 forks, 10 watches  
-created 2014-04-12, last commit 2014-06-30, main language None  
-
-
 ### [dogecoin.github.io](https://github.com/dogecoin/dogecoin.github.io) by [dogecoin](https://github.com/dogecoin)  
   
 [https://github.com/dogecoin/dogecoin.github.io](https://github.com/dogecoin/dogecoin.github.io)  
@@ -46,6 +38,14 @@ created 2014-04-12, last commit 2014-06-30, main language None
 created 2019-09-08, last commit 2021-03-03, main language HTML  
 
 
-This file was automatically generated on 2021-12-05.  
+### [dips](https://github.com/dogecoin/dips) by [dogecoin](https://github.com/dogecoin)  
+Dogecoin Improvement Proposals  
+[https://github.com/dogecoin/dips](https://github.com/dogecoin/dips)  
+0.07 stars per week over 399 weeks  
+28 stars, 18 forks, 10 watches  
+created 2014-04-12, last commit 2014-06-30, main language None  
+
+
+This file was automatically generated on 2021-12-06.  
 
 To curate your own github list, simply clone and change the input csv file.  

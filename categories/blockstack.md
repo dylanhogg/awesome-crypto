@@ -9,7 +9,7 @@ Checkout the interactive version that you can filter and sort:
 The Stacks 2.0 blockchain implementation  
 [http://docs.blockstack.org](http://docs.blockstack.org)  
 [https://github.com/blockstack/stacks-blockchain](https://github.com/blockstack/stacks-blockchain)  
-6.75 stars per week over 375 weeks  
+6.74 stars per week over 375 weeks  
 2,535 stars, 490 forks, 187 watches  
 created 2014-09-23, last commit 2021-12-01, main language Rust  
 <sub><sup>apps, bitcoin, blockchain, blockstack, decentralized, dns, identity, rust, serverless, storage</sup></sub>
@@ -19,8 +19,8 @@ created 2014-09-23, last commit 2021-12-01, main language Rust
 Stacks ecosystem overview.  
 [https://www.stacks.co/](https://www.stacks.co/)  
 [https://github.com/blockstack/stacks](https://github.com/blockstack/stacks)  
-4.74 stars per week over 404 weeks  
-1,918 stars, 225 forks, 182 watches  
+4.74 stars per week over 405 weeks  
+1,920 stars, 225 forks, 182 watches  
 created 2014-03-03, last commit 2021-12-03, main language None  
 <sub><sup>apps, blockchains, cryptocurrency, decentralization, smart-contracts</sup></sub>
 
@@ -28,7 +28,7 @@ created 2014-03-03, last commit 2021-12-03, main language None
 ### [blockstack-browser](https://github.com/blockstack/blockstack-browser) by [blockstack](https://github.com/blockstack)  
 The Blockstack Browser  
 [https://github.com/blockstack/blockstack-browser](https://github.com/blockstack/blockstack-browser)  
-3.59 stars per week over 312 weeks  
+3.59 stars per week over 313 weeks  
 1,124 stars, 220 forks, 104 watches  
 created 2015-12-07, last commit 2021-01-14, main language JavaScript  
 <sub><sup>apps, bitcoin, blockchain, blockstack, browser, decentralized, identity, javascript, macos, react, serverless, storage</sup></sub>
@@ -38,7 +38,7 @@ created 2015-12-07, last commit 2021-01-14, main language JavaScript
 JavaScript libraries for identity, auth, storage and transactions on the Stacks blockchain.  
 [stacks-js-git-master.blockstack.vercel.app](stacks-js-git-master.blockstack.vercel.app)  
 [https://github.com/blockstack/stacks.js](https://github.com/blockstack/stacks.js)  
-2.15 stars per week over 384 weeks  
+2.15 stars per week over 385 weeks  
 827 stars, 259 forks, 64 watches  
 created 2014-07-21, last commit 2021-11-30, main language TypeScript  
 
@@ -46,7 +46,7 @@ created 2014-07-21, last commit 2021-11-30, main language TypeScript
 ### [gaia](https://github.com/blockstack/gaia) by [blockstack](https://github.com/blockstack)  
 A decentralized high-performance storage system  
 [https://github.com/blockstack/gaia](https://github.com/blockstack/gaia)  
-1.93 stars per week over 368 weeks  
+1.92 stars per week over 368 weeks  
 710 stars, 139 forks, 56 watches  
 created 2014-11-11, last commit 2021-05-10, main language TypeScript  
 
@@ -124,7 +124,7 @@ created 2018-11-04, last commit 2020-07-29, main language TypeScript
 For App Mining landing page development and App Mining operations.   
 [https://app.co/mining](https://app.co/mining)  
 [https://github.com/blockstack/app-mining](https://github.com/blockstack/app-mining)  
-0.34 stars per week over 148 weeks  
+0.34 stars per week over 149 weeks  
 50 stars, 15 forks, 36 watches  
 created 2019-01-28, last commit 2020-03-09, main language None  
 
@@ -133,7 +133,7 @@ created 2019-01-28, last commit 2020-03-09, main language None
 Javascript SDK for interacting with Clarity smart contracts  
 [https://docs.blockstack.org/core/smart/overview.html](https://docs.blockstack.org/core/smart/overview.html)  
 [https://github.com/blockstack/clarity-js-sdk](https://github.com/blockstack/clarity-js-sdk)  
-0.36 stars per week over 134 weeks  
+0.36 stars per week over 135 weeks  
 48 stars, 27 forks, 21 watches  
 created 2019-05-06, last commit 2021-07-15, main language TypeScript  
 <sub><sup>blockstack, clarity, javascript, smart-contracts, typescript</sup></sub>
@@ -155,14 +155,6 @@ Blockstack app generator
 created 2017-03-19, last commit 2020-06-17, main language JavaScript  
 
 
-### [blockstack-ios](https://github.com/blockstack/blockstack-ios) by [blockstack](https://github.com/blockstack)  
-The Blockstack iOS library for identity, auth and storage  
-[https://github.com/blockstack/blockstack-ios](https://github.com/blockstack/blockstack-ios)  
-0.22 stars per week over 195 weeks  
-43 stars, 28 forks, 18 watches  
-created 2018-03-09, last commit 2020-05-14, main language JavaScript  
-
-
 ### [blockstack-android](https://github.com/blockstack/blockstack-android) by [blockstack](https://github.com/blockstack)  
 The Blockstack Android library for identity, auth and storage  
 [https://github.com/blockstack/blockstack-android](https://github.com/blockstack/blockstack-android)  
@@ -170,6 +162,14 @@ The Blockstack Android library for identity, auth and storage
 43 stars, 29 forks, 21 watches  
 created 2018-03-09, last commit 2021-09-09, main language JavaScript  
 <sub><sup>blockstack, blockstack-android, sdk</sup></sub>
+
+
+### [blockstack-ios](https://github.com/blockstack/blockstack-ios) by [blockstack](https://github.com/blockstack)  
+The Blockstack iOS library for identity, auth and storage  
+[https://github.com/blockstack/blockstack-ios](https://github.com/blockstack/blockstack-ios)  
+0.22 stars per week over 195 weeks  
+43 stars, 28 forks, 18 watches  
+created 2018-03-09, last commit 2020-05-14, main language JavaScript  
 
 
 ### [animal-kingdom](https://github.com/blockstack/animal-kingdom) by [blockstack](https://github.com/blockstack)  
@@ -216,7 +216,7 @@ created 2018-05-16, last commit 2020-05-18, main language JavaScript
 ### [blockstack-react-native](https://github.com/blockstack/blockstack-react-native) by [blockstack](https://github.com/blockstack)  
 Blockstack SDK for React Native  
 [https://github.com/blockstack/blockstack-react-native](https://github.com/blockstack/blockstack-react-native)  
-0.18 stars per week over 174 weeks  
+0.18 stars per week over 175 weeks  
 31 stars, 13 forks, 21 watches  
 created 2018-07-30, last commit 2020-07-29, main language Kotlin  
 
@@ -271,14 +271,6 @@ Miscellaneous python utilities.
 created 2014-07-16, last commit 2016-04-16, main language Python  
 
 
-### [keychain-manager-js](https://github.com/blockstack/keychain-manager-js) by [blockstack](https://github.com/blockstack)  
-A key system for hierarchical deterministic (HD / BIP32) keychains  
-[https://github.com/blockstack/keychain-manager-js](https://github.com/blockstack/keychain-manager-js)  
-0.04 stars per week over 332 weeks  
-14 stars, 13 forks, 19 watches  
-created 2015-07-20, last commit 2016-04-16, main language JavaScript  
-
-
 ### [cli-blockstack](https://github.com/blockstack/cli-blockstack) by [blockstack](https://github.com/blockstack)  
 Node.js CLI for Blockstack, built on blockstack.js  
 [https://github.com/blockstack/cli-blockstack](https://github.com/blockstack/cli-blockstack)  
@@ -286,6 +278,14 @@ Node.js CLI for Blockstack, built on blockstack.js
 14 stars, 16 forks, 17 watches  
 created 2018-10-11, last commit 2020-12-31, main language TypeScript  
 <sub><sup>blockstack, cli, hacktoberfest, stacks</sup></sub>
+
+
+### [keychain-manager-js](https://github.com/blockstack/keychain-manager-js) by [blockstack](https://github.com/blockstack)  
+A key system for hierarchical deterministic (HD / BIP32) keychains  
+[https://github.com/blockstack/keychain-manager-js](https://github.com/blockstack/keychain-manager-js)  
+0.04 stars per week over 333 weeks  
+14 stars, 13 forks, 19 watches  
+created 2015-07-20, last commit 2016-04-16, main language JavaScript  
 
 
 ### [discord-automod](https://github.com/blockstack/discord-automod) by [blockstack](https://github.com/blockstack)  
@@ -299,7 +299,7 @@ created 2020-10-14, last commit 2021-01-05, main language JavaScript
 ### [blockstack-files](https://github.com/blockstack/blockstack-files) by [blockstack](https://github.com/blockstack)  
 End-to-end encrypted file sharing with Blockstack  
 [https://github.com/blockstack/blockstack-files](https://github.com/blockstack/blockstack-files)  
-0.04 stars per week over 292 weeks  
+0.04 stars per week over 293 weeks  
 12 stars, 5 forks, 4 watches  
 created 2016-04-25, last commit 2017-01-17, main language Python  
 
@@ -316,17 +316,9 @@ created 2016-02-12, last commit 2016-11-15, main language CSS
 ### [omniauth-blockstack](https://github.com/blockstack/omniauth-blockstack) by [blockstack](https://github.com/blockstack)  
 OmniAuth Blockstack plugin  
 [https://github.com/blockstack/omniauth-blockstack](https://github.com/blockstack/omniauth-blockstack)  
-0.04 stars per week over 246 weeks  
+0.04 stars per week over 247 weeks  
 11 stars, 4 forks, 18 watches  
 created 2017-03-13, last commit 2019-05-16, main language Ruby  
-
-
-### [BlockstackCoreApi-iOS-deprecated](https://github.com/blockstack/BlockstackCoreApi-iOS-deprecated) by [blockstack](https://github.com/blockstack)  
-The Blockstack Core API for iOS [deprecated]  
-[https://github.com/blockstack/BlockstackCoreApi-iOS-deprecated](https://github.com/blockstack/BlockstackCoreApi-iOS-deprecated)  
-0.04 stars per week over 232 weeks  
-10 stars, 2 forks, 20 watches  
-created 2017-06-22, last commit 2018-06-06, main language Swift  
 
 
 ### [evangelists](https://github.com/blockstack/evangelists) by [blockstack](https://github.com/blockstack)  
@@ -337,14 +329,22 @@ created 2017-06-22, last commit 2018-06-06, main language Swift
 created 2017-08-16, last commit 2018-11-19, main language None  
 
 
+### [BlockstackCoreApi-iOS-deprecated](https://github.com/blockstack/BlockstackCoreApi-iOS-deprecated) by [blockstack](https://github.com/blockstack)  
+The Blockstack Core API for iOS [deprecated]  
+[https://github.com/blockstack/BlockstackCoreApi-iOS-deprecated](https://github.com/blockstack/BlockstackCoreApi-iOS-deprecated)  
+0.04 stars per week over 232 weeks  
+10 stars, 2 forks, 20 watches  
+created 2017-06-22, last commit 2018-06-06, main language Swift  
+
+
 ### [keylib-py](https://github.com/blockstack/keylib-py) by [blockstack](https://github.com/blockstack)  
 Library for elliptic curve (ECDSA) private keys, public keys, and bitcoin addresses.  
 [https://github.com/blockstack/keylib-py](https://github.com/blockstack/keylib-py)  
-0.03 stars per week over 298 weeks  
+0.03 stars per week over 299 weeks  
 10 stars, 20 forks, 7 watches  
 created 2016-03-14, last commit 2017-05-02, main language Python  
 
 
-This file was automatically generated on 2021-12-05.  
+This file was automatically generated on 2021-12-06.  
 
 To curate your own github list, simply clone and change the input csv file.  

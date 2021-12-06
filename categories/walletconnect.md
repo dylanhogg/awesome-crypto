@@ -19,7 +19,7 @@ Example Dapp
 [https://example.walletconnect.org/](https://example.walletconnect.org/)  
 [https://github.com/WalletConnect/walletconnect-example-dapp](https://github.com/WalletConnect/walletconnect-example-dapp)  
 0.88 stars per week over 168 weeks  
-148 stars, 175 forks, 22 watches  
+148 stars, 176 forks, 22 watches  
 created 2018-09-13, last commit 2021-08-26, main language TypeScript  
 <sub><sup>browser, dapp, demo, example, react, sample, test, wallet, walletconnect, web3</sup></sub>
 
@@ -29,7 +29,7 @@ WalletConnect Documentation
 [https://docs.walletconnect.org](https://docs.walletconnect.org)  
 [https://github.com/WalletConnect/walletconnect-docs](https://github.com/WalletConnect/walletconnect-docs)  
 0.69 stars per week over 184 weeks  
-128 stars, 124 forks, 33 watches  
+128 stars, 125 forks, 33 watches  
 created 2018-05-22, last commit 2021-11-22, main language JavaScript  
 <sub><sup>docs, documentation, ethereum, wallet, walletconnect</sup></sub>
 
@@ -37,8 +37,8 @@ created 2018-05-22, last commit 2021-11-22, main language JavaScript
 ### [WalletConnectSwift](https://github.com/WalletConnect/WalletConnectSwift) by [WalletConnect](https://github.com/WalletConnect)  
 WalletConnect Swift SDK  
 [https://github.com/WalletConnect/WalletConnectSwift](https://github.com/WalletConnect/WalletConnectSwift)  
-0.89 stars per week over 121 weeks  
-108 stars, 73 forks, 12 watches  
+0.9 stars per week over 121 weeks  
+109 stars, 73 forks, 13 watches  
 created 2019-08-08, last commit 2021-12-03, main language Swift  
 
 
@@ -46,7 +46,7 @@ created 2019-08-08, last commit 2021-12-03, main language Swift
 App Registry for WalletConnect Protocol  
 [https://registry.walletconnect.org](https://registry.walletconnect.org)  
 [https://github.com/WalletConnect/walletconnect-registry](https://github.com/WalletConnect/walletconnect-registry)  
-2.22 stars per week over 42 weeks  
+2.21 stars per week over 43 weeks  
 95 stars, 83 forks, 14 watches  
 created 2021-02-08, last commit 2021-12-02, main language JavaScript  
 
@@ -55,7 +55,7 @@ created 2021-02-08, last commit 2021-12-02, main language JavaScript
 WalletConnect Website  
 [https://walletconnect.org/](https://walletconnect.org/)  
 [https://github.com/WalletConnect/walletconnect-website](https://github.com/WalletConnect/walletconnect-website)  
-0.4 stars per week over 192 weeks  
+0.4 stars per week over 193 weeks  
 77 stars, 144 forks, 25 watches  
 created 2018-03-26, last commit 2021-10-04, main language TypeScript  
 <sub><sup>gatsbyjs, landing, page, react, walletconnect, webpage, website</sup></sub>
@@ -83,7 +83,7 @@ created 2018-12-14, last commit 2021-03-18, main language Kotlin
 ### [py-walletconnect-bridge](https://github.com/WalletConnect/py-walletconnect-bridge) by [WalletConnect](https://github.com/WalletConnect)  
 WalletConnect Bridge Python Implementation  
 [https://github.com/WalletConnect/py-walletconnect-bridge](https://github.com/WalletConnect/py-walletconnect-bridge)  
-0.29 stars per week over 192 weeks  
+0.29 stars per week over 193 weeks  
 56 stars, 22 forks, 19 watches  
 created 2018-03-26, last commit 2018-12-04, main language Python  
 <sub><sup>bridge, python, relayer, server, walletconnect</sup></sub>
@@ -110,7 +110,7 @@ created 2018-07-22, last commit 2019-08-04, main language TypeScript
 ### [WalletConnectSharp](https://github.com/WalletConnect/WalletConnectSharp) by [WalletConnect](https://github.com/WalletConnect)  
 A c# implementation of the WalletConnect client  
 [https://github.com/WalletConnect/WalletConnectSharp](https://github.com/WalletConnect/WalletConnectSharp)  
-0.65 stars per week over 51 weeks  
+0.64 stars per week over 51 weeks  
 33 stars, 13 forks, 10 watches  
 created 2020-12-12, last commit 2021-10-22, main language C#  
 
@@ -118,9 +118,9 @@ created 2020-12-12, last commit 2021-10-22, main language C#
 ### [WalletConnectUnity](https://github.com/WalletConnect/WalletConnectUnity) by [WalletConnect](https://github.com/WalletConnect)  
 This project is an extension of WalletConnectSharp that brings WalletConnect to Unity.   
 [https://github.com/WalletConnect/WalletConnectUnity](https://github.com/WalletConnect/WalletConnectUnity)  
-1.21 stars per week over 25 weeks  
+1.2 stars per week over 25 weeks  
 31 stars, 10 forks, 11 watches  
-created 2021-06-08, last commit 2021-10-20, main language C#  
+created 2021-06-08, last commit 2021-12-06, main language C#  
 
 
 ### [wallet-connect-swift](https://github.com/WalletConnect/wallet-connect-swift) by [WalletConnect](https://github.com/WalletConnect)  
@@ -167,6 +167,6 @@ created 2019-01-17, last commit 2020-05-19, main language Swift
 created 2019-08-25, last commit 2021-02-03, main language Kotlin  
 
 
-This file was automatically generated on 2021-12-05.  
+This file was automatically generated on 2021-12-06.  
 
 To curate your own github list, simply clone and change the input csv file.  

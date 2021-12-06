@@ -11,7 +11,7 @@ Bee is a Swarm client implemented in Go. It’s the basic building block for the
 [https://github.com/ethersphere/bee](https://github.com/ethersphere/bee)  
 13 stars per week over 98 weeks  
 1,291 stars, 309 forks, 61 watches  
-created 2020-01-17, last commit 2021-12-03, main language Go  
+created 2020-01-17, last commit 2021-12-06, main language Go  
 <sub><sup>bee, ethereum, go, golang, swarm</sup></sub>
 
 
@@ -19,8 +19,8 @@ created 2020-01-17, last commit 2021-12-03, main language Go
 Swarm: Censorship resistant storage and communication infrastructure for a truly sovereign digital society  
 [https://swarm.ethereum.org/](https://swarm.ethereum.org/)  
 [https://github.com/ethersphere/swarm](https://github.com/ethersphere/swarm)  
-1.13 stars per week over 403 weeks  
-457 stars, 120 forks, 39 watches  
+1.14 stars per week over 403 weeks  
+458 stars, 120 forks, 39 watches  
 created 2014-03-16, last commit 2021-01-15, main language Go  
 <sub><sup>blockchain, ethereum, go, obsolete, p2p, storage, swarm</sup></sub>
 
@@ -37,7 +37,7 @@ created 2015-04-14, last commit 2015-12-17, main language Shell
 An app which helps users to setup their Bee node and do actions like cash out cheques  
 [https://github.com/ethersphere/bee-dashboard](https://github.com/ethersphere/bee-dashboard)  
 [https://github.com/ethersphere/bee-dashboard](https://github.com/ethersphere/bee-dashboard)  
-3.18 stars per week over 40 weeks  
+3.17 stars per week over 41 weeks  
 130 stars, 42 forks, 13 watches  
 created 2021-02-22, last commit 2021-12-02, main language TypeScript  
 <sub><sup>bee, decentralized-storage, ethereum, swarm</sup></sub>
@@ -46,7 +46,7 @@ created 2021-02-22, last commit 2021-12-02, main language TypeScript
 ### [bee-clef](https://github.com/ethersphere/bee-clef) by [ethersphere](https://github.com/ethersphere)  
 bee-clef is official ethereum clef binary wrapped and preconfigured for bee as a service  
 [https://github.com/ethersphere/bee-clef](https://github.com/ethersphere/bee-clef)  
-1.56 stars per week over 53 weeks  
+1.56 stars per week over 54 weeks  
 84 stars, 66 forks, 17 watches  
 created 2020-11-23, last commit 2021-09-20, main language Shell  
 
@@ -74,7 +74,7 @@ Swarm Beekeeper is an orchestrator that can manage a cluster of Bee nodes and ca
 [https://github.com/ethersphere/beekeeper](https://github.com/ethersphere/beekeeper)  
 0.54 stars per week over 85 weeks  
 46 stars, 20 forks, 22 watches  
-created 2020-04-16, last commit 2021-12-02, main language Go  
+created 2020-04-16, last commit 2021-12-06, main language Go  
 <sub><sup>ethereum, swarm, test</sup></sub>
 
 
@@ -82,7 +82,7 @@ created 2020-04-16, last commit 2021-12-02, main language Go
 Contracts for Swap, Swear and Swindle. Swap is a protocol for p2p accounting. This is the basis for Swarm’s incentivization model.  
 [https://github.com/ethersphere/swap-swear-and-swindle](https://github.com/ethersphere/swap-swear-and-swindle)  
 0.2 stars per week over 229 weeks  
-45 stars, 21 forks, 22 watches  
+45 stars, 22 forks, 22 watches  
 created 2017-07-13, last commit 2021-11-22, main language JavaScript  
 <sub><sup>ethereum, solidity, swarm, truffle, web3</sup></sub>
 
@@ -91,7 +91,7 @@ created 2017-07-13, last commit 2021-11-22, main language JavaScript
 Javascript client library for connecting to Bee decentralised storage  
 [https://bee-js.ethswarm.org/](https://bee-js.ethswarm.org/)  
 [https://github.com/ethersphere/bee-js](https://github.com/ethersphere/bee-js)  
-0.73 stars per week over 56 weeks  
+0.72 stars per week over 56 weeks  
 41 stars, 20 forks, 19 watches  
 created 2020-11-05, last commit 2021-11-25, main language TypeScript  
 <sub><sup>bee, decentralized, javascript, javascript-library, swarm, typescript</sup></sub>
@@ -126,8 +126,8 @@ created 2017-12-21, last commit 2018-06-12, main language JavaScript
 ### [bzzaar-contracts](https://github.com/ethersphere/bzzaar-contracts) by [ethersphere](https://github.com/ethersphere)  
   
 [https://github.com/ethersphere/bzzaar-contracts](https://github.com/ethersphere/bzzaar-contracts)  
-1.01 stars per week over 24 weeks  
-25 stars, 26 forks, 7 watches  
+1.0 stars per week over 25 weeks  
+25 stars, 27 forks, 7 watches  
 created 2021-06-14, last commit 2021-11-10, main language JavaScript  
 
 
@@ -135,7 +135,7 @@ created 2021-06-14, last commit 2021-11-10, main language JavaScript
 Documentation for the Swarm Bee Client. View at docs.ethswarm.org, contributions welcome!  
 [https://docs.ethswarm.org](https://docs.ethswarm.org)  
 [https://github.com/ethersphere/bee-docs](https://github.com/ethersphere/bee-docs)  
-0.31 stars per week over 78 weeks  
+0.3 stars per week over 78 weeks  
 24 stars, 60 forks, 12 watches  
 created 2020-06-03, last commit 2021-11-27, main language HTML  
 <sub><sup>documentation, ethereum, swarm</sup></sub>
@@ -145,7 +145,7 @@ created 2020-06-03, last commit 2021-11-27, main language HTML
 Source code for the Swarm homepage hosted at bzz:/theswarm.eth/  
 [https://swarm-gateways.net/bzz:/theswarm.eth/](https://swarm-gateways.net/bzz:/theswarm.eth/)  
 [https://github.com/ethersphere/swarm-home](https://github.com/ethersphere/swarm-home)  
-0.06 stars per week over 254 weeks  
+0.05 stars per week over 254 weeks  
 14 stars, 12 forks, 21 watches  
 created 2017-01-19, last commit 2020-03-12, main language HTML  
 
@@ -167,26 +167,10 @@ created 2016-05-08, last commit 2021-03-18, main language TeX
 <sub><sup>research-paper</sup></sub>
 
 
-### [bee-factory](https://github.com/ethersphere/bee-factory) by [ethersphere](https://github.com/ethersphere)  
-Builds up a test environment with Bee clients and with a test blockchain.  
-[https://github.com/ethersphere/bee-factory](https://github.com/ethersphere/bee-factory)  
-0.3 stars per week over 32 weeks  
-10 stars, 11 forks, 7 watches  
-created 2021-04-19, last commit 2021-11-29, main language Shell  
-
-
-### [swarm-extension](https://github.com/ethersphere/swarm-extension) by [ethersphere](https://github.com/ethersphere)  
-PoC for Swarm Browser Extension  
-[https://github.com/ethersphere/swarm-extension](https://github.com/ethersphere/swarm-extension)  
-0.25 stars per week over 40 weeks  
-10 stars, 1 forks, 8 watches  
-created 2021-02-24, last commit 2021-11-29, main language TypeScript  
-
-
 ### [swarm-kubernetes](https://github.com/ethersphere/swarm-kubernetes) by [ethersphere](https://github.com/ethersphere)  
 Swarm on Kubernetes  
 [https://github.com/ethersphere/swarm-kubernetes](https://github.com/ethersphere/swarm-kubernetes)  
-0.06 stars per week over 157 weeks  
+0.06 stars per week over 158 weeks  
 10 stars, 4 forks, 3 watches  
 created 2018-11-26, last commit 2018-12-20, main language HCL  
 <sub><sup>aws, aws-eks, ethereum, helm-charts, kubernetes, swarm</sup></sub>
@@ -201,6 +185,22 @@ created 2018-11-28, last commit 2021-12-02, main language None
 <sub><sup>devops</sup></sub>
 
 
-This file was automatically generated on 2021-12-05.  
+### [swarm-extension](https://github.com/ethersphere/swarm-extension) by [ethersphere](https://github.com/ethersphere)  
+PoC for Swarm Browser Extension  
+[https://github.com/ethersphere/swarm-extension](https://github.com/ethersphere/swarm-extension)  
+0.25 stars per week over 40 weeks  
+10 stars, 1 forks, 8 watches  
+created 2021-02-24, last commit 2021-11-29, main language TypeScript  
+
+
+### [bee-factory](https://github.com/ethersphere/bee-factory) by [ethersphere](https://github.com/ethersphere)  
+Builds up a test environment with Bee clients and with a test blockchain.  
+[https://github.com/ethersphere/bee-factory](https://github.com/ethersphere/bee-factory)  
+0.3 stars per week over 33 weeks  
+10 stars, 12 forks, 7 watches  
+created 2021-04-19, last commit 2021-11-29, main language Shell  
+
+
+This file was automatically generated on 2021-12-06.  
 
 To curate your own github list, simply clone and change the input csv file.  

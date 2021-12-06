@@ -18,7 +18,7 @@ created 2018-11-06, last commit 2020-02-29, main language TypeScript
 ### [stakewars](https://github.com/nearprotocol/stakewars) by [nearprotocol](https://github.com/nearprotocol)  
 Stake Wars leaderboard and place to report issues  
 [https://github.com/nearprotocol/stakewars](https://github.com/nearprotocol/stakewars)  
-0.46 stars per week over 111 weeks  
+0.46 stars per week over 112 weeks  
 51 stars, 266 forks, 20 watches  
 created 2019-10-14, last commit 2020-12-09, main language None  
 
@@ -27,8 +27,8 @@ created 2019-10-14, last commit 2020-12-09, main language None
 BSON encoder / decoder for AssemblyScript  
 [https://nearprotocol.com](https://nearprotocol.com)  
 [https://github.com/nearprotocol/assemblyscript-bson](https://github.com/nearprotocol/assemblyscript-bson)  
-0.15 stars per week over 157 weeks  
-24 stars, 0 forks, 4 watches  
+0.16 stars per week over 157 weeks  
+25 stars, 0 forks, 4 watches  
 created 2018-12-01, last commit 2021-02-11, main language TypeScript  
 <sub><sup>assemblyscript, bson, webassembly</sup></sub>
 
@@ -50,6 +50,6 @@ Online chess game running on NEAR Protocol
 created 2019-03-27, last commit 2021-02-12, main language JavaScript  
 
 
-This file was automatically generated on 2021-12-05.  
+This file was automatically generated on 2021-12-06.  
 
 To curate your own github list, simply clone and change the input csv file.  

@@ -9,15 +9,15 @@ Checkout the interactive version that you can filter and sort:
 Powers fast, private, decentralized applications  
 [https://offchainlabs.com/](https://offchainlabs.com/)  
 [https://github.com/OffchainLabs/arbitrum](https://github.com/OffchainLabs/arbitrum)  
-5.25 stars per week over 121 weeks  
-640 stars, 308 forks, 109 watches  
+5.25 stars per week over 122 weeks  
+641 stars, 308 forks, 109 watches  
 created 2019-08-05, last commit 2021-12-02, main language Go  
 
 
 ### [arbitrum-tutorials](https://github.com/OffchainLabs/arbitrum-tutorials) by [OffchainLabs](https://github.com/OffchainLabs)  
 Get started developing on Arbitrum   
 [https://github.com/OffchainLabs/arbitrum-tutorials](https://github.com/OffchainLabs/arbitrum-tutorials)  
-4.54 stars per week over 17 weeks  
+4.5 stars per week over 18 weeks  
 81 stars, 26 forks, 6 watches  
 created 2021-08-02, last commit 2021-11-16, main language JavaScript  
 
@@ -33,8 +33,8 @@ created 2020-03-11, last commit 2021-11-11, main language Rust
 ### [arb-token-bridge](https://github.com/OffchainLabs/arb-token-bridge) by [OffchainLabs](https://github.com/OffchainLabs)  
 Token Bridge between ethereum and an ArbChain  
 [https://github.com/OffchainLabs/arb-token-bridge](https://github.com/OffchainLabs/arb-token-bridge)  
-0.27 stars per week over 94 weeks  
-26 stars, 21 forks, 6 watches  
+0.27 stars per week over 95 weeks  
+26 stars, 20 forks, 6 watches  
 created 2020-02-10, last commit 2021-12-03, main language CSS  
 
 
@@ -46,6 +46,6 @@ Pet shop dapp, for use as an Arbitrum demo
 created 2019-05-16, last commit 2021-05-20, main language JavaScript  
 
 
-This file was automatically generated on 2021-12-05.  
+This file was automatically generated on 2021-12-06.  
 
 To curate your own github list, simply clone and change the input csv file.  

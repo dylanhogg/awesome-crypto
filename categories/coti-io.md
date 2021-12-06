@@ -8,7 +8,7 @@ Checkout the interactive version that you can filter and sort:
 ### [coti-node](https://github.com/coti-io/coti-node) by [coti-io](https://github.com/coti-io)  
 Coti Development Node Repository  
 [https://github.com/coti-io/coti-node](https://github.com/coti-io/coti-node)  
-0.88 stars per week over 117 weeks  
+0.87 stars per week over 117 weeks  
 103 stars, 15 forks, 10 watches  
 created 2019-09-03, last commit 2021-11-24, main language Java  
 <sub><sup>blockchain, coti, coti-node, cryptocurrency, dag, java, p2p, payments</sup></sub>
@@ -25,7 +25,7 @@ created 2018-09-08, last commit 2021-10-26, main language Java
 ### [Whitepaper](https://github.com/coti-io/Whitepaper) by [coti-io](https://github.com/coti-io)  
 The Trust Chain Consensus  
 [https://github.com/coti-io/Whitepaper](https://github.com/coti-io/Whitepaper)  
-0.07 stars per week over 192 weeks  
+0.07 stars per week over 193 weeks  
 14 stars, 0 forks, 6 watches  
 created 2018-03-26, last commit 2018-10-03, main language None  
 
@@ -38,6 +38,6 @@ Coti Ledger App
 created 2020-08-18, last commit 2021-08-24, main language C  
 
 
-This file was automatically generated on 2021-12-05.  
+This file was automatically generated on 2021-12-06.  
 
 To curate your own github list, simply clone and change the input csv file.  

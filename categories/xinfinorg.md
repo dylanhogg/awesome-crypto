@@ -28,7 +28,7 @@ Setup XinFin Masternode using Docker
 [https://github.com/XinFinOrg/XinFin-Node](https://github.com/XinFinOrg/XinFin-Node)  
 0.14 stars per week over 153 weeks  
 21 stars, 21 forks, 7 watches  
-created 2018-12-28, last commit 2021-11-17, main language Shell  
+created 2018-12-28, last commit 2021-12-05, main language Shell  
 
 
 ### [MyContract](https://github.com/XinFinOrg/MyContract) by [XinFinOrg](https://github.com/XinFinOrg)  
@@ -40,6 +40,6 @@ MyContract.co is a digital asset creation & management Dashboard for any kind of
 created 2018-08-08, last commit 2021-10-22, main language CSS  
 
 
-This file was automatically generated on 2021-12-05.  
+This file was automatically generated on 2021-12-06.  
 
 To curate your own github list, simply clone and change the input csv file.  

@@ -11,7 +11,7 @@ Decred daemon in Go (golang).
 [https://github.com/decred/dcrd](https://github.com/decred/dcrd)  
 2.01 stars per week over 305 weeks  
 614 stars, 260 forks, 82 watches  
-created 2016-01-26, last commit 2021-12-04, main language Go  
+created 2016-01-26, last commit 2021-12-05, main language Go  
 <sub><sup>blockchain, cryptocurrency, dcrd, decred, decred-daemon, decred-nodes, golang</sup></sub>
 
 
@@ -38,7 +38,7 @@ created 2016-11-09, last commit 2021-11-22, main language JavaScript
 A secure Decred wallet daemon written in Go (golang).  
 [https://decred.org](https://decred.org)  
 [https://github.com/decred/dcrwallet](https://github.com/decred/dcrwallet)  
-0.61 stars per week over 305 weeks  
+0.6 stars per week over 305 weeks  
 185 stars, 150 forks, 42 watches  
 created 2016-01-26, last commit 2021-12-02, main language Go  
 <sub><sup>blockchain, cryptocurrency, decred, golang</sup></sub>
@@ -56,9 +56,9 @@ created 2016-04-29, last commit 2020-02-09, main language C++
 ### [dcrdex](https://github.com/decred/dcrdex) by [decred](https://github.com/decred)  
 The Decred Decentralized Exchange (DEX), powered by atomic-swaps.  
 [https://github.com/decred/dcrdex](https://github.com/decred/dcrdex)  
-0.95 stars per week over 122 weeks  
+0.95 stars per week over 123 weeks  
 117 stars, 49 forks, 16 watches  
-created 2019-07-29, last commit 2021-12-02, main language Go  
+created 2019-07-29, last commit 2021-12-05, main language Go  
 
 
 ### [dcrdata](https://github.com/decred/dcrdata) by [decred](https://github.com/decred)  
@@ -67,7 +67,7 @@ Decred block explorer, with packages and apps for data collection and storage. W
 [https://github.com/decred/dcrdata](https://github.com/decred/dcrdata)  
 0.46 stars per week over 249 weeks  
 114 stars, 132 forks, 26 watches  
-created 2017-02-22, last commit 2021-11-24, main language Go  
+created 2017-02-22, last commit 2021-12-05, main language Go  
 <sub><sup>blockchain, cryptocurrency, decred, json-api, mempool, rest-api</sup></sub>
 
 
@@ -90,7 +90,7 @@ created 2016-02-24, last commit 2021-05-12, main language Go
 ### [dcrstakepool](https://github.com/decred/dcrstakepool) by [decred](https://github.com/decred)  
 Stakepool for Decred.  
 [https://github.com/decred/dcrstakepool](https://github.com/decred/dcrstakepool)  
-0.26 stars per week over 296 weeks  
+0.26 stars per week over 297 weeks  
 77 stars, 78 forks, 26 watches  
 created 2016-03-28, last commit 2021-05-18, main language Go  
 
@@ -99,7 +99,7 @@ created 2016-03-28, last commit 2021-05-18, main language Go
 Documentation for Decred.  
 [https://docs.decred.org](https://docs.decred.org)  
 [https://github.com/decred/dcrdocs](https://github.com/decred/dcrdocs)  
-0.25 stars per week over 292 weeks  
+0.25 stars per week over 293 weeks  
 72 stars, 130 forks, 25 watches  
 created 2016-04-25, last commit 2021-11-29, main language Shell  
 <sub><sup>blockchain, cryptocurrency, decred</sup></sub>
@@ -125,7 +125,7 @@ created 2015-12-16, last commit 2020-11-01, main language Go
 ### [decred-binaries](https://github.com/decred/decred-binaries) by [decred](https://github.com/decred)  
 Binary archives for Decred releases.  
 [https://github.com/decred/decred-binaries](https://github.com/decred/decred-binaries)  
-0.2 stars per week over 285 weeks  
+0.2 stars per week over 286 weeks  
 56 stars, 41 forks, 27 watches  
 created 2016-06-13, last commit 2021-05-25, main language None  
 
@@ -141,7 +141,7 @@ created 2017-03-30, last commit 2021-09-06, main language None
 ### [dcrweb](https://github.com/decred/dcrweb) by [decred](https://github.com/decred)  
 Decred website code.  
 [https://github.com/decred/dcrweb](https://github.com/decred/dcrweb)  
-0.12 stars per week over 297 weeks  
+0.12 stars per week over 298 weeks  
 36 stars, 76 forks, 19 watches  
 created 2016-03-21, last commit 2021-11-30, main language JavaScript  
 
@@ -163,14 +163,6 @@ Decred CoinShuffle++
 created 2019-08-28, last commit 2021-11-22, main language Go  
 
 
-### [tinydecred](https://github.com/decred/tinydecred) by [decred](https://github.com/decred)  
-Python tools for Decred  
-[https://github.com/decred/tinydecred](https://github.com/decred/tinydecred)  
-0.2 stars per week over 127 weeks  
-26 stars, 17 forks, 8 watches  
-created 2019-06-26, last commit 2021-06-26, main language Python  
-
-
 ### [dcrtime](https://github.com/decred/dcrtime) by [decred](https://github.com/decred)  
 Decred anchored timestamp client, proxy, and server.  
 [https://github.com/decred/dcrtime](https://github.com/decred/dcrtime)  
@@ -179,20 +171,20 @@ Decred anchored timestamp client, proxy, and server.
 created 2017-06-09, last commit 2021-11-24, main language Go  
 
 
+### [tinydecred](https://github.com/decred/tinydecred) by [decred](https://github.com/decred)  
+Python tools for Decred  
+[https://github.com/decred/tinydecred](https://github.com/decred/tinydecred)  
+0.2 stars per week over 127 weeks  
+26 stars, 17 forks, 8 watches  
+created 2019-06-26, last commit 2021-06-26, main language Python  
+
+
 ### [dcrpool](https://github.com/decred/dcrpool) by [decred](https://github.com/decred)  
 decred mining pool  
 [https://github.com/decred/dcrpool](https://github.com/decred/dcrpool)  
-0.13 stars per week over 172 weeks  
+0.13 stars per week over 173 weeks  
 22 stars, 22 forks, 9 watches  
 created 2018-08-13, last commit 2021-11-05, main language Go  
-
-
-### [cgminer](https://github.com/decred/cgminer) by [decred](https://github.com/decred)  
-cgminer fork for Decred.  
-[https://github.com/decred/cgminer](https://github.com/decred/cgminer)  
-0.06 stars per week over 305 weeks  
-17 stars, 11 forks, 19 watches  
-created 2016-01-26, last commit 2017-05-22, main language None  
 
 
 ### [dcrwebapi](https://github.com/decred/dcrwebapi) by [decred](https://github.com/decred)  
@@ -203,12 +195,12 @@ created 2016-01-26, last commit 2017-05-22, main language None
 created 2017-07-11, last commit 2021-11-24, main language Go  
 
 
-### [dcrdesign](https://github.com/decred/dcrdesign) by [decred](https://github.com/decred)  
-Decred Design System  
-[https://github.com/decred/dcrdesign](https://github.com/decred/dcrdesign)  
-0.07 stars per week over 206 weeks  
-14 stars, 6 forks, 12 watches  
-created 2017-12-23, last commit 2021-02-10, main language None  
+### [cgminer](https://github.com/decred/cgminer) by [decred](https://github.com/decred)  
+cgminer fork for Decred.  
+[https://github.com/decred/cgminer](https://github.com/decred/cgminer)  
+0.06 stars per week over 305 weeks  
+17 stars, 11 forks, 19 watches  
+created 2016-01-26, last commit 2017-05-22, main language None  
 
 
 ### [vspd](https://github.com/decred/vspd) by [decred](https://github.com/decred)  
@@ -219,6 +211,14 @@ A Voting Service Provider (VSP) for the Decred network.
 created 2020-05-13, last commit 2021-11-29, main language Go  
 
 
+### [dcrdesign](https://github.com/decred/dcrdesign) by [decred](https://github.com/decred)  
+Decred Design System  
+[https://github.com/decred/dcrdesign](https://github.com/decred/dcrdesign)  
+0.07 stars per week over 206 weeks  
+14 stars, 6 forks, 12 watches  
+created 2017-12-23, last commit 2021-02-10, main language None  
+
+
 ### [pi-ui](https://github.com/decred/pi-ui) by [decred](https://github.com/decred)  
 Politeia UI library  
 [https://decred.github.io/pi-ui](https://decred.github.io/pi-ui)  
@@ -226,6 +226,14 @@ Politeia UI library
 0.09 stars per week over 143 weeks  
 13 stars, 15 forks, 10 watches  
 created 2019-03-06, last commit 2021-11-29, main language JavaScript  
+
+
+### [dcrtimegui](https://github.com/decred/dcrtimegui) by [decred](https://github.com/decred)  
+Timestamp files with blockchain  
+[https://github.com/decred/dcrtimegui](https://github.com/decred/dcrtimegui)  
+0.08 stars per week over 157 weeks  
+12 stars, 13 forks, 8 watches  
+created 2018-12-03, last commit 2021-11-24, main language JavaScript  
 
 
 ### [dcrseeder](https://github.com/decred/dcrseeder) by [decred](https://github.com/decred)  
@@ -243,14 +251,6 @@ Decred wallet for Windows.
 0.04 stars per week over 302 weeks  
 12 stars, 11 forks, 10 watches  
 created 2016-02-16, last commit 2018-06-04, main language C#  
-
-
-### [dcrtimegui](https://github.com/decred/dcrtimegui) by [decred](https://github.com/decred)  
-Timestamp files with blockchain  
-[https://github.com/decred/dcrtimegui](https://github.com/decred/dcrtimegui)  
-0.08 stars per week over 156 weeks  
-12 stars, 13 forks, 8 watches  
-created 2018-12-03, last commit 2021-11-24, main language JavaScript  
 
 
 ### [dcrros](https://github.com/decred/dcrros) by [decred](https://github.com/decred)  
@@ -286,6 +286,6 @@ A Decred blockchain API for web wallets.
 created 2016-02-04, last commit 2017-05-16, main language JavaScript  
 
 
-This file was automatically generated on 2021-12-05.  
+This file was automatically generated on 2021-12-06.  
 
 To curate your own github list, simply clone and change the input csv file.  

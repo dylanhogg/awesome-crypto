@@ -9,7 +9,7 @@ Checkout the interactive version that you can filter and sort:
 Repo for Tracer Pool Swaps Protocol  
 [https://github.com/tracer-protocol/perpetual-pools-contracts](https://github.com/tracer-protocol/perpetual-pools-contracts)  
 0.49 stars per week over 28 weeks  
-14 stars, 4 forks, 4 watches  
+14 stars, 5 forks, 4 watches  
 created 2021-05-18, last commit 2021-12-02, main language TypeScript  
 
 
@@ -21,6 +21,6 @@ Smart contracts for the Tracer perpetual swaps protocol
 created 2021-03-07, last commit 2021-10-20, main language JavaScript  
 
 
-This file was automatically generated on 2021-12-05.  
+This file was automatically generated on 2021-12-06.  
 
 To curate your own github list, simply clone and change the input csv file.  

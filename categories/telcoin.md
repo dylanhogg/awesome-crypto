@@ -22,6 +22,6 @@ created 2020-10-21, last commit 2021-08-20, main language Rust
 <sub><sup>plaid, rust</sup></sub>
 
 
-This file was automatically generated on 2021-12-05.  
+This file was automatically generated on 2021-12-06.  
 
 To curate your own github list, simply clone and change the input csv file.  

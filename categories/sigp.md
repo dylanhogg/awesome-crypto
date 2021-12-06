@@ -9,7 +9,7 @@ Checkout the interactive version that you can filter and sort:
 Rust Ethereum 2.0 Client  
 [https://github.com/sigp/lighthouse](https://github.com/sigp/lighthouse)  
 7.7 stars per week over 178 weeks  
-1,372 stars, 297 forks, 60 watches  
+1,374 stars, 297 forks, 60 watches  
 created 2018-07-06, last commit 2021-10-18, main language Rust  
 <sub><sup>casper, eth2, ethereum, proof-of-stake, serenity, sharding, shasper</sup></sub>
 
@@ -34,7 +34,7 @@ created 2019-10-25, last commit 2021-01-14, main language Rust
 ### [lighthouse-metrics](https://github.com/sigp/lighthouse-metrics) by [sigp](https://github.com/sigp)  
 A docker-compose with Grafana + Prometheus for monitoring Lighthouse  
 [https://github.com/sigp/lighthouse-metrics](https://github.com/sigp/lighthouse-metrics)  
-0.75 stars per week over 103 weeks  
+0.75 stars per week over 104 weeks  
 78 stars, 30 forks, 12 watches  
 created 2019-12-09, last commit 2021-11-23, main language Dockerfile  
 
@@ -42,7 +42,7 @@ created 2019-12-09, last commit 2021-11-23, main language Dockerfile
 ### [discv5](https://github.com/sigp/discv5) by [sigp](https://github.com/sigp)  
 Rust implementation of Discovery v5  
 [https://github.com/sigp/discv5](https://github.com/sigp/discv5)  
-0.44 stars per week over 83 weeks  
+0.44 stars per week over 84 weeks  
 37 stars, 25 forks, 5 watches  
 created 2020-04-27, last commit 2021-11-15, main language Rust  
 
@@ -58,7 +58,7 @@ created 2019-05-28, last commit 2021-10-08, main language Shell
 ### [milagro_bls](https://github.com/sigp/milagro_bls) by [sigp](https://github.com/sigp)  
 BLS12-381 cryptography using Apache Milagro  
 [https://github.com/sigp/milagro_bls](https://github.com/sigp/milagro_bls)  
-0.16 stars per week over 130 weeks  
+0.16 stars per week over 131 weeks  
 21 stars, 5 forks, 6 watches  
 created 2019-06-03, last commit 2021-03-15, main language Rust  
 
@@ -72,20 +72,20 @@ created 2018-03-25, last commit 2018-04-21, main language JavaScript
 <sub><sup>blockchain, casper, consensus, ethereum</sup></sub>
 
 
-### [public-audits](https://github.com/sigp/public-audits) by [sigp](https://github.com/sigp)  
-Collection of public security reviews  
-[https://github.com/sigp/public-audits](https://github.com/sigp/public-audits)  
-0.1 stars per week over 163 weeks  
-17 stars, 6 forks, 2 watches  
-created 2018-10-15, last commit 2020-11-19, main language Python  
-
-
 ### [ecies-parity](https://github.com/sigp/ecies-parity) by [sigp](https://github.com/sigp)  
 JavaScript Elliptic Curve Integrated Encryption Scheme (ECIES) Library - Based off Parity's implementation  
 [https://github.com/sigp/ecies-parity](https://github.com/sigp/ecies-parity)  
 0.1 stars per week over 175 weeks  
 17 stars, 7 forks, 2 watches  
 created 2018-07-25, last commit 2020-09-08, main language JavaScript  
+
+
+### [public-audits](https://github.com/sigp/public-audits) by [sigp](https://github.com/sigp)  
+Collection of public security reviews  
+[https://github.com/sigp/public-audits](https://github.com/sigp/public-audits)  
+0.1 stars per week over 164 weeks  
+17 stars, 6 forks, 2 watches  
+created 2018-10-15, last commit 2020-11-19, main language Python  
 
 
 ### [presentations](https://github.com/sigp/presentations) by [sigp](https://github.com/sigp)  
@@ -96,6 +96,6 @@ Collection of presentations given by Sigma Prime
 created 2018-09-19, last commit 2019-09-11, main language None  
 
 
-This file was automatically generated on 2021-12-05.  
+This file was automatically generated on 2021-12-06.  
 
 To curate your own github list, simply clone and change the input csv file.  

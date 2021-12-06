@@ -10,7 +10,7 @@ Algorand's official implementation in Go.
 [https://developer.algorand.org/](https://developer.algorand.org/)  
 [https://github.com/algorand/go-algorand](https://github.com/algorand/go-algorand)  
 6.34 stars per week over 129 weeks  
-822 stars, 263 forks, 52 watches  
+823 stars, 263 forks, 52 watches  
 created 2019-06-11, last commit 2021-12-03, main language Go  
 
 
@@ -18,7 +18,7 @@ created 2019-06-11, last commit 2021-12-03, main language Go
 The official JavaScript SDK for Algorand.  
 [https://algorand.github.io/js-algorand-sdk/](https://algorand.github.io/js-algorand-sdk/)  
 [https://github.com/algorand/js-algorand-sdk](https://github.com/algorand/js-algorand-sdk)  
-1.19 stars per week over 148 weeks  
+1.18 stars per week over 148 weeks  
 176 stars, 111 forks, 25 watches  
 created 2019-01-31, last commit 2021-11-23, main language TypeScript  
 <sub><sup>algorand, blockchain, browser, javascript, node, sdk, typescript</sup></sub>
@@ -27,8 +27,8 @@ created 2019-01-31, last commit 2021-11-23, main language TypeScript
 ### [py-algorand-sdk](https://github.com/algorand/py-algorand-sdk) by [algorand](https://github.com/algorand)  
 Algorand Python SDK  
 [https://github.com/algorand/py-algorand-sdk](https://github.com/algorand/py-algorand-sdk)  
-1.1 stars per week over 129 weeks  
-143 stars, 67 forks, 8 watches  
+1.11 stars per week over 129 weeks  
+144 stars, 66 forks, 8 watches  
 created 2019-06-12, last commit 2021-11-26, main language Python  
 
 
@@ -46,7 +46,7 @@ created 2019-10-02, last commit 2021-11-27, main language Python
 Algorand Golang SDK  
 [https://pkg.go.dev/github.com/algorand/go-algorand-sdk](https://pkg.go.dev/github.com/algorand/go-algorand-sdk)  
 [https://github.com/algorand/go-algorand-sdk](https://github.com/algorand/go-algorand-sdk)  
-0.84 stars per week over 147 weeks  
+0.84 stars per week over 148 weeks  
 124 stars, 57 forks, 18 watches  
 created 2019-02-04, last commit 2021-12-03, main language Go  
 
@@ -55,7 +55,7 @@ created 2019-02-04, last commit 2021-12-03, main language Go
 Source code for the official Algorand Wallet  
 [https://algorandwallet.com](https://algorandwallet.com)  
 [https://github.com/algorand/algorand-wallet](https://github.com/algorand/algorand-wallet)  
-3.03 stars per week over 30 weeks  
+3.01 stars per week over 30 weeks  
 93 stars, 26 forks, 13 watches  
 created 2021-05-04, last commit 2021-11-11, main language Swift  
 <sub><sup>algorand, algorand-wallet, android, blockchain, crypto, cryptocurrency, ios, wallet</sup></sub>
@@ -64,17 +64,9 @@ created 2021-05-04, last commit 2021-11-11, main language Swift
 ### [sandbox](https://github.com/algorand/sandbox) by [algorand](https://github.com/algorand)  
 Algorand node sandbox  
 [https://github.com/algorand/sandbox](https://github.com/algorand/sandbox)  
-0.8 stars per week over 105 weeks  
-85 stars, 42 forks, 8 watches  
+0.82 stars per week over 106 weeks  
+87 stars, 42 forks, 9 watches  
 created 2019-11-25, last commit 2021-10-28, main language Shell  
-
-
-### [docs](https://github.com/algorand/docs) by [algorand](https://github.com/algorand)  
-  
-[https://github.com/algorand/docs](https://github.com/algorand/docs)  
-0.67 stars per week over 102 weeks  
-69 stars, 109 forks, 13 watches  
-created 2019-12-17, last commit 2021-12-02, main language Python  
 
 
 ### [libsodium](https://github.com/algorand/libsodium) by [algorand](https://github.com/algorand)  
@@ -86,28 +78,28 @@ A modern, portable, easy to use crypto library
 created 2018-10-09, last commit 2019-01-25, main language C  
 
 
-### [smart-contracts](https://github.com/algorand/smart-contracts) by [algorand](https://github.com/algorand)  
-Example stateful and stateless smart contracts.  
-[https://github.com/algorand/smart-contracts](https://github.com/algorand/smart-contracts)  
-0.8 stars per week over 71 weeks  
-57 stars, 41 forks, 7 watches  
-created 2020-07-22, last commit 2021-12-02, main language JavaScript  
+### [docs](https://github.com/algorand/docs) by [algorand](https://github.com/algorand)  
+  
+[https://github.com/algorand/docs](https://github.com/algorand/docs)  
+0.67 stars per week over 102 weeks  
+69 stars, 109 forks, 13 watches  
+created 2019-12-17, last commit 2021-12-02, main language Python  
 
 
 ### [indexer](https://github.com/algorand/indexer) by [algorand](https://github.com/algorand)  
 searchable history and current state  
 [https://github.com/algorand/indexer](https://github.com/algorand/indexer)  
-0.56 stars per week over 99 weeks  
-56 stars, 49 forks, 13 watches  
+0.58 stars per week over 99 weeks  
+58 stars, 49 forks, 13 watches  
 created 2020-01-10, last commit 2021-12-03, main language Go  
 
 
-### [go-algorand-doc](https://github.com/algorand/go-algorand-doc) by [algorand](https://github.com/algorand)  
-Documentation for Algorand's Go implementation  
-[https://github.com/algorand/go-algorand-doc](https://github.com/algorand/go-algorand-doc)  
-0.23 stars per week over 172 weeks  
-40 stars, 10 forks, 118 watches  
-created 2018-08-13, last commit 2020-02-26, main language Shell  
+### [smart-contracts](https://github.com/algorand/smart-contracts) by [algorand](https://github.com/algorand)  
+Example stateful and stateless smart contracts.  
+[https://github.com/algorand/smart-contracts](https://github.com/algorand/smart-contracts)  
+0.79 stars per week over 71 weeks  
+57 stars, 42 forks, 7 watches  
+created 2020-07-22, last commit 2021-12-02, main language JavaScript  
 
 
 ### [java-algorand-sdk](https://github.com/algorand/java-algorand-sdk) by [algorand](https://github.com/algorand)  
@@ -117,6 +109,14 @@ Algorand SDK for Java7+ to interact with the Algorand network
 0.28 stars per week over 141 weeks  
 40 stars, 36 forks, 15 watches  
 created 2019-03-20, last commit 2021-12-03, main language Java  
+
+
+### [go-algorand-doc](https://github.com/algorand/go-algorand-doc) by [algorand](https://github.com/algorand)  
+Documentation for Algorand's Go implementation  
+[https://github.com/algorand/go-algorand-doc](https://github.com/algorand/go-algorand-doc)  
+0.23 stars per week over 173 weeks  
+40 stars, 10 forks, 118 watches  
+created 2018-08-13, last commit 2020-02-26, main language Shell  
 
 
 ### [bls_sigs_ref](https://github.com/algorand/bls_sigs_ref) by [algorand](https://github.com/algorand)  
@@ -139,7 +139,7 @@ created 2019-06-21, last commit 2020-06-15, main language Rust
 ### [auction-demo](https://github.com/algorand/auction-demo) by [algorand](https://github.com/algorand)  
   
 [https://github.com/algorand/auction-demo](https://github.com/algorand/auction-demo)  
-1.84 stars per week over 11 weeks  
+1.81 stars per week over 11 weeks  
 21 stars, 15 forks, 4 watches  
 created 2021-09-16, last commit 2021-11-29, main language Python  
 
@@ -184,6 +184,6 @@ General automation framework
 created 2020-03-14, last commit 2021-07-21, main language Python  
 
 
-This file was automatically generated on 2021-12-05.  
+This file was automatically generated on 2021-12-06.  
 
 To curate your own github list, simply clone and change the input csv file.  

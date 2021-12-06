@@ -25,7 +25,7 @@ created 2018-03-23, last commit 2021-11-24, main language PHP
 Wallet CLI  
 [https://github.com/tronprotocol/wallet-cli](https://github.com/tronprotocol/wallet-cli)  
 1.3 stars per week over 200 weeks  
-260 stars, 263 forks, 36 watches  
+261 stars, 263 forks, 36 watches  
 created 2018-01-31, last commit 2021-08-05, main language Java  
 
 
@@ -72,8 +72,8 @@ created 2019-05-17, last commit 2021-10-20, main language None
 ### [tips](https://github.com/tronprotocol/tips) by [tronprotocol](https://github.com/tronprotocol)  
 TRON Improvement Proposals  
 [https://github.com/tronprotocol/tips](https://github.com/tronprotocol/tips)  
-0.39 stars per week over 190 weeks  
-75 stars, 79 forks, 24 watches  
+0.39 stars per week over 191 weeks  
+75 stars, 80 forks, 24 watches  
 created 2018-04-09, last commit 2021-10-15, main language None  
 
 
@@ -88,7 +88,7 @@ created 2018-11-08, last commit 2018-12-29, main language JavaScript
 ### [tron-deployment](https://github.com/tronprotocol/tron-deployment) by [tronprotocol](https://github.com/tronprotocol)  
 tron main net conf  
 [https://github.com/tronprotocol/tron-deployment](https://github.com/tronprotocol/tron-deployment)  
-0.35 stars per week over 179 weeks  
+0.35 stars per week over 180 weeks  
 63 stars, 253 forks, 13 watches  
 created 2018-06-25, last commit 2021-10-19, main language Shell  
 
@@ -128,8 +128,8 @@ created 2020-12-01, last commit 2021-03-09, main language Java
 ### [trident](https://github.com/tronprotocol/trident) by [tronprotocol](https://github.com/tronprotocol)  
   
 [https://github.com/tronprotocol/trident](https://github.com/tronprotocol/trident)  
-0.7 stars per week over 38 weeks  
-27 stars, 27 forks, 5 watches  
+0.72 stars per week over 38 weeks  
+28 stars, 27 forks, 5 watches  
 created 2021-03-09, last commit 2021-08-19, main language Java  
 
 
@@ -149,20 +149,20 @@ A full private network for Tron development
 created 2018-10-05, last commit 2019-05-08, main language None  
 
 
-### [tron-demo](https://github.com/tronprotocol/tron-demo) by [tronprotocol](https://github.com/tronprotocol)  
-Tron tools  
-[https://github.com/tronprotocol/tron-demo](https://github.com/tronprotocol/tron-demo)  
-0.12 stars per week over 179 weeks  
-22 stars, 27 forks, 11 watches  
-created 2018-06-26, last commit 2018-11-28, main language JavaScript  
-
-
 ### [event-plugin](https://github.com/tronprotocol/event-plugin) by [tronprotocol](https://github.com/tronprotocol)  
 Tron eventsubscribe plugin  
 [https://github.com/tronprotocol/event-plugin](https://github.com/tronprotocol/event-plugin)  
 0.14 stars per week over 153 weeks  
 22 stars, 26 forks, 7 watches  
 created 2018-12-25, last commit 2021-10-17, main language Java  
+
+
+### [tron-demo](https://github.com/tronprotocol/tron-demo) by [tronprotocol](https://github.com/tronprotocol)  
+Tron tools  
+[https://github.com/tronprotocol/tron-demo](https://github.com/tronprotocol/tron-demo)  
+0.12 stars per week over 179 weeks  
+22 stars, 27 forks, 11 watches  
+created 2018-06-26, last commit 2018-11-28, main language JavaScript  
 
 
 ### [grpc-gateway](https://github.com/tronprotocol/grpc-gateway) by [tronprotocol](https://github.com/tronprotocol)  
@@ -239,6 +239,6 @@ a zksnark jni library
 created 2019-06-05, last commit 2020-06-09, main language Java  
 
 
-This file was automatically generated on 2021-12-05.  
+This file was automatically generated on 2021-12-06.  
 
 To curate your own github list, simply clone and change the input csv file.  

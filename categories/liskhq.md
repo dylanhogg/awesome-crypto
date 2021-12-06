@@ -9,8 +9,8 @@ Checkout the interactive version that you can filter and sort:
 🔩 Lisk software development kit  
 [https://lisk.com](https://lisk.com)  
 [https://github.com/LiskHQ/lisk-sdk](https://github.com/LiskHQ/lisk-sdk)  
-9.08 stars per week over 304 weeks  
-2,767 stars, 465 forks, 217 watches  
+9.08 stars per week over 305 weeks  
+2,768 stars, 465 forks, 217 watches  
 created 2016-02-01, last commit 2021-11-17, main language TypeScript  
 <sub><sup>blockchain, command-line, framework, javascript, lisk, sdk, typescript</sup></sub>
 
@@ -19,8 +19,8 @@ created 2016-02-01, last commit 2021-11-17, main language TypeScript
 🖥 Lisk graphical user interface for desktop  
 [https://lisk.com/wallet](https://lisk.com/wallet)  
 [https://github.com/LiskHQ/lisk-desktop](https://github.com/LiskHQ/lisk-desktop)  
-2.71 stars per week over 213 weeks  
-579 stars, 87 forks, 35 watches  
+2.72 stars per week over 213 weeks  
+580 stars, 87 forks, 35 watches  
 created 2017-11-02, last commit 2021-11-20, main language JavaScript  
 <sub><sup>blockchain, blockchain-wallet, desktop, electron, javascript, lisk, ui</sup></sub>
 
@@ -29,8 +29,8 @@ created 2017-11-02, last commit 2021-11-20, main language JavaScript
 📦 Lisk blockchain explorer  
 [https://explorer.lisk.io/](https://explorer.lisk.io/)  
 [https://github.com/LiskHQ/lisk-explorer](https://github.com/LiskHQ/lisk-explorer)  
-0.4 stars per week over 307 weeks  
-122 stars, 73 forks, 29 watches  
+0.4 stars per week over 308 weeks  
+123 stars, 73 forks, 29 watches  
 created 2016-01-11, last commit 2021-11-02, main language JavaScript  
 <sub><sup>blockchain, explorer, javascript, lisk, ui</sup></sub>
 
@@ -39,7 +39,7 @@ created 2016-01-11, last commit 2021-11-02, main language JavaScript
 📟 Lisk blockchain application platform  
 [https://lisk.com](https://lisk.com)  
 [https://github.com/LiskHQ/lisk-core](https://github.com/LiskHQ/lisk-core)  
-0.88 stars per week over 138 weeks  
+0.87 stars per week over 138 weeks  
 121 stars, 40 forks, 21 watches  
 created 2019-04-12, last commit 2021-10-20, main language TypeScript  
 <sub><sup>application, blockchain, core, javascript, lisk, platform</sup></sub>
@@ -86,7 +86,7 @@ created 2019-05-16, last commit 2021-11-12, main language JavaScript
 📘 Lisk documentation repository  
 [https://lisk.com/documentation](https://lisk.com/documentation)  
 [https://github.com/LiskHQ/lisk-docs](https://github.com/LiskHQ/lisk-docs)  
-0.17 stars per week over 172 weeks  
+0.17 stars per week over 173 weeks  
 30 stars, 50 forks, 18 watches  
 created 2018-08-13, last commit 2021-11-23, main language None  
 <sub><sup>blockchain, command-line, documentation, framework, javascript, lisk, sdk, typescript</sup></sub>
@@ -96,7 +96,7 @@ created 2018-08-13, last commit 2021-11-23, main language None
 :calling: API based service provider to Lisk user interfaces  
 [https://lisk.com](https://lisk.com)  
 [https://github.com/LiskHQ/lisk-service](https://github.com/LiskHQ/lisk-service)  
-0.27 stars per week over 86 weeks  
+0.26 stars per week over 86 weeks  
 23 stars, 9 forks, 12 watches  
 created 2020-04-07, last commit 2021-12-03, main language JavaScript  
 <sub><sup>api, blockchain, javascript, lisk, microservices, nodejs, service-provider, ui</sup></sub>
@@ -106,12 +106,12 @@ created 2020-04-07, last commit 2021-12-03, main language JavaScript
 🚰 Lisk faucet  
 [https://testnet-faucet.lisk.io/](https://testnet-faucet.lisk.io/)  
 [https://github.com/LiskHQ/lisk-faucet](https://github.com/LiskHQ/lisk-faucet)  
-0.04 stars per week over 307 weeks  
+0.04 stars per week over 308 weeks  
 12 stars, 12 forks, 15 watches  
 created 2016-01-11, last commit 2021-06-14, main language JavaScript  
 <sub><sup>blockchain, faucet, javascript, lisk, ui</sup></sub>
 
 
-This file was automatically generated on 2021-12-05.  
+This file was automatically generated on 2021-12-06.  
 
 To curate your own github list, simply clone and change the input csv file.  

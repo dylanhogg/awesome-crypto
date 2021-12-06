@@ -9,8 +9,8 @@ Checkout the interactive version that you can filter and sort:
 Graph Node indexes data from blockchains such as Ethereum and serves it over GraphQL  
 [https://thegraph.com](https://thegraph.com)  
 [https://github.com/graphprotocol/graph-node](https://github.com/graphprotocol/graph-node)  
-7.69 stars per week over 189 weeks  
-1,457 stars, 369 forks, 75 watches  
+7.78 stars per week over 189 weeks  
+1,475 stars, 371 forks, 75 watches  
 created 2018-04-19, last commit 2021-12-03, main language Rust  
 <sub><sup>blockchain, developer-tools, ethereum, graphql, graphql-api, graphql-server, ipfs, protocol</sup></sub>
 
@@ -37,7 +37,7 @@ created 2018-12-11, last commit 2021-12-01, main language TypeScript
 TypeScript/AssemblyScript library for writing mappings for The Graph  
 [https://thegraph.com](https://thegraph.com)  
 [https://github.com/graphprotocol/graph-ts](https://github.com/graphprotocol/graph-ts)  
-0.81 stars per week over 165 weeks  
+0.81 stars per week over 166 weeks  
 134 stars, 49 forks, 31 watches  
 created 2018-10-01, last commit 2021-11-24, main language TypeScript  
 
@@ -45,15 +45,15 @@ created 2018-10-01, last commit 2021-11-24, main language TypeScript
 ### [indexer](https://github.com/graphprotocol/indexer) by [graphprotocol](https://github.com/graphprotocol)  
 Graph Protocol indexer components and infrastructure  
 [https://github.com/graphprotocol/indexer](https://github.com/graphprotocol/indexer)  
-1.6 stars per week over 73 weeks  
-118 stars, 40 forks, 34 watches  
+1.61 stars per week over 73 weeks  
+119 stars, 40 forks, 34 watches  
 created 2020-07-07, last commit 2021-12-01, main language TypeScript  
 
 
 ### [uniswap-subgraph](https://github.com/graphprotocol/uniswap-subgraph) by [graphprotocol](https://github.com/graphprotocol)  
 This is for uniswap-v1. If you are looking for the uniswap v2 subgraph, please go to https://github.com/uniswap/uniswap-v2-subgraph  
 [https://github.com/graphprotocol/uniswap-subgraph](https://github.com/graphprotocol/uniswap-subgraph)  
-0.62 stars per week over 150 weeks  
+0.62 stars per week over 151 weeks  
 93 stars, 50 forks, 14 watches  
 created 2019-01-14, last commit 2020-07-02, main language TypeScript  
 
@@ -106,20 +106,20 @@ Script to sync files from one IPFS node to another
 created 2019-09-20, last commit 2021-08-06, main language JavaScript  
 
 
-### [decentraland-subgraph](https://github.com/graphprotocol/decentraland-subgraph) by [graphprotocol](https://github.com/graphprotocol)  
-Decentraland data source for The Graph  
-[https://github.com/graphprotocol/decentraland-subgraph](https://github.com/graphprotocol/decentraland-subgraph)  
-0.11 stars per week over 178 weeks  
-20 stars, 6 forks, 14 watches  
-created 2018-07-03, last commit 2020-02-12, main language TypeScript  
-
-
 ### [compound-v2-subgraph](https://github.com/graphprotocol/compound-v2-subgraph) by [graphprotocol](https://github.com/graphprotocol)  
   
 [https://github.com/graphprotocol/compound-v2-subgraph](https://github.com/graphprotocol/compound-v2-subgraph)  
 0.15 stars per week over 135 weeks  
 20 stars, 35 forks, 8 watches  
 created 2019-05-02, last commit 2021-11-15, main language TypeScript  
+
+
+### [decentraland-subgraph](https://github.com/graphprotocol/decentraland-subgraph) by [graphprotocol](https://github.com/graphprotocol)  
+Decentraland data source for The Graph  
+[https://github.com/graphprotocol/decentraland-subgraph](https://github.com/graphprotocol/decentraland-subgraph)  
+0.11 stars per week over 178 weeks  
+20 stars, 6 forks, 14 watches  
+created 2018-07-03, last commit 2020-02-12, main language TypeScript  
 
 
 ### [mission-control-indexer](https://github.com/graphprotocol/mission-control-indexer) by [graphprotocol](https://github.com/graphprotocol)  
@@ -133,7 +133,7 @@ created 2020-07-28, last commit 2021-06-10, main language TypeScript
 ### [erc20-subgraph](https://github.com/graphprotocol/erc20-subgraph) by [graphprotocol](https://github.com/graphprotocol)  
   
 [https://github.com/graphprotocol/erc20-subgraph](https://github.com/graphprotocol/erc20-subgraph)  
-0.13 stars per week over 127 weeks  
+0.13 stars per week over 128 weeks  
 17 stars, 9 forks, 3 watches  
 created 2019-06-24, last commit 2021-04-22, main language TypeScript  
 
@@ -155,20 +155,20 @@ DAO - subgraph
 created 2018-11-08, last commit 2019-02-13, main language TypeScript  
 
 
-### [common-ts](https://github.com/graphprotocol/common-ts) by [graphprotocol](https://github.com/graphprotocol)  
-Common TypeScript library for use in Graph Protocol components  
-[https://github.com/graphprotocol/common-ts](https://github.com/graphprotocol/common-ts)  
-0.16 stars per week over 94 weeks  
-15 stars, 9 forks, 25 watches  
-created 2020-02-11, last commit 2021-08-18, main language TypeScript  
-
-
 ### [mission-control-curator](https://github.com/graphprotocol/mission-control-curator) by [graphprotocol](https://github.com/graphprotocol)  
   
 [https://github.com/graphprotocol/mission-control-curator](https://github.com/graphprotocol/mission-control-curator)  
 0.25 stars per week over 59 weeks  
 15 stars, 59 forks, 5 watches  
 created 2020-10-16, last commit 2020-10-16, main language None  
+
+
+### [common-ts](https://github.com/graphprotocol/common-ts) by [graphprotocol](https://github.com/graphprotocol)  
+Common TypeScript library for use in Graph Protocol components  
+[https://github.com/graphprotocol/common-ts](https://github.com/graphprotocol/common-ts)  
+0.16 stars per week over 94 weeks  
+15 stars, 9 forks, 25 watches  
+created 2020-02-11, last commit 2021-08-18, main language TypeScript  
 
 
 ### [agora](https://github.com/graphprotocol/agora) by [graphprotocol](https://github.com/graphprotocol)  
@@ -188,6 +188,14 @@ Graph Protocol RFCs and Engineering Plans
 created 2019-12-07, last commit 2021-04-02, main language CSS  
 
 
+### [token-distribution](https://github.com/graphprotocol/token-distribution) by [graphprotocol](https://github.com/graphprotocol)  
+Token distribution contracts  
+[https://github.com/graphprotocol/token-distribution](https://github.com/graphprotocol/token-distribution)  
+0.17 stars per week over 58 weeks  
+10 stars, 2 forks, 18 watches  
+created 2020-10-26, last commit 2021-08-19, main language TypeScript  
+
+
 ### [0x-subgraph](https://github.com/graphprotocol/0x-subgraph) by [graphprotocol](https://github.com/graphprotocol)  
 Subgraph that tracks events of the 0x protocol  
 [https://github.com/graphprotocol/0x-subgraph](https://github.com/graphprotocol/0x-subgraph)  
@@ -196,14 +204,6 @@ Subgraph that tracks events of the 0x protocol
 created 2018-10-24, last commit 2019-02-13, main language TypeScript  
 
 
-### [token-distribution](https://github.com/graphprotocol/token-distribution) by [graphprotocol](https://github.com/graphprotocol)  
-Token distribution contracts  
-[https://github.com/graphprotocol/token-distribution](https://github.com/graphprotocol/token-distribution)  
-0.17 stars per week over 57 weeks  
-10 stars, 2 forks, 18 watches  
-created 2020-10-26, last commit 2021-08-19, main language TypeScript  
-
-
-This file was automatically generated on 2021-12-05.  
+This file was automatically generated on 2021-12-06.  
 
 To curate your own github list, simply clone and change the input csv file.  

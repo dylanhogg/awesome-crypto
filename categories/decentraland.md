@@ -9,8 +9,8 @@ Checkout the interactive version that you can filter and sort:
 🏛️ Decentraland's NFT Marketplace  
 [https://market.decentraland.org](https://market.decentraland.org)  
 [https://github.com/decentraland/marketplace](https://github.com/decentraland/marketplace)  
-4.71 stars per week over 103 weeks  
-489 stars, 245 forks, 49 watches  
+4.72 stars per week over 104 weeks  
+491 stars, 246 forks, 49 watches  
 created 2019-12-09, last commit 2021-11-26, main language TypeScript  
 
 
@@ -19,7 +19,7 @@ created 2019-12-09, last commit 2021-11-26, main language TypeScript
 [https://www.npmjs.com/package/dappeteer](https://www.npmjs.com/package/dappeteer)  
 [https://github.com/decentraland/dappeteer](https://github.com/decentraland/dappeteer)  
 1.01 stars per week over 181 weeks  
-184 stars, 69 forks, 23 watches  
+184 stars, 70 forks, 23 watches  
 created 2018-06-12, last commit 2021-10-27, main language CSS  
 <sub><sup>dapps, e2e, ethereum, metamask, puppeteer, testing</sup></sub>
 
@@ -48,7 +48,7 @@ Proposals for Community Districts for the Terraform event
 [https://terraform.decentraland.org](https://terraform.decentraland.org)  
 [https://github.com/decentraland/districts](https://github.com/decentraland/districts)  
 0.51 stars per week over 218 weeks  
-111 stars, 26 forks, 48 watches  
+112 stars, 26 forks, 48 watches  
 created 2017-09-26, last commit 2017-09-29, main language None  
 
 
@@ -56,7 +56,7 @@ created 2017-09-26, last commit 2017-09-29, main language None
 DEPRECATED: This codebase will not be mantained anymore, and formats are going to change when we move to the Decentraland Iron Age  
 [https://decentraland.org](https://decentraland.org)  
 [https://github.com/decentraland/bronzeage-node](https://github.com/decentraland/bronzeage-node)  
-0.42 stars per week over 257 weeks  
+0.42 stars per week over 258 weeks  
 109 stars, 27 forks, 45 watches  
 created 2016-12-26, last commit 2017-09-18, main language JavaScript  
 
@@ -110,7 +110,7 @@ created 2018-07-19, last commit 2021-11-24, main language TypeScript
 [https://builder.decentraland.org](https://builder.decentraland.org)  
 [https://github.com/decentraland/builder](https://github.com/decentraland/builder)  
 0.51 stars per week over 154 weeks  
-78 stars, 32 forks, 25 watches  
+79 stars, 32 forks, 25 watches  
 created 2018-12-21, last commit 2021-11-30, main language TypeScript  
 <sub><sup>3d-editor, builder, dapp, decentraland, land</sup></sub>
 
@@ -119,7 +119,7 @@ created 2018-12-21, last commit 2021-11-30, main language TypeScript
 🌎 Explore Decentraland from a web browser  
 [https://explorer.decentraland.org](https://explorer.decentraland.org)  
 [https://github.com/decentraland/explorer](https://github.com/decentraland/explorer)  
-0.7 stars per week over 107 weeks  
+0.69 stars per week over 108 weeks  
 75 stars, 43 forks, 27 watches  
 created 2019-11-11, last commit 2021-08-10, main language TypeScript  
 
@@ -188,8 +188,8 @@ created 2018-05-16, last commit 2021-08-25, main language TypeScript
 Unity implementation of Decentraland Client  
 [https://play.decentraland.org](https://play.decentraland.org)  
 [https://github.com/decentraland/unity-renderer](https://github.com/decentraland/unity-renderer)  
-0.79 stars per week over 42 weeks  
-34 stars, 14 forks, 9 watches  
+0.81 stars per week over 43 weeks  
+35 stars, 14 forks, 9 watches  
 created 2021-02-08, last commit 2021-12-03, main language C#  
 <sub><sup>decentraland, unity-editor</sup></sub>
 
@@ -203,6 +203,15 @@ created 2021-02-08, last commit 2021-12-03, main language C#
 created 2019-04-23, last commit 2021-11-15, main language TypeScript  
 
 
+### [auction](https://github.com/decentraland/auction) by [decentraland](https://github.com/decentraland)  
+🌅 Source code for Decentraland's Terraform Auction  
+[https://auction.decentraland.org](https://auction.decentraland.org)  
+[https://github.com/decentraland/auction](https://github.com/decentraland/auction)  
+0.15 stars per week over 211 weeks  
+31 stars, 9 forks, 25 watches  
+created 2017-11-20, last commit 2018-01-15, main language JavaScript  
+
+
 ### [stoneage-browser](https://github.com/decentraland/stoneage-browser) by [decentraland](https://github.com/decentraland)  
 🥉 Browser for Decentraland Stone Age  
 [https://decentraland.org](https://decentraland.org)  
@@ -210,15 +219,6 @@ created 2019-04-23, last commit 2021-11-15, main language TypeScript
 0.09 stars per week over 341 weeks  
 31 stars, 10 forks, 30 watches  
 created 2015-05-22, last commit 2018-03-27, main language JavaScript  
-
-
-### [auction](https://github.com/decentraland/auction) by [decentraland](https://github.com/decentraland)  
-🌅 Source code for Decentraland's Terraform Auction  
-[https://auction.decentraland.org](https://auction.decentraland.org)  
-[https://github.com/decentraland/auction](https://github.com/decentraland/auction)  
-0.15 stars per week over 210 weeks  
-31 stars, 9 forks, 25 watches  
-created 2017-11-20, last commit 2018-01-15, main language JavaScript  
 
 
 ### [sample-scenes](https://github.com/decentraland/sample-scenes) by [decentraland](https://github.com/decentraland)  
@@ -242,7 +242,7 @@ created 2019-11-27, last commit 2021-12-02, main language TypeScript
 [https://docs.decentraland.org](https://docs.decentraland.org)  
 [https://github.com/decentraland/documentation](https://github.com/decentraland/documentation)  
 0.15 stars per week over 185 weeks  
-27 stars, 64 forks, 19 watches  
+27 stars, 65 forks, 19 watches  
 created 2018-05-19, last commit 2021-12-02, main language SCSS  
 
 
@@ -266,7 +266,7 @@ created 2018-11-15, last commit 2019-11-29, main language Go
  🌎 Explore Decentraland from a web browser  
 [https://decentraland.org](https://decentraland.org)  
 [https://github.com/decentraland/kernel-legacy](https://github.com/decentraland/kernel-legacy)  
-0.15 stars per week over 142 weeks  
+0.15 stars per week over 143 weeks  
 22 stars, 6 forks, 20 watches  
 created 2019-03-11, last commit 2019-11-08, main language TypeScript  
 <sub><sup>dapp, decentraland, land, webgl</sup></sub>
@@ -276,7 +276,7 @@ created 2019-03-11, last commit 2019-11-08, main language TypeScript
 Node for Decentraland Stone Age  
 [https://decentraland.org](https://decentraland.org)  
 [https://github.com/decentraland/stoneage-node](https://github.com/decentraland/stoneage-node)  
-0.06 stars per week over 341 weeks  
+0.06 stars per week over 342 weeks  
 22 stars, 10 forks, 31 watches  
 created 2015-05-18, last commit 2015-06-05, main language JavaScript  
 
@@ -306,6 +306,16 @@ created 2017-10-25, last commit 2020-05-13, main language TypeScript
 created 2018-01-04, last commit 2021-11-24, main language HTML  
 
 
+### [agora](https://github.com/decentraland/agora) by [decentraland](https://github.com/decentraland)  
+📝Agora is an off-chain governance tool for decentralized communities.  
+[https://agora.decentraland.org](https://agora.decentraland.org)  
+[https://github.com/decentraland/agora](https://github.com/decentraland/agora)  
+0.08 stars per week over 183 weeks  
+14 stars, 11 forks, 11 watches  
+created 2018-05-29, last commit 2021-01-12, main language TypeScript  
+<sub><sup>ethereum, vote</sup></sub>
+
+
 ### [decentraland-ecs-utils](https://github.com/decentraland/decentraland-ecs-utils) by [decentraland](https://github.com/decentraland)  
   
 [https://github.com/decentraland/decentraland-ecs-utils](https://github.com/decentraland/decentraland-ecs-utils)  
@@ -321,16 +331,6 @@ Open API Specification for the NFT APIs
 14 stars, 4 forks, 8 watches  
 created 2019-04-24, last commit 2019-07-04, main language TypeScript  
 <sub><sup>api-spec, oas3</sup></sub>
-
-
-### [agora](https://github.com/decentraland/agora) by [decentraland](https://github.com/decentraland)  
-📝Agora is an off-chain governance tool for decentralized communities.  
-[https://agora.decentraland.org](https://agora.decentraland.org)  
-[https://github.com/decentraland/agora](https://github.com/decentraland/agora)  
-0.08 stars per week over 183 weeks  
-14 stars, 11 forks, 11 watches  
-created 2018-05-29, last commit 2021-01-12, main language TypeScript  
-<sub><sup>ethereum, vote</sup></sub>
 
 
 ### [atlas-server](https://github.com/decentraland/atlas-server) by [decentraland](https://github.com/decentraland)  
@@ -378,7 +378,7 @@ created 2019-01-09, last commit 2020-05-11, main language JavaScript
 ### [MANA-community-fund-learning-content](https://github.com/decentraland/MANA-community-fund-learning-content) by [decentraland](https://github.com/decentraland)  
 Offer bounties in MANA to developers that create educational content: tutorials & scene samples  
 [https://github.com/decentraland/MANA-community-fund-learning-content](https://github.com/decentraland/MANA-community-fund-learning-content)  
-0.06 stars per week over 179 weeks  
+0.06 stars per week over 180 weeks  
 11 stars, 6 forks, 7 watches  
 created 2018-06-25, last commit 2018-11-21, main language TypeScript  
 
@@ -391,6 +391,6 @@ NPC tools for conversational NPCs
 created 2020-11-06, last commit 2021-10-04, main language TypeScript  
 
 
-This file was automatically generated on 2021-12-05.  
+This file was automatically generated on 2021-12-06.  
 
 To curate your own github list, simply clone and change the input csv file.  

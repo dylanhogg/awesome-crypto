@@ -19,7 +19,7 @@ created 2017-03-01, last commit 2021-11-15, main language JavaScript
 (Aragon 1) Reference implementation for aragonOS: a Solidity framework for building complex dApps and protocols  
 [https://hack.aragon.org/docs/aragonos-intro.html](https://hack.aragon.org/docs/aragonos-intro.html)  
 [https://github.com/aragon/aragonOS](https://github.com/aragon/aragonOS)  
-2.26 stars per week over 242 weeks  
+2.26 stars per week over 243 weeks  
 548 stars, 205 forks, 52 watches  
 created 2017-04-10, last commit 2020-09-29, main language Solidity  
 <sub><sup>aragon, aragon-app, ethereum, solidity</sup></sub>
@@ -29,7 +29,7 @@ created 2017-04-10, last commit 2020-09-29, main language Solidity
 👛 useWallet() · All-in-one solution to connect a dapp to an Ethereum provider.  
 [https://github.com/aragon/use-wallet](https://github.com/aragon/use-wallet)  
 4.63 stars per week over 97 weeks  
-452 stars, 148 forks, 26 watches  
+453 stars, 148 forks, 26 watches  
 created 2020-01-21, last commit 2021-11-04, main language TypeScript  
 <sub><sup>dapp, ethereum, ethereum-provider, hooks, javascript, react, react-hooks, web3</sup></sub>
 
@@ -87,7 +87,7 @@ created 2017-04-04, last commit 2021-06-14, main language Solidity
 🦅 Optimistic DAOs  
 [https://aragon.org/blog/govern-preview](https://aragon.org/blog/govern-preview)  
 [https://github.com/aragon/govern](https://github.com/aragon/govern)  
-1.75 stars per week over 61 weeks  
+1.74 stars per week over 62 weeks  
 108 stars, 36 forks, 20 watches  
 created 2020-09-28, last commit 2021-12-01, main language TypeScript  
 
@@ -105,7 +105,7 @@ created 2017-04-14, last commit 2019-07-18, main language None
 🧿 A subjective oracle secured by cryptoeconomics  
 [https://aragon.org/court](https://aragon.org/court)  
 [https://github.com/aragon/aragon-court](https://github.com/aragon/aragon-court)  
-0.68 stars per week over 145 weeks  
+0.68 stars per week over 146 weeks  
 99 stars, 36 forks, 20 watches  
 created 2019-02-18, last commit 2020-09-09, main language JavaScript  
 <sub><sup>aragon, aragon-network, court, ethereum, oracle, protocol, solidity</sup></sub>
@@ -122,8 +122,8 @@ created 2018-04-03, last commit 2021-11-19, main language JavaScript
 ### [radspec](https://github.com/aragon/radspec) by [aragon](https://github.com/aragon)  
 🤘 Radspec is a safe interpreter for Ethereum's NatSpec  
 [https://github.com/aragon/radspec](https://github.com/aragon/radspec)  
-0.42 stars per week over 208 weeks  
-88 stars, 32 forks, 23 watches  
+0.43 stars per week over 208 weeks  
+89 stars, 32 forks, 23 watches  
 created 2017-12-08, last commit 2021-09-08, main language JavaScript  
 <sub><sup>compiler, documentation-tool, ethereum, ethereum-tools, language</sup></sub>
 
@@ -132,7 +132,7 @@ created 2017-12-08, last commit 2021-09-08, main language JavaScript
 (Aragon 1) A monorepo of JavaScript libraries for interacting with Aragon  
 [https://aragon.org](https://aragon.org)  
 [https://github.com/aragon/aragon.js](https://github.com/aragon/aragon.js)  
-0.36 stars per week over 227 weeks  
+0.36 stars per week over 228 weeks  
 83 stars, 51 forks, 21 watches  
 created 2017-07-24, last commit 2021-10-21, main language JavaScript  
 <sub><sup>aragon, blockchain, client, ethereum, web3</sup></sub>
@@ -151,7 +151,7 @@ created 2017-09-23, last commit 2021-06-08, main language JavaScript
 The Aragon wiki  
 [https://wiki.aragon.org](https://wiki.aragon.org)  
 [https://github.com/aragon/aragon-wiki](https://github.com/aragon/aragon-wiki)  
-0.32 stars per week over 235 weeks  
+0.32 stars per week over 236 weeks  
 76 stars, 81 forks, 23 watches  
 created 2017-05-29, last commit 2020-11-19, main language HTML  
 <sub><sup>aragon, aragon-wiki, community, community-driven, ethereum, governance, wiki</sup></sub>
@@ -202,7 +202,7 @@ created 2018-10-26, last commit 2019-10-02, main language None
 ### [deployments](https://github.com/aragon/deployments) by [aragon](https://github.com/aragon)  
 Real-world deployments of code powering Aragon organizations to Ethereum networks  
 [https://github.com/aragon/deployments](https://github.com/aragon/deployments)  
-0.22 stars per week over 181 weeks  
+0.21 stars per week over 181 weeks  
 39 stars, 19 forks, 17 watches  
 created 2018-06-15, last commit 2021-11-08, main language Solidity  
 
@@ -229,7 +229,7 @@ created 2018-04-04, last commit 2020-09-04, main language JavaScript
 Aragon Court dashboard  
 [https://court.aragon.org](https://court.aragon.org)  
 [https://github.com/aragon/court-dashboard](https://github.com/aragon/court-dashboard)  
-0.32 stars per week over 104 weeks  
+0.32 stars per week over 105 weeks  
 34 stars, 9 forks, 13 watches  
 created 2019-12-02, last commit 2021-10-13, main language JavaScript  
 <sub><sup>aragon, court, dashboard, ethereum, juror</sup></sub>
@@ -272,15 +272,6 @@ created 2017-11-14, last commit 2020-01-30, main language Solidity
 <sub><sup>aragon, dapp, ethereum, identity</sup></sub>
 
 
-### [KeybaseRegistry](https://github.com/aragon/KeybaseRegistry) by [aragon](https://github.com/aragon)  
-On-chain registry of Ethereum addreses <> https://keybase.io identities  
-[https://github.com/aragon/KeybaseRegistry](https://github.com/aragon/KeybaseRegistry)  
-0.1 stars per week over 248 weeks  
-26 stars, 15 forks, 3 watches  
-created 2017-02-27, last commit 2017-03-13, main language JavaScript  
-<sub><sup>aragon, ethereum, identity, keybase, oraclize</sup></sub>
-
-
 ### [ERC23](https://github.com/aragon/ERC23) by [aragon](https://github.com/aragon)  
   
 [https://github.com/aragon/ERC23](https://github.com/aragon/ERC23)  
@@ -289,11 +280,20 @@ created 2017-02-27, last commit 2017-03-13, main language JavaScript
 created 2017-03-25, last commit 2017-10-07, main language JavaScript  
 
 
+### [KeybaseRegistry](https://github.com/aragon/KeybaseRegistry) by [aragon](https://github.com/aragon)  
+On-chain registry of Ethereum addreses <> https://keybase.io identities  
+[https://github.com/aragon/KeybaseRegistry](https://github.com/aragon/KeybaseRegistry)  
+0.1 stars per week over 249 weeks  
+26 stars, 15 forks, 3 watches  
+created 2017-02-27, last commit 2017-03-13, main language JavaScript  
+<sub><sup>aragon, ethereum, identity, keybase, oraclize</sup></sub>
+
+
 ### [hack](https://github.com/aragon/hack) by [aragon](https://github.com/aragon)  
 (Aragon 1) Content and source code for the Aragon Developer Portal  
 [https://hack.aragon.org](https://hack.aragon.org)  
 [https://github.com/aragon/hack](https://github.com/aragon/hack)  
-0.13 stars per week over 185 weeks  
+0.13 stars per week over 186 weeks  
 25 stars, 38 forks, 11 watches  
 created 2018-05-14, last commit 2021-03-17, main language JavaScript  
 <sub><sup>aragon, developer-portal, documentation, ethereum, solidity</sup></sub>
@@ -303,17 +303,9 @@ created 2018-05-14, last commit 2021-03-17, main language JavaScript
 (Aragon 1) Buidler plugin for Aragon App development  
 [https://github.com/aragon/buidler-aragon](https://github.com/aragon/buidler-aragon)  
 0.24 stars per week over 97 weeks  
-23 stars, 17 forks, 11 watches  
+23 stars, 18 forks, 11 watches  
 created 2020-01-23, last commit 2020-09-29, main language Solidity  
 <sub><sup>aragon, aragon-app, buidler-plugin, developer-tools, ethereum, solidity</sup></sub>
-
-
-### [token-amount](https://github.com/aragon/token-amount) by [aragon](https://github.com/aragon)  
-💸 TokenAmount · A transportable object for token amounts with formatting.  
-[https://github.com/aragon/token-amount](https://github.com/aragon/token-amount)  
-0.26 stars per week over 76 weeks  
-20 stars, 1 forks, 11 watches  
-created 2020-06-18, last commit 2020-12-10, main language TypeScript  
 
 
 ### [staking](https://github.com/aragon/staking) by [aragon](https://github.com/aragon)  
@@ -324,12 +316,12 @@ Staking app
 created 2018-11-21, last commit 2020-09-22, main language Solidity  
 
 
-### [aragen](https://github.com/aragon/aragen) by [aragon](https://github.com/aragon)  
-(Aragon 1) Generate an Aragon environment  
-[https://github.com/aragon/aragen](https://github.com/aragon/aragen)  
-0.1 stars per week over 186 weeks  
-18 stars, 23 forks, 15 watches  
-created 2018-05-11, last commit 2020-03-19, main language JavaScript  
+### [token-amount](https://github.com/aragon/token-amount) by [aragon](https://github.com/aragon)  
+💸 TokenAmount · A transportable object for token amounts with formatting.  
+[https://github.com/aragon/token-amount](https://github.com/aragon/token-amount)  
+0.26 stars per week over 76 weeks  
+20 stars, 1 forks, 11 watches  
+created 2020-06-18, last commit 2020-12-10, main language TypeScript  
 
 
 ### [your-first-aragon-app](https://github.com/aragon/your-first-aragon-app) by [aragon](https://github.com/aragon)  
@@ -345,9 +337,26 @@ created 2019-03-01, last commit 2020-08-19, main language JavaScript
 Zeppelin, a framework to build secure smart contracts on Ethereum  
 [https://openzeppelin.org](https://openzeppelin.org)  
 [https://github.com/aragon/zeppelin-solidity](https://github.com/aragon/zeppelin-solidity)  
-0.07 stars per week over 253 weeks  
+0.07 stars per week over 254 weeks  
 18 stars, 20 forks, 3 watches  
 created 2017-01-23, last commit 2017-02-07, main language JavaScript  
+
+
+### [aragen](https://github.com/aragon/aragen) by [aragon](https://github.com/aragon)  
+(Aragon 1) Generate an Aragon environment  
+[https://github.com/aragon/aragen](https://github.com/aragon/aragen)  
+0.1 stars per week over 186 weeks  
+18 stars, 23 forks, 15 watches  
+created 2018-05-11, last commit 2020-03-19, main language JavaScript  
+
+
+### [use-token](https://github.com/aragon/use-token) by [aragon](https://github.com/aragon)  
+💰 useToken() · No fuss Ethereum token metadata.  
+[https://github.com/aragon/use-token](https://github.com/aragon/use-token)  
+0.18 stars per week over 93 weeks  
+17 stars, 2 forks, 10 watches  
+created 2020-02-22, last commit 2020-09-30, main language JavaScript  
+<sub><sup>dapp, ethereum, hooks, react, token</sup></sub>
 
 
 ### [aragon-chain-spec](https://github.com/aragon/aragon-chain-spec) by [aragon](https://github.com/aragon)  
@@ -359,13 +368,13 @@ Reference specification for Aragon Chain
 created 2020-01-09, last commit 2020-01-14, main language None  
 
 
-### [use-token](https://github.com/aragon/use-token) by [aragon](https://github.com/aragon)  
-💰 useToken() · No fuss Ethereum token metadata.  
-[https://github.com/aragon/use-token](https://github.com/aragon/use-token)  
-0.18 stars per week over 93 weeks  
-17 stars, 2 forks, 10 watches  
-created 2020-02-22, last commit 2020-09-30, main language JavaScript  
-<sub><sup>dapp, ethereum, hooks, react, token</sup></sub>
+### [apm.js](https://github.com/aragon/apm.js) by [aragon](https://github.com/aragon)  
+JavaScript library for the Aragon Package Manager  
+[https://github.com/aragon/apm.js](https://github.com/aragon/apm.js)  
+0.07 stars per week over 206 weeks  
+15 stars, 8 forks, 12 watches  
+created 2017-12-24, last commit 2021-03-12, main language JavaScript  
+<sub><sup>apm, aragon, aragon-package-manager, ethereum, library, package-management</sup></sub>
 
 
 ### [aragon-react-kit-boilerplate](https://github.com/aragon/aragon-react-kit-boilerplate) by [aragon](https://github.com/aragon)  
@@ -386,24 +395,6 @@ created 2020-02-27, last commit 2020-11-13, main language TypeScript
 <sub><sup>hooks, react</sup></sub>
 
 
-### [apm.js](https://github.com/aragon/apm.js) by [aragon](https://github.com/aragon)  
-JavaScript library for the Aragon Package Manager  
-[https://github.com/aragon/apm.js](https://github.com/aragon/apm.js)  
-0.07 stars per week over 206 weeks  
-15 stars, 8 forks, 12 watches  
-created 2017-12-24, last commit 2021-03-12, main language JavaScript  
-<sub><sup>apm, aragon, aragon-package-manager, ethereum, library, package-management</sup></sub>
-
-
-### [aragon-example-application](https://github.com/aragon/aragon-example-application) by [aragon](https://github.com/aragon)  
-A simple example module for Aragon  
-[https://github.com/aragon/aragon-example-application](https://github.com/aragon/aragon-example-application)  
-0.06 stars per week over 215 weeks  
-14 stars, 7 forks, 3 watches  
-created 2017-10-16, last commit 2018-05-11, main language JavaScript  
-<sub><sup>apm, aragon, ethereum, example, modules</sup></sub>
-
-
 ### [metamask-plugin](https://github.com/aragon/metamask-plugin) by [aragon](https://github.com/aragon)  
 :globe_with_meridians: :electric_plug: metamask chrome extension  
 [https://metamask.io/](https://metamask.io/)  
@@ -416,9 +407,18 @@ created 2017-01-11, last commit 2017-03-29, main language JavaScript
 ### [court-subgraph](https://github.com/aragon/court-subgraph) by [aragon](https://github.com/aragon)  
 Aragon Court subgraph  
 [https://github.com/aragon/court-subgraph](https://github.com/aragon/court-subgraph)  
-0.13 stars per week over 104 weeks  
+0.13 stars per week over 105 weeks  
 14 stars, 6 forks, 14 watches  
 created 2019-12-02, last commit 2020-10-20, main language TypeScript  
+
+
+### [aragon-example-application](https://github.com/aragon/aragon-example-application) by [aragon](https://github.com/aragon)  
+A simple example module for Aragon  
+[https://github.com/aragon/aragon-example-application](https://github.com/aragon/aragon-example-application)  
+0.06 stars per week over 216 weeks  
+14 stars, 7 forks, 3 watches  
+created 2017-10-16, last commit 2018-05-11, main language JavaScript  
+<sub><sup>apm, aragon, ethereum, example, modules</sup></sub>
 
 
 ### [plumbery](https://github.com/aragon/plumbery) by [aragon](https://github.com/aragon)  
@@ -427,14 +427,6 @@ A collection of experiments and research artifacts for Aragon Connect.
 0.15 stars per week over 85 weeks  
 13 stars, 1 forks, 11 watches  
 created 2020-04-17, last commit 2020-06-18, main language TypeScript  
-
-
-### [autobounty](https://github.com/aragon/autobounty) by [aragon](https://github.com/aragon)  
-Github bot that automatically funds https://commiteth.com bounties  
-[https://github.com/aragon/autobounty](https://github.com/aragon/autobounty)  
-0.06 stars per week over 234 weeks  
-13 stars, 2 forks, 10 watches  
-created 2017-06-09, last commit 2018-01-10, main language JavaScript  
 
 
 ### [network](https://github.com/aragon/network) by [aragon](https://github.com/aragon)  
@@ -446,11 +438,19 @@ The source code, implementation spec, and Agreement of the Aragon Network.
 created 2020-08-14, last commit 2020-09-17, main language None  
 
 
+### [autobounty](https://github.com/aragon/autobounty) by [aragon](https://github.com/aragon)  
+Github bot that automatically funds https://commiteth.com bounties  
+[https://github.com/aragon/autobounty](https://github.com/aragon/autobounty)  
+0.06 stars per week over 234 weeks  
+13 stars, 2 forks, 10 watches  
+created 2017-06-09, last commit 2018-01-10, main language JavaScript  
+
+
 ### [aragon.org](https://github.com/aragon/aragon.org) by [aragon](https://github.com/aragon)  
 Aragon's website  
 [https://aragon.org](https://aragon.org)  
 [https://github.com/aragon/aragon.org](https://github.com/aragon/aragon.org)  
-0.06 stars per week over 217 weeks  
+0.06 stars per week over 218 weeks  
 12 stars, 16 forks, 13 watches  
 created 2017-10-02, last commit 2020-04-30, main language JavaScript  
 
@@ -459,7 +459,7 @@ created 2017-10-02, last commit 2020-04-30, main language JavaScript
 Convert between your Aragon tokens  
 [https://convert.aragon.org](https://convert.aragon.org)  
 [https://github.com/aragon/convert.aragon.org](https://github.com/aragon/convert.aragon.org)  
-0.14 stars per week over 88 weeks  
+0.13 stars per week over 89 weeks  
 12 stars, 13 forks, 10 watches  
 created 2020-03-23, last commit 2020-10-05, main language JavaScript  
 <sub><sup>anj, ant, aragon, dapp, ethereum, token</sup></sub>
@@ -485,7 +485,7 @@ created 2020-03-06, last commit 2020-11-17, main language TypeScript
 Web 2.0 server for Web 3.0 APM hosted dApps  
 [https://aragon.mainnet.aragonpm.com](https://aragon.mainnet.aragonpm.com)  
 [https://github.com/aragon/apm-serve](https://github.com/aragon/apm-serve)  
-0.05 stars per week over 198 weeks  
+0.05 stars per week over 199 weeks  
 10 stars, 7 forks, 9 watches  
 created 2018-02-12, last commit 2020-07-16, main language JavaScript  
 
@@ -500,6 +500,6 @@ created 2020-07-16, last commit 2020-11-12, main language TypeScript
 <sub><sup>ant, aragon, blockchain, defi, uniswap</sup></sub>
 
 
-This file was automatically generated on 2021-12-05.  
+This file was automatically generated on 2021-12-06.  
 
 To curate your own github list, simply clone and change the input csv file.  

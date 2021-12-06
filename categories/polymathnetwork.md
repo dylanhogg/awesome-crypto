@@ -19,7 +19,7 @@ created 2018-03-06, last commit 2021-11-04, main language JavaScript
 Node for Polymesh Blockchain  
 [https://polymath.network/](https://polymath.network/)  
 [https://github.com/PolymathNetwork/Polymesh](https://github.com/PolymathNetwork/Polymesh)  
-0.82 stars per week over 139 weeks  
+0.81 stars per week over 140 weeks  
 114 stars, 32 forks, 32 watches  
 created 2019-04-01, last commit 2021-12-03, main language Rust  
 <sub><sup>blockchain, polymath, substrate</sup></sub>
@@ -36,7 +36,7 @@ created 2017-12-27, last commit 2018-01-31, main language JavaScript
 ### [polymath-core-deprecated](https://github.com/PolymathNetwork/polymath-core-deprecated) by [PolymathNetwork](https://github.com/PolymathNetwork)  
 Core Ethereum Smart Contracts for Polymath - The Securities Token Platform  
 [https://github.com/PolymathNetwork/polymath-core-deprecated](https://github.com/PolymathNetwork/polymath-core-deprecated)  
-0.33 stars per week over 206 weeks  
+0.33 stars per week over 207 weeks  
 69 stars, 17 forks, 47 watches  
 created 2017-12-18, last commit 2018-04-06, main language JavaScript  
 
@@ -61,7 +61,7 @@ created 2018-03-13, last commit 2018-10-17, main language JavaScript
 Monorepo containing Polymath's Apps  
 [https://tokenstudio.polymath.network](https://tokenstudio.polymath.network)  
 [https://github.com/PolymathNetwork/polymath-apps](https://github.com/PolymathNetwork/polymath-apps)  
-0.09 stars per week over 167 weeks  
+0.09 stars per week over 168 weeks  
 15 stars, 11 forks, 33 watches  
 created 2018-09-17, last commit 2021-03-29, main language JavaScript  
 
@@ -77,7 +77,7 @@ created 2018-01-18, last commit 2018-01-31, main language JavaScript
 ### [polymath-sdk](https://github.com/PolymathNetwork/polymath-sdk) by [PolymathNetwork](https://github.com/PolymathNetwork)  
 Javascript SDK for dead simple interaction with Polymath's Smart Contacts  
 [https://github.com/PolymathNetwork/polymath-sdk](https://github.com/PolymathNetwork/polymath-sdk)  
-0.08 stars per week over 152 weeks  
+0.08 stars per week over 153 weeks  
 12 stars, 5 forks, 23 watches  
 created 2018-12-31, last commit 2020-10-26, main language TypeScript  
 
@@ -90,6 +90,6 @@ created 2018-12-31, last commit 2020-10-26, main language TypeScript
 created 2018-03-09, last commit 2018-08-28, main language JavaScript  
 
 
-This file was automatically generated on 2021-12-05.  
+This file was automatically generated on 2021-12-06.  
 
 To curate your own github list, simply clone and change the input csv file.  

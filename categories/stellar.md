@@ -9,8 +9,8 @@ Checkout the interactive version that you can filter and sort:
 stellar-core is the reference implementation for the peer to peer agent that manages the Stellar network  
 [https://www.stellar.org](https://www.stellar.org)  
 [https://github.com/stellar/stellar-core](https://github.com/stellar/stellar-core)  
-7.77 stars per week over 366 weeks  
-2,851 stars, 946 forks, 273 watches  
+7.77 stars per week over 367 weeks  
+2,853 stars, 946 forks, 275 watches  
 created 2014-11-24, last commit 2021-12-01, main language C  
 
 
@@ -29,7 +29,7 @@ Kelp is a free and open-source trading bot for the Stellar DEX and 100+ centrali
 [https://kelpbot.io](https://kelpbot.io)  
 [https://github.com/stellar/kelp](https://github.com/stellar/kelp)  
 4.66 stars per week over 173 weeks  
-808 stars, 183 forks, 54 watches  
+810 stars, 183 forks, 54 watches  
 created 2018-08-08, last commit 2021-11-26, main language Go  
 <sub><sup>blockchain, ccxt-rest, cryptocurrency, ethereum, liquidity, market-maker, market-making, stellar, stellar-lumens, stellar-network, trading, trading-algorithms, trading-api, trading-bot, trading-platform, trading-strategies, xlm</sup></sub>
 
@@ -82,7 +82,7 @@ created 2017-02-21, last commit 2021-12-03, main language JavaScript
   
 [https://stellar.github.io/java-stellar-sdk/](https://stellar.github.io/java-stellar-sdk/)  
 [https://github.com/stellar/java-stellar-sdk](https://github.com/stellar/java-stellar-sdk)  
-0.51 stars per week over 315 weeks  
+0.51 stars per week over 316 weeks  
 162 stars, 163 forks, 34 watches  
 created 2015-11-16, last commit 2021-11-16, main language Java  
 <sub><sup>blockchain, cryptocurrency, java, sdk, stellar</sup></sub>
@@ -99,7 +99,7 @@ created 2015-12-18, last commit 2021-12-03, main language Shell
 ### [awesome-stellar](https://github.com/stellar/awesome-stellar) by [stellar](https://github.com/stellar)  
 👨‍🚀 A curated list of Stellar applications, blog posts, educational resources, tools, and more.   
 [https://github.com/stellar/awesome-stellar](https://github.com/stellar/awesome-stellar)  
-1.17 stars per week over 124 weeks  
+1.16 stars per week over 124 weeks  
 145 stars, 19 forks, 14 watches  
 created 2019-07-18, last commit 2020-10-01, main language None  
 <sub><sup>awesome-list, blockchain, fintech, network, stellar</sup></sub>
@@ -108,7 +108,7 @@ created 2019-07-18, last commit 2020-10-01, main language None
 ### [stellar-wallet](https://github.com/stellar/stellar-wallet) by [stellar](https://github.com/stellar)  
 Holds encrypted data. Used by stellar-client to store the user's key in a secure way.   
 [https://github.com/stellar/stellar-wallet](https://github.com/stellar/stellar-wallet)  
-0.25 stars per week over 387 weeks  
+0.25 stars per week over 388 weeks  
 98 stars, 55 forks, 45 watches  
 created 2014-06-30, last commit 2017-05-20, main language JavaScript  
 
@@ -123,6 +123,15 @@ created 2015-04-02, last commit 2021-11-16, main language JavaScript
 <sub><sup>blockchain, cryptocurrency, javascript, stellar</sup></sub>
 
 
+### [laboratory](https://github.com/stellar/laboratory) by [stellar](https://github.com/stellar)  
+  
+[https://github.com/stellar/laboratory](https://github.com/stellar/laboratory)  
+0.23 stars per week over 320 weeks  
+73 stars, 82 forks, 27 watches  
+created 2015-10-13, last commit 2021-11-09, main language JavaScript  
+<sub><sup>blockchain, cryptocurrency, react, stellar</sup></sub>
+
+
 ### [django-polaris](https://github.com/stellar/django-polaris) by [stellar](https://github.com/stellar)  
 An extendable Django app for building modular Stellar services  
 [https://django-polaris.readthedocs.io](https://django-polaris.readthedocs.io)  
@@ -131,15 +140,6 @@ An extendable Django app for building modular Stellar services
 73 stars, 46 forks, 15 watches  
 created 2019-10-31, last commit 2021-12-01, main language Python  
 <sub><sup>anchor, deposit, django, payments, python, stellar, webserver, withdrawal</sup></sub>
-
-
-### [laboratory](https://github.com/stellar/laboratory) by [stellar](https://github.com/stellar)  
-  
-[https://github.com/stellar/laboratory](https://github.com/stellar/laboratory)  
-0.23 stars per week over 320 weeks  
-73 stars, 82 forks, 27 watches  
-created 2015-10-13, last commit 2021-11-09, main language JavaScript  
-<sub><sup>blockchain, cryptocurrency, react, stellar</sup></sub>
 
 
 ### [js-stellar-wallets](https://github.com/stellar/js-stellar-wallets) by [stellar](https://github.com/stellar)  
@@ -172,18 +172,10 @@ created 2018-01-16, last commit 2018-11-14, main language None
   
 [https://stellar.github.io/paper-wallet/](https://stellar.github.io/paper-wallet/)  
 [https://github.com/stellar/paper-wallet](https://github.com/stellar/paper-wallet)  
-0.17 stars per week over 237 weeks  
+0.17 stars per week over 238 weeks  
 40 stars, 28 forks, 12 watches  
 created 2017-05-15, last commit 2018-08-10, main language HTML  
 <sub><sup>lumen, paper-wallet, paper-wallets, stellar</sup></sub>
-
-
-### [packages](https://github.com/stellar/packages) by [stellar](https://github.com/stellar)  
-SDF - Packages  
-[https://github.com/stellar/packages](https://github.com/stellar/packages)  
-0.17 stars per week over 205 weeks  
-34 stars, 33 forks, 11 watches  
-created 2017-12-27, last commit 2021-10-06, main language Shell  
 
 
 ### [developers](https://github.com/stellar/developers) by [stellar](https://github.com/stellar)  
@@ -193,6 +185,14 @@ Stellar developer portal site generator.
 0.11 stars per week over 323 weeks  
 34 stars, 28 forks, 25 watches  
 created 2015-09-24, last commit 2021-04-23, main language JavaScript  
+
+
+### [packages](https://github.com/stellar/packages) by [stellar](https://github.com/stellar)  
+SDF - Packages  
+[https://github.com/stellar/packages](https://github.com/stellar/packages)  
+0.17 stars per week over 205 weeks  
+34 stars, 33 forks, 11 watches  
+created 2017-12-27, last commit 2021-10-06, main language Shell  
 
 
 ### [stellar-demo-wallet](https://github.com/stellar/stellar-demo-wallet) by [stellar](https://github.com/stellar)  
@@ -206,7 +206,7 @@ created 2019-12-04, last commit 2021-11-09, main language TypeScript
 ### [freighter](https://github.com/stellar/freighter) by [stellar](https://github.com/stellar)  
 Stellar chrome extension  
 [https://github.com/stellar/freighter](https://github.com/stellar/freighter)  
-0.29 stars per week over 88 weeks  
+0.29 stars per week over 89 weeks  
 26 stars, 12 forks, 12 watches  
 created 2020-03-23, last commit 2021-10-27, main language TypeScript  
 
@@ -230,7 +230,7 @@ created 2020-07-07, last commit 2021-11-09, main language TypeScript
 ### [stellar_core_commander](https://github.com/stellar/stellar_core_commander) by [stellar](https://github.com/stellar)  
 A system of creating isolated Stellar test networks into which you can play transactions and record results.  
 [https://github.com/stellar/stellar_core_commander](https://github.com/stellar/stellar_core_commander)  
-0.05 stars per week over 344 weeks  
+0.05 stars per week over 345 weeks  
 17 stars, 28 forks, 27 watches  
 created 2015-04-27, last commit 2020-05-26, main language Ruby  
 
@@ -238,7 +238,7 @@ created 2015-04-27, last commit 2020-05-26, main language Ruby
 ### [xdrgen](https://github.com/stellar/xdrgen) by [stellar](https://github.com/stellar)  
 A code generator for XDR  
 [https://github.com/stellar/xdrgen](https://github.com/stellar/xdrgen)  
-0.04 stars per week over 356 weeks  
+0.04 stars per week over 357 weeks  
 16 stars, 40 forks, 28 watches  
 created 2015-02-02, last commit 2021-11-15, main language Ruby  
 
@@ -252,6 +252,14 @@ created 2020-06-26, last commit 2021-11-23, main language Go
 <sub><sup>bitcoin, blockchain, data-analysis, ethereum, etl-framework, etl-pipeline, stellar, stellar-lumens, stellar-network</sup></sub>
 
 
+### [starlight](https://github.com/stellar/starlight) by [stellar](https://github.com/stellar)  
+Layer 2 payment channel protocol for the Stellar network.  
+[https://github.com/stellar/starlight](https://github.com/stellar/starlight)  
+0.4 stars per week over 32 weeks  
+13 stars, 2 forks, 10 watches  
+created 2021-04-21, last commit 2021-11-17, main language Go  
+
+
 ### [stories](https://github.com/stellar/stories) by [stellar](https://github.com/stellar)  
   
 [https://github.com/stellar/stories](https://github.com/stellar/stories)  
@@ -260,12 +268,12 @@ created 2020-06-26, last commit 2021-11-23, main language Go
 created 2015-03-05, last commit 2017-11-09, main language JavaScript  
 
 
-### [starlight](https://github.com/stellar/starlight) by [stellar](https://github.com/stellar)  
-Layer 2 payment channel protocol for the Stellar network.  
-[https://github.com/stellar/starlight](https://github.com/stellar/starlight)  
-0.4 stars per week over 32 weeks  
-13 stars, 2 forks, 10 watches  
-created 2021-04-21, last commit 2021-11-17, main language Go  
+### [transfer-server-validator](https://github.com/stellar/transfer-server-validator) by [stellar](https://github.com/stellar)  
+  
+[https://github.com/stellar/transfer-server-validator](https://github.com/stellar/transfer-server-validator)  
+0.12 stars per week over 102 weeks  
+12 stars, 15 forks, 8 watches  
+created 2019-12-20, last commit 2021-07-02, main language JavaScript  
 
 
 ### [stellar-etl-airflow](https://github.com/stellar/stellar-etl-airflow) by [stellar](https://github.com/stellar)  
@@ -277,28 +285,12 @@ created 2020-08-20, last commit 2021-12-02, main language Python
 <sub><sup>airflow, blockchain, data-analysis, etl-framework, etl-pipeline, python, stellar, stellar-lumens, stellar-network</sup></sub>
 
 
-### [transfer-server-validator](https://github.com/stellar/transfer-server-validator) by [stellar](https://github.com/stellar)  
-  
-[https://github.com/stellar/transfer-server-validator](https://github.com/stellar/transfer-server-validator)  
-0.12 stars per week over 102 weeks  
-12 stars, 15 forks, 8 watches  
-created 2019-12-20, last commit 2021-07-02, main language JavaScript  
-
-
 ### [docs-wallet](https://github.com/stellar/docs-wallet) by [stellar](https://github.com/stellar)  
   
 [https://github.com/stellar/docs-wallet](https://github.com/stellar/docs-wallet)  
 0.24 stars per week over 45 weeks  
 11 stars, 15 forks, 6 watches  
 created 2021-01-20, last commit 2021-03-05, main language SCSS  
-
-
-### [hack-stellar](https://github.com/stellar/hack-stellar) by [stellar](https://github.com/stellar)  
-  
-[https://github.com/stellar/hack-stellar](https://github.com/stellar/hack-stellar)  
-0.11 stars per week over 94 weeks  
-10 stars, 7 forks, 5 watches  
-created 2020-02-12, last commit 2020-05-15, main language TypeScript  
 
 
 ### [stellar-tutorials](https://github.com/stellar/stellar-tutorials) by [stellar](https://github.com/stellar)  
@@ -318,6 +310,14 @@ created 2017-03-02, last commit 2019-09-04, main language JavaScript
 <sub><sup>blockchain, cryptocurrency, integration-testing, stellar</sup></sub>
 
 
-This file was automatically generated on 2021-12-05.  
+### [hack-stellar](https://github.com/stellar/hack-stellar) by [stellar](https://github.com/stellar)  
+  
+[https://github.com/stellar/hack-stellar](https://github.com/stellar/hack-stellar)  
+0.11 stars per week over 94 weeks  
+10 stars, 7 forks, 5 watches  
+created 2020-02-12, last commit 2020-05-15, main language TypeScript  
+
+
+This file was automatically generated on 2021-12-06.  
 
 To curate your own github list, simply clone and change the input csv file.  

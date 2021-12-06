@@ -10,7 +10,7 @@ Ravencoin Core integration/staging tree
 [https://www.ravencoin.org](https://www.ravencoin.org)  
 [https://github.com/RavenProject/Ravencoin](https://github.com/RavenProject/Ravencoin)  
 4.04 stars per week over 230 weeks  
-930 stars, 577 forks, 210 watches  
+930 stars, 578 forks, 210 watches  
 created 2017-07-09, last commit 2021-05-21, main language C  
 <sub><sup>asset, bitcoin, blockchain, raven, ravencoin, token, tokenization</sup></sub>
 
@@ -35,7 +35,7 @@ created 2018-10-18, last commit 2021-07-19, main language C
 ### [ravenwallet-android](https://github.com/RavenProject/ravenwallet-android) by [RavenProject](https://github.com/RavenProject)  
   
 [https://github.com/RavenProject/ravenwallet-android](https://github.com/RavenProject/ravenwallet-android)  
-0.09 stars per week over 161 weeks  
+0.09 stars per week over 162 weeks  
 14 stars, 23 forks, 10 watches  
 created 2018-10-29, last commit 2021-04-06, main language C  
 
@@ -43,11 +43,11 @@ created 2018-10-29, last commit 2021-04-06, main language C
 ### [rips](https://github.com/RavenProject/rips) by [RavenProject](https://github.com/RavenProject)  
 Ravencoin Improvement Proposal  
 [https://github.com/RavenProject/rips](https://github.com/RavenProject/rips)  
-0.06 stars per week over 179 weeks  
+0.06 stars per week over 180 weeks  
 10 stars, 11 forks, 11 watches  
 created 2018-06-25, last commit 2021-05-14, main language None  
 
 
-This file was automatically generated on 2021-12-05.  
+This file was automatically generated on 2021-12-06.  
 
 To curate your own github list, simply clone and change the input csv file.  

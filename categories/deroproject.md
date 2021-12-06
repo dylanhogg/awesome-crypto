@@ -8,7 +8,7 @@ Checkout the interactive version that you can filter and sort:
 ### [graviton](https://github.com/deroproject/graviton) by [deroproject](https://github.com/deroproject)  
 Graviton Database: ZFS for key-value stores.  
 [https://github.com/deroproject/graviton](https://github.com/deroproject/graviton)  
-6.17 stars per week over 65 weeks  
+6.16 stars per week over 65 weeks  
 403 stars, 16 forks, 18 watches  
 created 2020-09-04, last commit 2020-12-18, main language Go  
 
@@ -53,7 +53,7 @@ created 2020-01-22, last commit 2021-06-30, main language Go
 Documentation, Guides, Whitepapers  
 [https://forum.dero.io](https://forum.dero.io)  
 [https://github.com/deroproject/documentation](https://github.com/deroproject/documentation)  
-0.09 stars per week over 200 weeks  
+0.08 stars per week over 200 weeks  
 17 stars, 10 forks, 6 watches  
 created 2018-02-04, last commit 2021-11-28, main language Shell  
 <sub><sup>blockchain, crypto, cryptonote, dero, golang</sup></sub>
@@ -75,6 +75,6 @@ DERO GUI wallet in Golang with QT bindings.
 created 2018-08-04, last commit 2018-08-05, main language QML  
 
 
-This file was automatically generated on 2021-12-05.  
+This file was automatically generated on 2021-12-06.  
 
 To curate your own github list, simply clone and change the input csv file.  

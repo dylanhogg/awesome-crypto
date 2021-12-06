@@ -11,13 +11,13 @@ Origin is a set of toolkits that together provide a system for issuance and mana
 [https://github.com/energywebfoundation/origin](https://github.com/energywebfoundation/origin)  
 0.56 stars per week over 120 weeks  
 67 stars, 38 forks, 23 watches  
-created 2019-08-14, last commit 2021-12-05, main language TypeScript  
+created 2019-08-14, last commit 2021-12-06, main language TypeScript  
 
 
 ### [energyweb-ui](https://github.com/energywebfoundation/energyweb-ui) by [energywebfoundation](https://github.com/energywebfoundation)  
 Energy Web UI - Dapp shell, browser & launcher (Electron app)  
 [https://github.com/energywebfoundation/energyweb-ui](https://github.com/energywebfoundation/energyweb-ui)  
-0.25 stars per week over 174 weeks  
+0.25 stars per week over 175 weeks  
 43 stars, 17 forks, 16 watches  
 created 2018-07-30, last commit 2019-02-15, main language JavaScript  
 
@@ -34,7 +34,7 @@ created 2019-11-07, last commit 2021-12-01, main language TypeScript
 The Energy Web Chain: Accelerating the Energy Transition with an Open-Source, Decentralized Blockchain Platform  
 [https://energyweb.org](https://energyweb.org)  
 [https://github.com/energywebfoundation/paper](https://github.com/energywebfoundation/paper)  
-0.13 stars per week over 164 weeks  
+0.13 stars per week over 165 weeks  
 22 stars, 6 forks, 8 watches  
 created 2018-10-08, last commit 2019-07-15, main language None  
 
@@ -43,7 +43,7 @@ created 2018-10-08, last commit 2019-07-15, main language None
 Energy Web Switchboard UI  
 [https://switchboard.energyweb.org](https://switchboard.energyweb.org)  
 [https://github.com/energywebfoundation/switchboard-dapp](https://github.com/energywebfoundation/switchboard-dapp)  
-0.28 stars per week over 64 weeks  
+0.28 stars per week over 65 weeks  
 18 stars, 3 forks, 12 watches  
 created 2020-09-07, last commit 2021-12-03, main language TypeScript  
 
@@ -83,6 +83,6 @@ created 2017-12-13, last commit 2019-03-21, main language Python
 <sub><sup>artik710, blockchain, embedded-systems, energy-grid, energyweb-client, python3</sup></sub>
 
 
-This file was automatically generated on 2021-12-05.  
+This file was automatically generated on 2021-12-06.  
 
 To curate your own github list, simply clone and change the input csv file.  

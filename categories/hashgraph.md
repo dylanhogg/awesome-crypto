@@ -9,7 +9,7 @@ Checkout the interactive version that you can filter and sort:
 Hashgraph is a superior consensus mechanism / data structure alternative to blockchain.  
 [https://github.com/hashgraph/awesome-hashgraph](https://github.com/hashgraph/awesome-hashgraph)  
 1.21 stars per week over 213 weeks  
-258 stars, 36 forks, 50 watches  
+259 stars, 36 forks, 50 watches  
 created 2017-10-31, last commit 2020-07-08, main language None  
 <sub><sup>awesome, awesome-list</sup></sub>
 
@@ -29,7 +29,7 @@ Hedera™ Hashgraph SDK for JavaScript/TypeScript
 [https://docs.hedera.com/guides/docs/sdks](https://docs.hedera.com/guides/docs/sdks)  
 [https://github.com/hashgraph/hedera-sdk-js](https://github.com/hashgraph/hedera-sdk-js)  
 1.17 stars per week over 123 weeks  
-145 stars, 58 forks, 18 watches  
+145 stars, 59 forks, 18 watches  
 created 2019-07-25, last commit 2021-12-03, main language JavaScript  
 <sub><sup>distributed-ledger-technology, hashgraph, hedera, hedera-sdk, javascript, javascript-sdk, sdk, typescript, typescript-sdk</sup></sub>
 
@@ -56,14 +56,14 @@ Hedera Mirror Node mirrors data from Hedera nodes and serves it via an API
 [https://github.com/hashgraph/hedera-mirror-node](https://github.com/hashgraph/hedera-mirror-node)  
 0.53 stars per week over 124 weeks  
 66 stars, 49 forks, 17 watches  
-created 2019-07-17, last commit 2021-12-02, main language Java  
+created 2019-07-17, last commit 2021-12-06, main language Java  
 
 
 ### [hedera-hts-demo](https://github.com/hashgraph/hedera-hts-demo) by [hashgraph](https://github.com/hashgraph)  
 This is a demonstration UI for the Hedera Token Service. Written in JavaScript and Vue.JS  
 [https://github.com/hashgraph/hedera-hts-demo](https://github.com/hashgraph/hedera-hts-demo)  
-0.84 stars per week over 58 weeks  
-49 stars, 31 forks, 11 watches  
+0.86 stars per week over 58 weeks  
+50 stars, 31 forks, 11 watches  
 created 2020-10-23, last commit 2021-07-28, main language Vue  
 <sub><sup>hedera, hts, service, token</sup></sub>
 
@@ -112,13 +112,13 @@ Welcome to the official Hedera documentation repository.
 [https://github.com/hashgraph/hedera-docs](https://github.com/hashgraph/hedera-docs)  
 0.3 stars per week over 80 weeks  
 24 stars, 18 forks, 11 watches  
-created 2020-05-20, last commit 2021-12-03, main language None  
+created 2020-05-20, last commit 2021-12-06, main language None  
 
 
 ### [swirlds-open-review](https://github.com/hashgraph/swirlds-open-review) by [hashgraph](https://github.com/hashgraph)  
 Swirlds Hashgraph Platform code for Open Review.  See the LICENSE.md file for the Hashgraph Open Review License.  
 [https://github.com/hashgraph/swirlds-open-review](https://github.com/hashgraph/swirlds-open-review)  
-0.31 stars per week over 63 weeks  
+0.31 stars per week over 64 weeks  
 20 stars, 6 forks, 12 watches  
 created 2020-09-14, last commit 2021-11-08, main language Java  
 
@@ -143,7 +143,7 @@ created 2020-03-06, last commit 2021-10-01, main language JavaScript
 ### [guardian](https://github.com/hashgraph/guardian) by [hashgraph](https://github.com/hashgraph)  
 The Guardian is a modular open-source solution that includes best-in-class identity management and decentralized ledger technology (DLT) libraries. At the heart of the Guardian solution is a sophisticated Policy Workflow Engine (PWE) that enables the ability for applications to offer a requirements-based tokenization implementation.   
 [https://github.com/hashgraph/guardian](https://github.com/hashgraph/guardian)  
-1.53 stars per week over 7 weeks  
+1.5 stars per week over 8 weeks  
 12 stars, 12 forks, 10 watches  
 created 2021-10-11, last commit 2021-11-25, main language TypeScript  
 
@@ -160,7 +160,7 @@ created 2019-10-23, last commit 2021-09-23, main language Java
 ### [hedera-nft-auction-demo](https://github.com/hashgraph/hedera-nft-auction-demo) by [hashgraph](https://github.com/hashgraph)  
 Demo NFT auction  
 [https://github.com/hashgraph/hedera-nft-auction-demo](https://github.com/hashgraph/hedera-nft-auction-demo)  
-0.29 stars per week over 37 weeks  
+0.29 stars per week over 38 weeks  
 11 stars, 7 forks, 14 watches  
 created 2021-03-15, last commit 2021-09-23, main language Java  
 
@@ -181,6 +181,6 @@ Hedera Stable Coin implementation as a Solidity smart contract for Ethereum
 created 2020-08-18, last commit 2020-09-02, main language Solidity  
 
 
-This file was automatically generated on 2021-12-05.  
+This file was automatically generated on 2021-12-06.  
 
 To curate your own github list, simply clone and change the input csv file.  

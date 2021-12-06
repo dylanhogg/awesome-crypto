@@ -79,7 +79,7 @@ created 2014-10-29, last commit 2015-10-24, main language Python
 ### [nodejs2nem](https://github.com/NemProject/nodejs2nem) by [NemProject](https://github.com/NemProject)  
 A simple nodejs class to access NEM (NIS & NCC) api  
 [https://github.com/NemProject/nodejs2nem](https://github.com/NemProject/nodejs2nem)  
-0.04 stars per week over 342 weeks  
+0.04 stars per week over 343 weeks  
 15 stars, 5 forks, 17 watches  
 created 2015-05-11, last commit 2015-05-11, main language JavaScript  
 
@@ -100,6 +100,6 @@ created 2017-03-25, last commit 2018-07-16, main language C#
 created 2015-09-27, last commit 2017-03-18, main language Python  
 
 
-This file was automatically generated on 2021-12-05.  
+This file was automatically generated on 2021-12-06.  
 
 To curate your own github list, simply clone and change the input csv file.  

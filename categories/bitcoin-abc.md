@@ -9,9 +9,9 @@ Checkout the interactive version that you can filter and sort:
 This a mirror of the official Bitcoin-ABC repository.  Please see README.md  
 [https://reviews.bitcoinabc.org](https://reviews.bitcoinabc.org)  
 [https://github.com/Bitcoin-ABC/bitcoin-abc](https://github.com/Bitcoin-ABC/bitcoin-abc)  
-4.37 stars per week over 239 weeks  
+4.37 stars per week over 240 weeks  
 1,048 stars, 650 forks, 147 watches  
-created 2017-05-01, last commit 2021-12-04, main language C++  
+created 2017-05-01, last commit 2021-12-06, main language C++  
 <sub><sup>bitcoin, bitcoin-abc, bitcoin-cash</sup></sub>
 
 
@@ -19,7 +19,7 @@ created 2017-05-01, last commit 2021-12-04, main language C++
 eCash wallet  
 [https://bitcoinabc.org/electrum](https://bitcoinabc.org/electrum)  
 [https://github.com/Bitcoin-ABC/ElectrumABC](https://github.com/Bitcoin-ABC/ElectrumABC)  
-0.37 stars per week over 53 weeks  
+0.37 stars per week over 54 weeks  
 20 stars, 5 forks, 3 watches  
 created 2020-11-23, last commit 2021-12-04, main language Python  
 
@@ -32,6 +32,6 @@ BitcoinABC.org website
 created 2018-06-05, last commit 2021-11-15, main language HTML  
 
 
-This file was automatically generated on 2021-12-05.  
+This file was automatically generated on 2021-12-06.  
 
 To curate your own github list, simply clone and change the input csv file.  

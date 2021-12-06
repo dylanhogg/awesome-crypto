@@ -10,7 +10,7 @@ Ongoing Storj v3 development. Decentralized cloud object storage that is afforda
 [https://storj.io](https://storj.io)  
 [https://github.com/storj/storj](https://github.com/storj/storj)  
 11 stars per week over 191 weeks  
-2,124 stars, 317 forks, 113 watches  
+2,127 stars, 317 forks, 112 watches  
 created 2018-04-04, last commit 2021-12-02, main language Go  
 <sub><sup>distributed, distributed-storage, distributed-systems, golang, hacktoberfest, hacktoberfest-accepted, hacktoberfest2021, object-storage, storage</sup></sub>
 
@@ -18,7 +18,7 @@ created 2018-04-04, last commit 2021-12-02, main language Go
 ### [drpc](https://github.com/storj/drpc) by [storj](https://github.com/storj)  
 drpc is a lightweight, drop-in replacement for gRPC  
 [https://github.com/storj/drpc](https://github.com/storj/drpc)  
-7.65 stars per week over 118 weeks  
+7.64 stars per week over 119 weeks  
 909 stars, 23 forks, 41 watches  
 created 2019-08-26, last commit 2021-11-01, main language Go  
 <sub><sup>drpc, go, grpc, microservices, nanoservices, proto, rpc</sup></sub>
@@ -38,7 +38,7 @@ Deprecated. Implementation of the Storj v2 protocol for Node.js.
 [https://storj.io](https://storj.io)  
 [https://github.com/storj/core](https://github.com/storj/core)  
 1.33 stars per week over 304 weeks  
-404 stars, 92 forks, 74 watches  
+404 stars, 93 forks, 74 watches  
 created 2016-02-02, last commit 2018-07-29, main language JavaScript  
 
 
@@ -46,7 +46,7 @@ created 2016-02-02, last commit 2018-07-29, main language JavaScript
 Deprecated. Docker  Daemon + CLI for farming data on the Storj v2 network.  
 [https://storj.io/share.html](https://storj.io/share.html)  
 [https://github.com/storj/storjshare-daemon](https://github.com/storj/storjshare-daemon)  
-1.28 stars per week over 265 weeks  
+1.28 stars per week over 266 weeks  
 341 stars, 82 forks, 47 watches  
 created 2016-10-31, last commit 2018-07-29, main language JavaScript  
 
@@ -64,7 +64,7 @@ created 2017-03-03, last commit 2018-04-19, main language None
 Deprecated. Asynchronous multi-platform C library and CLI for encrypted file transfer on the Storj network.  
 [https://github.com/storj/storj](https://github.com/storj/storj)  
 [https://github.com/storj/libstorj](https://github.com/storj/libstorj)  
-0.45 stars per week over 264 weeks  
+0.45 stars per week over 265 weeks  
 119 stars, 45 forks, 28 watches  
 created 2016-11-07, last commit 2020-12-28, main language C  
 
@@ -81,7 +81,7 @@ created 2016-01-07, last commit 2018-07-29, main language JavaScript
 ### [docs](https://github.com/storj/docs) by [storj](https://github.com/storj)  
 Tutorials and documentation for the Storj V3 Network  
 [https://github.com/storj/docs](https://github.com/storj/docs)  
-0.38 stars per week over 161 weeks  
+0.38 stars per week over 162 weeks  
 62 stars, 23 forks, 30 watches  
 created 2018-10-29, last commit 2021-12-02, main language None  
 <sub><sup>community, docs, documentation, storj, tutorials</sup></sub>
@@ -100,7 +100,7 @@ created 2016-08-26, last commit 2018-07-29, main language JavaScript
 ### [uplink](https://github.com/storj/uplink) by [storj](https://github.com/storj)  
 Storj network Go library  
 [https://github.com/storj/uplink](https://github.com/storj/uplink)  
-0.52 stars per week over 105 weeks  
+0.52 stars per week over 106 weeks  
 55 stars, 8 forks, 32 watches  
 created 2019-11-25, last commit 2021-12-01, main language Go  
 <sub><sup>go, golang, storj, storj-network</sup></sub>
@@ -110,7 +110,7 @@ created 2019-11-25, last commit 2021-12-01, main language Go
 The Storj website.  
 [https://storj.io](https://storj.io)  
 [https://github.com/storj/storj.io](https://github.com/storj/storj.io)  
-0.13 stars per week over 296 weeks  
+0.13 stars per week over 297 weeks  
 38 stars, 45 forks, 37 watches  
 created 2016-03-28, last commit 2021-05-03, main language HTML  
 <sub><sup>storj, website</sup></sub>
@@ -173,7 +173,7 @@ created 2016-11-29, last commit 2020-12-28, main language TeX
 ### [uplink-c](https://github.com/storj/uplink-c) by [storj](https://github.com/storj)  
 Uplink C library  
 [https://github.com/storj/uplink-c](https://github.com/storj/uplink-c)  
-0.17 stars per week over 93 weeks  
+0.17 stars per week over 94 weeks  
 16 stars, 2 forks, 29 watches  
 created 2020-02-17, last commit 2021-10-26, main language C  
 
@@ -231,6 +231,14 @@ Deprecated
 created 2015-12-03, last commit 2017-09-02, main language JavaScript  
 
 
+### [bridge-gui-vue](https://github.com/storj/bridge-gui-vue) by [storj](https://github.com/storj)  
+Deprecated. A web-based GUI for Storj Bridge  
+[https://github.com/storj/bridge-gui-vue](https://github.com/storj/bridge-gui-vue)  
+0.05 stars per week over 241 weeks  
+11 stars, 12 forks, 9 watches  
+created 2017-04-20, last commit 2020-12-28, main language Vue  
+
+
 ### [archview](https://github.com/storj/archview) by [storj](https://github.com/storj)  
 Create architectural diagrams from Go code.  
 [https://github.com/storj/archview](https://github.com/storj/archview)  
@@ -247,12 +255,12 @@ A neat codegen-based database wrapper written in Go
 created 2019-07-17, last commit 2021-09-08, main language Go  
 
 
-### [bridge-gui-vue](https://github.com/storj/bridge-gui-vue) by [storj](https://github.com/storj)  
-Deprecated. A web-based GUI for Storj Bridge  
-[https://github.com/storj/bridge-gui-vue](https://github.com/storj/bridge-gui-vue)  
-0.05 stars per week over 241 weeks  
-11 stars, 12 forks, 9 watches  
-created 2017-04-20, last commit 2020-12-28, main language Vue  
+### [blog](https://github.com/storj/blog) by [storj](https://github.com/storj)  
+Company blog, built with Hugo and hosted on Netlify  
+[https://github.com/storj/blog](https://github.com/storj/blog)  
+0.06 stars per week over 178 weeks  
+10 stars, 10 forks, 8 watches  
+created 2018-07-06, last commit 2021-04-19, main language JavaScript  
 
 
 ### [storjspace](https://github.com/storj/storjspace) by [storj](https://github.com/storj)  
@@ -264,14 +272,6 @@ created 2017-04-27, last commit 2018-10-30, main language JavaScript
 <sub><sup>electron, storj, uploader, vue</sup></sub>
 
 
-### [blog](https://github.com/storj/blog) by [storj](https://github.com/storj)  
-Company blog, built with Hugo and hosted on Netlify  
-[https://github.com/storj/blog](https://github.com/storj/blog)  
-0.06 stars per week over 178 weeks  
-10 stars, 10 forks, 8 watches  
-created 2018-07-06, last commit 2021-04-19, main language JavaScript  
-
-
-This file was automatically generated on 2021-12-05.  
+This file was automatically generated on 2021-12-06.  
 
 To curate your own github list, simply clone and change the input csv file.  

@@ -10,7 +10,7 @@ Go implementation of Ethereum proof of stake
 [https://prysmaticlabs.com](https://prysmaticlabs.com)  
 [https://github.com/prysmaticlabs/prysm](https://github.com/prysmaticlabs/prysm)  
 11 stars per week over 203 weeks  
-2,310 stars, 540 forks, 123 watches  
+2,311 stars, 540 forks, 123 watches  
 created 2018-01-11, last commit 2021-12-04, main language Go  
 <sub><sup>ethereum</sup></sub>
 
@@ -65,6 +65,6 @@ DEPRECATED. Go wrapper for a BLS12-381 Signature Aggregation implementation in C
 created 2018-11-08, last commit 2019-02-11, main language Go  
 
 
-This file was automatically generated on 2021-12-05.  
+This file was automatically generated on 2021-12-06.  
 
 To curate your own github list, simply clone and change the input csv file.  

@@ -9,7 +9,7 @@ Checkout the interactive version that you can filter and sort:
 The Efficient Blockchain Powered By Proof Of Stake Voting Consensus  
 [https://tomochain.com](https://tomochain.com)  
 [https://github.com/tomochain/tomochain](https://github.com/tomochain/tomochain)  
-0.96 stars per week over 107 weeks  
+0.95 stars per week over 107 weeks  
 103 stars, 55 forks, 23 watches  
 created 2019-11-12, last commit 2021-09-13, main language Go  
 <sub><sup>posv, tomochain, tomop, tomox, tomoz</sup></sub>
@@ -48,7 +48,7 @@ created 2018-03-30, last commit 2021-11-03, main language Vue
 ### [erc20-crawler](https://github.com/tomochain/erc20-crawler) by [tomochain](https://github.com/tomochain)  
 Crawl ERC20 token holders, transactions  
 [https://github.com/tomochain/erc20-crawler](https://github.com/tomochain/erc20-crawler)  
-0.22 stars per week over 178 weeks  
+0.22 stars per week over 179 weeks  
 40 stars, 14 forks, 4 watches  
 created 2018-07-02, last commit 2018-08-10, main language JavaScript  
 
@@ -65,7 +65,7 @@ created 2018-10-26, last commit 2020-10-27, main language Go
 ### [tokens](https://github.com/tomochain/tokens) by [tomochain](https://github.com/tomochain)  
 Token Information  
 [https://github.com/tomochain/tokens](https://github.com/tomochain/tokens)  
-0.28 stars per week over 123 weeks  
+0.27 stars per week over 123 weeks  
 34 stars, 97 forks, 9 watches  
 created 2019-07-24, last commit 2021-11-23, main language Shell  
 
@@ -97,15 +97,6 @@ created 2018-06-14, last commit 2020-02-27, main language JavaScript
 <sub><sup>blockchain, documentation, mkdocs, mkdocs-material</sup></sub>
 
 
-### [infrastructure](https://github.com/tomochain/infrastructure) by [tomochain](https://github.com/tomochain)  
-🏗 TomoChain internal infrastructure  
-[https://github.com/tomochain/infrastructure](https://github.com/tomochain/infrastructure)  
-0.09 stars per week over 181 weeks  
-16 stars, 7 forks, 8 watches  
-created 2018-06-14, last commit 2019-08-08, main language HCL  
-<sub><sup>ci-cd, devops, docker, infrastructure, swarm</sup></sub>
-
-
 ### [tomowallet](https://github.com/tomochain/tomowallet) by [tomochain](https://github.com/tomochain)  
 TomoWallet - Secure Wallet for TomoChain  
 [https://tomochain.com/tomowallet/](https://tomochain.com/tomowallet/)  
@@ -114,6 +105,15 @@ TomoWallet - Secure Wallet for TomoChain
 16 stars, 8 forks, 8 watches  
 created 2019-04-19, last commit 2020-09-29, main language None  
 <sub><sup>android, ios, mobile-app</sup></sub>
+
+
+### [infrastructure](https://github.com/tomochain/infrastructure) by [tomochain](https://github.com/tomochain)  
+🏗 TomoChain internal infrastructure  
+[https://github.com/tomochain/infrastructure](https://github.com/tomochain/infrastructure)  
+0.09 stars per week over 181 weeks  
+16 stars, 7 forks, 8 watches  
+created 2018-06-14, last commit 2019-08-08, main language HCL  
+<sub><sup>ci-cd, devops, docker, infrastructure, swarm</sup></sub>
 
 
 ### [luaswap-core](https://github.com/tomochain/luaswap-core) by [tomochain](https://github.com/tomochain)  
@@ -136,7 +136,7 @@ created 2018-02-13, last commit 2018-02-26, main language JavaScript
 ### [tomox-market-maker](https://github.com/tomochain/tomox-market-maker) by [tomochain](https://github.com/tomochain)  
 Simple market maker to create liquidity for TomoX  
 [https://github.com/tomochain/tomox-market-maker](https://github.com/tomochain/tomox-market-maker)  
-0.1 stars per week over 146 weeks  
+0.1 stars per week over 147 weeks  
 14 stars, 3 forks, 6 watches  
 created 2019-02-11, last commit 2020-06-16, main language JavaScript  
 <sub><sup>market-maker, tomox</sup></sub>
@@ -169,6 +169,15 @@ created 2018-07-25, last commit 2020-03-03, main language Python
 created 2020-10-01, last commit 2021-11-04, main language TypeScript  
 
 
+### [tomochain-testnet](https://github.com/tomochain/tomochain-testnet) by [tomochain](https://github.com/tomochain)  
+Building a node to join Tomochain Testnet  
+[https://stats-testnet.tomochain.com](https://stats-testnet.tomochain.com)  
+[https://github.com/tomochain/tomochain-testnet](https://github.com/tomochain/tomochain-testnet)  
+0.06 stars per week over 197 weeks  
+11 stars, 3 forks, 5 watches  
+created 2018-02-26, last commit 2018-08-16, main language Shell  
+
+
 ### [tomowallet-web-testnet](https://github.com/tomochain/tomowallet-web-testnet) by [tomochain](https://github.com/tomochain)  
 Easy way to Transfer/Receive TOMO  
 [https://wallet.testnet.tomochain.com](https://wallet.testnet.tomochain.com)  
@@ -178,15 +187,6 @@ Easy way to Transfer/Receive TOMO
 created 2018-08-21, last commit 2019-06-12, main language Vue  
 
 
-### [tomochain-testnet](https://github.com/tomochain/tomochain-testnet) by [tomochain](https://github.com/tomochain)  
-Building a node to join Tomochain Testnet  
-[https://stats-testnet.tomochain.com](https://stats-testnet.tomochain.com)  
-[https://github.com/tomochain/tomochain-testnet](https://github.com/tomochain/tomochain-testnet)  
-0.06 stars per week over 196 weeks  
-11 stars, 3 forks, 5 watches  
-created 2018-02-26, last commit 2018-08-16, main language Shell  
-
-
-This file was automatically generated on 2021-12-05.  
+This file was automatically generated on 2021-12-06.  
 
 To curate your own github list, simply clone and change the input csv file.  

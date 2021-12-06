@@ -9,7 +9,7 @@ Checkout the interactive version that you can filter and sort:
 Mina is a new cryptocurrency with a constant size blockchain, improving scaling while maintaining decentralization and security.  
 [https://minaprotocol.com](https://minaprotocol.com)  
 [https://github.com/MinaProtocol/mina](https://github.com/MinaProtocol/mina)  
-5.92 stars per week over 206 weeks  
+5.92 stars per week over 207 weeks  
 1,225 stars, 253 forks, 83 watches  
 created 2017-12-18, last commit 2021-11-04, main language Jupyter Notebook  
 <sub><sup>blockchain, cryptocurrency, mina, ocaml, zk-snarks</sup></sub>
@@ -48,6 +48,6 @@ created 2019-08-13, last commit 2021-02-07, main language None
 created 2019-06-05, last commit 2019-07-16, main language C++  
 
 
-This file was automatically generated on 2021-12-05.  
+This file was automatically generated on 2021-12-06.  
 
 To curate your own github list, simply clone and change the input csv file.  

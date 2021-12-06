@@ -9,7 +9,7 @@ Checkout the interactive version that you can filter and sort:
 Zilliqa is the world's first high-throughput public blockchain platform - designed to scale to thousands ​of transactions per second.  
 [https://www.zilliqa.com](https://www.zilliqa.com)  
 [https://github.com/Zilliqa/Zilliqa](https://github.com/Zilliqa/Zilliqa)  
-5.14 stars per week over 205 weeks  
+5.13 stars per week over 205 weeks  
 1,056 stars, 250 forks, 120 watches  
 created 2017-12-27, last commit 2021-11-30, main language C++  
 <sub><sup>zilliqa</sup></sub>
@@ -47,8 +47,8 @@ created 2018-07-18, last commit 2020-05-23, main language JavaScript
 ### [ZRC](https://github.com/Zilliqa/ZRC) by [Zilliqa](https://github.com/Zilliqa)  
 Zilliqa Reference Contracts  
 [https://github.com/Zilliqa/ZRC](https://github.com/Zilliqa/ZRC)  
-0.23 stars per week over 128 weeks  
-30 stars, 46 forks, 21 watches  
+0.23 stars per week over 129 weeks  
+30 stars, 47 forks, 21 watches  
 created 2019-06-17, last commit 2021-12-01, main language JavaScript  
 
 
@@ -76,15 +76,6 @@ Zilliqa old testnet wallet (Archived)
 created 2018-01-24, last commit 2019-01-11, main language TypeScript  
 
 
-### [Zilliqa-ERC20-Token](https://github.com/Zilliqa/Zilliqa-ERC20-Token) by [Zilliqa](https://github.com/Zilliqa)  
-Zilliqa Token Generation  
-[https://github.com/Zilliqa/Zilliqa-ERC20-Token](https://github.com/Zilliqa/Zilliqa-ERC20-Token)  
-0.1 stars per week over 204 weeks  
-20 stars, 7 forks, 17 watches  
-created 2018-01-06, last commit 2018-01-09, main language JavaScript  
-<sub><sup>zilliqa</sup></sub>
-
-
 ### [scilla-coq](https://github.com/Zilliqa/scilla-coq) by [Zilliqa](https://github.com/Zilliqa)  
 State-Transition Systems for Smart Contracts  
 [https://github.com/Zilliqa/scilla-coq](https://github.com/Zilliqa/scilla-coq)  
@@ -92,6 +83,15 @@ State-Transition Systems for Smart Contracts
 20 stars, 8 forks, 10 watches  
 created 2017-10-19, last commit 2020-09-03, main language Coq  
 <sub><sup>automata, coq, formal-verification, scilla, smart-contracts, zilliqa</sup></sub>
+
+
+### [Zilliqa-ERC20-Token](https://github.com/Zilliqa/Zilliqa-ERC20-Token) by [Zilliqa](https://github.com/Zilliqa)  
+Zilliqa Token Generation  
+[https://github.com/Zilliqa/Zilliqa-ERC20-Token](https://github.com/Zilliqa/Zilliqa-ERC20-Token)  
+0.1 stars per week over 204 weeks  
+20 stars, 7 forks, 17 watches  
+created 2018-01-06, last commit 2018-01-09, main language JavaScript  
+<sub><sup>zilliqa</sup></sub>
 
 
 ### [learn-scilla](https://github.com/Zilliqa/learn-scilla) by [Zilliqa](https://github.com/Zilliqa)  
@@ -156,6 +156,6 @@ Ceres is a graphical user interface that runs different Zilliqa development tool
 created 2020-08-23, last commit 2021-07-05, main language Vue  
 
 
-This file was automatically generated on 2021-12-05.  
+This file was automatically generated on 2021-12-06.  
 
 To curate your own github list, simply clone and change the input csv file.  

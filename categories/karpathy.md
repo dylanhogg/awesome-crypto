@@ -14,6 +14,6 @@ created 2021-04-25, last commit 2021-06-21, main language Jupyter Notebook
 <sub><sup>bitcoin, crypto, cryptocurrency, elliptic-curves</sup></sub>
 
 
-This file was automatically generated on 2021-12-05.  
+This file was automatically generated on 2021-12-06.  
 
 To curate your own github list, simply clone and change the input csv file.  

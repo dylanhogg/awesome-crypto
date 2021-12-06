@@ -65,7 +65,7 @@ created 2018-09-08, last commit 2021-07-22, main language JavaScript
 ### [etherchain-light](https://github.com/INFURA/etherchain-light) by [INFURA](https://github.com/INFURA)  
 Lightweight Ethereum blockchain explorer  
 [https://github.com/INFURA/etherchain-light](https://github.com/INFURA/etherchain-light)  
-0.09 stars per week over 245 weeks  
+0.09 stars per week over 246 weeks  
 22 stars, 7 forks, 4 watches  
 created 2017-03-20, last commit 2017-04-17, main language JavaScript  
 
@@ -73,7 +73,7 @@ created 2017-03-20, last commit 2017-04-17, main language JavaScript
 ### [keyrouter](https://github.com/INFURA/keyrouter) by [INFURA](https://github.com/INFURA)  
 keyrouter, a simple consistent hashing microservice  
 [https://github.com/INFURA/keyrouter](https://github.com/INFURA/keyrouter)  
-0.13 stars per week over 128 weeks  
+0.13 stars per week over 129 weeks  
 17 stars, 7 forks, 19 watches  
 created 2019-06-17, last commit 2021-04-29, main language Go  
 
@@ -103,6 +103,6 @@ A conformance testing tool for the Ethereum 2.0 beacon chain API
 created 2020-04-22, last commit 2021-02-05, main language Go  
 
 
-This file was automatically generated on 2021-12-05.  
+This file was automatically generated on 2021-12-06.  
 
 To curate your own github list, simply clone and change the input csv file.  

@@ -9,7 +9,7 @@ Checkout the interactive version that you can filter and sort:
 🧜‍♀️ THE Data Market  
 [https://market.oceanprotocol.com](https://market.oceanprotocol.com)  
 [https://github.com/oceanprotocol/market](https://github.com/oceanprotocol/market)  
-1.15 stars per week over 83 weeks  
+1.14 stars per week over 83 weeks  
 96 stars, 104 forks, 27 watches  
 created 2020-04-28, last commit 2021-10-25, main language TypeScript  
 <sub><sup>balancer-exchange, dataeconomy, datamarket, datatokens, defi, gatsby, ido, liquidity-pool, market, react</sup></sub>
@@ -20,7 +20,7 @@ created 2020-04-28, last commit 2021-10-25, main language TypeScript
 [https://github.com/oceanprotocol/barge](https://github.com/oceanprotocol/barge)  
 0.5 stars per week over 188 weeks  
 95 stars, 30 forks, 19 watches  
-created 2018-04-26, last commit 2021-11-16, main language Shell  
+created 2018-04-26, last commit 2021-12-06, main language Shell  
 <sub><sup>docker, docker-compose, oceanprotocol</sup></sub>
 
 
@@ -47,7 +47,7 @@ created 2020-05-23, last commit 2021-12-02, main language Python
 🦑 Ocean Protocol JavaScript library to privately & securely publish, exchange, and consume data.  
 [https://docs.oceanprotocol.com/references/ocean.js/](https://docs.oceanprotocol.com/references/ocean.js/)  
 [https://github.com/oceanprotocol/ocean.js](https://github.com/oceanprotocol/ocean.js)  
-0.75 stars per week over 80 weeks  
+0.75 stars per week over 81 weeks  
 61 stars, 28 forks, 14 watches  
 created 2020-05-18, last commit 2021-11-29, main language TypeScript  
 <sub><sup>balancer-exchange, datatokens, defi, library, oceanprotocol, web3</sup></sub>
@@ -77,10 +77,18 @@ created 2020-03-20, last commit 2021-10-19, main language Solidity
 🌊 Ocean Protocol whitepapers  
 [https://oceanprotocol.com/protocol/#papers](https://oceanprotocol.com/protocol/#papers)  
 [https://github.com/oceanprotocol/papers](https://github.com/oceanprotocol/papers)  
-0.15 stars per week over 196 weeks  
+0.15 stars per week over 197 weeks  
 29 stars, 1 forks, 14 watches  
 created 2018-02-26, last commit 2020-12-09, main language None  
 <sub><sup>oceanprotocol, whitepaper</sup></sub>
+
+
+### [oceandao](https://github.com/oceanprotocol/oceandao) by [oceanprotocol](https://github.com/oceanprotocol)  
+🐡 OceanDAO wiki  
+[https://github.com/oceanprotocol/oceandao](https://github.com/oceanprotocol/oceandao)  
+0.47 stars per week over 53 weeks  
+25 stars, 8 forks, 16 watches  
+created 2020-11-27, last commit 2021-10-10, main language None  
 
 
 ### [react](https://github.com/oceanprotocol/react) by [oceanprotocol](https://github.com/oceanprotocol)  
@@ -90,14 +98,6 @@ created 2018-02-26, last commit 2020-12-09, main language None
 25 stars, 9 forks, 19 watches  
 created 2020-04-24, last commit 2021-08-03, main language TypeScript  
 <sub><sup>marketplace, react, react-hooks</sup></sub>
-
-
-### [oceandao](https://github.com/oceanprotocol/oceandao) by [oceanprotocol](https://github.com/oceanprotocol)  
-🐡 OceanDAO wiki  
-[https://github.com/oceanprotocol/oceandao](https://github.com/oceanprotocol/oceandao)  
-0.47 stars per week over 53 weeks  
-25 stars, 8 forks, 16 watches  
-created 2020-11-27, last commit 2021-10-10, main language None  
 
 
 ### [art](https://github.com/oceanprotocol/art) by [oceanprotocol](https://github.com/oceanprotocol)  
@@ -113,7 +113,7 @@ created 2018-04-17, last commit 2021-07-28, main language None
 ### [provider](https://github.com/oceanprotocol/provider) by [oceanprotocol](https://github.com/oceanprotocol)  
 REST API for provider of data services  
 [https://github.com/oceanprotocol/provider](https://github.com/oceanprotocol/provider)  
-0.18 stars per week over 79 weeks  
+0.17 stars per week over 80 weeks  
 14 stars, 20 forks, 11 watches  
 created 2020-05-25, last commit 2021-12-03, main language Python  
 
@@ -129,7 +129,7 @@ created 2018-10-02, last commit 2020-10-31, main language None
 ### [osmosis-driver-interface](https://github.com/oceanprotocol/osmosis-driver-interface) by [oceanprotocol](https://github.com/oceanprotocol)  
 💧A membrane between the decentralized world and centralized world  
 [https://github.com/oceanprotocol/osmosis-driver-interface](https://github.com/oceanprotocol/osmosis-driver-interface)  
-0.06 stars per week over 175 weeks  
+0.06 stars per week over 176 weeks  
 11 stars, 2 forks, 16 watches  
 created 2018-07-23, last commit 2021-01-05, main language Python  
 
@@ -146,7 +146,7 @@ created 2020-11-19, last commit 2021-11-02, main language TypeScript
 ### [osmosis-aws-driver](https://github.com/oceanprotocol/osmosis-aws-driver) by [oceanprotocol](https://github.com/oceanprotocol)  
 💧Osmosis AWS Driver Implementation  
 [https://github.com/oceanprotocol/osmosis-aws-driver](https://github.com/oceanprotocol/osmosis-aws-driver)  
-0.06 stars per week over 175 weeks  
+0.06 stars per week over 176 weeks  
 10 stars, 3 forks, 15 watches  
 created 2018-07-23, last commit 2021-01-05, main language Python  
 
@@ -161,6 +161,6 @@ created 2018-06-27, last commit 2021-01-05, main language JavaScript
 <sub><sup>butterflies, eslint, fabulous, linting, standard-js, style</sup></sub>
 
 
-This file was automatically generated on 2021-12-05.  
+This file was automatically generated on 2021-12-06.  
 
 To curate your own github list, simply clone and change the input csv file.  

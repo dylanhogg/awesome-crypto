@@ -16,7 +16,7 @@ created 2020-09-13, last commit 2020-09-13, main language Solidity
 ### [bakery-swap-dish](https://github.com/BakeryProject/bakery-swap-dish) by [BakeryProject](https://github.com/BakeryProject)  
   
 [https://github.com/BakeryProject/bakery-swap-dish](https://github.com/BakeryProject/bakery-swap-dish)  
-0.32 stars per week over 59 weeks  
+0.32 stars per week over 60 weeks  
 19 stars, 31 forks, 4 watches  
 created 2020-10-12, last commit 2020-10-12, main language Solidity  
 
@@ -29,6 +29,6 @@ created 2020-10-12, last commit 2020-10-12, main language Solidity
 created 2020-09-13, last commit 2020-09-14, main language Solidity  
 
 
-This file was automatically generated on 2021-12-05.  
+This file was automatically generated on 2021-12-06.  
 
 To curate your own github list, simply clone and change the input csv file.  

@@ -10,8 +10,8 @@ Official Go implementation of the Ethereum protocol
 [https://geth.ethereum.org](https://geth.ethereum.org)  
 [https://github.com/ethereum/go-ethereum](https://github.com/ethereum/go-ethereum)  
 81 stars per week over 414 weeks  
-33,856 stars, 12,514 forks, 2,132 watches  
-created 2013-12-26, last commit 2021-12-03, main language Go  
+33,879 stars, 12,520 forks, 2,132 watches  
+created 2013-12-26, last commit 2021-12-05, main language Go  
 <sub><sup>blockchain, ethereum, geth, go, p2p</sup></sub>
 
 
@@ -20,7 +20,7 @@ The Ethereum Wiki
 [https://www.ethereum.org](https://www.ethereum.org)  
 [https://github.com/ethereum/wiki](https://github.com/ethereum/wiki)  
 34 stars per week over 407 weeks  
-14,016 stars, 2,537 forks, 1,262 watches  
+14,024 stars, 2,539 forks, 1,262 watches  
 created 2014-02-14, last commit 2021-09-04, main language None  
 
 
@@ -28,8 +28,8 @@ created 2014-02-14, last commit 2021-09-04, main language None
 Solidity, the Smart Contract Programming Language  
 [https://soliditylang.org](https://soliditylang.org)  
 [https://github.com/ethereum/solidity](https://github.com/ethereum/solidity)  
-40 stars per week over 328 weeks  
-13,420 stars, 3,318 forks, 583 watches  
+40 stars per week over 329 weeks  
+13,435 stars, 3,319 forks, 583 watches  
 created 2015-08-17, last commit 2021-12-03, main language C++  
 <sub><sup>blockchain, cpp, ethereum, hacktoberfest, language, programming-language, smartcontracts, solidity</sup></sub>
 
@@ -38,9 +38,9 @@ created 2015-08-17, last commit 2021-12-03, main language C++
 The Ethereum Improvement Proposal repository  
 [https://eips.ethereum.org/](https://eips.ethereum.org/)  
 [https://github.com/ethereum/EIPs](https://github.com/ethereum/EIPs)  
-25 stars per week over 318 weeks  
-8,023 stars, 3,003 forks, 888 watches  
-created 2015-10-26, last commit 2021-12-05, main language Solidity  
+25 stars per week over 319 weeks  
+8,035 stars, 3,005 forks, 888 watches  
+created 2015-10-26, last commit 2021-12-06, main language Solidity  
 
 
 ### [mist](https://github.com/ethereum/mist) by [ethereum](https://github.com/ethereum)  
@@ -48,7 +48,7 @@ created 2015-10-26, last commit 2021-12-05, main language Solidity
 [http://ethereum.org](http://ethereum.org)  
 [https://github.com/ethereum/mist](https://github.com/ethereum/mist)  
 21 stars per week over 338 weeks  
-7,387 stars, 2,034 forks, 731 watches  
+7,388 stars, 2,033 forks, 731 watches  
 created 2015-06-10, last commit 2019-03-27, main language JavaScript  
 <sub><sup>blockchain, browser, electron, ethereum, geth, meteor, web3</sup></sub>
 
@@ -57,7 +57,7 @@ created 2015-06-10, last commit 2019-03-27, main language JavaScript
 Aleth – Ethereum C++ client, tools and libraries  
 [https://github.com/ethereum/aleth](https://github.com/ethereum/aleth)  
 9.37 stars per week over 414 weeks  
-3,884 stars, 2,283 forks, 480 watches  
+3,885 stars, 2,284 forks, 480 watches  
 created 2013-12-26, last commit 2021-10-28, main language C++  
 <sub><sup>cpp, ethereum, ethereum-client, evm</sup></sub>
 
@@ -74,8 +74,8 @@ created 2013-12-24, last commit 2019-05-29, main language None
 A python interface for interacting with the Ethereum blockchain and ecosystem.  
 [http://web3py.readthedocs.io](http://web3py.readthedocs.io)  
 [https://github.com/ethereum/web3.py](https://github.com/ethereum/web3.py)  
-8.93 stars per week over 294 weeks  
-2,628 stars, 877 forks, 91 watches  
+8.94 stars per week over 294 weeks  
+2,633 stars, 878 forks, 91 watches  
 created 2016-04-14, last commit 2021-12-02, main language Python  
 
 
@@ -83,7 +83,7 @@ created 2016-04-14, last commit 2021-12-02, main language Python
 Ethereum Proof-of-Stake Consensus Specifications  
 [https://github.com/ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)  
 13 stars per week over 167 weeks  
-2,249 stars, 541 forks, 223 watches  
+2,268 stars, 543 forks, 224 watches  
 created 2018-09-20, last commit 2021-12-01, main language Python  
 
 
@@ -91,7 +91,7 @@ created 2018-09-20, last commit 2021-12-01, main language Python
 DEPRECATED! Java implementation of the Ethereum yellowpaper. For JSON-RPC and other client features check Ethereum Harmony  
 [https://github.com/ethereum/ethereumj](https://github.com/ethereum/ethereumj)  
 5.34 stars per week over 394 weeks  
-2,109 stars, 1,059 forks, 246 watches  
+2,110 stars, 1,059 forks, 246 watches  
 created 2014-05-13, last commit 2020-05-20, main language Java  
 
 
@@ -99,9 +99,9 @@ created 2014-05-13, last commit 2020-05-20, main language Java
 Ethereum.org is a primary online resource for the Ethereum community.  
 [https://ethereum.org/](https://ethereum.org/)  
 [https://github.com/ethereum/ethereum-org-website](https://github.com/ethereum/ethereum-org-website)  
-8.69 stars per week over 204 weeks  
-1,774 stars, 1,764 forks, 118 watches  
-created 2018-01-06, last commit 2021-12-03, main language JavaScript  
+8.73 stars per week over 204 weeks  
+1,783 stars, 1,771 forks, 118 watches  
+created 2018-01-06, last commit 2021-12-05, main language JavaScript  
 <sub><sup>blockchain, ethereum, gatsby, react, web3</sup></sub>
 
 
@@ -109,8 +109,8 @@ created 2018-01-06, last commit 2021-12-03, main language JavaScript
 Documentation for Remix IDE  
 [https://remix-ide.readthedocs.io](https://remix-ide.readthedocs.io)  
 [https://github.com/ethereum/remix-ide](https://github.com/ethereum/remix-ide)  
-6.04 stars per week over 289 weeks  
-1,751 stars, 816 forks, 113 watches  
+6.05 stars per week over 289 weeks  
+1,754 stars, 815 forks, 113 watches  
 created 2016-05-17, last commit 2021-10-27, main language None  
 <sub><sup>blockchain, debugging, debugging-tool, documentation, ethereum, evm, remix, remix-ide, smart-contracts, solidity, vyper</sup></sub>
 
@@ -119,8 +119,8 @@ created 2016-05-17, last commit 2021-10-27, main language None
 A Python implementation of the Ethereum Virtual Machine  
 [https://py-evm.readthedocs.io/en/latest/](https://py-evm.readthedocs.io/en/latest/)  
 [https://github.com/ethereum/py-evm](https://github.com/ethereum/py-evm)  
-5.46 stars per week over 257 weeks  
-1,408 stars, 493 forks, 91 watches  
+5.47 stars per week over 257 weeks  
+1,410 stars, 493 forks, 91 watches  
 created 2016-12-27, last commit 2021-10-13, main language Python  
 <sub><sup>ethereum, ethereum-virtual-machine, evm, python</sup></sub>
 
@@ -145,15 +145,15 @@ created 2014-04-02, last commit 2021-12-02, main language TeX
   
 [https://github.com/ethereum/research](https://github.com/ethereum/research)  
 3.61 stars per week over 324 weeks  
-1,170 stars, 295 forks, 219 watches  
+1,171 stars, 296 forks, 219 watches  
 created 2015-09-20, last commit 2021-11-12, main language Python  
 
 
 ### [remix](https://github.com/ethereum/remix) by [ethereum](https://github.com/ethereum)  
 This has been moved to https://github.com/ethereum/remix-project  
 [https://github.com/ethereum/remix](https://github.com/ethereum/remix)  
-3.76 stars per week over 294 weeks  
-1,109 stars, 442 forks, 74 watches  
+3.76 stars per week over 295 weeks  
+1,110 stars, 442 forks, 74 watches  
 created 2016-04-11, last commit 2020-09-09, main language JavaScript  
 <sub><sup>blockchain, ethereum, evm, remix, remix-ide, smart-contracts, solidity</sup></sub>
 
@@ -162,8 +162,8 @@ created 2016-04-11, last commit 2020-09-09, main language JavaScript
 Remix is a browser-based compiler and IDE that enables users to build Ethereum contracts with Solidity language and to debug transactions.  
 [https://remix-ide.readthedocs.io](https://remix-ide.readthedocs.io)  
 [https://github.com/ethereum/remix-project](https://github.com/ethereum/remix-project)  
-9.96 stars per week over 89 weeks  
-889 stars, 325 forks, 39 watches  
+9.99 stars per week over 89 weeks  
+893 stars, 326 forks, 39 watches  
 created 2020-03-20, last commit 2021-12-02, main language JavaScript  
 <sub><sup>blockchain, ethereum, evm, hacktoberfest, remix, remix-ide, smart-contracts, solidity, vyper</sup></sub>
 
@@ -180,8 +180,8 @@ created 2014-08-07, last commit 2017-06-02, main language JavaScript
 Javascript bindings for the Solidity compiler  
 [https://soliditylang.org](https://soliditylang.org)  
 [https://github.com/ethereum/solc-js](https://github.com/ethereum/solc-js)  
-2.85 stars per week over 295 weeks  
-844 stars, 234 forks, 37 watches  
+2.85 stars per week over 296 weeks  
+845 stars, 234 forks, 37 watches  
 created 2016-04-04, last commit 2021-11-10, main language JavaScript  
 <sub><sup>compiler, ethereum, hacktoberfest, solidity</sup></sub>
 
@@ -189,9 +189,18 @@ created 2016-04-04, last commit 2021-11-10, main language JavaScript
 ### [pm](https://github.com/ethereum/pm) by [ethereum](https://github.com/ethereum)  
 Project Management: Meeting notes and agenda items  
 [https://github.com/ethereum/pm](https://github.com/ethereum/pm)  
-2.75 stars per week over 270 weeks  
-743 stars, 174 forks, 238 watches  
+2.76 stars per week over 270 weeks  
+745 stars, 174 forks, 237 watches  
 created 2016-10-01, last commit 2021-11-28, main language Python  
+
+
+### [fe](https://github.com/ethereum/fe) by [ethereum](https://github.com/ethereum)  
+Emerging smart contract language for the Ethereum blockchain.  
+[https://fe-lang.org](https://fe-lang.org)  
+[https://github.com/ethereum/fe](https://github.com/ethereum/fe)  
+5.98 stars per week over 121 weeks  
+725 stars, 71 forks, 26 watches  
+created 2019-08-10, last commit 2021-12-02, main language Rust  
 
 
 ### [casper](https://github.com/ethereum/casper) by [ethereum](https://github.com/ethereum)  
@@ -202,21 +211,12 @@ Casper contract, and related software and tests
 created 2017-04-16, last commit 2019-03-28, main language Python  
 
 
-### [fe](https://github.com/ethereum/fe) by [ethereum](https://github.com/ethereum)  
-Emerging smart contract language for the Ethereum blockchain.  
-[https://fe-lang.org](https://fe-lang.org)  
-[https://github.com/ethereum/fe](https://github.com/ethereum/fe)  
-4.8 stars per week over 121 weeks  
-581 stars, 70 forks, 25 watches  
-created 2019-08-10, last commit 2021-12-02, main language Rust  
-
-
 ### [meteor-dapp-wallet](https://github.com/ethereum/meteor-dapp-wallet) by [ethereum](https://github.com/ethereum)  
   
 [https://wallet.ethereum.org](https://wallet.ethereum.org)  
 [https://github.com/ethereum/meteor-dapp-wallet](https://github.com/ethereum/meteor-dapp-wallet)  
-1.62 stars per week over 356 weeks  
-579 stars, 456 forks, 70 watches  
+1.62 stars per week over 357 weeks  
+580 stars, 455 forks, 70 watches  
 created 2015-02-02, last commit 2020-06-15, main language JavaScript  
 
 
@@ -234,7 +234,7 @@ created 2015-06-11, last commit 2017-10-25, main language Python
 Ethereum peer-to-peer networking specifications  
 [https://github.com/ethereum/devp2p](https://github.com/ethereum/devp2p)  
 1.45 stars per week over 358 weeks  
-520 stars, 215 forks, 58 watches  
+521 stars, 215 forks, 58 watches  
 created 2015-01-20, last commit 2021-11-04, main language JavaScript  
 
 
@@ -242,7 +242,7 @@ created 2015-01-20, last commit 2021-11-04, main language JavaScript
 Former home of cpp-ethereum (Oct 2015 to Aug 2016)  
 [http://cpp-ethereum.org](http://cpp-ethereum.org)  
 [https://github.com/ethereum/webthree-umbrella](https://github.com/ethereum/webthree-umbrella)  
-1.53 stars per week over 325 weeks  
+1.53 stars per week over 326 weeks  
 498 stars, 189 forks, 129 watches  
 created 2015-09-07, last commit 2016-08-18, main language None  
 
@@ -285,7 +285,7 @@ created 2018-08-30, last commit 2020-09-04, main language Python
 ### [ethereum-org](https://github.com/ethereum/ethereum-org) by [ethereum](https://github.com/ethereum)  
 [ARCHIVED] ethereum.org website from 2016-2019. See https://github.com/ethereum/ethereum-org-website for current version.  
 [https://github.com/ethereum/ethereum-org](https://github.com/ethereum/ethereum-org)  
-1.0 stars per week over 350 weeks  
+0.99 stars per week over 350 weeks  
 349 stars, 1,297 forks, 103 watches  
 created 2015-03-17, last commit 2019-04-17, main language HTML  
 
@@ -312,7 +312,7 @@ created 2015-08-19, last commit 2019-02-25, main language None
 Loose collection of Solidity example code  
 [https://github.com/ethereum/solidity-examples](https://github.com/ethereum/solidity-examples)  
 1.2 stars per week over 264 weeks  
-317 stars, 116 forks, 28 watches  
+318 stars, 116 forks, 28 watches  
 created 2016-11-11, last commit 2021-06-22, main language Solidity  
 
 
@@ -320,8 +320,16 @@ created 2016-11-11, last commit 2021-06-22, main language Solidity
 <1k library that generates blocky identicons  
 [https://github.com/ethereum/blockies](https://github.com/ethereum/blockies)  
 0.93 stars per week over 321 weeks  
-300 stars, 80 forks, 7 watches  
+300 stars, 79 forks, 7 watches  
 created 2015-10-09, last commit 2018-05-16, main language JavaScript  
+
+
+### [remix-desktop](https://github.com/ethereum/remix-desktop) by [ethereum](https://github.com/ethereum)  
+Remix IDE desktop  
+[https://github.com/ethereum/remix-desktop](https://github.com/ethereum/remix-desktop)  
+2.52 stars per week over 115 weeks  
+291 stars, 97 forks, 25 watches  
+created 2019-09-19, last commit 2021-12-03, main language JavaScript  
 
 
 ### [evmone](https://github.com/ethereum/evmone) by [ethereum](https://github.com/ethereum)  
@@ -331,14 +339,6 @@ Fast Ethereum Virtual Machine implementation
 290 stars, 94 forks, 22 watches  
 created 2018-12-05, last commit 2021-11-25, main language C++  
 <sub><sup>blockchain, ethereum, ethereum-virtual-machine, evm, evmc, hacktoberfest</sup></sub>
-
-
-### [remix-desktop](https://github.com/ethereum/remix-desktop) by [ethereum](https://github.com/ethereum)  
-Remix IDE desktop  
-[https://github.com/ethereum/remix-desktop](https://github.com/ethereum/remix-desktop)  
-2.5 stars per week over 115 weeks  
-289 stars, 97 forks, 25 watches  
-created 2019-09-19, last commit 2021-12-03, main language JavaScript  
 
 
 ### [tests](https://github.com/ethereum/tests) by [ethereum](https://github.com/ethereum)  
@@ -352,7 +352,7 @@ created 2013-12-31, last commit 2021-11-19, main language JavaScript
 ### [sourcify](https://github.com/ethereum/sourcify) by [ethereum](https://github.com/ethereum)  
 Solidity re-compiler that can be used to verify that bytecode corresponds to certain source code  
 [https://github.com/ethereum/sourcify](https://github.com/ethereum/sourcify)  
-2.01 stars per week over 136 weeks  
+2.0 stars per week over 136 weeks  
 274 stars, 94 forks, 25 watches  
 created 2019-04-24, last commit 2021-12-02, main language TypeScript  
 
@@ -360,7 +360,7 @@ created 2019-04-24, last commit 2021-12-02, main language TypeScript
 ### [homestead-guide](https://github.com/ethereum/homestead-guide) by [ethereum](https://github.com/ethereum)  
   
 [https://github.com/ethereum/homestead-guide](https://github.com/ethereum/homestead-guide)  
-0.88 stars per week over 308 weeks  
+0.88 stars per week over 309 weeks  
 273 stars, 360 forks, 51 watches  
 created 2016-01-04, last commit 2018-06-04, main language Python  
 
@@ -368,7 +368,7 @@ created 2016-01-04, last commit 2018-06-04, main language Python
 ### [eth2.0-deposit-cli](https://github.com/ethereum/eth2.0-deposit-cli) by [ethereum](https://github.com/ethereum)  
 Secure key generation for eth2 deposits  
 [https://github.com/ethereum/eth2.0-deposit-cli](https://github.com/ethereum/eth2.0-deposit-cli)  
-2.8 stars per week over 94 weeks  
+2.8 stars per week over 95 weeks  
 266 stars, 130 forks, 36 watches  
 created 2020-02-10, last commit 2021-04-02, main language Python  
 
@@ -376,7 +376,7 @@ created 2020-02-10, last commit 2021-04-02, main language Python
 ### [eth2.0-pm](https://github.com/ethereum/eth2.0-pm) by [ethereum](https://github.com/ethereum)  
 ETH2.0 project management  
 [https://github.com/ethereum/eth2.0-pm](https://github.com/ethereum/eth2.0-pm)  
-1.48 stars per week over 173 weeks  
+1.48 stars per week over 174 weeks  
 258 stars, 83 forks, 108 watches  
 created 2018-08-06, last commit 2021-11-17, main language Python  
 
@@ -397,21 +397,21 @@ created 2015-04-05, last commit 2018-02-07, main language Python
 created 2017-02-22, last commit 2018-07-17, main language Python  
 
 
-### [ropsten](https://github.com/ethereum/ropsten) by [ethereum](https://github.com/ethereum)  
-Ropsten public testnet PoW chain  
-[https://github.com/ethereum/ropsten](https://github.com/ethereum/ropsten)  
-0.88 stars per week over 245 weeks  
-217 stars, 64 forks, 28 watches  
-created 2017-03-22, last commit 2018-08-21, main language Jupyter Notebook  
-
-
 ### [solc-bin](https://github.com/ethereum/solc-bin) by [ethereum](https://github.com/ethereum)  
 This repository contains current and historical builds of the Solidity Compiler.  
 [https://binaries.soliditylang.org](https://binaries.soliditylang.org)  
 [https://github.com/ethereum/solc-bin](https://github.com/ethereum/solc-bin)  
-0.73 stars per week over 295 weeks  
-217 stars, 165 forks, 24 watches  
+0.74 stars per week over 296 weeks  
+219 stars, 165 forks, 24 watches  
 created 2016-04-04, last commit 2021-12-03, main language JavaScript  
+
+
+### [ropsten](https://github.com/ethereum/ropsten) by [ethereum](https://github.com/ethereum)  
+Ropsten public testnet PoW chain  
+[https://github.com/ethereum/ropsten](https://github.com/ethereum/ropsten)  
+0.88 stars per week over 245 weeks  
+217 stars, 65 forks, 28 watches  
+created 2017-03-22, last commit 2018-08-21, main language Jupyter Notebook  
 
 
 ### [eth-utils](https://github.com/ethereum/eth-utils) by [ethereum](https://github.com/ethereum)  
@@ -427,9 +427,9 @@ created 2017-02-07, last commit 2021-11-18, main language Python
 ### [execution-specs](https://github.com/ethereum/execution-specs) by [ethereum](https://github.com/ethereum)  
 Specifications for the Ethereum 1.0. Tracking network upgrades.  
 [https://github.com/ethereum/execution-specs](https://github.com/ethereum/execution-specs)  
-3.03 stars per week over 68 weeks  
-208 stars, 102 forks, 31 watches  
-created 2020-08-11, last commit 2021-12-02, main language Python  
+3.06 stars per week over 68 weeks  
+211 stars, 102 forks, 32 watches  
+created 2020-08-11, last commit 2021-12-06, main language Python  
 
 
 ### [evmlab](https://github.com/ethereum/evmlab) by [ethereum](https://github.com/ethereum)  
@@ -486,7 +486,7 @@ created 2018-10-12, last commit 2020-12-10, main language JavaScript
 ### [remixd](https://github.com/ethereum/remixd) by [ethereum](https://github.com/ethereum)  
 remix server  
 [https://github.com/ethereum/remixd](https://github.com/ethereum/remixd)  
-0.72 stars per week over 235 weeks  
+0.72 stars per week over 236 weeks  
 169 stars, 99 forks, 21 watches  
 created 2017-05-29, last commit 2021-02-26, main language TypeScript  
 
@@ -495,7 +495,7 @@ created 2017-05-29, last commit 2021-02-26, main language TypeScript
 The Mix Ethereum Dapp Development Tool  
 [http://www.ethereum.org](http://www.ethereum.org)  
 [https://github.com/ethereum/mix](https://github.com/ethereum/mix)  
-0.5 stars per week over 328 weeks  
+0.5 stars per week over 329 weeks  
 164 stars, 51 forks, 31 watches  
 created 2015-08-17, last commit 2016-08-11, main language JavaScript  
 
@@ -503,40 +503,40 @@ created 2015-08-17, last commit 2016-08-11, main language JavaScript
 ### [annotated-spec](https://github.com/ethereum/annotated-spec) by [ethereum](https://github.com/ethereum)  
 Vitalik's annotated eth2 spec. Not intended to be "the" annotated spec; other documents like Ben Edgington's https://benjaminion.xyz/eth2-annotated-spec/ also exist. This one is intended to focus more on design rationale.  
 [https://github.com/ethereum/annotated-spec](https://github.com/ethereum/annotated-spec)  
-2.35 stars per week over 69 weeks  
+2.34 stars per week over 69 weeks  
 163 stars, 39 forks, 11 watches  
 created 2020-08-06, last commit 2021-10-14, main language None  
-
-
-### [staking-launchpad](https://github.com/ethereum/staking-launchpad) by [ethereum](https://github.com/ethereum)  
-The deposit launchpad for eth2 🦏  
-[https://github.com/ethereum/staking-launchpad](https://github.com/ethereum/staking-launchpad)  
-1.65 stars per week over 96 weeks  
-160 stars, 82 forks, 19 watches  
-created 2020-01-27, last commit 2021-10-26, main language TypeScript  
 
 
 ### [browser-solidity](https://github.com/ethereum/browser-solidity) by [ethereum](https://github.com/ethereum)  
 Fomer location of remix-ide => https://github.com/ethereum/remix-ide  
 [https://github.com/ethereum/browser-solidity](https://github.com/ethereum/browser-solidity)  
 0.81 stars per week over 197 weeks  
-159 stars, 98 forks, 26 watches  
+160 stars, 98 forks, 26 watches  
 created 2018-02-22, last commit 2018-02-22, main language JavaScript  
+
+
+### [staking-launchpad](https://github.com/ethereum/staking-launchpad) by [ethereum](https://github.com/ethereum)  
+The deposit launchpad for eth2 🦏  
+[https://github.com/ethereum/staking-launchpad](https://github.com/ethereum/staking-launchpad)  
+1.65 stars per week over 97 weeks  
+160 stars, 82 forks, 19 watches  
+created 2020-01-27, last commit 2021-10-26, main language TypeScript  
 
 
 ### [ethash](https://github.com/ethereum/ethash) by [ethereum](https://github.com/ethereum)  
   
 [https://github.com/ethereum/ethash](https://github.com/ethereum/ethash)  
 0.45 stars per week over 356 weeks  
-159 stars, 256 forks, 32 watches  
+160 stars, 256 forks, 32 watches  
 created 2015-02-04, last commit 2017-04-07, main language C  
 
 
 ### [hive](https://github.com/ethereum/hive) by [ethereum](https://github.com/ethereum)  
 Ethereum end-to-end test harness  
 [https://github.com/ethereum/hive](https://github.com/ethereum/hive)  
-0.56 stars per week over 282 weeks  
-157 stars, 83 forks, 19 watches  
+0.56 stars per week over 283 weeks  
+158 stars, 83 forks, 19 watches  
 created 2016-07-04, last commit 2021-12-03, main language Go  
 <sub><sup>docker, ethereum, golang, reality, simulation, testing</sup></sub>
 
@@ -553,7 +553,7 @@ created 2019-09-25, last commit 2021-11-08, main language TypeScript
 ### [emacs-solidity](https://github.com/ethereum/emacs-solidity) by [ethereum](https://github.com/ethereum)  
 The official solidity-mode for EMACS  
 [https://github.com/ethereum/emacs-solidity](https://github.com/ethereum/emacs-solidity)  
-0.41 stars per week over 363 weeks  
+0.41 stars per week over 364 weeks  
 150 stars, 61 forks, 25 watches  
 created 2014-12-15, last commit 2021-11-12, main language Emacs Lisp  
 <sub><sup>emacs, emacs-lisp, emacs-mode, ethereum, solidity</sup></sub>
@@ -571,7 +571,7 @@ created 2016-07-19, last commit 2018-10-04, main language Python
 ### [meteor-dapp-whisper-chat-client](https://github.com/ethereum/meteor-dapp-whisper-chat-client) by [ethereum](https://github.com/ethereum)  
   
 [https://github.com/ethereum/meteor-dapp-whisper-chat-client](https://github.com/ethereum/meteor-dapp-whisper-chat-client)  
-0.41 stars per week over 356 weeks  
+0.41 stars per week over 357 weeks  
 146 stars, 60 forks, 30 watches  
 created 2015-02-02, last commit 2015-06-26, main language JavaScript  
 
@@ -589,7 +589,7 @@ created 2019-08-15, last commit 2021-11-04, main language HTML
 ### [evmjit](https://github.com/ethereum/evmjit) by [ethereum](https://github.com/ethereum)  
 The Ethereum EVM JIT  
 [https://github.com/ethereum/evmjit](https://github.com/ethereum/evmjit)  
-0.37 stars per week over 365 weeks  
+0.37 stars per week over 366 weeks  
 134 stars, 75 forks, 33 watches  
 created 2014-12-01, last commit 2019-05-08, main language C++  
 
@@ -597,8 +597,8 @@ created 2014-12-01, last commit 2019-05-08, main language C++
 ### [execution-apis](https://github.com/ethereum/execution-apis) by [ethereum](https://github.com/ethereum)  
 Collection of JSON-RPC APIs provided by Ethereum execution engines   
 [https://github.com/ethereum/execution-apis](https://github.com/ethereum/execution-apis)  
-5.13 stars per week over 24 weeks  
-126 stars, 76 forks, 18 watches  
+5.14 stars per week over 24 weeks  
+127 stars, 76 forks, 18 watches  
 created 2021-06-16, last commit 2021-11-30, main language JavaScript  
 
 
@@ -647,8 +647,8 @@ created 2017-01-18, last commit 2021-12-03, main language JavaScript
 ### [eth-keys](https://github.com/ethereum/eth-keys) by [ethereum](https://github.com/ethereum)  
 A common API for Ethereum key operations.  
 [https://github.com/ethereum/eth-keys](https://github.com/ethereum/eth-keys)  
-0.46 stars per week over 219 weeks  
-102 stars, 53 forks, 15 watches  
+0.47 stars per week over 219 weeks  
+103 stars, 53 forks, 15 watches  
 created 2017-09-19, last commit 2021-11-22, main language Python  
 
 
@@ -656,14 +656,14 @@ created 2017-09-19, last commit 2021-11-22, main language Python
 Specifications for the Stateless Ethereum research effort  
 [https://github.com/ethereum/portal-network-specs](https://github.com/ethereum/portal-network-specs)  
 0.99 stars per week over 97 weeks  
-97 stars, 47 forks, 29 watches  
+97 stars, 48 forks, 29 watches  
 created 2020-01-22, last commit 2021-12-02, main language None  
 
 
 ### [dapp-styles](https://github.com/ethereum/dapp-styles) by [ethereum](https://github.com/ethereum)  
   
 [https://github.com/ethereum/dapp-styles](https://github.com/ethereum/dapp-styles)  
-0.27 stars per week over 356 weeks  
+0.27 stars per week over 357 weeks  
 96 stars, 50 forks, 18 watches  
 created 2015-02-02, last commit 2017-08-21, main language HTML  
 
@@ -687,18 +687,9 @@ created 2019-09-13, last commit 2021-11-18, main language Haskell
 ### [ens-registrar-dapp](https://github.com/ethereum/ens-registrar-dapp) by [ethereum](https://github.com/ethereum)  
 Registrar DApp for the Ethereum Name Service  
 [https://github.com/ethereum/ens-registrar-dapp](https://github.com/ethereum/ens-registrar-dapp)  
-0.34 stars per week over 261 weeks  
+0.34 stars per week over 262 weeks  
 89 stars, 59 forks, 20 watches  
 created 2016-11-28, last commit 2018-02-21, main language JavaScript  
-
-
-### [snake-charmers-tactical-manual](https://github.com/ethereum/snake-charmers-tactical-manual) by [ethereum](https://github.com/ethereum)  
-Development *stuff* for the Snake Charmers EF team  
-[http://python.ethereum.org/](http://python.ethereum.org/)  
-[https://github.com/ethereum/snake-charmers-tactical-manual](https://github.com/ethereum/snake-charmers-tactical-manual)  
-0.37 stars per week over 219 weeks  
-81 stars, 32 forks, 21 watches  
-created 2017-09-18, last commit 2020-10-05, main language None  
 
 
 ### [moon-browser](https://github.com/ethereum/moon-browser) by [ethereum](https://github.com/ethereum)  
@@ -709,21 +700,30 @@ A browser for decentralized applications
 created 2017-08-18, last commit 2018-03-06, main language JavaScript  
 
 
+### [snake-charmers-tactical-manual](https://github.com/ethereum/snake-charmers-tactical-manual) by [ethereum](https://github.com/ethereum)  
+Development *stuff* for the Snake Charmers EF team  
+[http://python.ethereum.org/](http://python.ethereum.org/)  
+[https://github.com/ethereum/snake-charmers-tactical-manual](https://github.com/ethereum/snake-charmers-tactical-manual)  
+0.37 stars per week over 220 weeks  
+81 stars, 32 forks, 21 watches  
+created 2017-09-18, last commit 2020-10-05, main language None  
+
+
+### [py-wasm](https://github.com/ethereum/py-wasm) by [ethereum](https://github.com/ethereum)  
+A python implementation of the web assembly interpreter  
+[https://github.com/ethereum/py-wasm](https://github.com/ethereum/py-wasm)  
+0.51 stars per week over 156 weeks  
+79 stars, 14 forks, 13 watches  
+created 2018-12-10, last commit 2019-03-05, main language Python  
+<sub><sup>python, wasm</sup></sub>
+
+
 ### [pyethsaletool](https://github.com/ethereum/pyethsaletool) by [ethereum](https://github.com/ethereum)  
   
 [https://github.com/ethereum/pyethsaletool](https://github.com/ethereum/pyethsaletool)  
 0.2 stars per week over 389 weeks  
 79 stars, 134 forks, 29 watches  
 created 2014-06-18, last commit 2015-07-27, main language Python  
-
-
-### [py-wasm](https://github.com/ethereum/py-wasm) by [ethereum](https://github.com/ethereum)  
-A python implementation of the web assembly interpreter  
-[https://github.com/ethereum/py-wasm](https://github.com/ethereum/py-wasm)  
-0.5 stars per week over 155 weeks  
-78 stars, 14 forks, 13 watches  
-created 2018-12-10, last commit 2019-03-05, main language Python  
-<sub><sup>python, wasm</sup></sub>
 
 
 ### [rig](https://github.com/ethereum/rig) by [ethereum](https://github.com/ethereum)  
@@ -769,7 +769,7 @@ created 2016-06-28, last commit 2021-12-01, main language Python
 ### [remix-plugin](https://github.com/ethereum/remix-plugin) by [ethereum](https://github.com/ethereum)  
   
 [https://github.com/ethereum/remix-plugin](https://github.com/ethereum/remix-plugin)  
-0.36 stars per week over 193 weeks  
+0.36 stars per week over 194 weeks  
 69 stars, 57 forks, 11 watches  
 created 2018-03-19, last commit 2021-10-29, main language TypeScript  
 
@@ -777,7 +777,7 @@ created 2018-03-19, last commit 2021-10-29, main language TypeScript
 ### [public-attacknets](https://github.com/ethereum/public-attacknets) by [ethereum](https://github.com/ethereum)  
 Public attacknets available for eth2  
 [https://github.com/ethereum/public-attacknets](https://github.com/ethereum/public-attacknets)  
-0.95 stars per week over 71 weeks  
+0.94 stars per week over 72 weeks  
 68 stars, 15 forks, 23 watches  
 created 2020-07-20, last commit 2020-11-13, main language None  
 
@@ -786,7 +786,7 @@ created 2020-07-20, last commit 2020-11-13, main language None
 Former home of libethereum (part of cpp-ethereum)  
 [http://www.ethereum.org](http://www.ethereum.org)  
 [https://github.com/ethereum/libethereum](https://github.com/ethereum/libethereum)  
-0.2 stars per week over 328 weeks  
+0.2 stars per week over 329 weeks  
 66 stars, 53 forks, 36 watches  
 created 2015-08-17, last commit 2016-08-18, main language None  
 
@@ -799,20 +799,20 @@ Ethereum chain parser
 created 2015-04-07, last commit 2015-05-27, main language Go  
 
 
-### [ethereum-dockers](https://github.com/ethereum/ethereum-dockers) by [ethereum](https://github.com/ethereum)  
-Docker images for Ethereum  
-[https://github.com/ethereum/ethereum-dockers](https://github.com/ethereum/ethereum-dockers)  
-0.16 stars per week over 386 weeks  
-60 stars, 42 forks, 35 watches  
-created 2014-07-08, last commit 2016-05-06, main language Shell  
-
-
 ### [eth-hash](https://github.com/ethereum/eth-hash) by [ethereum](https://github.com/ethereum)  
 The Ethereum hashing function, keccak256, sometimes (erroneously) called sha256 or sha3  
 [https://github.com/ethereum/eth-hash](https://github.com/ethereum/eth-hash)  
 0.3 stars per week over 199 weeks  
 60 stars, 38 forks, 16 watches  
 created 2018-02-06, last commit 2021-09-03, main language Python  
+
+
+### [ethereum-dockers](https://github.com/ethereum/ethereum-dockers) by [ethereum](https://github.com/ethereum)  
+Docker images for Ethereum  
+[https://github.com/ethereum/ethereum-dockers](https://github.com/ethereum/ethereum-dockers)  
+0.16 stars per week over 386 weeks  
+60 stars, 42 forks, 35 watches  
+created 2014-07-08, last commit 2016-05-06, main language Shell  
 
 
 ### [oyente](https://github.com/ethereum/oyente) by [ethereum](https://github.com/ethereum)  
@@ -823,20 +823,20 @@ The project has been moved to this new repo https://github.com/melonproject/oyen
 created 2016-09-14, last commit 2017-03-18, main language Python  
 
 
+### [trin](https://github.com/ethereum/trin) by [ethereum](https://github.com/ethereum)  
+An Ethereum portal client: a json-rpc server with nearly instant sync, and low CPU & storage usage  
+[https://github.com/ethereum/trin](https://github.com/ethereum/trin)  
+1.34 stars per week over 42 weeks  
+57 stars, 29 forks, 9 watches  
+created 2021-02-12, last commit 2021-12-02, main language Rust  
+
+
 ### [eth-keyfile](https://github.com/ethereum/eth-keyfile) by [ethereum](https://github.com/ethereum)  
 Tools for handling the encrypted keyfile format used to store private keys.  
 [https://github.com/ethereum/eth-keyfile](https://github.com/ethereum/eth-keyfile)  
 0.26 stars per week over 219 weeks  
 57 stars, 43 forks, 8 watches  
 created 2017-09-21, last commit 2019-10-01, main language Python  
-
-
-### [trin](https://github.com/ethereum/trin) by [ethereum](https://github.com/ethereum)  
-An Ethereum portal client: a json-rpc server with nearly instant sync, and low CPU & storage usage  
-[https://github.com/ethereum/trin](https://github.com/ethereum/trin)  
-1.32 stars per week over 42 weeks  
-56 stars, 29 forks, 9 watches  
-created 2021-02-12, last commit 2021-12-02, main language Rust  
 
 
 ### [stake-voice](https://github.com/ethereum/stake-voice) by [ethereum](https://github.com/ethereum)  
@@ -850,7 +850,7 @@ created 2016-07-05, last commit 2017-07-10, main language JavaScript
 ### [remix-workshops](https://github.com/ethereum/remix-workshops) by [ethereum](https://github.com/ethereum)  
   
 [https://github.com/ethereum/remix-workshops](https://github.com/ethereum/remix-workshops)  
-0.33 stars per week over 164 weeks  
+0.33 stars per week over 165 weeks  
 55 stars, 35 forks, 13 watches  
 created 2018-10-08, last commit 2021-05-09, main language Solidity  
 
@@ -886,18 +886,9 @@ created 2014-10-08, last commit 2015-12-09, main language JavaScript
 **DEPRECATED** UI for Ethereum Grid  
 [https://grid.ethereum.org/](https://grid.ethereum.org/)  
 [https://github.com/ethereum/grid-ui](https://github.com/ethereum/grid-ui)  
-0.26 stars per week over 180 weeks  
+0.25 stars per week over 180 weeks  
 46 stars, 22 forks, 10 watches  
 created 2018-06-22, last commit 2020-06-09, main language JavaScript  
-
-
-### [alethzero](https://github.com/ethereum/alethzero) by [ethereum](https://github.com/ethereum)  
-Former home of AlethZero, AlethOne and AlethFive (cpp-ethereum)  
-[http://www.ethereum.org](http://www.ethereum.org)  
-[https://github.com/ethereum/alethzero](https://github.com/ethereum/alethzero)  
-0.14 stars per week over 328 weeks  
-45 stars, 40 forks, 24 watches  
-created 2015-08-17, last commit 2016-08-18, main language None  
 
 
 ### [py_pairing](https://github.com/ethereum/py_pairing) by [ethereum](https://github.com/ethereum)  
@@ -908,6 +899,23 @@ Elliptic curve operations, including pairings
 created 2017-06-20, last commit 2017-07-15, main language Python  
 
 
+### [alethzero](https://github.com/ethereum/alethzero) by [ethereum](https://github.com/ethereum)  
+Former home of AlethZero, AlethOne and AlethFive (cpp-ethereum)  
+[http://www.ethereum.org](http://www.ethereum.org)  
+[https://github.com/ethereum/alethzero](https://github.com/ethereum/alethzero)  
+0.14 stars per week over 329 weeks  
+45 stars, 40 forks, 24 watches  
+created 2015-08-17, last commit 2016-08-18, main language None  
+
+
+### [meteor-package-elements](https://github.com/ethereum/meteor-package-elements) by [ethereum](https://github.com/ethereum)  
+  
+[https://github.com/ethereum/meteor-package-elements](https://github.com/ethereum/meteor-package-elements)  
+0.12 stars per week over 356 weeks  
+42 stars, 50 forks, 13 watches  
+created 2015-02-09, last commit 2020-06-15, main language JavaScript  
+
+
 ### [eth-wiki](https://github.com/ethereum/eth-wiki) by [ethereum](https://github.com/ethereum)  
 Ethereum Wiki  
 [https://eth.wiki](https://eth.wiki)  
@@ -915,14 +923,6 @@ Ethereum Wiki
 0.23 stars per week over 180 weeks  
 42 stars, 37 forks, 12 watches  
 created 2018-06-22, last commit 2021-11-16, main language None  
-
-
-### [meteor-package-elements](https://github.com/ethereum/meteor-package-elements) by [ethereum](https://github.com/ethereum)  
-  
-[https://github.com/ethereum/meteor-package-elements](https://github.com/ethereum/meteor-package-elements)  
-0.12 stars per week over 355 weeks  
-42 stars, 51 forks, 13 watches  
-created 2015-02-09, last commit 2020-06-15, main language JavaScript  
 
 
 ### [guide](https://github.com/ethereum/guide) by [ethereum](https://github.com/ethereum)  
@@ -967,19 +967,11 @@ Collection of articles about the Solidity language and compiler
 created 2020-01-09, last commit 2021-11-18, main language HTML  
 
 
-### [rpc-tests](https://github.com/ethereum/rpc-tests) by [ethereum](https://github.com/ethereum)  
-  
-[https://github.com/ethereum/rpc-tests](https://github.com/ethereum/rpc-tests)  
-0.1 stars per week over 352 weeks  
-34 stars, 29 forks, 10 watches  
-created 2015-03-02, last commit 2017-09-11, main language JavaScript  
-
-
 ### [node-crawler](https://github.com/ethereum/node-crawler) by [ethereum](https://github.com/ethereum)  
 Attempts to crawl the Ethereum network of valid Ethereum Nodes and visualizes them in a nice web dashboard.  
 [https://crawler.ethereum.org](https://crawler.ethereum.org)  
 [https://github.com/ethereum/node-crawler](https://github.com/ethereum/node-crawler)  
-1.64 stars per week over 20 weeks  
+1.63 stars per week over 20 weeks  
 34 stars, 14 forks, 7 watches  
 created 2021-07-13, last commit 2021-11-12, main language TypeScript  
 <sub><sup>ethereum</sup></sub>
@@ -991,6 +983,14 @@ An implementation of the Ethereum bloom filter.
 0.14 stars per week over 243 weeks  
 34 stars, 24 forks, 14 watches  
 created 2017-04-05, last commit 2021-04-21, main language Python  
+
+
+### [rpc-tests](https://github.com/ethereum/rpc-tests) by [ethereum](https://github.com/ethereum)  
+  
+[https://github.com/ethereum/rpc-tests](https://github.com/ethereum/rpc-tests)  
+0.1 stars per week over 353 weeks  
+34 stars, 29 forks, 10 watches  
+created 2015-03-02, last commit 2017-09-11, main language JavaScript  
 
 
 ### [consensus-spec-tests](https://github.com/ethereum/consensus-spec-tests) by [ethereum](https://github.com/ethereum)  
@@ -1021,9 +1021,17 @@ created 2016-02-05, last commit 2017-02-21, main language None
 ### [interfaces](https://github.com/ethereum/interfaces) by [ethereum](https://github.com/ethereum)  
 Interface Specifications inside Ethereum  
 [https://github.com/ethereum/interfaces](https://github.com/ethereum/interfaces)  
-0.11 stars per week over 277 weeks  
+0.11 stars per week over 278 weeks  
 31 stars, 15 forks, 14 watches  
 created 2016-08-08, last commit 2016-08-25, main language None  
+
+
+### [plasma](https://github.com/ethereum/plasma) by [ethereum](https://github.com/ethereum)  
+  
+[https://github.com/ethereum/plasma](https://github.com/ethereum/plasma)  
+0.14 stars per week over 202 weeks  
+29 stars, 7 forks, 16 watches  
+created 2018-01-19, last commit 2018-01-19, main language None  
 
 
 ### [remix-vscode](https://github.com/ethereum/remix-vscode) by [ethereum](https://github.com/ethereum)  
@@ -1034,12 +1042,12 @@ Remix VS Code extension
 created 2021-03-16, last commit 2021-05-26, main language TypeScript  
 
 
-### [plasma](https://github.com/ethereum/plasma) by [ethereum](https://github.com/ethereum)  
-  
-[https://github.com/ethereum/plasma](https://github.com/ethereum/plasma)  
-0.14 stars per week over 202 weeks  
-29 stars, 7 forks, 16 watches  
-created 2018-01-19, last commit 2018-01-19, main language None  
+### [tryethereum](https://github.com/ethereum/tryethereum) by [ethereum](https://github.com/ethereum)  
+Try Ethereum with an online interface  
+[https://github.com/ethereum/tryethereum](https://github.com/ethereum/tryethereum)  
+0.07 stars per week over 398 weeks  
+28 stars, 22 forks, 18 watches  
+created 2014-04-20, last commit 2014-09-04, main language JavaScript  
 
 
 ### [ethereum-buildbot](https://github.com/ethereum/ethereum-buildbot) by [ethereum](https://github.com/ethereum)  
@@ -1051,28 +1059,12 @@ Ethereum Buildbot
 created 2014-07-08, last commit 2016-07-16, main language Python  
 
 
-### [tryethereum](https://github.com/ethereum/tryethereum) by [ethereum](https://github.com/ethereum)  
-Try Ethereum with an online interface  
-[https://github.com/ethereum/tryethereum](https://github.com/ethereum/tryethereum)  
-0.07 stars per week over 398 weeks  
-28 stars, 22 forks, 18 watches  
-created 2014-04-20, last commit 2014-09-04, main language JavaScript  
-
-
 ### [ethereum-client-binaries](https://github.com/ethereum/ethereum-client-binaries) by [ethereum](https://github.com/ethereum)  
 Download Ethereum client binaries for your OS  
 [https://github.com/ethereum/ethereum-client-binaries](https://github.com/ethereum/ethereum-client-binaries)  
 0.1 stars per week over 272 weeks  
 27 stars, 32 forks, 15 watches  
 created 2016-09-18, last commit 2018-03-19, main language JavaScript  
-
-
-### [genesis_block_generator](https://github.com/ethereum/genesis_block_generator) by [ethereum](https://github.com/ethereum)  
-  
-[https://github.com/ethereum/genesis_block_generator](https://github.com/ethereum/genesis_block_generator)  
-0.08 stars per week over 332 weeks  
-26 stars, 42 forks, 19 watches  
-created 2015-07-24, last commit 2015-07-29, main language Python  
 
 
 ### [ethereum.org](https://github.com/ethereum/ethereum.org) by [ethereum](https://github.com/ethereum)  
@@ -1083,28 +1075,27 @@ created 2015-07-24, last commit 2015-07-29, main language Python
 created 2015-01-13, last commit 2015-06-29, main language HTML  
 
 
+### [genesis_block_generator](https://github.com/ethereum/genesis_block_generator) by [ethereum](https://github.com/ethereum)  
+  
+[https://github.com/ethereum/genesis_block_generator](https://github.com/ethereum/genesis_block_generator)  
+0.08 stars per week over 332 weeks  
+26 stars, 42 forks, 19 watches  
+created 2015-07-24, last commit 2015-07-29, main language Python  
+
+
 ### [cable](https://github.com/ethereum/cable) by [ethereum](https://github.com/ethereum)  
 Cable: CMake Bootstrap Library  
 [https://github.com/ethereum/cable](https://github.com/ethereum/cable)  
-0.13 stars per week over 196 weeks  
+0.13 stars per week over 197 weeks  
 25 stars, 11 forks, 7 watches  
 created 2018-02-26, last commit 2021-05-20, main language CMake  
 <sub><sup>cmake, cmake-modules, cmake-toolchains</sup></sub>
 
 
-### [remix-plugins-directory](https://github.com/ethereum/remix-plugins-directory) by [ethereum](https://github.com/ethereum)  
-Remix plugins directory  
-[https://github.com/ethereum/remix-plugins-directory](https://github.com/ethereum/remix-plugins-directory)  
-0.2 stars per week over 118 weeks  
-24 stars, 30 forks, 9 watches  
-created 2019-08-27, last commit 2021-11-22, main language TypeScript  
-<sub><sup>analysis, ethereum, ide, plugin, remix, solidity</sup></sub>
-
-
 ### [nodemonitor](https://github.com/ethereum/nodemonitor) by [ethereum](https://github.com/ethereum)  
 A little node monitoring utility  
 [https://github.com/ethereum/nodemonitor](https://github.com/ethereum/nodemonitor)  
-0.38 stars per week over 63 weeks  
+0.38 stars per week over 64 weeks  
 24 stars, 14 forks, 10 watches  
 created 2020-09-14, last commit 2021-10-20, main language Go  
 
@@ -1117,12 +1108,13 @@ Resources common to all Ethereum implementations
 created 2015-03-06, last commit 2015-07-27, main language None  
 
 
-### [ssv](https://github.com/ethereum/ssv) by [ethereum](https://github.com/ethereum)  
-  
-[https://github.com/ethereum/ssv](https://github.com/ethereum/ssv)  
-0.57 stars per week over 40 weeks  
-23 stars, 9 forks, 9 watches  
-created 2021-02-26, last commit 2021-06-10, main language Go  
+### [remix-plugins-directory](https://github.com/ethereum/remix-plugins-directory) by [ethereum](https://github.com/ethereum)  
+Remix plugins directory  
+[https://github.com/ethereum/remix-plugins-directory](https://github.com/ethereum/remix-plugins-directory)  
+0.2 stars per week over 118 weeks  
+24 stars, 30 forks, 9 watches  
+created 2019-08-27, last commit 2021-11-22, main language TypeScript  
+<sub><sup>analysis, ethereum, ide, plugin, remix, solidity</sup></sub>
 
 
 ### [clef-ui](https://github.com/ethereum/clef-ui) by [ethereum](https://github.com/ethereum)  
@@ -1134,12 +1126,12 @@ created 2018-08-19, last commit 2020-05-07, main language QML
 <sub><sup>ethereum, geth, golang, qml, qt, qtcreator</sup></sub>
 
 
-### [deposit_contract](https://github.com/ethereum/deposit_contract) by [ethereum](https://github.com/ethereum)  
+### [ssv](https://github.com/ethereum/ssv) by [ethereum](https://github.com/ethereum)  
   
-[https://github.com/ethereum/deposit_contract](https://github.com/ethereum/deposit_contract)  
-0.15 stars per week over 150 weeks  
-22 stars, 22 forks, 11 watches  
-created 2019-01-16, last commit 2020-09-29, main language Python  
+[https://github.com/ethereum/ssv](https://github.com/ethereum/ssv)  
+0.57 stars per week over 40 weeks  
+23 stars, 9 forks, 9 watches  
+created 2021-02-26, last commit 2021-06-10, main language Go  
 
 
 ### [mining](https://github.com/ethereum/mining) by [ethereum](https://github.com/ethereum)  
@@ -1148,6 +1140,14 @@ created 2019-01-16, last commit 2020-09-29, main language Python
 0.06 stars per week over 383 weeks  
 22 stars, 29 forks, 19 watches  
 created 2014-07-30, last commit 2014-07-30, main language Go  
+
+
+### [deposit_contract](https://github.com/ethereum/deposit_contract) by [ethereum](https://github.com/ethereum)  
+  
+[https://github.com/ethereum/deposit_contract](https://github.com/ethereum/deposit_contract)  
+0.15 stars per week over 150 weeks  
+22 stars, 22 forks, 11 watches  
+created 2019-01-16, last commit 2020-09-29, main language Python  
 
 
 ### [play](https://github.com/ethereum/play) by [ethereum](https://github.com/ethereum)  
@@ -1160,20 +1160,12 @@ created 2018-06-29, last commit 2019-08-26, main language JavaScript
 <sub><sup>browser, deployment, editor, solidity, web3</sup></sub>
 
 
-### [ethdev-site](https://github.com/ethereum/ethdev-site) by [ethereum](https://github.com/ethereum)  
-  
-[https://github.com/ethereum/ethdev-site](https://github.com/ethereum/ethdev-site)  
-0.06 stars per week over 367 weeks  
-21 stars, 29 forks, 15 watches  
-created 2014-11-19, last commit 2014-12-28, main language JavaScript  
-
-
 ### [discv4-dns-lists](https://github.com/ethereum/discv4-dns-lists) by [ethereum](https://github.com/ethereum)  
   
 [https://github.com/ethereum/discv4-dns-lists](https://github.com/ethereum/discv4-dns-lists)  
 0.22 stars per week over 95 weeks  
 21 stars, 23 forks, 6 watches  
-created 2020-02-06, last commit 2021-12-05, main language None  
+created 2020-02-06, last commit 2021-12-06, main language None  
 
 
 ### [www](https://github.com/ethereum/www) by [ethereum](https://github.com/ethereum)  
@@ -1182,6 +1174,14 @@ created 2020-02-06, last commit 2021-12-05, main language None
 0.05 stars per week over 409 weeks  
 21 stars, 37 forks, 22 watches  
 created 2014-01-31, last commit 2014-12-18, main language JavaScript  
+
+
+### [ethdev-site](https://github.com/ethereum/ethdev-site) by [ethereum](https://github.com/ethereum)  
+  
+[https://github.com/ethereum/ethdev-site](https://github.com/ethereum/ethdev-site)  
+0.06 stars per week over 367 weeks  
+21 stars, 29 forks, 15 watches  
+created 2014-11-19, last commit 2014-12-28, main language JavaScript  
 
 
 ### [py-ssz](https://github.com/ethereum/py-ssz) by [ethereum](https://github.com/ethereum)  
@@ -1193,14 +1193,6 @@ created 2018-10-18, last commit 2020-06-18, main language Python
 <sub><sup>ssz</sup></sub>
 
 
-### [simplecasper](https://github.com/ethereum/simplecasper) by [ethereum](https://github.com/ethereum)  
-Casper PoC4 implementation  
-[https://github.com/ethereum/simplecasper](https://github.com/ethereum/simplecasper)  
-0.08 stars per week over 248 weeks  
-19 stars, 9 forks, 25 watches  
-created 2017-03-03, last commit 2017-03-07, main language Python  
-
-
 ### [eth-typing](https://github.com/ethereum/eth-typing) by [ethereum](https://github.com/ethereum)  
 Python types for type hinting commonly used ethereum types  
 [https://github.com/ethereum/eth-typing](https://github.com/ethereum/eth-typing)  
@@ -1209,54 +1201,21 @@ Python types for type hinting commonly used ethereum types
 created 2018-03-15, last commit 2021-11-15, main language Python  
 
 
+### [simplecasper](https://github.com/ethereum/simplecasper) by [ethereum](https://github.com/ethereum)  
+Casper PoC4 implementation  
+[https://github.com/ethereum/simplecasper](https://github.com/ethereum/simplecasper)  
+0.08 stars per week over 248 weeks  
+19 stars, 9 forks, 25 watches  
+created 2017-03-03, last commit 2017-03-07, main language Python  
+
+
 ### [beaconrunner](https://github.com/ethereum/beaconrunner) by [ethereum](https://github.com/ethereum)  
 Agent-based simulation environment for PoS Ethereum  
 [https://github.com/ethereum/beaconrunner](https://github.com/ethereum/beaconrunner)  
-0.26 stars per week over 73 weeks  
+0.26 stars per week over 74 weeks  
 19 stars, 11 forks, 7 watches  
 created 2020-07-06, last commit 2021-10-22, main language Python  
 <sub><sup>ethereum</sup></sub>
-
-
-### [meteor-package-tools](https://github.com/ethereum/meteor-package-tools) by [ethereum](https://github.com/ethereum)  
-  
-[https://github.com/ethereum/meteor-package-tools](https://github.com/ethereum/meteor-package-tools)  
-0.05 stars per week over 355 weeks  
-18 stars, 40 forks, 15 watches  
-created 2015-02-13, last commit 2020-06-15, main language JavaScript  
-
-
-### [rayonism](https://github.com/ethereum/rayonism) by [ethereum](https://github.com/ethereum)  
-DEPRECATED  
-[https://github.com/ethereum/rayonism](https://github.com/ethereum/rayonism)  
-0.53 stars per week over 33 weeks  
-18 stars, 5 forks, 7 watches  
-created 2021-04-12, last commit 2021-11-04, main language Makefile  
-
-
-### [eth2.0-tests](https://github.com/ethereum/eth2.0-tests) by [ethereum](https://github.com/ethereum)  
-[DEPRECATED] Common tests for all Eth2.0 implementations  
-[https://github.com/ethereum/eth2.0-tests](https://github.com/ethereum/eth2.0-tests)  
-0.11 stars per week over 166 weeks  
-18 stars, 10 forks, 11 watches  
-created 2018-09-26, last commit 2019-04-29, main language None  
-
-
-### [webthree](https://github.com/ethereum/webthree) by [ethereum](https://github.com/ethereum)  
-Submodule of the Ethereum C++ implementation, please see webthree-umbrella.  
-[http://www.ethereum.org](http://www.ethereum.org)  
-[https://github.com/ethereum/webthree](https://github.com/ethereum/webthree)  
-0.05 stars per week over 328 weeks  
-18 stars, 22 forks, 25 watches  
-created 2015-08-17, last commit 2016-08-18, main language None  
-
-
-### [whisper](https://github.com/ethereum/whisper) by [ethereum](https://github.com/ethereum)  
-  
-[https://github.com/ethereum/whisper](https://github.com/ethereum/whisper)  
-0.11 stars per week over 165 weeks  
-18 stars, 8 forks, 8 watches  
-created 2018-10-03, last commit 2021-07-29, main language Go  
 
 
 ### [pytest-ethereum](https://github.com/ethereum/pytest-ethereum) by [ethereum](https://github.com/ethereum)  
@@ -1267,6 +1226,22 @@ created 2018-10-03, last commit 2021-07-29, main language Go
 created 2018-09-05, last commit 2019-06-24, main language Python  
 
 
+### [eth2.0-tests](https://github.com/ethereum/eth2.0-tests) by [ethereum](https://github.com/ethereum)  
+[DEPRECATED] Common tests for all Eth2.0 implementations  
+[https://github.com/ethereum/eth2.0-tests](https://github.com/ethereum/eth2.0-tests)  
+0.11 stars per week over 166 weeks  
+18 stars, 10 forks, 11 watches  
+created 2018-09-26, last commit 2019-04-29, main language None  
+
+
+### [whisper](https://github.com/ethereum/whisper) by [ethereum](https://github.com/ethereum)  
+  
+[https://github.com/ethereum/whisper](https://github.com/ethereum/whisper)  
+0.11 stars per week over 165 weeks  
+18 stars, 8 forks, 8 watches  
+created 2018-10-03, last commit 2021-07-29, main language Go  
+
+
 ### [evmcodegen](https://github.com/ethereum/evmcodegen) by [ethereum](https://github.com/ethereum)  
 A synthetic evm bytecode generation library and cmdline utility to fuzz the ethereum stack machine  
 [https://github.com/ethereum/evmcodegen](https://github.com/ethereum/evmcodegen)  
@@ -1275,22 +1250,37 @@ A synthetic evm bytecode generation library and cmdline utility to fuzz the ethe
 created 2018-10-10, last commit 2018-10-28, main language Python  
 
 
+### [rayonism](https://github.com/ethereum/rayonism) by [ethereum](https://github.com/ethereum)  
+DEPRECATED  
+[https://github.com/ethereum/rayonism](https://github.com/ethereum/rayonism)  
+0.53 stars per week over 34 weeks  
+18 stars, 5 forks, 7 watches  
+created 2021-04-12, last commit 2021-11-04, main language Makefile  
+
+
+### [meteor-package-tools](https://github.com/ethereum/meteor-package-tools) by [ethereum](https://github.com/ethereum)  
+  
+[https://github.com/ethereum/meteor-package-tools](https://github.com/ethereum/meteor-package-tools)  
+0.05 stars per week over 355 weeks  
+18 stars, 39 forks, 15 watches  
+created 2015-02-13, last commit 2020-06-15, main language JavaScript  
+
+
+### [webthree](https://github.com/ethereum/webthree) by [ethereum](https://github.com/ethereum)  
+Submodule of the Ethereum C++ implementation, please see webthree-umbrella.  
+[http://www.ethereum.org](http://www.ethereum.org)  
+[https://github.com/ethereum/webthree](https://github.com/ethereum/webthree)  
+0.05 stars per week over 329 weeks  
+18 stars, 22 forks, 25 watches  
+created 2015-08-17, last commit 2016-08-18, main language None  
+
+
 ### [ddht](https://github.com/ethereum/ddht) by [ethereum](https://github.com/ethereum)  
 Python implementation of Discovery V5 Protocol  
 [https://github.com/ethereum/ddht](https://github.com/ethereum/ddht)  
 0.24 stars per week over 71 weeks  
 17 stars, 16 forks, 7 watches  
 created 2020-07-24, last commit 2021-06-03, main language Python  
-
-
-### [esp-website](https://github.com/ethereum/esp-website) by [ethereum](https://github.com/ethereum)  
-Website for the Ethereum Foundation's Ecosystem Support Program (ESP):  
-[https://esp.ethereum.foundation/](https://esp.ethereum.foundation/)  
-[https://github.com/ethereum/esp-website](https://github.com/ethereum/esp-website)  
-0.15 stars per week over 106 weeks  
-16 stars, 20 forks, 7 watches  
-created 2019-11-19, last commit 2021-11-05, main language JavaScript  
-<sub><sup>blockchain, ethereum, gatsby, react</sup></sub>
 
 
 ### [meteor-dapp-catalog](https://github.com/ethereum/meteor-dapp-catalog) by [ethereum](https://github.com/ethereum)  
@@ -1309,6 +1299,16 @@ download, compile && prepare cpp-ethereum dependencies for windows
 created 2015-04-12, last commit 2017-06-23, main language CMake  
 
 
+### [esp-website](https://github.com/ethereum/esp-website) by [ethereum](https://github.com/ethereum)  
+Website for the Ethereum Foundation's Ecosystem Support Program (ESP):  
+[https://esp.ethereum.foundation/](https://esp.ethereum.foundation/)  
+[https://github.com/ethereum/esp-website](https://github.com/ethereum/esp-website)  
+0.15 stars per week over 106 weeks  
+16 stars, 20 forks, 7 watches  
+created 2019-11-19, last commit 2021-11-05, main language JavaScript  
+<sub><sup>blockchain, ethereum, gatsby, react</sup></sub>
+
+
 ### [clrfund](https://github.com/ethereum/clrfund) by [ethereum](https://github.com/ethereum)  
 Eth2 CLR project built on clr.fund  
 [https://eth2clrfund.netlify.app/](https://eth2clrfund.netlify.app/)  
@@ -1316,6 +1316,22 @@ Eth2 CLR project built on clr.fund
 0.44 stars per week over 36 weeks  
 16 stars, 12 forks, 4 watches  
 created 2021-03-25, last commit 2021-11-23, main language TypeScript  
+
+
+### [twig](https://github.com/ethereum/twig) by [ethereum](https://github.com/ethereum)  
+  
+[https://github.com/ethereum/twig](https://github.com/ethereum/twig)  
+0.09 stars per week over 169 weeks  
+15 stars, 7 forks, 8 watches  
+created 2018-09-06, last commit 2019-01-21, main language Python  
+
+
+### [benchmarking](https://github.com/ethereum/benchmarking) by [ethereum](https://github.com/ethereum)  
+Benchmarking data for EVM ops and precompiles  
+[https://github.com/ethereum/benchmarking](https://github.com/ethereum/benchmarking)  
+0.07 stars per week over 224 weeks  
+15 stars, 9 forks, 9 watches  
+created 2017-08-21, last commit 2018-07-21, main language Python  
 
 
 ### [moon-tool](https://github.com/ethereum/moon-tool) by [ethereum](https://github.com/ethereum)  
@@ -1326,28 +1342,12 @@ Command-lite tool for Moon-lang
 created 2017-08-18, last commit 2017-10-04, main language JavaScript  
 
 
-### [benchmarking](https://github.com/ethereum/benchmarking) by [ethereum](https://github.com/ethereum)  
-Benchmarking data for EVM ops and precompiles  
-[https://github.com/ethereum/benchmarking](https://github.com/ethereum/benchmarking)  
-0.07 stars per week over 223 weeks  
-15 stars, 9 forks, 9 watches  
-created 2017-08-21, last commit 2018-07-21, main language Python  
-
-
 ### [leveldb](https://github.com/ethereum/leveldb) by [ethereum](https://github.com/ethereum)  
 Bitcoin's LevelDB branch  
 [https://github.com/ethereum/leveldb](https://github.com/ethereum/leveldb)  
 0.05 stars per week over 294 weeks  
 15 stars, 14 forks, 10 watches  
 created 2016-04-15, last commit 2015-04-14, main language C++  
-
-
-### [twig](https://github.com/ethereum/twig) by [ethereum](https://github.com/ethereum)  
-  
-[https://github.com/ethereum/twig](https://github.com/ethereum/twig)  
-0.09 stars per week over 169 weeks  
-15 stars, 7 forks, 8 watches  
-created 2018-09-06, last commit 2019-01-21, main language Python  
 
 
 ### [frontier-guide](https://github.com/ethereum/frontier-guide) by [ethereum](https://github.com/ethereum)  
@@ -1374,14 +1374,6 @@ created 2014-11-27, last commit 2015-06-03, main language Python
 created 2020-02-05, last commit 2020-07-02, main language None  
 
 
-### [meteor-package-accounts](https://github.com/ethereum/meteor-package-accounts) by [ethereum](https://github.com/ethereum)  
-  
-[https://github.com/ethereum/meteor-package-accounts](https://github.com/ethereum/meteor-package-accounts)  
-0.04 stars per week over 335 weeks  
-14 stars, 37 forks, 9 watches  
-created 2015-07-02, last commit 2018-03-22, main language JavaScript  
-
-
 ### [solidity.js](https://github.com/ethereum/solidity.js) by [ethereum](https://github.com/ethereum)  
   
 [https://github.com/ethereum/solidity.js](https://github.com/ethereum/solidity.js)  
@@ -1390,35 +1382,18 @@ created 2015-07-02, last commit 2018-03-22, main language JavaScript
 created 2015-07-24, last commit 2015-07-24, main language JavaScript  
 
 
-### [eth-netstats](https://github.com/ethereum/eth-netstats) by [ethereum](https://github.com/ethereum)  
-Ethereum Network Stats "Classic"  
-[https://ethstats.net/](https://ethstats.net/)  
-[https://github.com/ethereum/eth-netstats](https://github.com/ethereum/eth-netstats)  
-0.09 stars per week over 144 weeks  
-13 stars, 10 forks, 8 watches  
-created 2019-03-01, last commit 2019-08-14, main language JavaScript  
-
-
-### [trinity-eth2](https://github.com/ethereum/trinity-eth2) by [ethereum](https://github.com/ethereum)  
-The Trinity client for the Eth2 network  
-[https://github.com/ethereum/trinity-eth2](https://github.com/ethereum/trinity-eth2)  
-0.19 stars per week over 66 weeks  
-13 stars, 7 forks, 13 watches  
-created 2020-08-24, last commit 2020-08-25, main language Python  
-
-
-### [beacon-metrics](https://github.com/ethereum/beacon-metrics) by [ethereum](https://github.com/ethereum)  
-Informative spec for beacon node metrics  
-[https://github.com/ethereum/beacon-metrics](https://github.com/ethereum/beacon-metrics)  
-0.1 stars per week over 130 weeks  
-13 stars, 12 forks, 6 watches  
-created 2019-06-05, last commit 2021-08-18, main language None  
+### [meteor-package-accounts](https://github.com/ethereum/meteor-package-accounts) by [ethereum](https://github.com/ethereum)  
+  
+[https://github.com/ethereum/meteor-package-accounts](https://github.com/ethereum/meteor-package-accounts)  
+0.04 stars per week over 335 weeks  
+14 stars, 36 forks, 9 watches  
+created 2015-07-02, last commit 2018-03-22, main language JavaScript  
 
 
 ### [trio-run-in-process](https://github.com/ethereum/trio-run-in-process) by [ethereum](https://github.com/ethereum)  
 Trio-based API for running code in other processes  
 [https://github.com/ethereum/trio-run-in-process](https://github.com/ethereum/trio-run-in-process)  
-0.11 stars per week over 116 weeks  
+0.11 stars per week over 117 weeks  
 13 stars, 8 forks, 11 watches  
 created 2019-09-09, last commit 2021-01-05, main language Python  
 
@@ -1431,12 +1406,37 @@ C++ library for zkSNARKs
 created 2017-03-07, last commit 2017-01-25, main language C++  
 
 
-### [vim-solidity](https://github.com/ethereum/vim-solidity) by [ethereum](https://github.com/ethereum)  
-Vim syntax file for solidity  
-[https://github.com/ethereum/vim-solidity](https://github.com/ethereum/vim-solidity)  
-0.04 stars per week over 341 weeks  
-12 stars, 10 forks, 13 watches  
-created 2015-05-18, last commit 2016-03-25, main language VimL  
+### [beacon-metrics](https://github.com/ethereum/beacon-metrics) by [ethereum](https://github.com/ethereum)  
+Informative spec for beacon node metrics  
+[https://github.com/ethereum/beacon-metrics](https://github.com/ethereum/beacon-metrics)  
+0.1 stars per week over 130 weeks  
+13 stars, 12 forks, 6 watches  
+created 2019-06-05, last commit 2021-08-18, main language None  
+
+
+### [trinity-eth2](https://github.com/ethereum/trinity-eth2) by [ethereum](https://github.com/ethereum)  
+The Trinity client for the Eth2 network  
+[https://github.com/ethereum/trinity-eth2](https://github.com/ethereum/trinity-eth2)  
+0.19 stars per week over 67 weeks  
+13 stars, 7 forks, 13 watches  
+created 2020-08-24, last commit 2020-08-25, main language Python  
+
+
+### [eth-netstats](https://github.com/ethereum/eth-netstats) by [ethereum](https://github.com/ethereum)  
+Ethereum Network Stats "Classic"  
+[https://ethstats.net/](https://ethstats.net/)  
+[https://github.com/ethereum/eth-netstats](https://github.com/ethereum/eth-netstats)  
+0.09 stars per week over 144 weeks  
+13 stars, 10 forks, 8 watches  
+created 2019-03-01, last commit 2019-08-14, main language JavaScript  
+
+
+### [natspec.js](https://github.com/ethereum/natspec.js) by [ethereum](https://github.com/ethereum)  
+Javascript Library used to evaluate natspec expressions  
+[https://github.com/ethereum/natspec.js](https://github.com/ethereum/natspec.js)  
+0.03 stars per week over 352 weeks  
+12 stars, 9 forks, 12 watches  
+created 2015-03-03, last commit 2015-04-10, main language JavaScript  
 
 
 ### [evmdasm](https://github.com/ethereum/evmdasm) by [ethereum](https://github.com/ethereum)  
@@ -1469,7 +1469,7 @@ created 2019-11-05, last commit 2020-09-10, main language Python
 ### [solidity-fuzzing-corpus](https://github.com/ethereum/solidity-fuzzing-corpus) by [ethereum](https://github.com/ethereum)  
   
 [https://github.com/ethereum/solidity-fuzzing-corpus](https://github.com/ethereum/solidity-fuzzing-corpus)  
-0.08 stars per week over 144 weeks  
+0.08 stars per week over 145 weeks  
 12 stars, 8 forks, 6 watches  
 created 2019-02-25, last commit 2021-07-27, main language None  
 
@@ -1478,8 +1478,16 @@ created 2019-02-25, last commit 2021-07-27, main language None
   
 [https://github.com/ethereum/meteor-package-blocks](https://github.com/ethereum/meteor-package-blocks)  
 0.04 stars per week over 333 weeks  
-12 stars, 28 forks, 10 watches  
+12 stars, 27 forks, 10 watches  
 created 2015-07-15, last commit 2018-03-22, main language JavaScript  
+
+
+### [vim-solidity](https://github.com/ethereum/vim-solidity) by [ethereum](https://github.com/ethereum)  
+Vim syntax file for solidity  
+[https://github.com/ethereum/vim-solidity](https://github.com/ethereum/vim-solidity)  
+0.04 stars per week over 342 weeks  
+12 stars, 10 forks, 13 watches  
+created 2015-05-18, last commit 2016-03-25, main language VimL  
 
 
 ### [eth-rlp](https://github.com/ethereum/eth-rlp) by [ethereum](https://github.com/ethereum)  
@@ -1490,61 +1498,12 @@ STUB
 created 2018-01-24, last commit 2020-10-14, main language Python  
 
 
-### [natspec.js](https://github.com/ethereum/natspec.js) by [ethereum](https://github.com/ethereum)  
-Javascript Library used to evaluate natspec expressions  
-[https://github.com/ethereum/natspec.js](https://github.com/ethereum/natspec.js)  
-0.03 stars per week over 352 weeks  
-12 stars, 9 forks, 12 watches  
-created 2015-03-03, last commit 2015-04-10, main language JavaScript  
-
-
 ### [statesweep](https://github.com/ethereum/statesweep) by [ethereum](https://github.com/ethereum)  
   
 [https://github.com/ethereum/statesweep](https://github.com/ethereum/statesweep)  
 0.05 stars per week over 263 weeks  
 12 stars, 8 forks, 6 watches  
 created 2016-11-18, last commit 2016-11-21, main language Python  
-
-
-### [hexbytes](https://github.com/ethereum/hexbytes) by [ethereum](https://github.com/ethereum)  
-Python `bytes` subclass that decodes hex, with a readable console output  
-[https://github.com/ethereum/hexbytes](https://github.com/ethereum/hexbytes)  
-0.05 stars per week over 201 weeks  
-11 stars, 9 forks, 5 watches  
-created 2018-01-25, last commit 2021-08-25, main language Python  
-
-
-### [libweb3core](https://github.com/ethereum/libweb3core) by [ethereum](https://github.com/ethereum)  
-Former home of libweb3core (part of cpp-ethereum)  
-[http://www.ethereum.org](http://www.ethereum.org)  
-[https://github.com/ethereum/libweb3core](https://github.com/ethereum/libweb3core)  
-0.03 stars per week over 325 weeks  
-11 stars, 28 forks, 25 watches  
-created 2015-09-07, last commit 2016-08-18, main language None  
-
-
-### [cryptopp](https://github.com/ethereum/cryptopp) by [ethereum](https://github.com/ethereum)  
-  
-[https://github.com/ethereum/cryptopp](https://github.com/ethereum/cryptopp)  
-0.04 stars per week over 289 weeks  
-11 stars, 12 forks, 6 watches  
-created 2016-05-17, last commit 2016-05-10, main language C++  
-
-
-### [foundation-archived](https://github.com/ethereum/foundation-archived) by [ethereum](https://github.com/ethereum)  
-[ARCHIVED] ethereum.foundation  
-[https://github.com/ethereum/foundation-archived](https://github.com/ethereum/foundation-archived)  
-0.03 stars per week over 380 weeks  
-11 stars, 17 forks, 11 watches  
-created 2014-08-24, last commit 2014-10-06, main language JavaScript  
-
-
-### [py-snappy](https://github.com/ethereum/py-snappy) by [ethereum](https://github.com/ethereum)  
-A pure python implementation of the Snappy compression algorithm.  
-[https://github.com/ethereum/py-snappy](https://github.com/ethereum/py-snappy)  
-0.07 stars per week over 164 weeks  
-11 stars, 10 forks, 12 watches  
-created 2018-10-08, last commit 2019-03-13, main language Python  
 
 
 ### [eth2.0-test-generators](https://github.com/ethereum/eth2.0-test-generators) by [ethereum](https://github.com/ethereum)  
@@ -1555,12 +1514,45 @@ created 2018-10-08, last commit 2019-03-13, main language Python
 created 2019-01-29, last commit 2019-03-18, main language Python  
 
 
-### [bls12-381-tests](https://github.com/ethereum/bls12-381-tests) by [ethereum](https://github.com/ethereum)  
+### [py-snappy](https://github.com/ethereum/py-snappy) by [ethereum](https://github.com/ethereum)  
+A pure python implementation of the Snappy compression algorithm.  
+[https://github.com/ethereum/py-snappy](https://github.com/ethereum/py-snappy)  
+0.07 stars per week over 165 weeks  
+11 stars, 10 forks, 12 watches  
+created 2018-10-08, last commit 2019-03-13, main language Python  
+
+
+### [hexbytes](https://github.com/ethereum/hexbytes) by [ethereum](https://github.com/ethereum)  
+Python `bytes` subclass that decodes hex, with a readable console output  
+[https://github.com/ethereum/hexbytes](https://github.com/ethereum/hexbytes)  
+0.05 stars per week over 201 weeks  
+11 stars, 9 forks, 5 watches  
+created 2018-01-25, last commit 2021-08-25, main language Python  
+
+
+### [cryptopp](https://github.com/ethereum/cryptopp) by [ethereum](https://github.com/ethereum)  
   
-[https://github.com/ethereum/bls12-381-tests](https://github.com/ethereum/bls12-381-tests)  
-0.53 stars per week over 18 weeks  
-10 stars, 4 forks, 7 watches  
-created 2021-07-27, last commit 2021-09-15, main language Python  
+[https://github.com/ethereum/cryptopp](https://github.com/ethereum/cryptopp)  
+0.04 stars per week over 289 weeks  
+11 stars, 12 forks, 6 watches  
+created 2016-05-17, last commit 2016-05-10, main language C++  
+
+
+### [libweb3core](https://github.com/ethereum/libweb3core) by [ethereum](https://github.com/ethereum)  
+Former home of libweb3core (part of cpp-ethereum)  
+[http://www.ethereum.org](http://www.ethereum.org)  
+[https://github.com/ethereum/libweb3core](https://github.com/ethereum/libweb3core)  
+0.03 stars per week over 326 weeks  
+11 stars, 28 forks, 25 watches  
+created 2015-09-07, last commit 2016-08-18, main language None  
+
+
+### [foundation-archived](https://github.com/ethereum/foundation-archived) by [ethereum](https://github.com/ethereum)  
+[ARCHIVED] ethereum.foundation  
+[https://github.com/ethereum/foundation-archived](https://github.com/ethereum/foundation-archived)  
+0.03 stars per week over 380 weeks  
+11 stars, 17 forks, 11 watches  
+created 2014-08-24, last commit 2014-10-06, main language JavaScript  
 
 
 ### [go-build](https://github.com/ethereum/go-build) by [ethereum](https://github.com/ethereum)  
@@ -1571,12 +1563,20 @@ Build scripts for Ethereum Go
 created 2014-05-21, last commit 2015-04-24, main language Python  
 
 
-### [asyncio-cancel-token](https://github.com/ethereum/asyncio-cancel-token) by [ethereum](https://github.com/ethereum)  
-A cancelation pattern for asyncio applications  
-[https://github.com/ethereum/asyncio-cancel-token](https://github.com/ethereum/asyncio-cancel-token)  
-0.06 stars per week over 177 weeks  
-10 stars, 6 forks, 17 watches  
-created 2018-07-13, last commit 2019-09-06, main language Python  
+### [bls12-381-tests](https://github.com/ethereum/bls12-381-tests) by [ethereum](https://github.com/ethereum)  
+  
+[https://github.com/ethereum/bls12-381-tests](https://github.com/ethereum/bls12-381-tests)  
+0.53 stars per week over 18 weeks  
+10 stars, 4 forks, 7 watches  
+created 2021-07-27, last commit 2021-09-15, main language Python  
+
+
+### [libwhisper](https://github.com/ethereum/libwhisper) by [ethereum](https://github.com/ethereum)  
+Ultra-private messaging and signalling system.  
+[https://github.com/ethereum/libwhisper](https://github.com/ethereum/libwhisper)  
+0.03 stars per week over 329 weeks  
+10 stars, 11 forks, 22 watches  
+created 2015-08-17, last commit 2015-08-17, main language None  
 
 
 ### [testeth](https://github.com/ethereum/testeth) by [ethereum](https://github.com/ethereum)  
@@ -1587,14 +1587,14 @@ One consensus test generator
 created 2018-02-06, last commit 2018-12-08, main language C++  
 
 
-### [libwhisper](https://github.com/ethereum/libwhisper) by [ethereum](https://github.com/ethereum)  
-Ultra-private messaging and signalling system.  
-[https://github.com/ethereum/libwhisper](https://github.com/ethereum/libwhisper)  
-0.03 stars per week over 328 weeks  
-10 stars, 11 forks, 22 watches  
-created 2015-08-17, last commit 2015-08-17, main language None  
+### [asyncio-cancel-token](https://github.com/ethereum/asyncio-cancel-token) by [ethereum](https://github.com/ethereum)  
+A cancelation pattern for asyncio applications  
+[https://github.com/ethereum/asyncio-cancel-token](https://github.com/ethereum/asyncio-cancel-token)  
+0.06 stars per week over 177 weeks  
+10 stars, 6 forks, 17 watches  
+created 2018-07-13, last commit 2019-09-06, main language Python  
 
 
-This file was automatically generated on 2021-12-05.  
+This file was automatically generated on 2021-12-06.  
 
 To curate your own github list, simply clone and change the input csv file.  

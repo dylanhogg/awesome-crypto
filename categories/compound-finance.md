@@ -9,8 +9,8 @@ Checkout the interactive version that you can filter and sort:
 The Compound On-Chain Protocol  
 [https://compound.finance/developers](https://compound.finance/developers)  
 [https://github.com/compound-finance/compound-protocol](https://github.com/compound-finance/compound-protocol)  
-8.61 stars per week over 122 weeks  
-1,053 stars, 728 forks, 70 watches  
+8.63 stars per week over 122 weeks  
+1,057 stars, 728 forks, 70 watches  
 created 2019-08-02, last commit 2021-11-16, main language Solidity  
 
 
@@ -26,7 +26,7 @@ created 2019-06-06, last commit 2021-03-24, main language JavaScript
 A JavaScript SDK for Ethereum and the Compound Protocol.  
 [https://github.com/compound-finance/compound-js](https://github.com/compound-finance/compound-js)  
 1.93 stars per week over 69 weeks  
-134 stars, 43 forks, 14 watches  
+134 stars, 44 forks, 14 watches  
 created 2020-08-06, last commit 2021-10-21, main language TypeScript  
 
 
@@ -34,7 +34,7 @@ created 2020-08-06, last commit 2021-10-21, main language TypeScript
 An interest-bearing stablecoin bridge between all DeFi chains.  
 [https://compound.cash](https://compound.cash)  
 [https://github.com/compound-finance/gateway](https://github.com/compound-finance/gateway)  
-1.73 stars per week over 57 weeks  
+1.72 stars per week over 57 weeks  
 99 stars, 27 forks, 20 watches  
 created 2020-10-30, last commit 2021-07-15, main language Rust  
 
@@ -68,7 +68,7 @@ created 2019-06-22, last commit 2021-08-04, main language TypeScript
 Compound Web3 Front-end  
 [https://app.compound.finance](https://app.compound.finance)  
 [https://github.com/compound-finance/palisade](https://github.com/compound-finance/palisade)  
-3.5 stars per week over 11 weeks  
+3.46 stars per week over 11 weeks  
 40 stars, 14 forks, 5 watches  
 created 2021-09-16, last commit 2021-11-16, main language Elm  
 <sub><sup>defi, ethereum, web3</sup></sub>
@@ -101,11 +101,11 @@ created 2020-10-09, last commit 2021-02-26, main language Rust
 ### [autonomous-proposals](https://github.com/compound-finance/autonomous-proposals) by [compound-finance](https://github.com/compound-finance)  
 Autonomous Proposals v1.0  
 [https://github.com/compound-finance/autonomous-proposals](https://github.com/compound-finance/autonomous-proposals)  
-0.2 stars per week over 65 weeks  
+0.2 stars per week over 66 weeks  
 13 stars, 4 forks, 7 watches  
 created 2020-08-31, last commit 2021-04-06, main language Solidity  
 
 
-This file was automatically generated on 2021-12-05.  
+This file was automatically generated on 2021-12-06.  
 
 To curate your own github list, simply clone and change the input csv file.  

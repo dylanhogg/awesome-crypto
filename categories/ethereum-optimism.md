@@ -10,7 +10,7 @@ Monorepo implementing the Optimistic Ethereum protocol
 [https://optimism.io](https://optimism.io)  
 [https://github.com/ethereum-optimism/optimism](https://github.com/ethereum-optimism/optimism)  
 8.06 stars per week over 95 weeks  
-769 stars, 239 forks, 49 watches  
+770 stars, 239 forks, 50 watches  
 created 2020-02-06, last commit 2021-12-04, main language Go  
 <sub><sup>ethereum, l2-scaling, optimism, ovm, rollup</sup></sub>
 
@@ -18,7 +18,7 @@ created 2020-02-06, last commit 2021-12-04, main language Go
 ### [optimism-tutorial](https://github.com/ethereum-optimism/optimism-tutorial) by [ethereum-optimism](https://github.com/ethereum-optimism)  
 [Optimism] Learn to build an Optimistic app!  
 [https://github.com/ethereum-optimism/optimism-tutorial](https://github.com/ethereum-optimism/optimism-tutorial)  
-4.57 stars per week over 46 weeks  
+4.56 stars per week over 46 weeks  
 213 stars, 68 forks, 10 watches  
 created 2021-01-13, last commit 2021-12-03, main language JavaScript  
 
@@ -26,7 +26,7 @@ created 2021-01-13, last commit 2021-12-03, main language JavaScript
 ### [contracts](https://github.com/ethereum-optimism/contracts) by [ethereum-optimism](https://github.com/ethereum-optimism)  
 [Optimism] Smart Contracts  
 [https://github.com/ethereum-optimism/contracts](https://github.com/ethereum-optimism/contracts)  
-2.43 stars per week over 63 weeks  
+2.42 stars per week over 64 weeks  
 155 stars, 59 forks, 12 watches  
 created 2020-09-14, last commit 2021-04-11, main language Solidity  
 
@@ -34,7 +34,7 @@ created 2020-09-14, last commit 2021-04-11, main language Solidity
 ### [optimistic-specs](https://github.com/ethereum-optimism/optimistic-specs) by [ethereum-optimism](https://github.com/ethereum-optimism)  
 Shared open-source specification for Optimistic Ethereum, a protocol that strives to be an extremely simple optimistic rollup that maintains 1:1 compatibility with Ethereum  
 [https://github.com/ethereum-optimism/optimistic-specs](https://github.com/ethereum-optimism/optimistic-specs)  
-4.64 stars per week over 14 weeks  
+4.6 stars per week over 14 weeks  
 67 stars, 7 forks, 14 watches  
 created 2021-08-26, last commit 2021-12-02, main language None  
 
@@ -42,7 +42,7 @@ created 2021-08-26, last commit 2021-12-02, main language None
 ### [smock](https://github.com/ethereum-optimism/smock) by [ethereum-optimism](https://github.com/ethereum-optimism)  
 [Optimism] Solidity mock contracts in JavaScript  
 [https://github.com/ethereum-optimism/smock](https://github.com/ethereum-optimism/smock)  
-1.04 stars per week over 64 weeks  
+1.03 stars per week over 64 weeks  
 67 stars, 11 forks, 4 watches  
 created 2020-09-08, last commit 2021-11-02, main language TypeScript  
 
@@ -50,7 +50,7 @@ created 2020-09-08, last commit 2021-11-02, main language TypeScript
 ### [optimism-integration](https://github.com/ethereum-optimism/optimism-integration) by [ethereum-optimism](https://github.com/ethereum-optimism)  
 [Optimism] Service Integration & Rapid Development  
 [https://github.com/ethereum-optimism/optimism-integration](https://github.com/ethereum-optimism/optimism-integration)  
-0.76 stars per week over 61 weeks  
+0.76 stars per week over 62 weeks  
 47 stars, 18 forks, 4 watches  
 created 2020-09-28, last commit 2021-04-11, main language Shell  
 
@@ -72,14 +72,6 @@ created 2020-01-22, last commit 2021-04-11, main language Go
 created 2020-07-29, last commit 2021-05-12, main language C++  
 
 
-### [merch](https://github.com/ethereum-optimism/merch) by [ethereum-optimism](https://github.com/ethereum-optimism)  
-official optimism merch instructions  
-[https://github.com/ethereum-optimism/merch](https://github.com/ethereum-optimism/merch)  
-1.75 stars per week over 10 weeks  
-18 stars, 4 forks, 6 watches  
-created 2021-09-24, last commit 2021-09-24, main language None  
-
-
 ### [verifier](https://github.com/ethereum-optimism/verifier) by [ethereum-optimism](https://github.com/ethereum-optimism)  
 [Optimism] Layer 2 Verifier  
 [https://github.com/ethereum-optimism/verifier](https://github.com/ethereum-optimism/verifier)  
@@ -88,12 +80,20 @@ created 2021-09-24, last commit 2021-09-24, main language None
 created 2020-12-11, last commit 2020-12-19, main language JavaScript  
 
 
+### [merch](https://github.com/ethereum-optimism/merch) by [ethereum-optimism](https://github.com/ethereum-optimism)  
+official optimism merch instructions  
+[https://github.com/ethereum-optimism/merch](https://github.com/ethereum-optimism/merch)  
+1.73 stars per week over 10 weeks  
+18 stars, 4 forks, 6 watches  
+created 2021-09-24, last commit 2021-09-24, main language None  
+
+
 ### [community-hub](https://github.com/ethereum-optimism/community-hub) by [ethereum-optimism](https://github.com/ethereum-optimism)  
 [Optimism] Community Hub  
 [https://community.optimism.io](https://community.optimism.io)  
 [https://github.com/ethereum-optimism/community-hub](https://github.com/ethereum-optimism/community-hub)  
-0.28 stars per week over 60 weeks  
-17 stars, 38 forks, 9 watches  
+0.3 stars per week over 60 weeks  
+18 stars, 38 forks, 9 watches  
 created 2020-10-06, last commit 2021-12-03, main language JavaScript  
 
 
@@ -101,7 +101,7 @@ created 2020-10-06, last commit 2021-12-03, main language JavaScript
 A simple ERC20 token project in Truffle to get started with the OVM  
 [https://github.com/ethereum-optimism/Truffle-ERC20-Example](https://github.com/ethereum-optimism/Truffle-ERC20-Example)  
 0.2 stars per week over 78 weeks  
-16 stars, 10 forks, 4 watches  
+16 stars, 11 forks, 4 watches  
 created 2020-06-04, last commit 2021-06-07, main language JavaScript  
 
 
@@ -137,6 +137,6 @@ created 2020-12-02, last commit 2021-04-09, main language JavaScript
 created 2020-11-25, last commit 2021-04-08, main language TypeScript  
 
 
-This file was automatically generated on 2021-12-05.  
+This file was automatically generated on 2021-12-06.  
 
 To curate your own github list, simply clone and change the input csv file.  

@@ -8,7 +8,7 @@ Checkout the interactive version that you can filter and sort:
 ### [General-Grants-Program](https://github.com/w3f/General-Grants-Program) by [w3f](https://github.com/w3f)  
 Web3 Foundation General Grants Program  
 [https://github.com/w3f/General-Grants-Program](https://github.com/w3f/General-Grants-Program)  
-3.24 stars per week over 177 weeks  
+3.24 stars per week over 178 weeks  
 577 stars, 526 forks, 111 watches  
 created 2018-07-09, last commit 2021-08-19, main language None  
 
@@ -16,9 +16,9 @@ created 2018-07-09, last commit 2021-08-19, main language None
 ### [Grants-Program](https://github.com/w3f/Grants-Program) by [w3f](https://github.com/w3f)  
 Web3 Foundation Grants Program  
 [https://github.com/w3f/Grants-Program](https://github.com/w3f/Grants-Program)  
-3.0 stars per week over 106 weeks  
-318 stars, 776 forks, 38 watches  
-created 2019-11-23, last commit 2021-12-03, main language None  
+2.99 stars per week over 106 weeks  
+318 stars, 778 forks, 39 watches  
+created 2019-11-23, last commit 2021-12-06, main language None  
 
 
 ### [schnorrkel](https://github.com/w3f/schnorrkel) by [w3f](https://github.com/w3f)  
@@ -32,8 +32,8 @@ created 2018-11-13, last commit 2021-10-16, main language Rust
 ### [polkadot-wiki](https://github.com/w3f/polkadot-wiki) by [w3f](https://github.com/w3f)  
 The source of truth for Polkadot.  
 [https://github.com/w3f/polkadot-wiki](https://github.com/w3f/polkadot-wiki)  
-1.6 stars per week over 118 weeks  
-190 stars, 319 forks, 23 watches  
+1.61 stars per week over 119 weeks  
+192 stars, 320 forks, 23 watches  
 created 2019-08-26, last commit 2021-12-03, main language JavaScript  
 <sub><sup>blockchain, documentation, kusama, polkadot, web3, wiki</sup></sub>
 
@@ -42,7 +42,7 @@ created 2019-08-26, last commit 2021-12-03, main language JavaScript
 Polkadot Validator Secure Setup  
 [https://github.com/w3f/polkadot-validator-setup](https://github.com/w3f/polkadot-validator-setup)  
 1.48 stars per week over 122 weeks  
-181 stars, 122 forks, 20 watches  
+182 stars, 122 forks, 20 watches  
 created 2019-07-31, last commit 2021-11-19, main language JavaScript  
 <sub><sup>ansible, blockchain, devops, polkadot, polkadot-validator, proof-of-stake, substrate, terraform, validator, vpn, wireguard</sup></sub>
 
@@ -51,7 +51,7 @@ created 2019-07-31, last commit 2021-11-19, main language JavaScript
 Messaging for Web3  
 [https://github.com/w3f/messaging](https://github.com/w3f/messaging)  
 0.83 stars per week over 170 weeks  
-141 stars, 13 forks, 31 watches  
+142 stars, 13 forks, 31 watches  
 created 2018-08-28, last commit 2021-01-16, main language TeX  
 
 
@@ -68,7 +68,7 @@ created 2019-04-10, last commit 2021-10-27, main language JavaScript
 Polkadot Protocol Specification  
 [https://github.com/w3f/polkadot-spec/releases/latest](https://github.com/w3f/polkadot-spec/releases/latest)  
 [https://github.com/w3f/polkadot-spec](https://github.com/w3f/polkadot-spec)  
-0.64 stars per week over 141 weeks  
+0.64 stars per week over 142 weeks  
 91 stars, 28 forks, 11 watches  
 created 2019-03-18, last commit 2021-10-26, main language Tcl  
 <sub><sup>polkadot</sup></sub>
@@ -86,7 +86,7 @@ created 2018-08-24, last commit 2020-08-06, main language TeX
 Overview of W3F research initatives  
 [https://github.com/w3f/research](https://github.com/w3f/research)  
 0.52 stars per week over 154 weeks  
-80 stars, 35 forks, 26 watches  
+80 stars, 36 forks, 26 watches  
 created 2018-12-20, last commit 2021-11-04, main language Python  
 
 
@@ -127,7 +127,7 @@ created 2017-11-14, last commit 2019-11-27, main language None
 ### [polkadot-white-paper](https://github.com/w3f/polkadot-white-paper) by [w3f](https://github.com/w3f)  
 The technical vision paper for Polkadot, a heterogeneous extensible multi-chain.  
 [https://github.com/w3f/polkadot-white-paper](https://github.com/w3f/polkadot-white-paper)  
-0.21 stars per week over 227 weeks  
+0.21 stars per week over 228 weeks  
 48 stars, 9 forks, 25 watches  
 created 2017-07-24, last commit 2017-07-24, main language TeX  
 
@@ -153,14 +153,14 @@ Thousand Validators Program backend.
 [https://thousand-validators.kusama.network](https://thousand-validators.kusama.network)  
 [https://github.com/w3f/1k-validators-be](https://github.com/w3f/1k-validators-be)  
 0.36 stars per week over 96 weeks  
-35 stars, 19 forks, 18 watches  
-created 2020-02-02, last commit 2021-12-03, main language TypeScript  
+35 stars, 19 forks, 17 watches  
+created 2020-02-02, last commit 2021-12-05, main language TypeScript  
 
 
 ### [substrate-telemetry-exporter](https://github.com/w3f/substrate-telemetry-exporter) by [w3f](https://github.com/w3f)  
   
 [https://github.com/w3f/substrate-telemetry-exporter](https://github.com/w3f/substrate-telemetry-exporter)  
-0.23 stars per week over 127 weeks  
+0.23 stars per week over 128 weeks  
 30 stars, 9 forks, 5 watches  
 created 2019-06-24, last commit 2021-11-02, main language JavaScript  
 <sub><sup>devops, monitoring, observability, polkadot, prometheus, prometheus-exporter, substrate, telemetry</sup></sub>
@@ -169,7 +169,7 @@ created 2019-06-24, last commit 2021-11-02, main language JavaScript
 ### [hd-ed25519](https://github.com/w3f/hd-ed25519) by [w3f](https://github.com/w3f)  
 Hierarchical derivations on Ed25519  
 [https://github.com/w3f/hd-ed25519](https://github.com/w3f/hd-ed25519)  
-0.15 stars per week over 159 weeks  
+0.15 stars per week over 160 weeks  
 24 stars, 5 forks, 12 watches  
 created 2018-11-12, last commit 2021-05-09, main language Rust  
 
@@ -177,7 +177,7 @@ created 2018-11-12, last commit 2021-05-09, main language Rust
 ### [polkadot](https://github.com/w3f/polkadot) by [w3f](https://github.com/w3f)  
   
 [https://github.com/w3f/polkadot](https://github.com/w3f/polkadot)  
-0.15 stars per week over 157 weeks  
+0.15 stars per week over 158 weeks  
 23 stars, 7 forks, 19 watches  
 created 2018-11-26, last commit 2020-01-07, main language Rust  
 
@@ -206,20 +206,20 @@ Exercises for Web3 MOOC
 created 2020-04-15, last commit 2020-04-30, main language Rust  
 
 
-### [ring-vrf](https://github.com/w3f/ring-vrf) by [w3f](https://github.com/w3f)  
-  
-[https://github.com/w3f/ring-vrf](https://github.com/w3f/ring-vrf)  
-0.17 stars per week over 112 weeks  
-19 stars, 7 forks, 7 watches  
-created 2019-10-08, last commit 2021-04-06, main language Rust  
-
-
 ### [offences-monitor](https://github.com/w3f/offences-monitor) by [w3f](https://github.com/w3f)  
 Monitors slashable offences registered on a Substrate based chain.  
 [https://github.com/w3f/offences-monitor](https://github.com/w3f/offences-monitor)  
 0.16 stars per week over 120 weeks  
 19 stars, 7 forks, 6 watches  
 created 2019-08-14, last commit 2019-09-11, main language JavaScript  
+
+
+### [ring-vrf](https://github.com/w3f/ring-vrf) by [w3f](https://github.com/w3f)  
+  
+[https://github.com/w3f/ring-vrf](https://github.com/w3f/ring-vrf)  
+0.17 stars per week over 112 weeks  
+19 stars, 7 forks, 7 watches  
+created 2019-10-08, last commit 2021-04-06, main language Rust  
 
 
 ### [validator-stats](https://github.com/w3f/validator-stats) by [w3f](https://github.com/w3f)  
@@ -230,20 +230,20 @@ created 2019-08-14, last commit 2019-09-11, main language JavaScript
 created 2021-01-08, last commit 2020-12-24, main language None  
 
 
-### [polkadot-registrar-challenger](https://github.com/w3f/polkadot-registrar-challenger) by [w3f](https://github.com/w3f)  
-Polkadot Registrar Bot (WIP)  
-[https://github.com/w3f/polkadot-registrar-challenger](https://github.com/w3f/polkadot-registrar-challenger)  
-0.2 stars per week over 63 weeks  
-13 stars, 6 forks, 5 watches  
-created 2020-09-14, last commit 2021-11-26, main language Rust  
-
-
 ### [polkadot-registrar-watcher](https://github.com/w3f/polkadot-registrar-watcher) by [w3f](https://github.com/w3f)  
   
 [https://github.com/w3f/polkadot-registrar-watcher](https://github.com/w3f/polkadot-registrar-watcher)  
 0.2 stars per week over 64 weeks  
 13 stars, 6 forks, 5 watches  
 created 2020-09-13, last commit 2021-11-19, main language TypeScript  
+
+
+### [polkadot-registrar-challenger](https://github.com/w3f/polkadot-registrar-challenger) by [w3f](https://github.com/w3f)  
+Polkadot Registrar Bot (WIP)  
+[https://github.com/w3f/polkadot-registrar-challenger](https://github.com/w3f/polkadot-registrar-challenger)  
+0.2 stars per week over 64 weeks  
+13 stars, 6 forks, 5 watches  
+created 2020-09-14, last commit 2021-11-26, main language Rust  
 
 
 ### [polkadot-light-paper](https://github.com/w3f/polkadot-light-paper) by [w3f](https://github.com/w3f)  
@@ -262,6 +262,14 @@ CLI for generating the Polkadot and Kusama chain specification from Ethereum sta
 created 2019-08-15, last commit 2020-05-26, main language TypeScript  
 
 
+### [polkadot-payouts](https://github.com/w3f/polkadot-payouts) by [w3f](https://github.com/w3f)  
+  
+[https://github.com/w3f/polkadot-payouts](https://github.com/w3f/polkadot-payouts)  
+0.12 stars per week over 92 weeks  
+11 stars, 6 forks, 6 watches  
+created 2020-02-27, last commit 2021-12-06, main language TypeScript  
+
+
 ### [faucet-bot](https://github.com/w3f/faucet-bot) by [w3f](https://github.com/w3f)  
 A DOTs-giving bot frontend to the faucet.  
 [https://github.com/w3f/faucet-bot](https://github.com/w3f/faucet-bot)  
@@ -270,14 +278,6 @@ A DOTs-giving bot frontend to the faucet.
 created 2019-09-04, last commit 2020-07-28, main language JavaScript  
 
 
-### [polkadot-payouts](https://github.com/w3f/polkadot-payouts) by [w3f](https://github.com/w3f)  
-  
-[https://github.com/w3f/polkadot-payouts](https://github.com/w3f/polkadot-payouts)  
-0.12 stars per week over 92 weeks  
-11 stars, 6 forks, 6 watches  
-created 2020-02-27, last commit 2021-11-18, main language TypeScript  
-
-
-This file was automatically generated on 2021-12-05.  
+This file was automatically generated on 2021-12-06.  
 
 To curate your own github list, simply clone and change the input csv file.  

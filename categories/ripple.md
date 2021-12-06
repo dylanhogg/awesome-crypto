@@ -9,8 +9,8 @@ Checkout the interactive version that you can filter and sort:
 Decentralized cryptocurrency blockchain daemon implementing the XRP Ledger in C++  
 [https://xrpl.org](https://xrpl.org)  
 [https://github.com/ripple/rippled](https://github.com/ripple/rippled)  
-7.63 stars per week over 525 weeks  
-4,014 stars, 1,298 forks, 508 watches  
+7.63 stars per week over 526 weeks  
+4,016 stars, 1,299 forks, 508 watches  
 created 2011-11-07, last commit 2021-11-24, main language C++  
 <sub><sup>blockchain, c-plus-plus, cplusplus, cryptography, xrp, xrp-ledger, xrpl</sup></sub>
 
@@ -18,8 +18,8 @@ created 2011-11-07, last commit 2021-11-24, main language C++
 ### [ripple-client](https://github.com/ripple/ripple-client) by [ripple](https://github.com/ripple)  
 A UI for the Ripple payment network built using web technologies  
 [https://github.com/ripple/ripple-client](https://github.com/ripple/ripple-client)  
-2.81 stars per week over 476 weeks  
-1,338 stars, 536 forks, 715 watches  
+2.8 stars per week over 476 weeks  
+1,337 stars, 536 forks, 715 watches  
 created 2012-10-16, last commit 2018-01-08, main language JavaScript  
 
 
@@ -121,7 +121,7 @@ created 2017-03-23, last commit 2020-06-24, main language Python
 ### [simulator](https://github.com/ripple/simulator) by [ripple](https://github.com/ripple)  
 Ripple consensus simulator  
 [https://github.com/ripple/simulator](https://github.com/ripple/simulator)  
-0.05 stars per week over 382 weeks  
+0.05 stars per week over 383 weeks  
 19 stars, 19 forks, 17 watches  
 created 2014-08-04, last commit 2014-09-08, main language C++  
 
@@ -138,7 +138,7 @@ created 2014-12-20, last commit 2021-11-24, main language JavaScript
 ### [ripple-libpp](https://github.com/ripple/ripple-libpp) by [ripple](https://github.com/ripple)  
 Standalone RCL-compatible transaction signing and serialization library  
 [https://github.com/ripple/ripple-libpp](https://github.com/ripple/ripple-libpp)  
-0.07 stars per week over 275 weeks  
+0.07 stars per week over 276 weeks  
 18 stars, 30 forks, 22 watches  
 created 2016-08-22, last commit 2018-09-27, main language C++  
 
@@ -147,7 +147,7 @@ created 2016-08-22, last commit 2018-09-27, main language C++
 Highly customizable stock charts with ReactJS and d3  
 [http://rrag.github.io/react-stockcharts](http://rrag.github.io/react-stockcharts)  
 [https://github.com/ripple/react-stockcharts](https://github.com/ripple/react-stockcharts)  
-0.09 stars per week over 206 weeks  
+0.09 stars per week over 207 weeks  
 18 stars, 10 forks, 8 watches  
 created 2017-12-18, last commit 2018-05-15, main language JavaScript  
 
@@ -162,16 +162,6 @@ created 2015-09-30, last commit 2021-11-19, main language TypeScript
 <sub><sup>javascript, ledger, signing, transaction-signing, xrp, xrp-ledger</sup></sub>
 
 
-### [explorer](https://github.com/ripple/explorer) by [ripple](https://github.com/ripple)  
-Open Source XRP Ledger Explorer  
-[https://livenet.xrpl.org/](https://livenet.xrpl.org/)  
-[https://github.com/ripple/explorer](https://github.com/ripple/explorer)  
-0.69 stars per week over 23 weeks  
-16 stars, 5 forks, 9 watches  
-created 2021-06-25, last commit 2021-11-12, main language JavaScript  
-<sub><sup>blockchain, ripple, xrp, xrp-ledger, xrpl</sup></sub>
-
-
 ### [rippled-network-crawler](https://github.com/ripple/rippled-network-crawler) by [ripple](https://github.com/ripple)  
 Deprecated: Use https://github.com/xpring-eng/rippled-network-crawler instead.  
 [https://github.com/xpring-eng/rippled-network-crawler](https://github.com/xpring-eng/rippled-network-crawler)  
@@ -179,6 +169,16 @@ Deprecated: Use https://github.com/xpring-eng/rippled-network-crawler instead.
 0.05 stars per week over 339 weeks  
 16 stars, 16 forks, 12 watches  
 created 2015-06-03, last commit 2021-01-06, main language JavaScript  
+
+
+### [explorer](https://github.com/ripple/explorer) by [ripple](https://github.com/ripple)  
+Open Source XRP Ledger Explorer  
+[https://livenet.xrpl.org/](https://livenet.xrpl.org/)  
+[https://github.com/ripple/explorer](https://github.com/ripple/explorer)  
+0.68 stars per week over 23 weeks  
+16 stars, 5 forks, 9 watches  
+created 2021-06-25, last commit 2021-11-12, main language JavaScript  
+<sub><sup>blockchain, ripple, xrp, xrp-ledger, xrpl</sup></sub>
 
 
 ### [passport-client-certificate](https://github.com/ripple/passport-client-certificate) by [ripple](https://github.com/ripple)  
@@ -192,7 +192,7 @@ created 2016-02-16, last commit 2016-02-18, main language JavaScript
 ### [javascript-style-guide](https://github.com/ripple/javascript-style-guide) by [ripple](https://github.com/ripple)  
 JavaScript Style Guide  
 [https://github.com/ripple/javascript-style-guide](https://github.com/ripple/javascript-style-guide)  
-0.03 stars per week over 402 weeks  
+0.03 stars per week over 403 weeks  
 13 stars, 20 forks, 22 watches  
 created 2014-03-17, last commit 2016-11-19, main language None  
 
@@ -200,7 +200,7 @@ created 2014-03-17, last commit 2016-11-19, main language None
 ### [validator-keys-tool](https://github.com/ripple/validator-keys-tool) by [ripple](https://github.com/ripple)  
 Generate master and ephemeral rippled validator keys  
 [https://github.com/ripple/validator-keys-tool](https://github.com/ripple/validator-keys-tool)  
-0.04 stars per week over 260 weeks  
+0.04 stars per week over 261 weeks  
 11 stars, 40 forks, 21 watches  
 created 2016-12-05, last commit 2020-09-28, main language C++  
 
@@ -208,10 +208,18 @@ created 2016-12-05, last commit 2020-09-28, main language C++
 ### [salt-runner-vault-pki](https://github.com/ripple/salt-runner-vault-pki) by [ripple](https://github.com/ripple)  
 Server-side component of the Vault PKI certificate distribution system.  
 [https://github.com/ripple/salt-runner-vault-pki](https://github.com/ripple/salt-runner-vault-pki)  
-0.04 stars per week over 260 weeks  
+0.04 stars per week over 261 weeks  
 11 stars, 11 forks, 12 watches  
 created 2016-12-05, last commit 2018-09-24, main language Python  
 <sub><sup>certificate-authority, hashicorp-vault, salt-formula, saltstack-formula, vault</sup></sub>
+
+
+### [xrp-api](https://github.com/ripple/xrp-api) by [ripple](https://github.com/ripple)  
+REST-like API specification and server for the XRP Ledger  
+[https://github.com/ripple/xrp-api](https://github.com/ripple/xrp-api)  
+0.09 stars per week over 114 weeks  
+10 stars, 10 forks, 22 watches  
+created 2019-09-30, last commit 2020-04-03, main language None  
 
 
 ### [bower-ripple](https://github.com/ripple/bower-ripple) by [ripple](https://github.com/ripple)  
@@ -222,14 +230,6 @@ Ripple JavaScript library distribution on bower
 created 2014-08-01, last commit 2015-12-10, main language JavaScript  
 
 
-### [xrp-api](https://github.com/ripple/xrp-api) by [ripple](https://github.com/ripple)  
-REST-like API specification and server for the XRP Ledger  
-[https://github.com/ripple/xrp-api](https://github.com/ripple/xrp-api)  
-0.09 stars per week over 113 weeks  
-10 stars, 10 forks, 22 watches  
-created 2019-09-30, last commit 2020-04-03, main language None  
-
-
-This file was automatically generated on 2021-12-05.  
+This file was automatically generated on 2021-12-06.  
 
 To curate your own github list, simply clone and change the input csv file.  

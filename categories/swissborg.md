@@ -71,6 +71,6 @@ a token specifically destined or polling
 created 2018-01-07, last commit 2018-03-26, main language JavaScript  
 
 
-This file was automatically generated on 2021-12-05.  
+This file was automatically generated on 2021-12-06.  
 
 To curate your own github list, simply clone and change the input csv file.  

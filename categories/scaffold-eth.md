@@ -9,9 +9,9 @@ Checkout the interactive version that you can filter and sort:
 🏗 forkable Ethereum dev stack focused on fast product iterations   
 [https://scaffoldeth.io](https://scaffoldeth.io)  
 [https://github.com/scaffold-eth/scaffold-eth](https://github.com/scaffold-eth/scaffold-eth)  
-53 stars per week over 83 weeks  
-4,472 stars, 1,436 forks, 114 watches  
-created 2020-04-27, last commit 2021-12-03, main language CSS  
+53 stars per week over 84 weeks  
+4,491 stars, 1,439 forks, 113 watches  
+created 2020-04-27, last commit 2021-12-05, main language CSS  
 <sub><sup>buidler, create-react-app, dapp, eth, ethereum, ethers, graph, react, scaffoldeth, scaffolding, solidity, uniswap</sup></sub>
 
 
@@ -36,7 +36,7 @@ created 2020-04-28, last commit 2021-11-18, main language TypeScript
 ### [scaffold-eth-typescript](https://github.com/scaffold-eth/scaffold-eth-typescript) by [scaffold-eth](https://github.com/scaffold-eth)  
 Typescript version of Scaffold-Eth 🏗  
 [https://github.com/scaffold-eth/scaffold-eth-typescript](https://github.com/scaffold-eth/scaffold-eth-typescript)  
-2.67 stars per week over 10 weeks  
+2.64 stars per week over 11 weeks  
 29 stars, 8 forks, 6 watches  
 created 2021-09-20, last commit 2021-11-18, main language TypeScript  
 <sub><sup>blockchain, dapp, ethereum, solidity, typescript</sup></sub>
@@ -46,11 +46,11 @@ created 2021-09-20, last commit 2021-11-18, main language TypeScript
 Scaffold-Eth 🏗 Challenges repository  
 [https://speedrunethereum.com](https://speedrunethereum.com)  
 [https://github.com/scaffold-eth/scaffold-eth-challenges](https://github.com/scaffold-eth/scaffold-eth-challenges)  
-6.46 stars per week over 3 weeks  
+6.22 stars per week over 3 weeks  
 24 stars, 18 forks, 7 watches  
 created 2021-11-09, last commit 2021-11-18, main language None  
 
 
-This file was automatically generated on 2021-12-05.  
+This file was automatically generated on 2021-12-06.  
 
 To curate your own github list, simply clone and change the input csv file.  

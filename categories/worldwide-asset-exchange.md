@@ -49,7 +49,7 @@ created 2019-06-14, last commit 2021-08-12, main language C++
 ### [wax-orng](https://github.com/worldwide-asset-exchange/wax-orng) by [worldwide-asset-exchange](https://github.com/worldwide-asset-exchange)  
 WAX Random Number Generator Native Blockchain Service smart contract  
 [https://github.com/worldwide-asset-exchange/wax-orng](https://github.com/worldwide-asset-exchange/wax-orng)  
-0.1 stars per week over 128 weeks  
+0.1 stars per week over 129 weeks  
 13 stars, 6 forks, 4 watches  
 created 2019-06-17, last commit 2019-10-03, main language C++  
 
@@ -57,11 +57,11 @@ created 2019-06-17, last commit 2019-10-03, main language C++
 ### [wax-cdt](https://github.com/worldwide-asset-exchange/wax-cdt) by [worldwide-asset-exchange](https://github.com/worldwide-asset-exchange)  
 WAX Contract Development Toolkit  
 [https://github.com/worldwide-asset-exchange/wax-cdt](https://github.com/worldwide-asset-exchange/wax-cdt)  
-0.09 stars per week over 126 weeks  
+0.09 stars per week over 127 weeks  
 11 stars, 7 forks, 4 watches  
 created 2019-07-01, last commit 2019-10-14, main language C++  
 
 
-This file was automatically generated on 2021-12-05.  
+This file was automatically generated on 2021-12-06.  
 
 To curate your own github list, simply clone and change the input csv file.  

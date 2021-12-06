@@ -10,7 +10,7 @@ An open source smart contract platform
 [https://developers.eos.io/manuals/eos](https://developers.eos.io/manuals/eos)  
 [https://github.com/EOSIO/eos](https://github.com/EOSIO/eos)  
 46 stars per week over 243 weeks  
-11,296 stars, 3,660 forks, 1,047 watches  
+11,296 stars, 3,659 forks, 1,047 watches  
 created 2017-04-05, last commit 2021-07-19, main language C++  
 <sub><sup>eosio</sup></sub>
 
@@ -19,7 +19,7 @@ created 2017-04-05, last commit 2021-07-19, main language C++
 EOSIO Documents  
 [https://eos.io](https://eos.io)  
 [https://github.com/EOSIO/Documentation](https://github.com/EOSIO/Documentation)  
-8.96 stars per week over 234 weeks  
+8.95 stars per week over 234 weeks  
 2,102 stars, 918 forks, 316 watches  
 created 2017-06-06, last commit 2018-11-13, main language None  
 
@@ -55,7 +55,7 @@ created 2018-06-27, last commit 2019-12-30, main language TypeScript
 Smart contracts that provide some of the basic functions of the EOSIO blockchain  
 [https://eosio.github.io/eosio.contracts/latest](https://eosio.github.io/eosio.contracts/latest)  
 [https://github.com/EOSIO/eosio.contracts](https://github.com/EOSIO/eosio.contracts)  
-1.67 stars per week over 180 weeks  
+1.66 stars per week over 180 weeks  
 301 stars, 402 forks, 77 watches  
 created 2018-06-19, last commit 2020-12-16, main language C++  
 <sub><sup>eosio, smart-contracts</sup></sub>
@@ -89,7 +89,7 @@ created 2017-08-03, last commit 2018-10-10, main language JavaScript
 ### [eos-vm](https://github.com/EOSIO/eos-vm) by [EOSIO](https://github.com/EOSIO)  
 A Low-Latency, High Performance and Extensible WebAssembly Backend Library  
 [https://github.com/EOSIO/eos-vm](https://github.com/EOSIO/eos-vm)  
-0.97 stars per week over 176 weeks  
+0.97 stars per week over 177 weeks  
 172 stars, 51 forks, 41 watches  
 created 2018-07-16, last commit 2019-11-08, main language C++  
 
@@ -116,7 +116,7 @@ created 2018-07-27, last commit 2020-08-26, main language Shell
 ### [eosio-web-ide](https://github.com/EOSIO/eosio-web-ide) by [EOSIO](https://github.com/EOSIO)  
 eosio-web-ide  
 [https://github.com/EOSIO/eosio-web-ide](https://github.com/EOSIO/eosio-web-ide)  
-1.09 stars per week over 117 weeks  
+1.08 stars per week over 118 weeks  
 128 stars, 1,038 forks, 37 watches  
 created 2019-09-02, last commit 2020-06-19, main language TypeScript  
 
@@ -124,7 +124,7 @@ created 2019-09-02, last commit 2020-06-19, main language TypeScript
 ### [universal-authenticator-library](https://github.com/EOSIO/universal-authenticator-library) by [EOSIO](https://github.com/EOSIO)  
 A library for allowing apps to easily use different auth providers.  
 [https://github.com/EOSIO/universal-authenticator-library](https://github.com/EOSIO/universal-authenticator-library)  
-0.83 stars per week over 142 weeks  
+0.83 stars per week over 143 weeks  
 119 stars, 28 forks, 45 watches  
 created 2019-03-11, last commit 2020-06-26, main language TypeScript  
 
@@ -165,7 +165,7 @@ created 2017-05-04, last commit 2020-03-06, main language C++
 ### [eosjs-keygen](https://github.com/EOSIO/eosjs-keygen) by [EOSIO](https://github.com/EOSIO)  
 Javascript keys generator for EOS  
 [https://github.com/EOSIO/eosjs-keygen](https://github.com/EOSIO/eosjs-keygen)  
-0.33 stars per week over 211 weeks  
+0.33 stars per week over 212 weeks  
 70 stars, 39 forks, 38 watches  
 created 2017-11-13, last commit 2019-07-03, main language JavaScript  
 
@@ -231,17 +231,9 @@ created 2018-08-15, last commit 2020-01-26, main language TypeScript
 ### [fc](https://github.com/EOSIO/fc) by [EOSIO](https://github.com/EOSIO)  
   
 [https://github.com/EOSIO/fc](https://github.com/EOSIO/fc)  
-0.19 stars per week over 182 weeks  
+0.19 stars per week over 183 weeks  
 35 stars, 88 forks, 37 watches  
 created 2018-06-04, last commit 2020-08-20, main language C++  
-
-
-### [ricardian-template-toolkit](https://github.com/EOSIO/ricardian-template-toolkit) by [EOSIO](https://github.com/EOSIO)  
-Renderer for the Ricardian Contract specification  
-[https://github.com/EOSIO/ricardian-template-toolkit](https://github.com/EOSIO/ricardian-template-toolkit)  
-0.24 stars per week over 142 weeks  
-34 stars, 15 forks, 31 watches  
-created 2019-03-12, last commit 2019-10-10, main language TypeScript  
 
 
 ### [eosio-webauthn-example-app](https://github.com/EOSIO/eosio-webauthn-example-app) by [EOSIO](https://github.com/EOSIO)  
@@ -252,20 +244,20 @@ Example web app demonstrating EOSIO signing via WebAuthn
 created 2019-04-26, last commit 2019-06-01, main language TypeScript  
 
 
+### [ricardian-template-toolkit](https://github.com/EOSIO/ricardian-template-toolkit) by [EOSIO](https://github.com/EOSIO)  
+Renderer for the Ricardian Contract specification  
+[https://github.com/EOSIO/ricardian-template-toolkit](https://github.com/EOSIO/ricardian-template-toolkit)  
+0.24 stars per week over 142 weeks  
+34 stars, 15 forks, 31 watches  
+created 2019-03-12, last commit 2019-10-10, main language TypeScript  
+
+
 ### [abieos](https://github.com/EOSIO/abieos) by [EOSIO](https://github.com/EOSIO)  
 Binary <> JSON conversion using ABIs. Compatible with languages which can interface to C  
 [https://github.com/EOSIO/abieos](https://github.com/EOSIO/abieos)  
 0.18 stars per week over 182 weeks  
 32 stars, 32 forks, 26 watches  
 created 2018-06-08, last commit 2020-11-30, main language C++  
-
-
-### [eosio-java-android-example-app](https://github.com/EOSIO/eosio-java-android-example-app) by [EOSIO](https://github.com/EOSIO)  
-Application demonstrating integration with EOSIO-based blockchains using EOSIO SDK for Java  
-[https://github.com/EOSIO/eosio-java-android-example-app](https://github.com/EOSIO/eosio-java-android-example-app)  
-0.23 stars per week over 136 weeks  
-31 stars, 10 forks, 16 watches  
-created 2019-04-24, last commit 2020-11-30, main language Java  
 
 
 ### [welcome](https://github.com/EOSIO/welcome) by [EOSIO](https://github.com/EOSIO)  
@@ -276,10 +268,18 @@ Documentation that covers EOSIO Overview, Getting Started and Protocol documents
 created 2019-03-12, last commit 2020-12-15, main language C++  
 
 
+### [eosio-java-android-example-app](https://github.com/EOSIO/eosio-java-android-example-app) by [EOSIO](https://github.com/EOSIO)  
+Application demonstrating integration with EOSIO-based blockchains using EOSIO SDK for Java  
+[https://github.com/EOSIO/eosio-java-android-example-app](https://github.com/EOSIO/eosio-java-android-example-app)  
+0.23 stars per week over 136 weeks  
+31 stars, 10 forks, 16 watches  
+created 2019-04-24, last commit 2020-11-30, main language Java  
+
+
 ### [eosjs2](https://github.com/EOSIO/eosjs2) by [EOSIO](https://github.com/EOSIO)  
 Library to talk to the eos api  
 [https://github.com/EOSIO/eosjs2](https://github.com/EOSIO/eosjs2)  
-0.16 stars per week over 182 weeks  
+0.16 stars per week over 183 weeks  
 29 stars, 20 forks, 30 watches  
 created 2018-06-04, last commit 2018-10-04, main language TypeScript  
 
@@ -300,14 +300,6 @@ Information about the EOS blockchain in the JSON file format.
 created 2017-08-03, last commit 2018-06-28, main language JavaScript  
 
 
-### [eosio-reference-chrome-extension-authenticator-app](https://github.com/EOSIO/eosio-reference-chrome-extension-authenticator-app) by [EOSIO](https://github.com/EOSIO)  
-Chrome extension reference app demonstrating how users could sign transactions using various EOSIO Labs tools  
-[https://github.com/EOSIO/eosio-reference-chrome-extension-authenticator-app](https://github.com/EOSIO/eosio-reference-chrome-extension-authenticator-app)  
-0.18 stars per week over 142 weeks  
-26 stars, 18 forks, 38 watches  
-created 2019-03-15, last commit 2019-10-10, main language TypeScript  
-
-
 ### [eosjs-fcbuffer](https://github.com/EOSIO/eosjs-fcbuffer) by [EOSIO](https://github.com/EOSIO)  
 Serialization library geared towards immutable data storage such as blockchains.  
 [https://github.com/EOSIO/eosjs-fcbuffer](https://github.com/EOSIO/eosjs-fcbuffer)  
@@ -316,12 +308,12 @@ Serialization library geared towards immutable data storage such as blockchains.
 created 2017-08-03, last commit 2018-09-23, main language JavaScript  
 
 
-### [eosio.exchange](https://github.com/EOSIO/eosio.exchange) by [EOSIO](https://github.com/EOSIO)  
-  
-[https://github.com/EOSIO/eosio.exchange](https://github.com/EOSIO/eosio.exchange)  
-0.11 stars per week over 180 weeks  
-19 stars, 16 forks, 10 watches  
-created 2018-06-22, last commit 2018-06-25, main language C++  
+### [eosio-reference-chrome-extension-authenticator-app](https://github.com/EOSIO/eosio-reference-chrome-extension-authenticator-app) by [EOSIO](https://github.com/EOSIO)  
+Chrome extension reference app demonstrating how users could sign transactions using various EOSIO Labs tools  
+[https://github.com/EOSIO/eosio-reference-chrome-extension-authenticator-app](https://github.com/EOSIO/eosio-reference-chrome-extension-authenticator-app)  
+0.18 stars per week over 142 weeks  
+26 stars, 18 forks, 38 watches  
+created 2019-03-15, last commit 2019-10-10, main language TypeScript  
 
 
 ### [ual-reactjs-renderer](https://github.com/EOSIO/ual-reactjs-renderer) by [EOSIO](https://github.com/EOSIO)  
@@ -340,12 +332,20 @@ An example for developers showing an application built on EOSIO combining UAL, M
 created 2019-03-20, last commit 2020-01-24, main language JavaScript  
 
 
-### [slips](https://github.com/EOSIO/slips) by [EOSIO](https://github.com/EOSIO)  
-SatoshiLabs Improvement Proposals  
-[https://github.com/EOSIO/slips](https://github.com/EOSIO/slips)  
-0.09 stars per week over 196 weeks  
-17 stars, 7 forks, 5 watches  
-created 2018-03-03, last commit 2018-03-03, main language Python  
+### [eosio.exchange](https://github.com/EOSIO/eosio.exchange) by [EOSIO](https://github.com/EOSIO)  
+  
+[https://github.com/EOSIO/eosio.exchange](https://github.com/EOSIO/eosio.exchange)  
+0.11 stars per week over 180 weeks  
+19 stars, 16 forks, 10 watches  
+created 2018-06-22, last commit 2018-06-25, main language C++  
+
+
+### [eosjs-secp256k1](https://github.com/EOSIO/eosjs-secp256k1) by [EOSIO](https://github.com/EOSIO)  
+Compiles c++ secp256k1 pedersen commitments, borromean ring signatures, and ZK range proofs into JavaScript.  
+[https://github.com/EOSIO/eosjs-secp256k1](https://github.com/EOSIO/eosjs-secp256k1)  
+0.08 stars per week over 226 weeks  
+17 stars, 17 forks, 39 watches  
+created 2017-08-03, last commit 2017-06-07, main language JavaScript  
 
 
 ### [ual-token-pocket](https://github.com/EOSIO/ual-token-pocket) by [EOSIO](https://github.com/EOSIO)  
@@ -364,12 +364,12 @@ Specification defining valid Ricardian contracts
 created 2019-03-12, last commit 2019-06-11, main language None  
 
 
-### [eosjs-secp256k1](https://github.com/EOSIO/eosjs-secp256k1) by [EOSIO](https://github.com/EOSIO)  
-Compiles c++ secp256k1 pedersen commitments, borromean ring signatures, and ZK range proofs into JavaScript.  
-[https://github.com/EOSIO/eosjs-secp256k1](https://github.com/EOSIO/eosjs-secp256k1)  
-0.08 stars per week over 226 weeks  
-17 stars, 17 forks, 39 watches  
-created 2017-08-03, last commit 2017-06-07, main language JavaScript  
+### [slips](https://github.com/EOSIO/slips) by [EOSIO](https://github.com/EOSIO)  
+SatoshiLabs Improvement Proposals  
+[https://github.com/EOSIO/slips](https://github.com/EOSIO/slips)  
+0.09 stars per week over 196 weeks  
+17 stars, 7 forks, 5 watches  
+created 2018-03-03, last commit 2018-03-03, main language Python  
 
 
 ### [WAVM](https://github.com/EOSIO/WAVM) by [EOSIO](https://github.com/EOSIO)  
@@ -380,20 +380,20 @@ WebAssembly Virtual Machine
 created 2018-03-14, last commit 2018-03-13, main language WebAssembly  
 
 
-### [old-eosio-hackathon-starter](https://github.com/EOSIO/old-eosio-hackathon-starter) by [EOSIO](https://github.com/EOSIO)  
-Simple Blog DApp built with React for the EOSIO Blockchain  
-[https://github.com/EOSIO/old-eosio-hackathon-starter](https://github.com/EOSIO/old-eosio-hackathon-starter)  
-0.08 stars per week over 178 weeks  
-14 stars, 2 forks, 4 watches  
-created 2018-07-06, last commit 2018-08-12, main language None  
-
-
 ### [ual-scatter](https://github.com/EOSIO/ual-scatter) by [EOSIO](https://github.com/EOSIO)  
 authenticator meant to be used with Scatter and Universal Authenticator Library  
 [https://github.com/EOSIO/ual-scatter](https://github.com/EOSIO/ual-scatter)  
 0.1 stars per week over 142 weeks  
 14 stars, 20 forks, 32 watches  
 created 2019-03-12, last commit 2020-06-26, main language TypeScript  
+
+
+### [old-eosio-hackathon-starter](https://github.com/EOSIO/old-eosio-hackathon-starter) by [EOSIO](https://github.com/EOSIO)  
+Simple Blog DApp built with React for the EOSIO Blockchain  
+[https://github.com/EOSIO/old-eosio-hackathon-starter](https://github.com/EOSIO/old-eosio-hackathon-starter)  
+0.08 stars per week over 178 weeks  
+14 stars, 2 forks, 4 watches  
+created 2018-07-06, last commit 2018-08-12, main language None  
 
 
 ### [hackathon-howto-guide](https://github.com/EOSIO/hackathon-howto-guide) by [EOSIO](https://github.com/EOSIO)  
@@ -420,14 +420,6 @@ Mirror of git://git.musl-libc.org/musl
 created 2018-02-07, last commit 2021-10-13, main language C  
 
 
-### [eosio.assert](https://github.com/EOSIO/eosio.assert) by [EOSIO](https://github.com/EOSIO)  
-A security feature to reduce the need for users to trust blockchain apps when a user signs a transaction for a trusted blockchain network with a trusted wallet application  
-[https://github.com/EOSIO/eosio.assert](https://github.com/EOSIO/eosio.assert)  
-0.07 stars per week over 172 weeks  
-12 stars, 4 forks, 33 watches  
-created 2018-08-16, last commit 2019-05-29, main language C++  
-
-
 ### [eosio-java-softkey-signature-provider](https://github.com/EOSIO/eosio-java-softkey-signature-provider) by [EOSIO](https://github.com/EOSIO)  
 Example pluggable signature provider for EOSIO SDK for Java for signing transactions using in-memory keys  
 [https://eosio.github.io/eosio-java-softkey-signature-provider/](https://eosio.github.io/eosio-java-softkey-signature-provider/)  
@@ -437,11 +429,19 @@ Example pluggable signature provider for EOSIO SDK for Java for signing transact
 created 2019-02-28, last commit 2020-11-24, main language Java  
 
 
+### [eosio.assert](https://github.com/EOSIO/eosio.assert) by [EOSIO](https://github.com/EOSIO)  
+A security feature to reduce the need for users to trust blockchain apps when a user signs a transaction for a trusted blockchain network with a trusted wallet application  
+[https://github.com/EOSIO/eosio.assert](https://github.com/EOSIO/eosio.assert)  
+0.07 stars per week over 172 weeks  
+12 stars, 4 forks, 33 watches  
+created 2018-08-16, last commit 2019-05-29, main language C++  
+
+
 ### [eosio-java-android-abieos-serialization-provider](https://github.com/EOSIO/eosio-java-android-abieos-serialization-provider) by [EOSIO](https://github.com/EOSIO)  
 Pluggable serialization provider for EOSIO SDK for Java using ABIEOS  
 [https://eosio.github.io/eosio-java-android-abieos-serialization-provider/](https://eosio.github.io/eosio-java-android-abieos-serialization-provider/)  
 [https://github.com/EOSIO/eosio-java-android-abieos-serialization-provider](https://github.com/EOSIO/eosio-java-android-abieos-serialization-provider)  
-0.08 stars per week over 143 weeks  
+0.08 stars per week over 144 weeks  
 11 stars, 12 forks, 17 watches  
 created 2019-03-04, last commit 2020-11-23, main language Java  
 
@@ -449,7 +449,7 @@ created 2019-03-04, last commit 2020-11-23, main language Java
 ### [eosio-toppings](https://github.com/EOSIO/eosio-toppings) by [EOSIO](https://github.com/EOSIO)  
 A monorepo with tools working on top of nodeos  
 [https://github.com/EOSIO/eosio-toppings](https://github.com/EOSIO/eosio-toppings)  
-0.08 stars per week over 146 weeks  
+0.07 stars per week over 146 weeks  
 11 stars, 6 forks, 13 watches  
 created 2019-02-13, last commit 2020-05-05, main language TSQL  
 
@@ -460,6 +460,14 @@ created 2019-02-13, last commit 2020-05-05, main language TSQL
 0.06 stars per week over 180 weeks  
 11 stars, 45 forks, 5 watches  
 created 2018-06-19, last commit 2018-06-20, main language C++  
+
+
+### [ual-authenticator-walkthrough](https://github.com/EOSIO/ual-authenticator-walkthrough) by [EOSIO](https://github.com/EOSIO)  
+tutorial walking through the steps required to create a new authenticator for the Universal Authenticator Library  
+[https://github.com/EOSIO/ual-authenticator-walkthrough](https://github.com/EOSIO/ual-authenticator-walkthrough)  
+0.07 stars per week over 144 weeks  
+10 stars, 4 forks, 26 watches  
+created 2019-03-04, last commit 2019-09-13, main language JavaScript  
 
 
 ### [eosio-swift-vault](https://github.com/EOSIO/eosio-swift-vault) by [EOSIO](https://github.com/EOSIO)  
@@ -474,35 +482,17 @@ created 2019-03-21, last commit 2020-11-30, main language Swift
 ### [eosjs-ledger-signature-provider](https://github.com/EOSIO/eosjs-ledger-signature-provider) by [EOSIO](https://github.com/EOSIO)  
 EOSJS Ledger Signature Provider Interface  
 [https://github.com/EOSIO/eosjs-ledger-signature-provider](https://github.com/EOSIO/eosjs-ledger-signature-provider)  
-0.07 stars per week over 142 weeks  
+0.07 stars per week over 143 weeks  
 10 stars, 9 forks, 28 watches  
 created 2019-03-11, last commit 2019-09-12, main language TypeScript  
 
 
-### [eosio-swift-ecc](https://github.com/EOSIO/eosio-swift-ecc) by [EOSIO](https://github.com/EOSIO)  
-Swift utilities for working with keys, cryptographic signatures, encryption/decryption, etc.  
-[https://eosio.github.io/eosio-swift-ecc](https://eosio.github.io/eosio-swift-ecc)  
-[https://github.com/EOSIO/eosio-swift-ecc](https://github.com/EOSIO/eosio-swift-ecc)  
-0.07 stars per week over 143 weeks  
-10 stars, 7 forks, 14 watches  
-created 2019-03-06, last commit 2020-12-01, main language Swift  
-
-
-### [ual-authenticator-walkthrough](https://github.com/EOSIO/ual-authenticator-walkthrough) by [EOSIO](https://github.com/EOSIO)  
-tutorial walking through the steps required to create a new authenticator for the Universal Authenticator Library  
-[https://github.com/EOSIO/ual-authenticator-walkthrough](https://github.com/EOSIO/ual-authenticator-walkthrough)  
-0.07 stars per week over 143 weeks  
-10 stars, 4 forks, 26 watches  
-created 2019-03-04, last commit 2019-09-13, main language JavaScript  
-
-
-### [libcxx](https://github.com/EOSIO/libcxx) by [EOSIO](https://github.com/EOSIO)  
-Mirror of official libcxx git repository located at http://llvm.org/git/libcxx. Updated every five minutes.  
-[http://libcxx.llvm.org](http://libcxx.llvm.org)  
-[https://github.com/EOSIO/libcxx](https://github.com/EOSIO/libcxx)  
-0.05 stars per week over 199 weeks  
-10 stars, 24 forks, 25 watches  
-created 2018-02-07, last commit 2021-10-13, main language C++  
+### [demux-js-postgres](https://github.com/EOSIO/demux-js-postgres) by [EOSIO](https://github.com/EOSIO)  
+Demux-js Action Handler implementation for Postgres databases  
+[https://github.com/EOSIO/demux-js-postgres](https://github.com/EOSIO/demux-js-postgres)  
+0.06 stars per week over 172 weeks  
+10 stars, 11 forks, 31 watches  
+created 2018-08-15, last commit 2020-01-24, main language TypeScript  
 
 
 ### [berkeley-softfloat-3](https://github.com/EOSIO/berkeley-softfloat-3) by [EOSIO](https://github.com/EOSIO)  
@@ -514,14 +504,24 @@ SoftFloat release 3
 created 2018-03-14, last commit 2021-01-19, main language C  
 
 
-### [demux-js-postgres](https://github.com/EOSIO/demux-js-postgres) by [EOSIO](https://github.com/EOSIO)  
-Demux-js Action Handler implementation for Postgres databases  
-[https://github.com/EOSIO/demux-js-postgres](https://github.com/EOSIO/demux-js-postgres)  
-0.06 stars per week over 172 weeks  
-10 stars, 11 forks, 31 watches  
-created 2018-08-15, last commit 2020-01-24, main language TypeScript  
+### [libcxx](https://github.com/EOSIO/libcxx) by [EOSIO](https://github.com/EOSIO)  
+Mirror of official libcxx git repository located at http://llvm.org/git/libcxx. Updated every five minutes.  
+[http://libcxx.llvm.org](http://libcxx.llvm.org)  
+[https://github.com/EOSIO/libcxx](https://github.com/EOSIO/libcxx)  
+0.05 stars per week over 199 weeks  
+10 stars, 24 forks, 25 watches  
+created 2018-02-07, last commit 2021-10-13, main language C++  
 
 
-This file was automatically generated on 2021-12-05.  
+### [eosio-swift-ecc](https://github.com/EOSIO/eosio-swift-ecc) by [EOSIO](https://github.com/EOSIO)  
+Swift utilities for working with keys, cryptographic signatures, encryption/decryption, etc.  
+[https://eosio.github.io/eosio-swift-ecc](https://eosio.github.io/eosio-swift-ecc)  
+[https://github.com/EOSIO/eosio-swift-ecc](https://github.com/EOSIO/eosio-swift-ecc)  
+0.07 stars per week over 143 weeks  
+10 stars, 7 forks, 14 watches  
+created 2019-03-06, last commit 2020-12-01, main language Swift  
+
+
+This file was automatically generated on 2021-12-06.  
 
 To curate your own github list, simply clone and change the input csv file.  

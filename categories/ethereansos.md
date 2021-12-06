@@ -45,6 +45,6 @@ created 2020-04-19, last commit 2020-07-15, main language None
 <sub><sup>defi, dfohub, governance, organizations</sup></sub>
 
 
-This file was automatically generated on 2021-12-05.  
+This file was automatically generated on 2021-12-06.  
 
 To curate your own github list, simply clone and change the input csv file.  

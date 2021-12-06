@@ -9,15 +9,15 @@ Checkout the interactive version that you can filter and sort:
 :pancakes: Pancake main features (farms, pools, IFO, lottery, profiles)  
 [https://pancakeswap.finance](https://pancakeswap.finance)  
 [https://github.com/pancakeswap/pancake-frontend](https://github.com/pancakeswap/pancake-frontend)  
-20 stars per week over 63 weeks  
-1,291 stars, 1,983 forks, 64 watches  
-created 2020-09-14, last commit 2021-12-04, main language TypeScript  
+20 stars per week over 64 weeks  
+1,297 stars, 1,985 forks, 65 watches  
+created 2020-09-14, last commit 2021-12-05, main language TypeScript  
 
 
 ### [pancake-farm](https://github.com/pancakeswap/pancake-farm) by [pancakeswap](https://github.com/pancakeswap)  
   
 [https://github.com/pancakeswap/pancake-farm](https://github.com/pancakeswap/pancake-farm)  
-5.45 stars per week over 63 weeks  
+5.44 stars per week over 64 weeks  
 348 stars, 626 forks, 22 watches  
 created 2020-09-14, last commit 2021-02-07, main language Solidity  
 
@@ -26,40 +26,40 @@ created 2020-09-14, last commit 2021-02-07, main language Solidity
 :pancakes: Pancake trading interface V1  
 [https://exchange.pancakeswap.finance](https://exchange.pancakeswap.finance)  
 [https://github.com/pancakeswap/pancake-swap-interface-v1](https://github.com/pancakeswap/pancake-swap-interface-v1)  
-4.2 stars per week over 63 weeks  
-268 stars, 862 forks, 30 watches  
+4.19 stars per week over 64 weeks  
+268 stars, 861 forks, 30 watches  
 created 2020-09-14, last commit 2021-06-28, main language TypeScript  
 
 
 ### [pancake-info-api](https://github.com/pancakeswap/pancake-info-api) by [pancakeswap](https://github.com/pancakeswap)  
 Serverless API implementation for PancakeSwap on-chain data query.  
 [https://github.com/pancakeswap/pancake-info-api](https://github.com/pancakeswap/pancake-info-api)  
-5.22 stars per week over 41 weeks  
-217 stars, 191 forks, 13 watches  
+5.15 stars per week over 41 weeks  
+215 stars, 192 forks, 13 watches  
 created 2021-02-17, last commit 2021-04-24, main language TypeScript  
-
-
-### [pancake-swap-core](https://github.com/pancakeswap/pancake-swap-core) by [pancakeswap](https://github.com/pancakeswap)  
-Core smart contracts   
-[https://github.com/pancakeswap/pancake-swap-core](https://github.com/pancakeswap/pancake-swap-core)  
-2.99 stars per week over 63 weeks  
-191 stars, 531 forks, 13 watches  
-created 2020-09-14, last commit 2020-09-27, main language TypeScript  
 
 
 ### [pancake-toolkit](https://github.com/pancakeswap/pancake-toolkit) by [pancakeswap](https://github.com/pancakeswap)  
 :hammer_and_pick: Pancake frontend packages  
 [https://pancakeswap-uikit.netlify.app/](https://pancakeswap-uikit.netlify.app/)  
 [https://github.com/pancakeswap/pancake-toolkit](https://github.com/pancakeswap/pancake-toolkit)  
-4.84 stars per week over 39 weeks  
-191 stars, 584 forks, 18 watches  
-created 2021-03-04, last commit 2021-12-03, main language TypeScript  
+4.85 stars per week over 39 weeks  
+192 stars, 586 forks, 19 watches  
+created 2021-03-04, last commit 2021-12-05, main language TypeScript  
+
+
+### [pancake-swap-core](https://github.com/pancakeswap/pancake-swap-core) by [pancakeswap](https://github.com/pancakeswap)  
+Core smart contracts   
+[https://github.com/pancakeswap/pancake-swap-core](https://github.com/pancakeswap/pancake-swap-core)  
+3.0 stars per week over 64 weeks  
+192 stars, 533 forks, 13 watches  
+created 2020-09-14, last commit 2020-09-27, main language TypeScript  
 
 
 ### [pancake-subgraph](https://github.com/pancakeswap/pancake-subgraph) by [pancakeswap](https://github.com/pancakeswap)  
 📊 Pancake subgraph (blocks, profile, prediction, NFT's, ...)  
 [https://github.com/pancakeswap/pancake-subgraph](https://github.com/pancakeswap/pancake-subgraph)  
-3.37 stars per week over 41 weeks  
+3.35 stars per week over 41 weeks  
 138 stars, 293 forks, 7 watches  
 created 2021-02-21, last commit 2021-10-12, main language TypeScript  
 <sub><sup>graphprotocol, pancakeswap</sup></sub>
@@ -68,7 +68,7 @@ created 2021-02-21, last commit 2021-10-12, main language TypeScript
 ### [pancake-swap-periphery](https://github.com/pancakeswap/pancake-swap-periphery) by [pancakeswap](https://github.com/pancakeswap)  
   
 [https://github.com/pancakeswap/pancake-swap-periphery](https://github.com/pancakeswap/pancake-swap-periphery)  
-1.43 stars per week over 63 weeks  
+1.42 stars per week over 64 weeks  
 91 stars, 315 forks, 8 watches  
 created 2020-09-14, last commit 2020-09-23, main language Solidity  
 
@@ -76,8 +76,8 @@ created 2020-09-14, last commit 2020-09-23, main language Solidity
 ### [pancake-swap-sdk](https://github.com/pancakeswap/pancake-swap-sdk) by [pancakeswap](https://github.com/pancakeswap)  
   
 [https://github.com/pancakeswap/pancake-swap-sdk](https://github.com/pancakeswap/pancake-swap-sdk)  
-2.6 stars per week over 32 weeks  
-85 stars, 246 forks, 8 watches  
+2.59 stars per week over 32 weeks  
+85 stars, 247 forks, 8 watches  
 created 2021-04-20, last commit 2021-08-30, main language TypeScript  
 
 
@@ -110,8 +110,8 @@ created 2020-09-23, last commit 2020-11-01, main language TypeScript
 ### [pancake-swap-lib](https://github.com/pancakeswap/pancake-swap-lib) by [pancakeswap](https://github.com/pancakeswap)  
   
 [https://github.com/pancakeswap/pancake-swap-lib](https://github.com/pancakeswap/pancake-swap-lib)  
-0.97 stars per week over 62 weeks  
-61 stars, 190 forks, 7 watches  
+0.97 stars per week over 63 weeks  
+61 stars, 191 forks, 7 watches  
 created 2020-09-21, last commit 2020-11-18, main language Solidity  
 
 
@@ -126,7 +126,7 @@ created 2020-10-22, last commit 2021-03-15, main language JavaScript
 ### [pancake-document](https://github.com/pancakeswap/pancake-document) by [pancakeswap](https://github.com/pancakeswap)  
   
 [https://github.com/pancakeswap/pancake-document](https://github.com/pancakeswap/pancake-document)  
-0.76 stars per week over 63 weeks  
+0.75 stars per week over 63 weeks  
 48 stars, 140 forks, 11 watches  
 created 2020-09-16, last commit 2021-10-29, main language HTML  
 
@@ -135,7 +135,7 @@ created 2020-09-16, last commit 2021-10-29, main language HTML
   
 [https://github.com/pancakeswap/pancakeswap-sdk-v2](https://github.com/pancakeswap/pancakeswap-sdk-v2)  
 1.2 stars per week over 32 weeks  
-39 stars, 110 forks, 2 watches  
+39 stars, 111 forks, 2 watches  
 created 2021-04-22, last commit 2021-04-25, main language TypeScript  
 
 
@@ -151,7 +151,7 @@ created 2020-11-12, last commit 2021-03-12, main language JavaScript
 🎰 Pancake Lottery scheduler  
 [https://pancakeswap.finance/lottery](https://pancakeswap.finance/lottery)  
 [https://github.com/pancakeswap/pancake-lottery-scheduler](https://github.com/pancakeswap/pancake-lottery-scheduler)  
-0.46 stars per week over 25 weeks  
+0.46 stars per week over 26 weeks  
 12 stars, 21 forks, 0 watches  
 created 2021-06-07, last commit 2021-09-12, main language TypeScript  
 <sub><sup>lottery, pancakeswap, scheduler</sup></sub>
@@ -165,14 +165,6 @@ created 2021-06-07, last commit 2021-09-12, main language TypeScript
 created 2021-02-02, last commit 2021-04-08, main language TypeScript  
 
 
-### [PancakeSwap-Design](https://github.com/pancakeswap/PancakeSwap-Design) by [pancakeswap](https://github.com/pancakeswap)  
-  
-[https://github.com/pancakeswap/PancakeSwap-Design](https://github.com/pancakeswap/PancakeSwap-Design)  
-0.19 stars per week over 53 weeks  
-10 stars, 57 forks, 1 watches  
-created 2020-11-26, last commit 2021-02-14, main language None  
-
-
 ### [pancake-profile-api](https://github.com/pancakeswap/pancake-profile-api) by [pancakeswap](https://github.com/pancakeswap)  
 :framed_picture: Serverless API implementation for PancakeSwap Profile contract  
 [https://profile.pancakeswap.com/api](https://profile.pancakeswap.com/api)  
@@ -183,6 +175,14 @@ created 2021-01-20, last commit 2021-09-21, main language TypeScript
 <sub><sup>api, pancakeswap, profile</sup></sub>
 
 
-This file was automatically generated on 2021-12-05.  
+### [PancakeSwap-Design](https://github.com/pancakeswap/PancakeSwap-Design) by [pancakeswap](https://github.com/pancakeswap)  
+  
+[https://github.com/pancakeswap/PancakeSwap-Design](https://github.com/pancakeswap/PancakeSwap-Design)  
+0.19 stars per week over 53 weeks  
+10 stars, 57 forks, 1 watches  
+created 2020-11-26, last commit 2021-02-14, main language None  
+
+
+This file was automatically generated on 2021-12-06.  
 
 To curate your own github list, simply clone and change the input csv file.  

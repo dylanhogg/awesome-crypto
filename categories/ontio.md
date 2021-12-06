@@ -69,7 +69,7 @@ created 2018-03-28, last commit 2018-04-25, main language Go
 ### [ontology-crypto](https://github.com/ontio/ontology-crypto) by [ontio](https://github.com/ontio)  
   
 [https://github.com/ontio/ontology-crypto](https://github.com/ontio/ontology-crypto)  
-0.2 stars per week over 192 weeks  
+0.2 stars per week over 193 weeks  
 38 stars, 25 forks, 8 watches  
 created 2018-03-26, last commit 2021-09-18, main language Go  
 
@@ -134,10 +134,18 @@ created 2018-04-04, last commit 2021-10-29, main language Go
 <sub><sup>golang, ontology, restful-api, rpc, sdk, wallet</sup></sub>
 
 
+### [ontology-ddxf](https://github.com/ontio/ontology-ddxf) by [ontio](https://github.com/ontio)  
+Distributed data eXchange Framework,which allows to build data marketplaces .  
+[https://github.com/ontio/ontology-ddxf](https://github.com/ontio/ontology-ddxf)  
+0.08 stars per week over 192 weeks  
+15 stars, 12 forks, 10 watches  
+created 2018-03-29, last commit 2019-05-06, main language None  
+
+
 ### [ontology-dapi](https://github.com/ontio/ontology-dapi) by [ontio](https://github.com/ontio)  
 A lightweight Javascript library for interacting with Ontology node and Ontology wallets  
 [https://github.com/ontio/ontology-dapi](https://github.com/ontio/ontology-dapi)  
-0.09 stars per week over 170 weeks  
+0.09 stars per week over 171 weeks  
 15 stars, 18 forks, 8 watches  
 created 2018-08-27, last commit 2021-12-01, main language TypeScript  
 
@@ -148,14 +156,6 @@ created 2018-08-27, last commit 2021-12-01, main language TypeScript
 0.09 stars per week over 162 weeks  
 15 stars, 17 forks, 12 watches  
 created 2018-10-24, last commit 2021-01-08, main language Python  
-
-
-### [ontology-ddxf](https://github.com/ontio/ontology-ddxf) by [ontio](https://github.com/ontio)  
-Distributed data eXchange Framework,which allows to build data marketplaces .  
-[https://github.com/ontio/ontology-ddxf](https://github.com/ontio/ontology-ddxf)  
-0.08 stars per week over 192 weeks  
-15 stars, 12 forks, 10 watches  
-created 2018-03-29, last commit 2019-05-06, main language None  
 
 
 ### [ONTO](https://github.com/ontio/ONTO) by [ontio](https://github.com/ontio)  
@@ -174,15 +174,6 @@ created 2018-03-30, last commit 2018-08-03, main language None
 created 2018-03-28, last commit 2018-04-20, main language HTML  
 
 
-### [ontology-test](https://github.com/ontio/ontology-test) by [ontio](https://github.com/ontio)  
-Light-weight test framework for ontology  
-[https://github.com/ontio/ontology-test](https://github.com/ontio/ontology-test)  
-0.06 stars per week over 191 weeks  
-11 stars, 12 forks, 6 watches  
-created 2018-04-04, last commit 2018-09-03, main language Go  
-<sub><sup>ontology, test</sup></sub>
-
-
 ### [ontology-wasm-cdt-rust](https://github.com/ontio/ontology-wasm-cdt-rust) by [ontio](https://github.com/ontio)  
 ontology wasm contract development kit  
 [https://github.com/ontio/ontology-wasm-cdt-rust](https://github.com/ontio/ontology-wasm-cdt-rust)  
@@ -192,6 +183,15 @@ created 2019-01-11, last commit 2021-11-11, main language Rust
 <sub><sup>ontology, rust, smartcontract, webassembly</sup></sub>
 
 
-This file was automatically generated on 2021-12-05.  
+### [ontology-test](https://github.com/ontio/ontology-test) by [ontio](https://github.com/ontio)  
+Light-weight test framework for ontology  
+[https://github.com/ontio/ontology-test](https://github.com/ontio/ontology-test)  
+0.06 stars per week over 191 weeks  
+11 stars, 12 forks, 6 watches  
+created 2018-04-04, last commit 2018-09-03, main language Go  
+<sub><sup>ontology, test</sup></sub>
+
+
+This file was automatically generated on 2021-12-06.  
 
 To curate your own github list, simply clone and change the input csv file.  

@@ -10,8 +10,8 @@ Web-Scale Blockchain for fast, secure, scalable, decentralized apps and marketpl
 [https://solana.com](https://solana.com)  
 [https://github.com/solana-labs/solana](https://github.com/solana-labs/solana)  
 29 stars per week over 198 weeks  
-5,895 stars, 1,157 forks, 209 watches  
-created 2018-02-14, last commit 2021-12-04, main language Rust  
+5,928 stars, 1,161 forks, 213 watches  
+created 2018-02-14, last commit 2021-12-06, main language Rust  
 <sub><sup>bitcoin, blockchain, ledger, performance-blockchain, rust, rustc, solana</sup></sub>
 
 
@@ -20,7 +20,7 @@ A collection of Solana-maintained on-chain programs
 [https://solana.com](https://solana.com)  
 [https://github.com/solana-labs/solana-program-library](https://github.com/solana-labs/solana-program-library)  
 12 stars per week over 79 weeks  
-1,022 stars, 582 forks, 66 watches  
+1,029 stars, 585 forks, 66 watches  
 created 2020-05-29, last commit 2021-12-04, main language Rust  
 
 
@@ -28,7 +28,7 @@ created 2020-05-29, last commit 2021-12-04, main language Rust
 Scaffolding for a dapp built on Solana  
 [https://github.com/solana-labs/dapp-scaffold](https://github.com/solana-labs/dapp-scaffold)  
 21 stars per week over 41 weeks  
-876 stars, 363 forks, 42 watches  
+880 stars, 366 forks, 43 watches  
 created 2021-02-16, last commit 2021-08-11, main language TypeScript  
 
 
@@ -36,8 +36,8 @@ created 2021-02-16, last commit 2021-08-11, main language TypeScript
 Solana JavaScript SDK  
 [https://solana-labs.github.io/solana-web3.js](https://solana-labs.github.io/solana-web3.js)  
 [https://github.com/solana-labs/solana-web3.js](https://github.com/solana-labs/solana-web3.js)  
-4.15 stars per week over 171 weeks  
-712 stars, 239 forks, 37 watches  
+4.16 stars per week over 171 weeks  
+714 stars, 240 forks, 37 watches  
 created 2018-08-22, last commit 2021-12-01, main language TypeScript  
 <sub><sup>blockchain, javascript, js, node, nodejs, sdk, solana</sup></sub>
 
@@ -46,17 +46,17 @@ created 2018-08-22, last commit 2021-12-01, main language TypeScript
 The community maintained Solana token registry  
 [https://solana.com](https://solana.com)  
 [https://github.com/solana-labs/token-list](https://github.com/solana-labs/token-list)  
-8.65 stars per week over 56 weeks  
-487 stars, 2,311 forks, 43 watches  
-created 2020-11-06, last commit 2021-12-05, main language Go  
+8.74 stars per week over 56 weeks  
+493 stars, 2,338 forks, 44 watches  
+created 2020-11-06, last commit 2021-12-06, main language Go  
 <sub><sup>dapps, token-list</sup></sub>
 
 
 ### [example-helloworld](https://github.com/solana-labs/example-helloworld) by [solana-labs](https://github.com/solana-labs)  
 Hello world on Solana  
 [https://github.com/solana-labs/example-helloworld](https://github.com/solana-labs/example-helloworld)  
-4.72 stars per week over 86 weeks  
-409 stars, 326 forks, 19 watches  
+4.73 stars per week over 86 weeks  
+411 stars, 326 forks, 19 watches  
 created 2020-04-07, last commit 2021-11-16, main language TypeScript  
 
 
@@ -64,9 +64,9 @@ created 2020-04-07, last commit 2021-11-16, main language TypeScript
 Modular TypeScript wallet adapters and components for Solana applications.  
 [https://solana-labs.github.io/wallet-adapter/](https://solana-labs.github.io/wallet-adapter/)  
 [https://github.com/solana-labs/wallet-adapter](https://github.com/solana-labs/wallet-adapter)  
-9.31 stars per week over 36 weeks  
-338 stars, 181 forks, 26 watches  
-created 2021-03-26, last commit 2021-11-16, main language TypeScript  
+9.47 stars per week over 36 weeks  
+345 stars, 183 forks, 26 watches  
+created 2021-03-26, last commit 2021-12-05, main language TypeScript  
 <sub><sup>angular, blockchain, crypto, cryptocurrency, hacktoberfest, hacktoberfest2021, react, solana, svelte, typescript, vue, wallet</sup></sub>
 
 
@@ -81,7 +81,7 @@ created 2021-04-22, last commit 2021-06-22, main language None
 ### [defi-hackathon](https://github.com/solana-labs/defi-hackathon) by [solana-labs](https://github.com/solana-labs)  
   
 [https://github.com/solana-labs/defi-hackathon](https://github.com/solana-labs/defi-hackathon)  
-3.34 stars per week over 45 weeks  
+3.33 stars per week over 45 weeks  
 152 stars, 22 forks, 30 watches  
 created 2021-01-20, last commit 2021-03-15, main language None  
 
@@ -90,8 +90,8 @@ created 2021-01-20, last commit 2021-03-15, main language None
 Break Solana Game  
 [https://break.solana.com](https://break.solana.com)  
 [https://github.com/solana-labs/break](https://github.com/solana-labs/break)  
-1.41 stars per week over 103 weeks  
-146 stars, 57 forks, 21 watches  
+1.41 stars per week over 104 weeks  
+147 stars, 57 forks, 21 watches  
 created 2019-12-09, last commit 2021-10-09, main language TypeScript  
 
 
@@ -99,8 +99,8 @@ created 2019-12-09, last commit 2021-10-09, main language TypeScript
 Project files for Solana ecosystem members  
 [https://solana.com/ecosystem](https://solana.com/ecosystem)  
 [https://github.com/solana-labs/ecosystem](https://github.com/solana-labs/ecosystem)  
-3.61 stars per week over 37 weeks  
-135 stars, 521 forks, 17 watches  
+3.62 stars per week over 37 weeks  
+136 stars, 526 forks, 17 watches  
 created 2021-03-18, last commit 2021-11-26, main language None  
 
 
@@ -108,15 +108,15 @@ created 2021-03-18, last commit 2021-11-26, main language None
 Explorer for Solana clusters  
 [https://explorer.solana.com](https://explorer.solana.com)  
 [https://github.com/solana-labs/explorer](https://github.com/solana-labs/explorer)  
-0.88 stars per week over 90 weeks  
-79 stars, 78 forks, 27 watches  
+0.87 stars per week over 90 weeks  
+79 stars, 79 forks, 27 watches  
 created 2020-03-13, last commit 2021-09-13, main language TypeScript  
 
 
 ### [stake-o-matic](https://github.com/solana-labs/stake-o-matic) by [solana-labs](https://github.com/solana-labs)  
 Solana Foundation stake bot used on the Solana Testnet and Mainnet-Beta  
 [https://github.com/solana-labs/stake-o-matic](https://github.com/solana-labs/stake-o-matic)  
-2.05 stars per week over 36 weeks  
+2.04 stars per week over 36 weeks  
 75 stars, 40 forks, 24 watches  
 created 2021-03-24, last commit 2021-12-02, main language Rust  
 
@@ -125,7 +125,7 @@ created 2021-03-24, last commit 2021-12-02, main language Rust
   
 [https://github.com/solana-labs/oyster-swap](https://github.com/solana-labs/oyster-swap)  
 1.12 stars per week over 59 weeks  
-67 stars, 245 forks, 25 watches  
+67 stars, 248 forks, 25 watches  
 created 2020-10-14, last commit 2020-11-17, main language TypeScript  
 
 
@@ -133,7 +133,7 @@ created 2020-10-14, last commit 2020-11-17, main language TypeScript
   
 [oyster.vercel.app](oyster.vercel.app)  
 [https://github.com/solana-labs/oyster](https://github.com/solana-labs/oyster)  
-1.43 stars per week over 43 weeks  
+1.42 stars per week over 43 weeks  
 62 stars, 61 forks, 24 watches  
 created 2021-02-04, last commit 2021-12-04, main language TypeScript  
 
@@ -150,15 +150,15 @@ created 2018-10-04, last commit 2021-11-29, main language Rust
 Compile, deploy, and use Solidity contracts on Solana  
 [https://solana-labs.github.io/solana-solidity.js](https://solana-labs.github.io/solana-solidity.js)  
 [https://github.com/solana-labs/solana-solidity.js](https://github.com/solana-labs/solana-solidity.js)  
-2.31 stars per week over 16 weeks  
-38 stars, 13 forks, 6 watches  
+2.35 stars per week over 16 weeks  
+39 stars, 13 forks, 6 watches  
 created 2021-08-12, last commit 2021-12-03, main language TypeScript  
 
 
 ### [oyster-lending](https://github.com/solana-labs/oyster-lending) by [solana-labs](https://github.com/solana-labs)  
   
 [https://github.com/solana-labs/oyster-lending](https://github.com/solana-labs/oyster-lending)  
-0.66 stars per week over 54 weeks  
+0.65 stars per week over 55 weeks  
 36 stars, 55 forks, 27 watches  
 created 2020-11-16, last commit 2021-03-16, main language TypeScript  
 <sub><sup>solana</sup></sub>
@@ -167,7 +167,7 @@ created 2020-11-16, last commit 2021-03-16, main language TypeScript
 ### [wormhole-hackathon](https://github.com/solana-labs/wormhole-hackathon) by [solana-labs](https://github.com/solana-labs)  
   
 [https://github.com/solana-labs/wormhole-hackathon](https://github.com/solana-labs/wormhole-hackathon)  
-0.54 stars per week over 60 weeks  
+0.54 stars per week over 61 weeks  
 33 stars, 12 forks, 17 watches  
 created 2020-10-05, last commit 2020-11-16, main language None  
 
@@ -208,6 +208,23 @@ Simple message feed built on Solana
 created 2019-05-10, last commit 2020-06-24, main language JavaScript  
 
 
+### [rust](https://github.com/solana-labs/rust) by [solana-labs](https://github.com/solana-labs)  
+Empowering everyone to build reliable and efficient software.  
+[https://www.rust-lang.org](https://www.rust-lang.org)  
+[https://github.com/solana-labs/rust](https://github.com/solana-labs/rust)  
+0.11 stars per week over 150 weeks  
+17 stars, 17 forks, 6 watches  
+created 2019-01-16, last commit 2021-12-06, main language Rust  
+
+
+### [solana-bigtable](https://github.com/solana-labs/solana-bigtable) by [solana-labs](https://github.com/solana-labs)  
+  
+[https://github.com/solana-labs/solana-bigtable](https://github.com/solana-labs/solana-bigtable)  
+1.43 stars per week over 11 weeks  
+17 stars, 6 forks, 5 watches  
+created 2021-09-14, last commit 2021-10-24, main language Shell  
+
+
 ### [example-token](https://github.com/solana-labs/example-token) by [solana-labs](https://github.com/solana-labs)  
 Obsoleted by https://spl.solana.com/token (Token Example)  
 [https://spl.solana.com/token](https://spl.solana.com/token)  
@@ -215,23 +232,6 @@ Obsoleted by https://spl.solana.com/token (Token Example)
 0.15 stars per week over 113 weeks  
 17 stars, 23 forks, 18 watches  
 created 2019-10-02, last commit 2020-06-24, main language Rust  
-
-
-### [rust](https://github.com/solana-labs/rust) by [solana-labs](https://github.com/solana-labs)  
-Empowering everyone to build reliable and efficient software.  
-[https://www.rust-lang.org](https://www.rust-lang.org)  
-[https://github.com/solana-labs/rust](https://github.com/solana-labs/rust)  
-0.11 stars per week over 150 weeks  
-17 stars, 17 forks, 6 watches  
-created 2019-01-16, last commit 2021-12-03, main language Rust  
-
-
-### [solana-bigtable](https://github.com/solana-labs/solana-bigtable) by [solana-labs](https://github.com/solana-labs)  
-  
-[https://github.com/solana-labs/solana-bigtable](https://github.com/solana-labs/solana-bigtable)  
-1.45 stars per week over 11 weeks  
-17 stars, 6 forks, 5 watches  
-created 2021-09-14, last commit 2021-10-24, main language Shell  
 
 
 ### [bpf-tools](https://github.com/solana-labs/bpf-tools) by [solana-labs](https://github.com/solana-labs)  
@@ -245,7 +245,7 @@ created 2021-02-17, last commit 2021-11-22, main language Shell
 ### [solana-pay](https://github.com/solana-labs/solana-pay) by [solana-labs](https://github.com/solana-labs)  
   
 [https://github.com/solana-labs/solana-pay](https://github.com/solana-labs/solana-pay)  
-2.09 stars per week over 6 weeks  
+2.04 stars per week over 6 weeks  
 14 stars, 6 forks, 10 watches  
 created 2021-10-19, last commit 2021-11-15, main language TypeScript  
 
@@ -308,6 +308,6 @@ The Metaplex protocol
 created 2021-06-23, last commit 2021-06-28, main language Rust  
 
 
-This file was automatically generated on 2021-12-05.  
+This file was automatically generated on 2021-12-06.  
 
 To curate your own github list, simply clone and change the input csv file.  

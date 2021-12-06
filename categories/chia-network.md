@@ -9,8 +9,8 @@ Checkout the interactive version that you can filter and sort:
 Chia blockchain python implementation (full node, farmer, harvester, timelord, and wallet)  
 [https://github.com/Chia-Network/chia-blockchain](https://github.com/Chia-Network/chia-blockchain)  
 77 stars per week over 124 weeks  
-9,659 stars, 1,717 forks, 354 watches  
-created 2019-07-16, last commit 2021-12-03, main language Python  
+9,668 stars, 1,720 forks, 353 watches  
+created 2019-07-16, last commit 2021-12-05, main language Python  
 <sub><sup>blockchain, blockchain-network, chia, chia-blockchain, farmer, full-node, harvesters, peer, proof-of-space, proof-of-time, timelord, vdf, wallets</sup></sub>
 
 
@@ -18,7 +18,7 @@ created 2019-07-16, last commit 2021-12-03, main language Python
 Reference python implementation of Chia pool operations for pool operators  
 [https://github.com/Chia-Network/pool-reference](https://github.com/Chia-Network/pool-reference)  
 15 stars per week over 29 weeks  
-454 stars, 204 forks, 67 watches  
+454 stars, 205 forks, 67 watches  
 created 2021-05-15, last commit 2021-10-22, main language Python  
 <sub><sup>blockchain, chia, chialisp, cryptocurrency, pool, pooling</sup></sub>
 
@@ -27,15 +27,15 @@ created 2021-05-15, last commit 2021-10-22, main language Python
 Chia blockchain GUI in electron/react  
 [https://chia.net](https://chia.net)  
 [https://github.com/Chia-Network/chia-blockchain-gui](https://github.com/Chia-Network/chia-blockchain-gui)  
-6.86 stars per week over 43 weeks  
-295 stars, 189 forks, 19 watches  
+6.84 stars per week over 43 weeks  
+295 stars, 190 forks, 19 watches  
 created 2021-02-07, last commit 2021-11-27, main language TypeScript  
 
 
 ### [chiapos](https://github.com/Chia-Network/chiapos) by [Chia-Network](https://github.com/Chia-Network)  
 Chia Proof of Space library  
 [https://github.com/Chia-Network/chiapos](https://github.com/Chia-Network/chiapos)  
-2.9 stars per week over 90 weeks  
+2.89 stars per week over 90 weeks  
 263 stars, 272 forks, 44 watches  
 created 2020-03-10, last commit 2021-12-03, main language HTML  
 <sub><sup>blockchain, blockchain-network, chia, chia-blockchain, farmer, hellman-attacks, proof-of-space</sup></sub>
@@ -53,16 +53,16 @@ created 2018-08-02, last commit 2021-12-03, main language C++
 ### [chia-docker](https://github.com/Chia-Network/chia-docker) by [Chia-Network](https://github.com/Chia-Network)  
   
 [https://github.com/Chia-Network/chia-docker](https://github.com/Chia-Network/chia-docker)  
-4.57 stars per week over 39 weeks  
-182 stars, 356 forks, 26 watches  
+4.58 stars per week over 40 weeks  
+183 stars, 357 forks, 26 watches  
 created 2021-03-01, last commit 2021-11-05, main language Shell  
 
 
 ### [bladebit](https://github.com/Chia-Network/bladebit) by [Chia-Network](https://github.com/Chia-Network)  
 BladeBit - Fast Chia (XCH) RAM-only k32-only Plotter  
 [https://github.com/Chia-Network/bladebit](https://github.com/Chia-Network/bladebit)  
-8.56 stars per week over 21 weeks  
-181 stars, 60 forks, 15 watches  
+8.55 stars per week over 21 weeks  
+182 stars, 61 forks, 15 watches  
 created 2021-07-10, last commit 2021-11-11, main language C  
 
 
@@ -78,7 +78,7 @@ created 2017-12-16, last commit 2018-10-11, main language HTML
 ### [oldvdf-competition](https://github.com/Chia-Network/oldvdf-competition) by [Chia-Network](https://github.com/Chia-Network)  
 VDF competition instructions, and simple implementation  
 [https://github.com/Chia-Network/oldvdf-competition](https://github.com/Chia-Network/oldvdf-competition)  
-0.5 stars per week over 165 weeks  
+0.5 stars per week over 166 weeks  
 83 stars, 13 forks, 37 watches  
 created 2018-10-01, last commit 2018-12-20, main language Python  
 
@@ -103,7 +103,7 @@ created 2019-08-20, last commit 2021-12-01, main language Python
 ### [clvm_rs](https://github.com/Chia-Network/clvm_rs) by [Chia-Network](https://github.com/Chia-Network)  
 Rust implementation of clvm  
 [https://github.com/Chia-Network/clvm_rs](https://github.com/Chia-Network/clvm_rs)  
-1.23 stars per week over 43 weeks  
+1.23 stars per week over 44 weeks  
 54 stars, 24 forks, 12 watches  
 created 2021-02-01, last commit 2021-12-03, main language Rust  
 
@@ -130,7 +130,7 @@ A docusaurus Chialisp website
 [https://chialisp.com](https://chialisp.com)  
 [https://github.com/Chia-Network/chialisp-web](https://github.com/Chia-Network/chialisp-web)  
 0.56 stars per week over 69 weeks  
-39 stars, 40 forks, 27 watches  
+39 stars, 41 forks, 27 watches  
 created 2020-08-06, last commit 2021-12-03, main language JavaScript  
 <sub><sup>chia, chialisp, clvm</sup></sub>
 
@@ -146,7 +146,7 @@ created 2019-04-04, last commit 2019-06-11, main language Python
 ### [chia-dev-tools](https://github.com/Chia-Network/chia-dev-tools) by [Chia-Network](https://github.com/Chia-Network)  
 A utility for developing in the Chia ecosystem: Chialisp functions, object inspection, RPC client and more.  
 [https://github.com/Chia-Network/chia-dev-tools](https://github.com/Chia-Network/chia-dev-tools)  
-1.02 stars per week over 18 weeks  
+1.01 stars per week over 18 weeks  
 19 stars, 11 forks, 12 watches  
 created 2021-07-27, last commit 2021-10-01, main language Python  
 
@@ -167,6 +167,6 @@ created 2019-04-04, last commit 2020-09-19, main language JavaScript
 created 2019-08-23, last commit 2019-08-23, main language HTML  
 
 
-This file was automatically generated on 2021-12-05.  
+This file was automatically generated on 2021-12-06.  
 
 To curate your own github list, simply clone and change the input csv file.  

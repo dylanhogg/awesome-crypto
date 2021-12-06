@@ -16,7 +16,7 @@ created 2015-02-24, last commit 2021-06-25, main language Rust
 ### [parsec](https://github.com/maidsafe/parsec) by [maidsafe](https://github.com/maidsafe)  
 Protocol for Asynchronous, Reliable, Secure and Efficient Consensus  
 [https://github.com/maidsafe/parsec](https://github.com/maidsafe/parsec)  
-1.39 stars per week over 182 weeks  
+1.39 stars per week over 183 weeks  
 255 stars, 38 forks, 38 watches  
 created 2018-06-04, last commit 2020-11-23, main language Rust  
 
@@ -24,7 +24,7 @@ created 2018-06-04, last commit 2020-11-23, main language Rust
 ### [qp2p](https://github.com/maidsafe/qp2p) by [maidsafe](https://github.com/maidsafe)  
 peer-to-peer communications library for Rust based on QUIC protocol  
 [https://github.com/maidsafe/qp2p](https://github.com/maidsafe/qp2p)  
-1.76 stars per week over 142 weeks  
+1.75 stars per week over 142 weeks  
 250 stars, 51 forks, 19 watches  
 created 2019-03-14, last commit 2021-11-04, main language Rust  
 
@@ -114,7 +114,7 @@ The Safe Network Core. API message definitions, routing and nodes, client core a
 [https://github.com/maidsafe/safe_network](https://github.com/maidsafe/safe_network)  
 1.34 stars per week over 25 weeks  
 34 stars, 20 forks, 13 watches  
-created 2021-06-11, last commit 2021-12-02, main language Rust  
+created 2021-06-11, last commit 2021-12-06, main language Rust  
 
 
 ### [resource_proof](https://github.com/maidsafe/resource_proof) by [maidsafe](https://github.com/maidsafe)  
@@ -136,7 +136,7 @@ created 2017-03-30, last commit 2021-06-09, main language Rust
 ### [sn_csharp](https://github.com/maidsafe/sn_csharp) by [maidsafe](https://github.com/maidsafe)  
 .NET wrapper package for safe_api (https://github.com/maidsafe/safe-api/tree/master/safe-ffi)  
 [https://github.com/maidsafe/sn_csharp](https://github.com/maidsafe/sn_csharp)  
-0.1 stars per week over 214 weeks  
+0.1 stars per week over 215 weeks  
 22 stars, 17 forks, 17 watches  
 created 2017-10-23, last commit 2020-09-28, main language C#  
 
@@ -152,7 +152,7 @@ created 2019-05-19, last commit 2021-06-25, main language Rust
 ### [maidsafe-utilities](https://github.com/maidsafe/maidsafe-utilities) by [maidsafe](https://github.com/maidsafe)  
 Utility functions  
 [https://github.com/maidsafe/maidsafe-utilities](https://github.com/maidsafe/maidsafe-utilities)  
-0.07 stars per week over 316 weeks  
+0.07 stars per week over 317 weeks  
 21 stars, 27 forks, 21 watches  
 created 2015-11-09, last commit 2020-07-30, main language Rust  
 
@@ -189,12 +189,12 @@ Implementation of a BLS DKG mechanism, requires signing key, encryption key and 
 created 2020-02-23, last commit 2021-11-24, main language Rust  
 
 
-### [safenetwork.tech](https://github.com/maidsafe/safenetwork.tech) by [maidsafe](https://github.com/maidsafe)  
+### [sn_nodejs](https://github.com/maidsafe/sn_nodejs) by [maidsafe](https://github.com/maidsafe)  
   
-[https://github.com/maidsafe/safenetwork.tech](https://github.com/maidsafe/safenetwork.tech)  
-0.09 stars per week over 176 weeks  
-15 stars, 20 forks, 13 watches  
-created 2018-07-20, last commit 2021-06-01, main language JavaScript  
+[https://github.com/maidsafe/sn_nodejs](https://github.com/maidsafe/sn_nodejs)  
+0.13 stars per week over 117 weeks  
+15 stars, 6 forks, 13 watches  
+created 2019-09-03, last commit 2021-06-14, main language Rust  
 
 
 ### [sn_mobile_browser](https://github.com/maidsafe/sn_mobile_browser) by [maidsafe](https://github.com/maidsafe)  
@@ -205,12 +205,12 @@ Mobile Browser App for the SAFE Network
 created 2019-03-27, last commit 2020-09-28, main language C#  
 
 
-### [sn_nodejs](https://github.com/maidsafe/sn_nodejs) by [maidsafe](https://github.com/maidsafe)  
+### [safenetwork.tech](https://github.com/maidsafe/safenetwork.tech) by [maidsafe](https://github.com/maidsafe)  
   
-[https://github.com/maidsafe/sn_nodejs](https://github.com/maidsafe/sn_nodejs)  
-0.13 stars per week over 117 weeks  
-15 stars, 6 forks, 13 watches  
-created 2019-09-03, last commit 2021-06-14, main language Rust  
+[https://github.com/maidsafe/safenetwork.tech](https://github.com/maidsafe/safenetwork.tech)  
+0.09 stars per week over 176 weeks  
+15 stars, 20 forks, 13 watches  
+created 2018-07-20, last commit 2021-06-01, main language JavaScript  
 
 
 ### [QA](https://github.com/maidsafe/QA) by [maidsafe](https://github.com/maidsafe)  
@@ -240,17 +240,9 @@ created 2020-02-12, last commit 2021-11-29, main language Rust
 ### [sn_bindgen](https://github.com/maidsafe/sn_bindgen) by [maidsafe](https://github.com/maidsafe)  
   
 [https://github.com/maidsafe/sn_bindgen](https://github.com/maidsafe/sn_bindgen)  
-0.05 stars per week over 203 weeks  
+0.05 stars per week over 204 weeks  
 11 stars, 13 forks, 16 watches  
 created 2018-01-08, last commit 2021-05-11, main language Rust  
-
-
-### [sn_ffi_utils](https://github.com/maidsafe/sn_ffi_utils) by [maidsafe](https://github.com/maidsafe)  
-This crate contains utilities to be consumed by crates interfacing with other languages via FFI. It also contains utilities for testing in FFI scenario which gets compiled only during testing.  
-[https://github.com/maidsafe/sn_ffi_utils](https://github.com/maidsafe/sn_ffi_utils)  
-0.06 stars per week over 171 weeks  
-10 stars, 12 forks, 14 watches  
-created 2018-08-23, last commit 2021-06-08, main language Rust  
 
 
 ### [sn_transfers](https://github.com/maidsafe/sn_transfers) by [maidsafe](https://github.com/maidsafe)  
@@ -261,6 +253,14 @@ Implementation of Transfers in the SAFE Network.
 created 2020-05-16, last commit 2021-06-25, main language Rust  
 
 
-This file was automatically generated on 2021-12-05.  
+### [sn_ffi_utils](https://github.com/maidsafe/sn_ffi_utils) by [maidsafe](https://github.com/maidsafe)  
+This crate contains utilities to be consumed by crates interfacing with other languages via FFI. It also contains utilities for testing in FFI scenario which gets compiled only during testing.  
+[https://github.com/maidsafe/sn_ffi_utils](https://github.com/maidsafe/sn_ffi_utils)  
+0.06 stars per week over 171 weeks  
+10 stars, 12 forks, 14 watches  
+created 2018-08-23, last commit 2021-06-08, main language Rust  
+
+
+This file was automatically generated on 2021-12-06.  
 
 To curate your own github list, simply clone and change the input csv file.  

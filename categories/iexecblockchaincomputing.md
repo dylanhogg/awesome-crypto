@@ -19,8 +19,8 @@ created 2017-07-20, last commit 2021-11-03, main language JavaScript
 iExec dapps registry, the FIRST step to be listed on the iExec dapp store  
 [https://dapps.iex.ec](https://dapps.iex.ec)  
 [https://github.com/iExecBlockchainComputing/iexec-dapps-registry](https://github.com/iExecBlockchainComputing/iexec-dapps-registry)  
-0.22 stars per week over 220 weeks  
-48 stars, 62 forks, 23 watches  
+0.22 stars per week over 221 weeks  
+48 stars, 61 forks, 23 watches  
 created 2017-09-11, last commit 2021-09-06, main language R  
 
 
@@ -35,7 +35,7 @@ created 2017-03-02, last commit 2018-02-16, main language JavaScript
 ### [xtremweb-hep](https://github.com/iExecBlockchainComputing/xtremweb-hep) by [iExecBlockchainComputing](https://github.com/iExecBlockchainComputing)  
 Data driven volunteer cloud  
 [https://github.com/iExecBlockchainComputing/xtremweb-hep](https://github.com/iExecBlockchainComputing/xtremweb-hep)  
-0.12 stars per week over 257 weeks  
+0.12 stars per week over 258 weeks  
 32 stars, 2 forks, 13 watches  
 created 2016-12-26, last commit 2019-06-24, main language Java  
 
@@ -44,7 +44,7 @@ created 2016-12-26, last commit 2019-06-24, main language Java
 iExec worker  
 [https://docs.iex.ec/](https://docs.iex.ec/)  
 [https://github.com/iExecBlockchainComputing/iexec-worker](https://github.com/iExecBlockchainComputing/iexec-worker)  
-0.16 stars per week over 166 weeks  
+0.16 stars per week over 167 weeks  
 27 stars, 3 forks, 12 watches  
 created 2018-09-24, last commit 2021-11-30, main language Java  
 
@@ -53,7 +53,7 @@ created 2018-09-24, last commit 2021-11-30, main language Java
 iExec Core Scheduler  
 [https://docs.iex.ec/](https://docs.iex.ec/)  
 [https://github.com/iExecBlockchainComputing/iexec-core](https://github.com/iExecBlockchainComputing/iexec-core)  
-0.16 stars per week over 166 weeks  
+0.16 stars per week over 167 weeks  
 26 stars, 8 forks, 11 watches  
 created 2018-09-24, last commit 2021-11-30, main language Java  
 
@@ -86,7 +86,7 @@ created 2017-12-15, last commit 2018-10-12, main language JavaScript
 ### [iexec-stack](https://github.com/iExecBlockchainComputing/iexec-stack) by [iExecBlockchainComputing](https://github.com/iExecBlockchainComputing)  
 Aggregates and keeps track of all iExec projects [Statistics only repository]  
 [https://github.com/iExecBlockchainComputing/iexec-stack](https://github.com/iExecBlockchainComputing/iexec-stack)  
-0.08 stars per week over 180 weeks  
+0.08 stars per week over 181 weeks  
 15 stars, 0 forks, 16 watches  
 created 2018-06-18, last commit 2018-11-19, main language Java  
 
@@ -102,9 +102,18 @@ created 2018-05-11, last commit 2020-11-06, main language JavaScript
 ### [iexec-common](https://github.com/iExecBlockchainComputing/iexec-common) by [iExecBlockchainComputing](https://github.com/iExecBlockchainComputing)  
   
 [https://github.com/iExecBlockchainComputing/iexec-common](https://github.com/iExecBlockchainComputing/iexec-common)  
-0.08 stars per week over 166 weeks  
+0.08 stars per week over 167 weeks  
 13 stars, 1 forks, 8 watches  
 created 2018-09-24, last commit 2021-12-02, main language Java  
+
+
+### [whitepaper](https://github.com/iExecBlockchainComputing/whitepaper) by [iExecBlockchainComputing](https://github.com/iExecBlockchainComputing)  
+iExec whitepaper archive  
+[https://iex.ec](https://iex.ec)  
+[https://github.com/iExecBlockchainComputing/whitepaper](https://github.com/iExecBlockchainComputing/whitepaper)  
+0.05 stars per week over 258 weeks  
+12 stars, 0 forks, 4 watches  
+created 2016-12-26, last commit 2018-04-30, main language None  
 
 
 ### [iexec-pools-registry](https://github.com/iExecBlockchainComputing/iexec-pools-registry) by [iExecBlockchainComputing](https://github.com/iExecBlockchainComputing)  
@@ -116,15 +125,6 @@ The iExec pools registry, more below on how to list your Worker Pool!
 created 2018-03-20, last commit 2021-07-09, main language None  
 
 
-### [whitepaper](https://github.com/iExecBlockchainComputing/whitepaper) by [iExecBlockchainComputing](https://github.com/iExecBlockchainComputing)  
-iExec whitepaper archive  
-[https://iex.ec](https://iex.ec)  
-[https://github.com/iExecBlockchainComputing/whitepaper](https://github.com/iExecBlockchainComputing/whitepaper)  
-0.05 stars per week over 257 weeks  
-12 stars, 0 forks, 4 watches  
-created 2016-12-26, last commit 2018-04-30, main language None  
-
-
 ### [iexec-doc](https://github.com/iExecBlockchainComputing/iexec-doc) by [iExecBlockchainComputing](https://github.com/iExecBlockchainComputing)  
 iExec main documentation  
 [https://docs.iex.ec](https://docs.iex.ec)  
@@ -134,6 +134,6 @@ iExec main documentation
 created 2018-01-12, last commit 2019-11-29, main language Python  
 
 
-This file was automatically generated on 2021-12-05.  
+This file was automatically generated on 2021-12-06.  
 
 To curate your own github list, simply clone and change the input csv file.  

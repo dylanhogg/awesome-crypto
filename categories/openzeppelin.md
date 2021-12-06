@@ -9,8 +9,8 @@ Checkout the interactive version that you can filter and sort:
 OpenZeppelin Contracts is a library for secure smart contract development.  
 [https://openzeppelin.com/contracts](https://openzeppelin.com/contracts)  
 [https://github.com/OpenZeppelin/openzeppelin-contracts](https://github.com/OpenZeppelin/openzeppelin-contracts)  
-50 stars per week over 278 weeks  
-13,955 stars, 7,059 forks, 560 watches  
+50 stars per week over 279 weeks  
+13,977 stars, 7,069 forks, 563 watches  
 created 2016-08-01, last commit 2021-12-01, main language JavaScript  
 <sub><sup>ethereum, evm, security, solidity, zeppelin</sup></sub>
 
@@ -18,8 +18,8 @@ created 2016-08-01, last commit 2021-12-01, main language JavaScript
 ### [ethernaut](https://github.com/OpenZeppelin/ethernaut) by [OpenZeppelin](https://github.com/OpenZeppelin)  
 Web3/Solidity based wargame  
 [https://github.com/OpenZeppelin/ethernaut](https://github.com/OpenZeppelin/ethernaut)  
-3.67 stars per week over 211 weeks  
-776 stars, 223 forks, 18 watches  
+3.68 stars per week over 211 weeks  
+778 stars, 224 forks, 18 watches  
 created 2017-11-16, last commit 2021-10-28, main language JavaScript  
 
 
@@ -27,7 +27,7 @@ created 2017-11-16, last commit 2021-10-28, main language JavaScript
 OpenZeppelin SDK repository for CLI and upgrades.js. No longer actively developed.  
 [https://github.com/OpenZeppelin/openzeppelin-sdk](https://github.com/OpenZeppelin/openzeppelin-sdk)  
 2.24 stars per week over 174 weeks  
-391 stars, 191 forks, 31 watches  
+392 stars, 191 forks, 31 watches  
 created 2018-08-01, last commit 2020-11-26, main language JavaScript  
 
 
@@ -36,7 +36,7 @@ created 2018-08-01, last commit 2020-11-26, main language JavaScript
 [https://damnvulnerabledefi.xyz/](https://damnvulnerabledefi.xyz/)  
 [https://github.com/OpenZeppelin/damn-vulnerable-defi](https://github.com/OpenZeppelin/damn-vulnerable-defi)  
 5.25 stars per week over 62 weeks  
-329 stars, 184 forks, 11 watches  
+330 stars, 184 forks, 11 watches  
 created 2020-09-22, last commit 2021-02-26, main language Solidity  
 
 
@@ -52,7 +52,7 @@ created 2018-07-20, last commit 2021-12-01, main language JavaScript
 ### [awesome-openzeppelin](https://github.com/OpenZeppelin/awesome-openzeppelin) by [OpenZeppelin](https://github.com/OpenZeppelin)  
 Blockchain educational resources curated by the OpenZeppelin team  
 [https://github.com/OpenZeppelin/awesome-openzeppelin](https://github.com/OpenZeppelin/awesome-openzeppelin)  
-1.9 stars per week over 159 weeks  
+1.89 stars per week over 160 weeks  
 303 stars, 69 forks, 16 watches  
 created 2018-11-12, last commit 2020-01-23, main language None  
 <sub><sup>awesome-list, blockchain, ethereum, openzeppelin</sup></sub>
@@ -62,7 +62,7 @@ created 2018-11-12, last commit 2020-01-23, main language None
 Assertion library for Ethereum smart contract testing  
 [https://docs.openzeppelin.com/test-helpers](https://docs.openzeppelin.com/test-helpers)  
 [https://github.com/OpenZeppelin/openzeppelin-test-helpers](https://github.com/OpenZeppelin/openzeppelin-test-helpers)  
-1.79 stars per week over 157 weeks  
+1.78 stars per week over 157 weeks  
 281 stars, 87 forks, 20 watches  
 created 2018-11-30, last commit 2021-10-05, main language JavaScript  
 
@@ -87,7 +87,7 @@ created 2020-06-19, last commit 2021-12-02, main language TypeScript
 ### [solidity-docgen](https://github.com/OpenZeppelin/solidity-docgen) by [OpenZeppelin](https://github.com/OpenZeppelin)  
 Documentation generator for Solidity projects  
 [https://github.com/OpenZeppelin/solidity-docgen](https://github.com/OpenZeppelin/solidity-docgen)  
-0.99 stars per week over 203 weeks  
+0.99 stars per week over 204 weeks  
 201 stars, 65 forks, 8 watches  
 created 2018-01-08, last commit 2021-11-14, main language TypeScript  
 
@@ -96,14 +96,14 @@ created 2018-01-08, last commit 2021-11-14, main language TypeScript
 OpenZeppelin Contracts written in Cairo for StarkNet, a decentralized ZK Rollup  
 [https://github.com/OpenZeppelin/cairo-contracts](https://github.com/OpenZeppelin/cairo-contracts)  
 10 stars per week over 15 weeks  
-161 stars, 28 forks, 10 watches  
+164 stars, 28 forks, 10 watches  
 created 2021-08-18, last commit 2021-12-03, main language Python  
 
 
 ### [workshops](https://github.com/OpenZeppelin/workshops) by [OpenZeppelin](https://github.com/OpenZeppelin)  
 Code and slides for OpenZeppelin Workshops  
 [https://github.com/OpenZeppelin/workshops](https://github.com/OpenZeppelin/workshops)  
-3.42 stars per week over 41 weeks  
+3.4 stars per week over 41 weeks  
 142 stars, 61 forks, 13 watches  
 created 2021-02-17, last commit 2021-11-15, main language JavaScript  
 
@@ -131,7 +131,7 @@ created 2019-07-02, last commit 2019-07-02, main language JavaScript
 UI for TokenVesting contract from OpenZeppelin. No longer maintained  
 [https://openzeppelin.org](https://openzeppelin.org)  
 [https://github.com/OpenZeppelin/token-vesting-ui](https://github.com/OpenZeppelin/token-vesting-ui)  
-0.39 stars per week over 217 weeks  
+0.39 stars per week over 218 weeks  
 86 stars, 71 forks, 8 watches  
 created 2017-10-02, last commit 2020-01-07, main language JavaScript  
 
@@ -140,7 +140,7 @@ created 2017-10-02, last commit 2020-01-07, main language JavaScript
 [Not actively maintained] One-line setup for blazing-fast smart contracts tests  
 [https://docs.openzeppelin.com/test-environment](https://docs.openzeppelin.com/test-environment)  
 [https://github.com/OpenZeppelin/openzeppelin-test-environment](https://github.com/OpenZeppelin/openzeppelin-test-environment)  
-0.75 stars per week over 109 weeks  
+0.75 stars per week over 110 weeks  
 82 stars, 29 forks, 17 watches  
 created 2019-10-28, last commit 2021-08-20, main language Solidity  
 <sub><sup>ethereum, smart-contracts, solidity, test, testing, web3</sup></sub>
@@ -150,7 +150,7 @@ created 2019-10-28, last commit 2021-08-20, main language Solidity
 Interactive smart contract generator based on OpenZeppelin Contracts.  
 [https://wizard.openzeppelin.com](https://wizard.openzeppelin.com)  
 [https://github.com/OpenZeppelin/contracts-wizard](https://github.com/OpenZeppelin/contracts-wizard)  
-1.85 stars per week over 42 weeks  
+1.84 stars per week over 42 weeks  
 79 stars, 29 forks, 14 watches  
 created 2021-02-09, last commit 2021-11-25, main language TypeScript  
 
@@ -158,7 +158,7 @@ created 2021-02-09, last commit 2021-11-25, main language TypeScript
 ### [nile](https://github.com/OpenZeppelin/nile) by [OpenZeppelin](https://github.com/OpenZeppelin)  
 CLI tool to develop StarkNet projects written in Cairo  
 [https://github.com/OpenZeppelin/nile](https://github.com/OpenZeppelin/nile)  
-6.09 stars per week over 11 weeks  
+6.01 stars per week over 11 weeks  
 67 stars, 9 forks, 2 watches  
 created 2021-09-19, last commit 2021-12-05, main language Python  
 
@@ -184,7 +184,7 @@ created 2018-01-26, last commit 2020-01-07, main language JavaScript
 Subgraph schema and templates to index the activity of OpenZeppelin Contracts.  
 [https://docs.openzeppelin.com/subgraphs/](https://docs.openzeppelin.com/subgraphs/)  
 [https://github.com/OpenZeppelin/openzeppelin-subgraphs](https://github.com/OpenZeppelin/openzeppelin-subgraphs)  
-1.91 stars per week over 25 weeks  
+1.9 stars per week over 25 weeks  
 49 stars, 14 forks, 2 watches  
 created 2021-06-08, last commit 2021-11-23, main language TypeScript  
 
@@ -273,17 +273,9 @@ created 2019-06-25, last commit 2021-11-26, main language JavaScript
  Security Management to Protect the Open Economy  
 [https://openzeppelin.com/defender](https://openzeppelin.com/defender)  
 [https://github.com/OpenZeppelin/defender-docs](https://github.com/OpenZeppelin/defender-docs)  
-0.29 stars per week over 58 weeks  
+0.29 stars per week over 59 weeks  
 17 stars, 14 forks, 12 watches  
 created 2020-10-19, last commit 2021-12-03, main language None  
-
-
-### [gsn-sample-chat_app](https://github.com/OpenZeppelin/gsn-sample-chat_app) by [OpenZeppelin](https://github.com/OpenZeppelin)  
-OpenZeppelin starter-kit based GSN tutorial for a Chat App  
-[https://github.com/OpenZeppelin/gsn-sample-chat_app](https://github.com/OpenZeppelin/gsn-sample-chat_app)  
-0.12 stars per week over 131 weeks  
-16 stars, 6 forks, 15 watches  
-created 2019-05-27, last commit 2021-11-11, main language JavaScript  
 
 
 ### [openzeppelin-gsn-helpers](https://github.com/OpenZeppelin/openzeppelin-gsn-helpers) by [OpenZeppelin](https://github.com/OpenZeppelin)  
@@ -294,10 +286,18 @@ Test and development helper methods and scripts for GSN
 created 2019-07-26, last commit 2020-08-05, main language JavaScript  
 
 
+### [gsn-sample-chat_app](https://github.com/OpenZeppelin/gsn-sample-chat_app) by [OpenZeppelin](https://github.com/OpenZeppelin)  
+OpenZeppelin starter-kit based GSN tutorial for a Chat App  
+[https://github.com/OpenZeppelin/gsn-sample-chat_app](https://github.com/OpenZeppelin/gsn-sample-chat_app)  
+0.12 stars per week over 132 weeks  
+16 stars, 6 forks, 15 watches  
+created 2019-05-27, last commit 2021-11-11, main language JavaScript  
+
+
 ### [openzeppelin-contracts-docs](https://github.com/OpenZeppelin/openzeppelin-contracts-docs) by [OpenZeppelin](https://github.com/OpenZeppelin)  
 OpenZeppelin documentation site configuration  
 [https://github.com/OpenZeppelin/openzeppelin-contracts-docs](https://github.com/OpenZeppelin/openzeppelin-contracts-docs)  
-0.07 stars per week over 190 weeks  
+0.07 stars per week over 191 weeks  
 14 stars, 33 forks, 7 watches  
 created 2018-04-09, last commit 2019-10-23, main language JavaScript  
 
@@ -308,14 +308,6 @@ created 2018-04-09, last commit 2019-10-23, main language JavaScript
 0.16 stars per week over 79 weeks  
 13 stars, 2 forks, 7 watches  
 created 2020-05-27, last commit 2020-08-10, main language TypeScript  
-
-
-### [openzeppelin-contract-loader](https://github.com/OpenZeppelin/openzeppelin-contract-loader) by [OpenZeppelin](https://github.com/OpenZeppelin)  
-Load contract ABIs from built artifacts and return contract objects  
-[https://github.com/OpenZeppelin/openzeppelin-contract-loader](https://github.com/OpenZeppelin/openzeppelin-contract-loader)  
-0.1 stars per week over 116 weeks  
-12 stars, 2 forks, 12 watches  
-created 2019-09-12, last commit 2021-08-20, main language JavaScript  
 
 
 ### [code-style](https://github.com/OpenZeppelin/code-style) by [OpenZeppelin](https://github.com/OpenZeppelin)  
@@ -334,6 +326,14 @@ LaTeX sources for the OpenZeppelin Platform Whitepaper
 created 2018-05-08, last commit 2019-07-19, main language Makefile  
 
 
+### [openzeppelin-contract-loader](https://github.com/OpenZeppelin/openzeppelin-contract-loader) by [OpenZeppelin](https://github.com/OpenZeppelin)  
+Load contract ABIs from built artifacts and return contract objects  
+[https://github.com/OpenZeppelin/openzeppelin-contract-loader](https://github.com/OpenZeppelin/openzeppelin-contract-loader)  
+0.1 stars per week over 116 weeks  
+12 stars, 2 forks, 12 watches  
+created 2019-09-12, last commit 2021-08-20, main language JavaScript  
+
+
 ### [openzeppelin.com](https://github.com/OpenZeppelin/openzeppelin.com) by [OpenZeppelin](https://github.com/OpenZeppelin)  
 Main website of OpenZeppelin  
 [https://github.com/OpenZeppelin/openzeppelin.com](https://github.com/OpenZeppelin/openzeppelin.com)  
@@ -342,6 +342,6 @@ Main website of OpenZeppelin
 created 2019-07-18, last commit 2021-11-17, main language HTML  
 
 
-This file was automatically generated on 2021-12-05.  
+This file was automatically generated on 2021-12-06.  
 
 To curate your own github list, simply clone and change the input csv file.  

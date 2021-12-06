@@ -14,6 +14,6 @@ Ethereum Smart Contract for NEXO ERC20 Token
 created 2018-04-17, last commit 2018-04-20, main language JavaScript  
 
 
-This file was automatically generated on 2021-12-05.  
+This file was automatically generated on 2021-12-06.  
 
 To curate your own github list, simply clone and change the input csv file.  

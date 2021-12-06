@@ -9,8 +9,8 @@ Checkout the interactive version that you can filter and sort:
 A tool for developing smart contracts. Crafted with the finest cacaos.  
 [https://trufflesuite.com](https://trufflesuite.com)  
 [https://github.com/trufflesuite/truffle](https://github.com/trufflesuite/truffle)  
-35 stars per week over 335 weeks  
-11,758 stars, 1,911 forks, 344 watches  
+35 stars per week over 336 weeks  
+11,764 stars, 1,914 forks, 344 watches  
 created 2015-06-29, last commit 2021-12-03, main language JavaScript  
 <sub><sup>blockchain, ethereum, framework, hacktoberfest, javascript, smart-contract-tools, smart-contracts, solidity, truffle</sup></sub>
 
@@ -20,7 +20,7 @@ Personal blockchain for Ethereum development
 [https://www.trufflesuite.com/ganache](https://www.trufflesuite.com/ganache)  
 [https://github.com/trufflesuite/ganache-ui](https://github.com/trufflesuite/ganache-ui)  
 14 stars per week over 254 weeks  
-3,704 stars, 638 forks, 113 watches  
+3,706 stars, 638 forks, 113 watches  
 created 2017-01-17, last commit 2020-10-29, main language JavaScript  
 <sub><sup>blockchain, development, electron, ethereum, ganache, truffle</sup></sub>
 
@@ -30,15 +30,15 @@ Fast Ethereum RPC client for testing and development. See https://github.com/tru
 [https://www.trufflesuite.com/ganache](https://www.trufflesuite.com/ganache)  
 [https://github.com/trufflesuite/ganache-cli-archive](https://github.com/trufflesuite/ganache-cli-archive)  
 10 stars per week over 308 weeks  
-3,369 stars, 716 forks, 119 watches  
+3,370 stars, 716 forks, 119 watches  
 created 2016-01-08, last commit 2021-08-19, main language JavaScript  
 
 
 ### [drizzle](https://github.com/trufflesuite/drizzle) by [trufflesuite](https://github.com/trufflesuite)  
 Reactive Ethereum dapp UI suite  
 [https://github.com/trufflesuite/drizzle](https://github.com/trufflesuite/drizzle)  
-5.21 stars per week over 124 weeks  
-647 stars, 166 forks, 31 watches  
+5.23 stars per week over 124 weeks  
+650 stars, 166 forks, 31 watches  
 created 2019-07-20, last commit 2020-09-01, main language JavaScript  
 <sub><sup>hacktoberfest</sup></sub>
 
@@ -47,8 +47,8 @@ created 2019-07-20, last commit 2020-09-01, main language JavaScript
 A tool for creating a local blockchain for fast Ethereum development.  
 [https://trufflesuite.com/ganache](https://trufflesuite.com/ganache)  
 [https://github.com/trufflesuite/ganache](https://github.com/trufflesuite/ganache)  
-2.32 stars per week over 244 weeks  
-568 stars, 316 forks, 23 watches  
+2.35 stars per week over 245 weeks  
+576 stars, 317 forks, 23 watches  
 created 2017-03-27, last commit 2021-12-03, main language TypeScript  
 <sub><sup>blockchain, ethereum, ganache, hacktoberfest</sup></sub>
 
@@ -57,7 +57,7 @@ created 2017-03-27, last commit 2021-12-03, main language TypeScript
 Reactive Ethereum datastore for dapp UIs.  
 [http://truffleframework.com/docs/drizzle/getting-started](http://truffleframework.com/docs/drizzle/getting-started)  
 [https://github.com/trufflesuite/drizzle-legacy](https://github.com/trufflesuite/drizzle-legacy)  
-2.31 stars per week over 220 weeks  
+2.31 stars per week over 221 weeks  
 510 stars, 143 forks, 37 watches  
 created 2017-09-11, last commit 2019-09-27, main language JavaScript  
 <sub><sup>drizzle, ethereum, redux</sup></sub>
@@ -82,7 +82,7 @@ created 2015-06-23, last commit 2018-06-13, main language JavaScript
 ### [drizzle-react-legacy](https://github.com/trufflesuite/drizzle-react-legacy) by [trufflesuite](https://github.com/trufflesuite)  
   
 [https://github.com/trufflesuite/drizzle-react-legacy](https://github.com/trufflesuite/drizzle-react-legacy)  
-0.8 stars per week over 220 weeks  
+0.8 stars per week over 221 weeks  
 177 stars, 45 forks, 23 watches  
 created 2017-09-11, last commit 2019-09-27, main language JavaScript  
 
@@ -91,8 +91,8 @@ created 2017-09-11, last commit 2019-09-27, main language JavaScript
 Truffle Suite website source  
 [https://trufflesuite.com](https://trufflesuite.com)  
 [https://github.com/trufflesuite/trufflesuite.com](https://github.com/trufflesuite/trufflesuite.com)  
-0.6 stars per week over 215 weeks  
-130 stars, 410 forks, 26 watches  
+0.61 stars per week over 216 weeks  
+131 stars, 410 forks, 26 watches  
 created 2017-10-16, last commit 2021-12-03, main language HTML  
 
 
@@ -131,7 +131,7 @@ created 2017-05-03, last commit 2018-06-13, main language JavaScript
 ### [drizzle-utils](https://github.com/trufflesuite/drizzle-utils) by [trufflesuite](https://github.com/trufflesuite)  
 A library for interacting with Ethereum smart contracts based on RxJS streams.  
 [https://github.com/trufflesuite/drizzle-utils](https://github.com/trufflesuite/drizzle-utils)  
-0.26 stars per week over 157 weeks  
+0.26 stars per week over 158 weeks  
 41 stars, 11 forks, 15 watches  
 created 2018-11-26, last commit 2021-04-21, main language JavaScript  
 
@@ -157,7 +157,7 @@ created 2016-09-14, last commit 2021-06-15, main language HTML
 ### [truffle-contract-schema](https://github.com/trufflesuite/truffle-contract-schema) by [trufflesuite](https://github.com/trufflesuite)  
 JSON schema for contract artifacts  
 [https://github.com/trufflesuite/truffle-contract-schema](https://github.com/trufflesuite/truffle-contract-schema)  
-0.1 stars per week over 255 weeks  
+0.1 stars per week over 256 weeks  
 26 stars, 11 forks, 2 watches  
 created 2017-01-09, last commit 2018-06-13, main language JavaScript  
 
@@ -211,20 +211,20 @@ Default build process for truffle dapps
 created 2016-01-14, last commit 2017-02-01, main language JavaScript  
 
 
+### [swirl](https://github.com/trufflesuite/swirl) by [trufflesuite](https://github.com/trufflesuite)  
+Make curl easier with ethereum bash completions.  
+[https://github.com/trufflesuite/swirl](https://github.com/trufflesuite/swirl)  
+0.08 stars per week over 164 weeks  
+14 stars, 1 forks, 15 watches  
+created 2018-10-10, last commit 2018-12-22, main language Shell  
+
+
 ### [webinar-episode-01](https://github.com/trufflesuite/webinar-episode-01) by [trufflesuite](https://github.com/trufflesuite)  
 Code to go along with our webinars  
 [https://github.com/trufflesuite/webinar-episode-01](https://github.com/trufflesuite/webinar-episode-01)  
 0.22 stars per week over 63 weeks  
 14 stars, 15 forks, 5 watches  
 created 2020-09-18, last commit 2021-06-08, main language JavaScript  
-
-
-### [swirl](https://github.com/trufflesuite/swirl) by [trufflesuite](https://github.com/trufflesuite)  
-Make curl easier with ethereum bash completions.  
-[https://github.com/trufflesuite/swirl](https://github.com/trufflesuite/swirl)  
-0.09 stars per week over 164 weeks  
-14 stars, 1 forks, 15 watches  
-created 2018-10-10, last commit 2018-12-22, main language Shell  
 
 
 ### [truffle-deployer](https://github.com/trufflesuite/truffle-deployer) by [trufflesuite](https://github.com/trufflesuite)  
@@ -252,6 +252,6 @@ Continuous Integration for your Truffle Project
 created 2019-04-02, last commit 2019-04-08, main language None  
 
 
-This file was automatically generated on 2021-12-05.  
+This file was automatically generated on 2021-12-06.  
 
 To curate your own github list, simply clone and change the input csv file.  

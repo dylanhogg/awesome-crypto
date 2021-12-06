@@ -34,9 +34,18 @@ created 2017-07-05, last commit 2021-11-04, main language Python
 ### [p2pool-dash](https://github.com/dashpay/p2pool-dash) by [dashpay](https://github.com/dashpay)  
   
 [https://github.com/dashpay/p2pool-dash](https://github.com/dashpay/p2pool-dash)  
-0.11 stars per week over 373 weeks  
+0.11 stars per week over 374 weeks  
 42 stars, 91 forks, 26 watches  
 created 2014-10-06, last commit 2020-02-10, main language Python  
+
+
+### [paper.dash.org](https://github.com/dashpay/paper.dash.org) by [dashpay](https://github.com/dashpay)  
+JavaScript Client-Side Dash Wallet Generator  
+[https://paper.dash.org](https://paper.dash.org)  
+[https://github.com/dashpay/paper.dash.org](https://github.com/dashpay/paper.dash.org)  
+0.12 stars per week over 309 weeks  
+37 stars, 39 forks, 14 watches  
+created 2016-01-04, last commit 2018-06-22, main language HTML  
 
 
 ### [electrum-dash-old](https://github.com/dashpay/electrum-dash-old) by [dashpay](https://github.com/dashpay)  
@@ -46,15 +55,6 @@ Electrum-DASH - a Dash thin client
 0.11 stars per week over 325 weeks  
 37 stars, 97 forks, 21 watches  
 created 2015-09-10, last commit 2017-03-19, main language Python  
-
-
-### [paper.dash.org](https://github.com/dashpay/paper.dash.org) by [dashpay](https://github.com/dashpay)  
-JavaScript Client-Side Dash Wallet Generator  
-[https://paper.dash.org](https://paper.dash.org)  
-[https://github.com/dashpay/paper.dash.org](https://github.com/dashpay/paper.dash.org)  
-0.12 stars per week over 308 weeks  
-37 stars, 39 forks, 14 watches  
-created 2016-01-04, last commit 2018-06-22, main language HTML  
 
 
 ### [docker-dashd](https://github.com/dashpay/docker-dashd) by [dashpay](https://github.com/dashpay)  
@@ -95,7 +95,7 @@ created 2016-06-14, last commit 2019-02-09, main language HTML
 x11 javascript hashing algorithm in pure javascript  
 [https://github.com/dashpay/x11-hash-js](https://github.com/dashpay/x11-hash-js)  
 0.07 stars per week over 281 weeks  
-21 stars, 24 forks, 10 watches  
+21 stars, 25 forks, 10 watches  
 created 2016-07-13, last commit 2018-11-15, main language JavaScript  
 
 
@@ -149,6 +149,6 @@ Electrum DASH Server
 created 2015-07-15, last commit 2016-11-23, main language Python  
 
 
-This file was automatically generated on 2021-12-05.  
+This file was automatically generated on 2021-12-06.  
 
 To curate your own github list, simply clone and change the input csv file.  

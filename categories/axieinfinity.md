@@ -17,8 +17,8 @@ created 2018-02-18, last commit 2018-04-02, main language None
 ### [ronin-smart-contracts](https://github.com/axieinfinity/ronin-smart-contracts) by [axieinfinity](https://github.com/axieinfinity)  
   
 [https://github.com/axieinfinity/ronin-smart-contracts](https://github.com/axieinfinity/ronin-smart-contracts)  
-1.4 stars per week over 72 weeks  
-101 stars, 35 forks, 22 watches  
+1.41 stars per week over 72 weeks  
+102 stars, 35 forks, 22 watches  
 created 2020-07-17, last commit 2021-05-14, main language Solidity  
 
 
@@ -56,6 +56,6 @@ created 2020-01-07, last commit 2020-01-17, main language Rust
 <sub><sup>abi-gen, api, api-client, ethereum, smart-contract, solidity, solidity-abi, web3</sup></sub>
 
 
-This file was automatically generated on 2021-12-05.  
+This file was automatically generated on 2021-12-06.  
 
 To curate your own github list, simply clone and change the input csv file.  

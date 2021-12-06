@@ -8,7 +8,7 @@ Checkout the interactive version that you can filter and sort:
 ### [protocol](https://github.com/reserve-protocol/protocol) by [reserve-protocol](https://github.com/reserve-protocol)  
   
 [https://github.com/reserve-protocol/protocol](https://github.com/reserve-protocol/protocol)  
-0.74 stars per week over 25 weeks  
+0.73 stars per week over 25 weeks  
 19 stars, 2 forks, 7 watches  
 created 2021-06-08, last commit 2021-12-03, main language TypeScript  
 
@@ -37,6 +37,6 @@ Implementation of a simple crypto-collateralized decentralized stablecoin
 created 2019-07-06, last commit 2020-07-20, main language Go  
 
 
-This file was automatically generated on 2021-12-05.  
+This file was automatically generated on 2021-12-06.  
 
 To curate your own github list, simply clone and change the input csv file.  

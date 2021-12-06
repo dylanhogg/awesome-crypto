@@ -36,7 +36,7 @@ created 2018-07-11, last commit 2019-01-04, main language Rust
 A high level concurrency and parallelism libary  
 [https://republicprotocol.com](https://republicprotocol.com)  
 [https://github.com/republicprotocol/co-go](https://github.com/republicprotocol/co-go)  
-0.11 stars per week over 202 weeks  
+0.11 stars per week over 203 weeks  
 23 stars, 5 forks, 11 watches  
 created 2018-01-15, last commit 2018-07-23, main language Go  
 
@@ -50,6 +50,6 @@ Republic Protocol whitepaper
 created 2018-01-09, last commit 2018-03-21, main language None  
 
 
-This file was automatically generated on 2021-12-05.  
+This file was automatically generated on 2021-12-06.  
 
 To curate your own github list, simply clone and change the input csv file.  

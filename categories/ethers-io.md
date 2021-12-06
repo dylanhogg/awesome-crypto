@@ -10,7 +10,7 @@ Complete Ethereum library and wallet implementation in JavaScript.
 [https://ethers.org/](https://ethers.org/)  
 [https://github.com/ethers-io/ethers.js](https://github.com/ethers-io/ethers.js)  
 12 stars per week over 281 weeks  
-3,475 stars, 843 forks, 70 watches  
+3,480 stars, 843 forks, 70 watches  
 created 2016-07-16, last commit 2021-12-01, main language TypeScript  
 <sub><sup>ethereum, ethers, javascript, typescript</sup></sub>
 
@@ -53,6 +53,14 @@ Frontend website HTML, JavaScript and CSS for ethers.io.
 created 2016-07-07, last commit 2018-06-07, main language JavaScript  
 
 
+### [ethers-web3-bridge](https://github.com/ethers-io/ethers-web3-bridge) by [ethers-io](https://github.com/ethers-io)  
+Allow Web3 instances to connect and use Ethers Providers and Signers.  
+[https://github.com/ethers-io/ethers-web3-bridge](https://github.com/ethers-io/ethers-web3-bridge)  
+0.09 stars per week over 198 weeks  
+18 stars, 10 forks, 4 watches  
+created 2018-02-14, last commit 2021-05-01, main language JavaScript  
+
+
 ### [ethers-cli](https://github.com/ethers-io/ethers-cli) by [ethers-io](https://github.com/ethers-io)  
 Deprecated; please see the `@ethersproject/cli` package instead  
 [https://github.com/ethers-io/ethers.js/tree/ethers-v5-beta/packages/cli](https://github.com/ethers-io/ethers.js/tree/ethers-v5-beta/packages/cli)  
@@ -61,14 +69,6 @@ Deprecated; please see the `@ethersproject/cli` package instead
 18 stars, 10 forks, 4 watches  
 created 2017-04-21, last commit 2019-02-28, main language HTML  
 <sub><sup>cli, ethereum, ethers</sup></sub>
-
-
-### [ethers-web3-bridge](https://github.com/ethers-io/ethers-web3-bridge) by [ethers-io](https://github.com/ethers-io)  
-Allow Web3 instances to connect and use Ethers Providers and Signers.  
-[https://github.com/ethers-io/ethers-web3-bridge](https://github.com/ethers-io/ethers-web3-bridge)  
-0.09 stars per week over 198 weeks  
-18 stars, 10 forks, 4 watches  
-created 2018-02-14, last commit 2021-05-01, main language JavaScript  
 
 
 ### [ethers-ledger](https://github.com/ethers-io/ethers-ledger) by [ethers-io](https://github.com/ethers-io)  
@@ -80,6 +80,6 @@ Deprecated; please see `@ethersproject/hardware-wallets` instead
 created 2018-07-18, last commit 2018-10-03, main language JavaScript  
 
 
-This file was automatically generated on 2021-12-05.  
+This file was automatically generated on 2021-12-06.  
 
 To curate your own github list, simply clone and change the input csv file.  

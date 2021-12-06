@@ -67,7 +67,7 @@ created 2017-07-13, last commit 2018-06-22, main language C#
 ### [BlockExplorer](https://github.com/stratisproject/BlockExplorer) by [stratisproject](https://github.com/stratisproject)  
 A set of projects that can index and query stratis blockchains on the fullnode.  
 [https://github.com/stratisproject/BlockExplorer](https://github.com/stratisproject/BlockExplorer)  
-0.12 stars per week over 213 weeks  
+0.12 stars per week over 214 weeks  
 25 stars, 28 forks, 21 watches  
 created 2017-10-30, last commit 2021-06-28, main language C#  
 
@@ -88,14 +88,6 @@ This repository contains the ARM Template for the Stratis ICO Platform
 created 2018-05-09, last commit 2018-08-29, main language None  
 
 
-### [electrum-stratis](https://github.com/stratisproject/electrum-stratis) by [stratisproject](https://github.com/stratisproject)  
-Electrum; Bitcoin thin client  
-[https://github.com/stratisproject/electrum-stratis](https://github.com/stratisproject/electrum-stratis)  
-0.07 stars per week over 256 weeks  
-19 stars, 13 forks, 14 watches  
-created 2017-01-05, last commit 2018-01-26, main language Python  
-
-
 ### [CirrusSmartContracts](https://github.com/stratisproject/CirrusSmartContracts) by [stratisproject](https://github.com/stratisproject)  
   
 [https://github.com/stratisproject/CirrusSmartContracts](https://github.com/stratisproject/CirrusSmartContracts)  
@@ -104,10 +96,18 @@ created 2017-01-05, last commit 2018-01-26, main language Python
 created 2019-07-04, last commit 2021-11-12, main language C#  
 
 
+### [electrum-stratis](https://github.com/stratisproject/electrum-stratis) by [stratisproject](https://github.com/stratisproject)  
+Electrum; Bitcoin thin client  
+[https://github.com/stratisproject/electrum-stratis](https://github.com/stratisproject/electrum-stratis)  
+0.07 stars per week over 256 weeks  
+19 stars, 13 forks, 14 watches  
+created 2017-01-05, last commit 2018-01-26, main language Python  
+
+
 ### [StratisIdentity](https://github.com/stratisproject/StratisIdentity) by [stratisproject](https://github.com/stratisproject)  
 Home of the Stratis Identity proof of concept  
 [https://github.com/stratisproject/StratisIdentity](https://github.com/stratisproject/StratisIdentity)  
-0.06 stars per week over 219 weeks  
+0.06 stars per week over 220 weeks  
 13 stars, 5 forks, 7 watches  
 created 2017-09-18, last commit 2017-09-18, main language C#  
 
@@ -120,28 +120,28 @@ created 2017-09-18, last commit 2017-09-18, main language C#
 created 2017-11-07, last commit 2017-11-07, main language C#  
 
 
-### [StratisPatricia](https://github.com/stratisproject/StratisPatricia) by [stratisproject](https://github.com/stratisproject)  
-An implementation of a merkle patricia trie in C#.  
-[https://github.com/stratisproject/StratisPatricia](https://github.com/stratisproject/StratisPatricia)  
-0.06 stars per week over 184 weeks  
-11 stars, 4 forks, 4 watches  
-created 2018-05-21, last commit 2019-02-01, main language C#  
-
-
-### [Stratis.SmartContracts](https://github.com/stratisproject/Stratis.SmartContracts) by [stratisproject](https://github.com/stratisproject)  
-The Stratis smart contract library, used by developers to create contracts in C#.  
-[https://github.com/stratisproject/Stratis.SmartContracts](https://github.com/stratisproject/Stratis.SmartContracts)  
-0.07 stars per week over 151 weeks  
-11 stars, 9 forks, 7 watches  
-created 2019-01-07, last commit 2021-04-19, main language C#  
-
-
 ### [BlockchainProgramming](https://github.com/stratisproject/BlockchainProgramming) by [stratisproject](https://github.com/stratisproject)  
   
 [https://github.com/stratisproject/BlockchainProgramming](https://github.com/stratisproject/BlockchainProgramming)  
 0.04 stars per week over 259 weeks  
 11 stars, 4 forks, 4 watches  
 created 2016-12-16, last commit 2016-12-10, main language None  
+
+
+### [Stratis.SmartContracts](https://github.com/stratisproject/Stratis.SmartContracts) by [stratisproject](https://github.com/stratisproject)  
+The Stratis smart contract library, used by developers to create contracts in C#.  
+[https://github.com/stratisproject/Stratis.SmartContracts](https://github.com/stratisproject/Stratis.SmartContracts)  
+0.07 stars per week over 152 weeks  
+11 stars, 9 forks, 7 watches  
+created 2019-01-07, last commit 2021-04-19, main language C#  
+
+
+### [StratisPatricia](https://github.com/stratisproject/StratisPatricia) by [stratisproject](https://github.com/stratisproject)  
+An implementation of a merkle patricia trie in C#.  
+[https://github.com/stratisproject/StratisPatricia](https://github.com/stratisproject/StratisPatricia)  
+0.06 stars per week over 185 weeks  
+11 stars, 4 forks, 4 watches  
+created 2018-05-21, last commit 2019-02-01, main language C#  
 
 
 ### [StraxUI](https://github.com/stratisproject/StraxUI) by [stratisproject](https://github.com/stratisproject)  
@@ -152,6 +152,6 @@ created 2016-12-16, last commit 2016-12-10, main language None
 created 2020-10-06, last commit 2021-11-30, main language TypeScript  
 
 
-This file was automatically generated on 2021-12-05.  
+This file was automatically generated on 2021-12-06.  
 
 To curate your own github list, simply clone and change the input csv file.  

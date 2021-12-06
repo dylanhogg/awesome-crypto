@@ -10,7 +10,7 @@ Official Verge Core Source Code Repository :muscle:
 [https://VergeCurrency.com](https://VergeCurrency.com)  
 [https://github.com/vergecurrency/verge](https://github.com/vergecurrency/verge)  
 4.46 stars per week over 306 weeks  
-1,365 stars, 402 forks, 284 watches  
+1,366 stars, 402 forks, 284 watches  
 created 2016-01-23, last commit 2021-12-02, main language C++  
 <sub><sup>blockchain, client, full, mining, node, server, testnet, verge, verge-qt, wallet, windows-wallet, xvg</sup></sub>
 
@@ -36,7 +36,7 @@ created 2016-01-23, last commit 2021-12-03, main language TypeScript
 ### [Verge-Blackpaper](https://github.com/vergecurrency/Verge-Blackpaper) by [vergecurrency](https://github.com/vergecurrency)  
 Official BlackPaper for Verge Currency ($XVG)  
 [https://github.com/vergecurrency/Verge-Blackpaper](https://github.com/vergecurrency/Verge-Blackpaper)  
-0.23 stars per week over 234 weeks  
+0.23 stars per week over 235 weeks  
 53 stars, 8 forks, 24 watches  
 created 2017-06-05, last commit 2021-01-20, main language None  
 
@@ -104,15 +104,6 @@ created 2018-01-02, last commit 2019-05-16, main language Batchfile
 <sub><sup>shortcut, verge, verge-blockchain, verge-wallet-installer, wallet, wallet-data, wizard</sup></sub>
 
 
-### [electrum-server](https://github.com/vergecurrency/electrum-server) by [vergecurrency](https://github.com/vergecurrency)  
-Electrum Server for Verge  
-[https://github.com/vergecurrency/electrum-server](https://github.com/vergecurrency/electrum-server)  
-0.05 stars per week over 218 weeks  
-10 stars, 3 forks, 4 watches  
-created 2017-09-26, last commit 2018-05-07, main language Python  
-<sub><sup>electrum, python, python27, server</sup></sub>
-
-
 ### [verge-ruby-client](https://github.com/vergecurrency/verge-ruby-client) by [vergecurrency](https://github.com/vergecurrency)  
 Verge client for ruby. A wrapper gem for making remote procedure calls to verged :gem:  
 [https://VergeCurrency.com](https://VergeCurrency.com)  
@@ -123,6 +114,15 @@ created 2016-01-23, last commit 2020-02-14, main language Ruby
 <sub><sup>balance, client, payments-received, ruby, verge, verge-address, verge-client, vergecurrency, wallet, xvg</sup></sub>
 
 
-This file was automatically generated on 2021-12-05.  
+### [electrum-server](https://github.com/vergecurrency/electrum-server) by [vergecurrency](https://github.com/vergecurrency)  
+Electrum Server for Verge  
+[https://github.com/vergecurrency/electrum-server](https://github.com/vergecurrency/electrum-server)  
+0.05 stars per week over 218 weeks  
+10 stars, 3 forks, 4 watches  
+created 2017-09-26, last commit 2018-05-07, main language Python  
+<sub><sup>electrum, python, python27, server</sup></sub>
+
+
+This file was automatically generated on 2021-12-06.  
 
 To curate your own github list, simply clone and change the input csv file.  

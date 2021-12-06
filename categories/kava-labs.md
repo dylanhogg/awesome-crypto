@@ -50,7 +50,7 @@ created 2018-10-12, last commit 2019-06-10, main language TypeScript
 ### [cosmos-paychan](https://github.com/Kava-Labs/cosmos-paychan) by [Kava-Labs](https://github.com/Kava-Labs)  
 A Cosmos SDK module to add payment channels to any blockchain built using the SDK.  
 [https://github.com/Kava-Labs/cosmos-paychan](https://github.com/Kava-Labs/cosmos-paychan)  
-0.1 stars per week over 129 weeks  
+0.1 stars per week over 130 weeks  
 13 stars, 4 forks, 5 watches  
 created 2019-06-10, last commit 2019-06-10, main language Go  
 <sub><sup>blockchain, cosmos-sdk, cryptocurrency, go</sup></sub>
@@ -59,11 +59,11 @@ created 2019-06-10, last commit 2019-06-10, main language Go
 ### [javascript-sdk](https://github.com/Kava-Labs/javascript-sdk) by [Kava-Labs](https://github.com/Kava-Labs)  
 JavaScript SDK to communicate with Kava.  
 [https://github.com/Kava-Labs/javascript-sdk](https://github.com/Kava-Labs/javascript-sdk)  
-0.13 stars per week over 87 weeks  
+0.12 stars per week over 88 weeks  
 11 stars, 6 forks, 10 watches  
 created 2020-03-30, last commit 2021-11-23, main language TypeScript  
 
 
-This file was automatically generated on 2021-12-05.  
+This file was automatically generated on 2021-12-06.  
 
 To curate your own github list, simply clone and change the input csv file.  

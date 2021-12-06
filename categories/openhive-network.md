@@ -28,12 +28,12 @@ created 2021-04-14, last commit 2021-11-09, main language Python
 A curated list of awesome Hive resources.  
 [https://hive.io](https://hive.io)  
 [https://github.com/openhive-network/awesome-hive](https://github.com/openhive-network/awesome-hive)  
-0.21 stars per week over 70 weeks  
+0.21 stars per week over 71 weeks  
 15 stars, 10 forks, 5 watches  
 created 2020-07-27, last commit 2021-11-12, main language None  
 <sub><sup>awesome, awesome-list, blockchain, blockchain-platform, blog-engine, censorship-resistance, collections, communities, dapps, decentralized, developer-tools, hive</sup></sub>
 
 
-This file was automatically generated on 2021-12-05.  
+This file was automatically generated on 2021-12-06.  
 
 To curate your own github list, simply clone and change the input csv file.  

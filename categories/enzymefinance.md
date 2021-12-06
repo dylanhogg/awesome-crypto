@@ -10,7 +10,7 @@ Checkout the interactive version that you can filter and sort:
 [https://oyente.melonport.com](https://oyente.melonport.com)  
 [https://github.com/enzymefinance/oyente](https://github.com/enzymefinance/oyente)  
 3.79 stars per week over 246 weeks  
-933 stars, 223 forks, 55 watches  
+935 stars, 223 forks, 55 watches  
 created 2017-03-17, last commit 2020-11-06, main language JavaScript  
 <sub><sup>blockchain, ethereum, security-analyzers, smart-contracts</sup></sub>
 
@@ -29,7 +29,7 @@ created 2016-11-04, last commit 2021-10-28, main language TypeScript
  Melon Token Contracts   
 [https://melonport.com](https://melonport.com)  
 [https://github.com/enzymefinance/melon](https://github.com/enzymefinance/melon)  
-0.14 stars per week over 269 weeks  
+0.14 stars per week over 270 weeks  
 38 stars, 15 forks, 13 watches  
 created 2016-10-03, last commit 2019-01-28, main language None  
 <sub><sup>blockchain, ethereum, melon, token</sup></sub>
@@ -63,6 +63,6 @@ Melon Ecosystem Documentation
 created 2018-04-17, last commit 2020-07-31, main language CSS  
 
 
-This file was automatically generated on 2021-12-05.  
+This file was automatically generated on 2021-12-06.  
 
 To curate your own github list, simply clone and change the input csv file.  

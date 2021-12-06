@@ -36,7 +36,7 @@ created 2018-04-25, last commit 2021-10-07, main language Python
 ### [wiki](https://github.com/singnet/wiki) by [singnet](https://github.com/singnet)  
 Starting point for finding getting started information for working with SingularityNET and for overall design information.  
 [https://github.com/singnet/wiki](https://github.com/singnet/wiki)  
-0.19 stars per week over 191 weeks  
+0.19 stars per week over 192 weeks  
 36 stars, 14 forks, 22 watches  
 created 2018-04-02, last commit 2018-12-25, main language Shell  
 
@@ -78,7 +78,7 @@ created 2018-08-08, last commit 2021-09-10, main language Python
 ### [face-services](https://github.com/singnet/face-services) by [singnet](https://github.com/singnet)  
 Everything faces 👶👦👧👨👩👴👵 - detection, landmarks, alignment, recognition.  
 [https://github.com/singnet/face-services](https://github.com/singnet/face-services)  
-0.14 stars per week over 190 weeks  
+0.14 stars per week over 191 weeks  
 27 stars, 8 forks, 6 watches  
 created 2018-04-09, last commit 2021-09-28, main language Python  
 <sub><sup>singularitynet-service</sup></sub>
@@ -112,7 +112,7 @@ created 2018-04-25, last commit 2019-12-28, main language Python
 SingularityNET Alpha DApp let's you interact with Agents registered on the Kovan network using testnet AGI  
 [http://alpha.singularitynet.io](http://alpha.singularitynet.io)  
 [https://github.com/singnet/alpha-dapp](https://github.com/singnet/alpha-dapp)  
-0.1 stars per week over 207 weeks  
+0.1 stars per week over 208 weeks  
 21 stars, 17 forks, 16 watches  
 created 2017-12-11, last commit 2018-11-22, main language JavaScript  
 <sub><sup>snet-platform</sup></sub>
@@ -121,7 +121,7 @@ created 2017-12-11, last commit 2018-11-22, main language JavaScript
 ### [example-service](https://github.com/singnet/example-service) by [singnet](https://github.com/singnet)  
 Simple arithmetic service compatible with SingularityNET platform. Can be used as a starting point to build services on the platform  
 [https://github.com/singnet/example-service](https://github.com/singnet/example-service)  
-0.11 stars per week over 155 weeks  
+0.11 stars per week over 156 weeks  
 17 stars, 20 forks, 9 watches  
 created 2018-12-10, last commit 2021-03-17, main language Python  
 <sub><sup>snet-platform</sup></sub>
@@ -154,14 +154,6 @@ created 2018-04-18, last commit 2018-05-29, main language Python
 <sub><sup>snet-platform</sup></sub>
 
 
-### [simulation](https://github.com/singnet/simulation) by [singnet](https://github.com/singnet)  
-  
-[https://github.com/singnet/simulation](https://github.com/singnet/simulation)  
-0.07 stars per week over 190 weeks  
-14 stars, 6 forks, 4 watches  
-created 2018-04-13, last commit 2021-06-04, main language Jupyter Notebook  
-
-
 ### [snet-betav1-dapp](https://github.com/singnet/snet-betav1-dapp) by [singnet](https://github.com/singnet)  
 SingularityNET Beta DApp lets you interact with Agents registered on the Kovan network using testnet AGI  
 [https://github.com/singnet/snet-betav1-dapp](https://github.com/singnet/snet-betav1-dapp)  
@@ -169,6 +161,14 @@ SingularityNET Beta DApp lets you interact with Agents registered on the Kovan n
 14 stars, 25 forks, 10 watches  
 created 2018-12-19, last commit 2019-08-16, main language JavaScript  
 <sub><sup>snet-platform</sup></sub>
+
+
+### [simulation](https://github.com/singnet/simulation) by [singnet](https://github.com/singnet)  
+  
+[https://github.com/singnet/simulation](https://github.com/singnet/simulation)  
+0.07 stars per week over 190 weeks  
+14 stars, 6 forks, 4 watches  
+created 2018-04-13, last commit 2021-06-04, main language Jupyter Notebook  
 
 
 ### [image-matching](https://github.com/singnet/image-matching) by [singnet](https://github.com/singnet)  
@@ -191,7 +191,7 @@ created 2018-07-24, last commit 2021-10-12, main language Scheme
 ### [covid-simulation](https://github.com/singnet/covid-simulation) by [singnet](https://github.com/singnet)  
   
 [https://github.com/singnet/covid-simulation](https://github.com/singnet/covid-simulation)  
-0.16 stars per week over 83 weeks  
+0.15 stars per week over 84 weeks  
 13 stars, 10 forks, 10 watches  
 created 2020-04-27, last commit 2021-03-30, main language Jupyter Notebook  
 
@@ -205,6 +205,6 @@ created 2018-12-18, last commit 2021-10-07, main language Python
 <sub><sup>snet-platform</sup></sub>
 
 
-This file was automatically generated on 2021-12-05.  
+This file was automatically generated on 2021-12-06.  
 
 To curate your own github list, simply clone and change the input csv file.  

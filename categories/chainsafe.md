@@ -8,8 +8,8 @@ Checkout the interactive version that you can filter and sort:
 ### [web3.js](https://github.com/ChainSafe/web3.js) by [ChainSafe](https://github.com/ChainSafe)  
 Ethereum JavaScript API  
 [https://github.com/ChainSafe/web3.js](https://github.com/ChainSafe/web3.js)  
-32 stars per week over 374 weeks  
-12,353 stars, 3,586 forks, 424 watches  
+33 stars per week over 374 weeks  
+12,376 stars, 3,587 forks, 424 watches  
 created 2014-09-30, last commit 2021-11-30, main language JavaScript  
 <sub><sup>api, ethereum, javascript, swarm, whisper</sup></sub>
 
@@ -17,17 +17,17 @@ created 2014-09-30, last commit 2021-11-30, main language JavaScript
 ### [lodestar](https://github.com/ChainSafe/lodestar) by [ChainSafe](https://github.com/ChainSafe)  
 🌟 Ethereum 2.0: TypeScript Implementation of the Beacon Chain   
 [https://github.com/ChainSafe/lodestar](https://github.com/ChainSafe/lodestar)  
-3.0 stars per week over 180 weeks  
+2.99 stars per week over 180 weeks  
 540 stars, 96 forks, 29 watches  
-created 2018-06-22, last commit 2021-12-03, main language TypeScript  
+created 2018-06-22, last commit 2021-12-06, main language TypeScript  
 <sub><sup>beacon-chain, eth2, ethereum, proof-of-stake, serenity, sharding, typescript</sup></sub>
 
 
 ### [forest](https://github.com/ChainSafe/forest) by [ChainSafe](https://github.com/ChainSafe)  
 🌲 Rust Filecoin Node Implementation  
 [https://github.com/ChainSafe/forest](https://github.com/ChainSafe/forest)  
-3.37 stars per week over 107 weeks  
-363 stars, 82 forks, 29 watches  
+3.37 stars per week over 108 weeks  
+364 stars, 83 forks, 29 watches  
 created 2019-11-11, last commit 2021-11-30, main language Rust  
 <sub><sup>blockchain, filecoin, p2p, rust</sup></sub>
 
@@ -36,7 +36,7 @@ created 2019-11-11, last commit 2021-11-30, main language Rust
 🌉 Modular Multi-Directional Blockchain Bridge to interact with Multiple Networks; Ethereum, Ethereum Classic, Substrate,  based chains.  
 [https://github.com/ChainSafe/ChainBridge](https://github.com/ChainSafe/ChainBridge)  
 2.89 stars per week over 105 weeks  
-305 stars, 176 forks, 34 watches  
+306 stars, 176 forks, 34 watches  
 created 2019-11-27, last commit 2021-11-24, main language Go  
 <sub><sup>cosmos, ethereum, substrate</sup></sub>
 
@@ -45,8 +45,8 @@ created 2019-11-27, last commit 2021-11-24, main language Go
 🕸️ Gossamer: A Go implementation of the Polkadot Host  
 [https://chainsafe.github.io/gossamer/](https://chainsafe.github.io/gossamer/)  
 [https://github.com/ChainSafe/gossamer](https://github.com/ChainSafe/gossamer)  
-1.95 stars per week over 148 weeks  
-291 stars, 72 forks, 18 watches  
+1.95 stars per week over 149 weeks  
+291 stars, 72 forks, 17 watches  
 created 2019-01-28, last commit 2021-12-03, main language Go  
 <sub><sup>golang, p2p, polkadot, wasm</sup></sub>
 
@@ -54,8 +54,8 @@ created 2019-01-28, last commit 2021-12-03, main language Go
 ### [web3.unity](https://github.com/ChainSafe/web3.unity) by [ChainSafe](https://github.com/ChainSafe)  
 Unity SDK for building games that interact with blockchains.  
 [https://github.com/ChainSafe/web3.unity](https://github.com/ChainSafe/web3.unity)  
-8.67 stars per week over 28 weeks  
-244 stars, 53 forks, 46 watches  
+8.66 stars per week over 28 weeks  
+245 stars, 53 forks, 46 watches  
 created 2021-05-22, last commit 2021-11-25, main language C#  
 <sub><sup>blockchain, cryptocurrency, games, unity</sup></sub>
 
@@ -63,7 +63,7 @@ created 2021-05-22, last commit 2021-11-25, main language C#
 ### [mina-rs](https://github.com/ChainSafe/mina-rs) by [ChainSafe](https://github.com/ChainSafe)  
 Rust implementation of the Mina protocol, targeting Wasm and ARM architectures.  
 [https://github.com/ChainSafe/mina-rs](https://github.com/ChainSafe/mina-rs)  
-2.5 stars per week over 30 weeks  
+2.49 stars per week over 30 weeks  
 76 stars, 3 forks, 17 watches  
 created 2021-05-06, last commit 2021-11-30, main language Rust  
 
@@ -72,8 +72,8 @@ created 2021-05-06, last commit 2021-11-30, main language Rust
 🏌🏼‍E2E testing for dApps using Puppeteer + MetaMask  
 [https://www.npmjs.com/package/@chainsafe/dappeteer](https://www.npmjs.com/package/@chainsafe/dappeteer)  
 [https://github.com/ChainSafe/dappeteer](https://github.com/ChainSafe/dappeteer)  
-1.63 stars per week over 42 weeks  
-69 stars, 13 forks, 7 watches  
+1.65 stars per week over 42 weeks  
+70 stars, 13 forks, 7 watches  
 created 2021-02-12, last commit 2021-12-02, main language TypeScript  
 <sub><sup>dapp, e2e, ethereum, frontend, pupeteer</sup></sub>
 
@@ -82,7 +82,7 @@ created 2021-02-12, last commit 2021-12-02, main language TypeScript
 JavaScript implementation of Gossipsub  
 [https://github.com/ChainSafe/js-libp2p-gossipsub](https://github.com/ChainSafe/js-libp2p-gossipsub)  
 0.35 stars per week over 173 weeks  
-60 stars, 16 forks, 16 watches  
+61 stars, 16 forks, 16 watches  
 created 2018-08-10, last commit 2021-12-03, main language JavaScript  
 <sub><sup>gossip-protocol, javascript, libp2p, networking, peer-to-peer, pubsub</sup></sub>
 
@@ -108,7 +108,7 @@ created 2020-03-25, last commit 2021-11-09, main language JavaScript
 Eth2.0 desktop validator client  
 [https://chainguardian.nodefactory.io](https://chainguardian.nodefactory.io)  
 [https://github.com/ChainSafe/ChainGuardian](https://github.com/ChainSafe/ChainGuardian)  
-0.39 stars per week over 115 weeks  
+0.39 stars per week over 116 weeks  
 45 stars, 10 forks, 6 watches  
 created 2019-09-16, last commit 2021-10-08, main language TypeScript  
 <sub><sup>electron, eth2, pos, serenity, validator</sup></sub>
@@ -137,7 +137,7 @@ Javascript implementation of BLS (Boneh-Lynn-Shacham) signatures with support fo
 [https://github.com/ethereum/eth2.0-specs/blob/v0.10.1/specs/phase0/beacon-chain.md#bls-signatures](https://github.com/ethereum/eth2.0-specs/blob/v0.10.1/specs/phase0/beacon-chain.md#bls-signatures)  
 [https://github.com/ChainSafe/bls](https://github.com/ChainSafe/bls)  
 0.37 stars per week over 93 weeks  
-35 stars, 9 forks, 12 watches  
+35 stars, 10 forks, 12 watches  
 created 2020-02-20, last commit 2021-09-26, main language TypeScript  
 <sub><sup>bls, bls-signatures, bls12-381, eth2, eth2-beacon-chain, wasm</sup></sub>
 
@@ -145,7 +145,7 @@ created 2020-02-20, last commit 2021-09-26, main language TypeScript
 ### [metamask-snap-polkadot](https://github.com/ChainSafe/metamask-snap-polkadot) by [ChainSafe](https://github.com/ChainSafe)  
 Metamask plugin for interacting with Polkadot dapps and other Substrate based chains.  
 [https://github.com/ChainSafe/metamask-snap-polkadot](https://github.com/ChainSafe/metamask-snap-polkadot)  
-0.34 stars per week over 95 weeks  
+0.34 stars per week over 96 weeks  
 33 stars, 9 forks, 7 watches  
 created 2020-02-03, last commit 2021-08-13, main language TypeScript  
 <sub><sup>metamask, metamask-plugin, metamask-snap, polkadot, polkadot-js</sup></sub>
@@ -182,10 +182,19 @@ created 2019-10-30, last commit 2021-12-03, main language TypeScript
 A Polkadot ecosystem index for investors. A self sustaining auction treasury for parachains.  
 [https://polkadotindex.com/](https://polkadotindex.com/)  
 [https://github.com/ChainSafe/PINT](https://github.com/ChainSafe/PINT)  
-0.55 stars per week over 37 weeks  
+0.55 stars per week over 38 weeks  
 21 stars, 7 forks, 12 watches  
 created 2021-03-15, last commit 2021-11-17, main language Rust  
 <sub><sup>defi, parachains, pint, polkadot</sup></sub>
+
+
+### [eth-local](https://github.com/ChainSafe/eth-local) by [ChainSafe](https://github.com/ChainSafe)  
+The purpose of eth-local is to offer a standardized way to store your keystore files on your local machine. While also allowing you to use them in browser.  
+[https://github.com/ChainSafe/eth-local](https://github.com/ChainSafe/eth-local)  
+0.11 stars per week over 184 weeks  
+20 stars, 4 forks, 5 watches  
+created 2018-05-26, last commit 2018-10-30, main language JavaScript  
+<sub><sup>cli, ethereum</sup></sub>
 
 
 ### [filsnap](https://github.com/ChainSafe/filsnap) by [ChainSafe](https://github.com/ChainSafe)  
@@ -198,21 +207,20 @@ created 2020-05-21, last commit 2021-11-30, main language HTML
 <sub><sup>filecoin, metamask, typescript, wallet</sup></sub>
 
 
-### [eth-local](https://github.com/ChainSafe/eth-local) by [ChainSafe](https://github.com/ChainSafe)  
-The purpose of eth-local is to offer a standardized way to store your keystore files on your local machine. While also allowing you to use them in browser.  
-[https://github.com/ChainSafe/eth-local](https://github.com/ChainSafe/eth-local)  
-0.11 stars per week over 184 weeks  
-20 stars, 4 forks, 5 watches  
-created 2018-05-26, last commit 2018-10-30, main language JavaScript  
-<sub><sup>cli, ethereum</sup></sub>
-
-
 ### [chainbridge-ui](https://github.com/ChainSafe/chainbridge-ui) by [ChainSafe](https://github.com/ChainSafe)  
   
 [https://github.com/ChainSafe/chainbridge-ui](https://github.com/ChainSafe/chainbridge-ui)  
-0.21 stars per week over 91 weeks  
+0.21 stars per week over 92 weeks  
 19 stars, 58 forks, 12 watches  
 created 2020-03-02, last commit 2021-11-23, main language TypeScript  
+
+
+### [chainbridge-substrate-chain](https://github.com/ChainSafe/chainbridge-substrate-chain) by [ChainSafe](https://github.com/ChainSafe)  
+Simple Substrate chain for testing purposes  
+[https://github.com/ChainSafe/chainbridge-substrate-chain](https://github.com/ChainSafe/chainbridge-substrate-chain)  
+0.19 stars per week over 90 weeks  
+17 stars, 8 forks, 16 watches  
+created 2020-03-12, last commit 2021-09-08, main language Rust  
 
 
 ### [leth](https://github.com/ChainSafe/leth) by [ChainSafe](https://github.com/ChainSafe)  
@@ -222,14 +230,6 @@ golang tools for compiling, deploying, testing, and interacting with smart contr
 17 stars, 2 forks, 7 watches  
 created 2018-08-23, last commit 2019-03-29, main language Go  
 <sub><sup>ethereum, golang, solidity</sup></sub>
-
-
-### [chainbridge-substrate-chain](https://github.com/ChainSafe/chainbridge-substrate-chain) by [ChainSafe](https://github.com/ChainSafe)  
-Simple Substrate chain for testing purposes  
-[https://github.com/ChainSafe/chainbridge-substrate-chain](https://github.com/ChainSafe/chainbridge-substrate-chain)  
-0.19 stars per week over 90 weeks  
-17 stars, 8 forks, 16 watches  
-created 2020-03-12, last commit 2021-09-08, main language Rust  
 
 
 ### [chainbridge-core](https://github.com/ChainSafe/chainbridge-core) by [ChainSafe](https://github.com/ChainSafe)  
@@ -252,7 +252,7 @@ created 2018-08-31, last commit 2020-05-09, main language TypeScript
 ### [as-sha256](https://github.com/ChainSafe/as-sha256) by [ChainSafe](https://github.com/ChainSafe)  
 AssemblyScript implementation of SHA256  
 [https://github.com/ChainSafe/as-sha256](https://github.com/ChainSafe/as-sha256)  
-0.11 stars per week over 131 weeks  
+0.11 stars per week over 132 weeks  
 15 stars, 8 forks, 10 watches  
 created 2019-05-27, last commit 2021-08-18, main language WebAssembly  
 <sub><sup>assemblyscript, sha256, typescript, wasm</sup></sub>
@@ -261,23 +261,15 @@ created 2019-05-27, last commit 2021-08-18, main language WebAssembly
 ### [nodewatch-ui](https://github.com/ChainSafe/nodewatch-ui) by [ChainSafe](https://github.com/ChainSafe)  
   
 [https://github.com/ChainSafe/nodewatch-ui](https://github.com/ChainSafe/nodewatch-ui)  
-0.69 stars per week over 21 weeks  
+0.68 stars per week over 22 weeks  
 15 stars, 1 forks, 7 watches  
 created 2021-07-05, last commit 2021-10-26, main language TypeScript  
-
-
-### [ethermint-deploy](https://github.com/ChainSafe/ethermint-deploy) by [ChainSafe](https://github.com/ChainSafe)  
-  
-[https://github.com/ChainSafe/ethermint-deploy](https://github.com/ChainSafe/ethermint-deploy)  
-0.12 stars per week over 109 weeks  
-13 stars, 3 forks, 12 watches  
-created 2019-10-30, last commit 2020-05-04, main language JavaScript  
 
 
 ### [eth2-crawler](https://github.com/ChainSafe/eth2-crawler) by [ChainSafe](https://github.com/ChainSafe)  
 A devp2p crawler targeted at Eth2 nodes  
 [https://github.com/ChainSafe/eth2-crawler](https://github.com/ChainSafe/eth2-crawler)  
-0.57 stars per week over 22 weeks  
+0.57 stars per week over 23 weeks  
 13 stars, 3 forks, 32 watches  
 created 2021-06-28, last commit 2021-11-29, main language Go  
 
@@ -285,8 +277,8 @@ created 2021-06-28, last commit 2021-11-29, main language Go
 ### [chainbridge-deploy](https://github.com/ChainSafe/chainbridge-deploy) by [ChainSafe](https://github.com/ChainSafe)  
 Deploy tooling for ChainBridge  
 [https://github.com/ChainSafe/chainbridge-deploy](https://github.com/ChainSafe/chainbridge-deploy)  
-0.17 stars per week over 77 weeks  
-13 stars, 45 forks, 17 watches  
+0.17 stars per week over 78 weeks  
+13 stars, 46 forks, 17 watches  
 created 2020-06-08, last commit 2021-11-16, main language JavaScript  
 
 
@@ -299,12 +291,12 @@ created 2019-05-17, last commit 2021-11-15, main language TypeScript
 <sub><sup>discovery, ethereum, p2p</sup></sub>
 
 
-### [Anemone](https://github.com/ChainSafe/Anemone) by [ChainSafe](https://github.com/ChainSafe)  
-A testing tool that broadcasts batches of transactions and tests opcodes  
-[https://github.com/ChainSafe/Anemone](https://github.com/ChainSafe/Anemone)  
-0.09 stars per week over 129 weeks  
-12 stars, 4 forks, 2 watches  
-created 2019-06-15, last commit 2021-04-07, main language TypeScript  
+### [ethermint-deploy](https://github.com/ChainSafe/ethermint-deploy) by [ChainSafe](https://github.com/ChainSafe)  
+  
+[https://github.com/ChainSafe/ethermint-deploy](https://github.com/ChainSafe/ethermint-deploy)  
+0.12 stars per week over 109 weeks  
+13 stars, 3 forks, 12 watches  
+created 2019-10-30, last commit 2020-05-04, main language JavaScript  
 
 
 ### [persistent-merkle-tree](https://github.com/ChainSafe/persistent-merkle-tree) by [ChainSafe](https://github.com/ChainSafe)  
@@ -314,6 +306,14 @@ created 2019-06-15, last commit 2021-04-07, main language TypeScript
 12 stars, 5 forks, 11 watches  
 created 2020-01-14, last commit 2021-09-07, main language TypeScript  
 <sub><sup>merkle-tree, persistent-data-structure, sha256, typescript</sup></sub>
+
+
+### [Anemone](https://github.com/ChainSafe/Anemone) by [ChainSafe](https://github.com/ChainSafe)  
+A testing tool that broadcasts batches of transactions and tests opcodes  
+[https://github.com/ChainSafe/Anemone](https://github.com/ChainSafe/Anemone)  
+0.09 stars per week over 129 weeks  
+12 stars, 4 forks, 2 watches  
+created 2019-06-15, last commit 2021-04-07, main language TypeScript  
 
 
 ### [ethermint](https://github.com/ChainSafe/ethermint) by [ChainSafe](https://github.com/ChainSafe)  
@@ -343,10 +343,18 @@ Truffle plugin to post-process contracts for go-ethereum's abigen
 created 2020-02-09, last commit 2020-09-29, main language Solidity  
 
 
+### [filecoindot](https://github.com/ChainSafe/filecoindot) by [ChainSafe](https://github.com/ChainSafe)  
+Filecoin to substrate bridge  
+[https://github.com/ChainSafe/filecoindot](https://github.com/ChainSafe/filecoindot)  
+1.04 stars per week over 9 weeks  
+10 stars, 8 forks, 7 watches  
+created 2021-09-30, last commit 2021-12-03, main language Rust  
+
+
 ### [blst-ts](https://github.com/ChainSafe/blst-ts) by [ChainSafe](https://github.com/ChainSafe)  
 Typescript wrapper for https://github.com/supranational/blst native bindings, a highly performant BLS12-381 signature library  
 [https://github.com/ChainSafe/blst-ts](https://github.com/ChainSafe/blst-ts)  
-0.17 stars per week over 60 weeks  
+0.16 stars per week over 60 weeks  
 10 stars, 3 forks, 8 watches  
 created 2020-10-07, last commit 2021-09-06, main language C++  
 
@@ -360,14 +368,6 @@ created 2018-09-13, last commit 2019-08-05, main language TypeScript
 <sub><sup>eth2, ethereum, serialization</sup></sub>
 
 
-### [filecoindot](https://github.com/ChainSafe/filecoindot) by [ChainSafe](https://github.com/ChainSafe)  
-Filecoin to substrate bridge  
-[https://github.com/ChainSafe/filecoindot](https://github.com/ChainSafe/filecoindot)  
-1.06 stars per week over 9 weeks  
-10 stars, 8 forks, 7 watches  
-created 2021-09-30, last commit 2021-12-03, main language Rust  
-
-
-This file was automatically generated on 2021-12-05.  
+This file was automatically generated on 2021-12-06.  
 
 To curate your own github list, simply clone and change the input csv file.  

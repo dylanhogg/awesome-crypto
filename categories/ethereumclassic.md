@@ -9,7 +9,7 @@ Checkout the interactive version that you can filter and sort:
 EthereumClassic Block Explorer  
 [https://github.com/ethereumclassic/explorer](https://github.com/ethereumclassic/explorer)  
 0.82 stars per week over 279 weeks  
-229 stars, 253 forks, 34 watches  
+230 stars, 253 forks, 34 watches  
 created 2016-07-27, last commit 2020-09-04, main language JavaScript  
 <sub><sup>ethereum, ethereum-classic, explorer</sup></sub>
 
@@ -66,6 +66,6 @@ A guide moving forward from hardfork to freedom
 created 2016-07-31, last commit 2020-03-25, main language Python  
 
 
-This file was automatically generated on 2021-12-05.  
+This file was automatically generated on 2021-12-06.  
 
 To curate your own github list, simply clone and change the input csv file.  

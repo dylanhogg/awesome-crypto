@@ -10,7 +10,7 @@ Hyperledger Fabric is an enterprise-grade permissioned distributed ledger framew
 [https://wiki.hyperledger.org/display/fabric](https://wiki.hyperledger.org/display/fabric)  
 [https://github.com/hyperledger/fabric](https://github.com/hyperledger/fabric)  
 46 stars per week over 275 weeks  
-12,857 stars, 7,553 forks, 1,031 watches  
+12,860 stars, 7,552 forks, 1,031 watches  
 created 2016-08-25, last commit 2021-12-02, main language Go  
 <sub><sup>blockchain, confidentiality, consensus, distributed-ledger, fabric, hyperledger</sup></sub>
 
@@ -20,7 +20,7 @@ Hyperledger is a Collaborative Project at The Linux Foundation.
 [https://www.hyperledger.org](https://www.hyperledger.org)  
 [https://github.com/hyperledger/hyperledger](https://github.com/hyperledger/hyperledger)  
 11 stars per week over 317 weeks  
-3,655 stars, 723 forks, 822 watches  
+3,654 stars, 723 forks, 822 watches  
 created 2015-11-03, last commit 2021-10-25, main language None  
 <sub><sup>blockchain, distributed-ledger, hyperledger</sup></sub>
 
@@ -30,7 +30,7 @@ created 2015-11-03, last commit 2021-10-25, main language None
 [https://wiki.hyperledger.org/display/fabric](https://wiki.hyperledger.org/display/fabric)  
 [https://github.com/hyperledger/fabric-samples](https://github.com/hyperledger/fabric-samples)  
 8.41 stars per week over 232 weeks  
-1,956 stars, 2,482 forks, 112 watches  
+1,959 stars, 2,484 forks, 112 watches  
 created 2017-06-20, last commit 2021-11-25, main language JavaScript  
 <sub><sup>hacktoberfest</sup></sub>
 
@@ -39,7 +39,7 @@ created 2017-06-20, last commit 2021-11-25, main language JavaScript
 Core repository for Sawtooth Distributed Ledger  
 [https://wiki.hyperledger.org/display/sawtooth](https://wiki.hyperledger.org/display/sawtooth)  
 [https://github.com/hyperledger/sawtooth-core](https://github.com/hyperledger/sawtooth-core)  
-4.66 stars per week over 291 weeks  
+4.66 stars per week over 292 weeks  
 1,361 stars, 742 forks, 147 watches  
 created 2016-05-02, last commit 2021-11-12, main language Python  
 <sub><sup>distributed-ledger, hyperledger, sawtooth, sawtooth-lake</sup></sub>
@@ -50,7 +50,7 @@ created 2016-05-02, last commit 2021-11-12, main language Python
 [https://wiki.hyperledger.org/display/explorer](https://wiki.hyperledger.org/display/explorer)  
 [https://github.com/hyperledger/blockchain-explorer](https://github.com/hyperledger/blockchain-explorer)  
 4.12 stars per week over 273 weeks  
-1,124 stars, 804 forks, 100 watches  
+1,125 stars, 804 forks, 100 watches  
 created 2016-09-11, last commit 2021-08-16, main language JavaScript  
 <sub><sup>blockchain, distributed-ledger, hyperledger</sup></sub>
 
@@ -59,7 +59,7 @@ created 2016-09-11, last commit 2021-08-16, main language JavaScript
   
 [https://wiki.hyperledger.org/display/fabric](https://wiki.hyperledger.org/display/fabric)  
 [https://github.com/hyperledger/fabric-sdk-java](https://github.com/hyperledger/fabric-sdk-java)  
-3.85 stars per week over 268 weeks  
+3.85 stars per week over 269 weeks  
 1,035 stars, 679 forks, 120 watches  
 created 2016-10-10, last commit 2021-09-15, main language Java  
 <sub><sup>blockchain, distributed-ledger, fabric, hacktoberfest, hyperledger, java-sdk</sup></sub>
@@ -69,7 +69,7 @@ created 2016-10-10, last commit 2021-09-15, main language Java
 https://wiki.hyperledger.org/display/burrow  
 [https://hyperledger.github.io/burrow](https://hyperledger.github.io/burrow)  
 [https://github.com/hyperledger/burrow](https://github.com/hyperledger/burrow)  
-2.83 stars per week over 338 weeks  
+2.83 stars per week over 339 weeks  
 958 stars, 348 forks, 81 watches  
 created 2015-06-08, last commit 2021-09-03, main language Go  
 <sub><sup>blockchain, consensus, ethereum, evm, hyperledger, hyperledger-burrow, permissioned-chains, virtual-machine</sup></sub>
@@ -79,7 +79,7 @@ created 2015-06-08, last commit 2021-09-03, main language Go
   
 [https://wiki.hyperledger.org/display/fabric](https://wiki.hyperledger.org/display/fabric)  
 [https://github.com/hyperledger/fabric-sdk-go](https://github.com/hyperledger/fabric-sdk-go)  
-3.19 stars per week over 245 weeks  
+3.18 stars per week over 245 weeks  
 782 stars, 454 forks, 73 watches  
 created 2017-03-23, last commit 2021-11-16, main language Go  
 <sub><sup>blockchain, distributed-ledger, go, hyperledger, hyperledger-fabric</sup></sub>
@@ -99,7 +99,7 @@ created 2017-01-11, last commit 2021-11-29, main language Python
 Hyperledger Fabric SDK for Node https://wiki.hyperledger.org/display/fabric  
 [https://hyperledger.github.io/fabric-sdk-node/](https://hyperledger.github.io/fabric-sdk-node/)  
 [https://github.com/hyperledger/fabric-sdk-node](https://github.com/hyperledger/fabric-sdk-node)  
-2.65 stars per week over 272 weeks  
+2.64 stars per week over 273 weeks  
 722 stars, 490 forks, 71 watches  
 created 2016-09-12, last commit 2021-11-19, main language JavaScript  
 <sub><sup>blockchain, distributed-ledger, fabric, hacktoberfest, hyperledger, node</sup></sub>
@@ -119,7 +119,7 @@ created 2017-03-21, last commit 2021-07-13, main language Rust
 An enterprise-grade Java-based, Apache 2.0 licensed Ethereum client https://wiki.hyperledger.org/display/besu  
 [https://www.hyperledger.org/projects/besu](https://www.hyperledger.org/projects/besu)  
 [https://github.com/hyperledger/besu](https://github.com/hyperledger/besu)  
-4.89 stars per week over 117 weeks  
+4.88 stars per week over 117 weeks  
 575 stars, 354 forks, 49 watches  
 created 2019-09-04, last commit 2021-12-04, main language Java  
 
@@ -138,7 +138,7 @@ created 2016-12-21, last commit 2021-11-29, main language Python
 [https://hyperledger.github.io/caliper/](https://hyperledger.github.io/caliper/)  
 [https://github.com/hyperledger/caliper](https://github.com/hyperledger/caliper)  
 2.56 stars per week over 193 weeks  
-495 stars, 329 forks, 43 watches  
+496 stars, 329 forks, 43 watches  
 created 2018-03-20, last commit 2021-11-30, main language JavaScript  
 <sub><sup>benchmark, blockchain, caliper, hacktoberfest</sup></sub>
 
@@ -168,7 +168,7 @@ Iroha - A simple, enterprise-grade decentralized ledger
 [https://wiki.hyperledger.org/display/iroha](https://wiki.hyperledger.org/display/iroha)  
 [https://github.com/hyperledger/iroha](https://github.com/hyperledger/iroha)  
 2.01 stars per week over 137 weeks  
-277 stars, 175 forks, 34 watches  
+277 stars, 175 forks, 35 watches  
 created 2019-04-16, last commit 2021-11-12, main language C++  
 <sub><sup>blockchain, consensus, distributed-ledger, dlt, docker, hyperledger, iroha, transactions</sup></sub>
 
@@ -177,7 +177,7 @@ created 2019-04-16, last commit 2021-11-12, main language C++
 Hyperledger Ursa is a shared cryptography library  
 [https://wiki.hyperledger.org/display/ursa](https://wiki.hyperledger.org/display/ursa)  
 [https://github.com/hyperledger/ursa](https://github.com/hyperledger/ursa)  
-1.61 stars per week over 158 weeks  
+1.6 stars per week over 159 weeks  
 255 stars, 125 forks, 43 watches  
 created 2018-11-19, last commit 2021-09-16, main language Rust  
 
@@ -224,7 +224,7 @@ created 2017-10-19, last commit 2021-02-23, main language Java
 Hyperledger Aries Cloud Agent Python (ACA-Py) is a foundation for building decentralized identity applications and services running in non-mobile environments.  
 [https://wiki.hyperledger.org/display/aries](https://wiki.hyperledger.org/display/aries)  
 [https://github.com/hyperledger/aries-cloudagent-python](https://github.com/hyperledger/aries-cloudagent-python)  
-1.65 stars per week over 127 weeks  
+1.65 stars per week over 128 weeks  
 211 stars, 295 forks, 32 watches  
 created 2019-06-24, last commit 2021-12-02, main language Python  
 <sub><sup>aries, hyperledger, hyperledger-indy, indy-catalyst, trust-over-ip, verifiable-credentials, verifiable-organizations-network, verifiable-origins, von</sup></sub>
@@ -234,9 +234,9 @@ created 2019-06-24, last commit 2021-12-02, main language Python
 Hyperledger Cactus is a new approach to the blockchain interoperability problem  
 [https://wiki.hyperledger.org/display/cactus](https://wiki.hyperledger.org/display/cactus)  
 [https://github.com/hyperledger/cactus](https://github.com/hyperledger/cactus)  
-1.83 stars per week over 110 weeks  
+1.83 stars per week over 111 weeks  
 203 stars, 148 forks, 20 watches  
-created 2019-10-21, last commit 2021-12-04, main language TypeScript  
+created 2019-10-21, last commit 2021-12-05, main language TypeScript  
 <sub><sup>hacktoberfest</sup></sub>
 
 
@@ -311,7 +311,7 @@ created 2019-03-08, last commit 2021-05-19, main language Java
 Hyperledger Avalon enables privacy in blockchain transactions, moving intensive processing from a main blockchain to improve scalability and latency, and to support attested Oracles  
 [https://wiki.hyperledger.org/display/avalon/Hyperledger+Avalon](https://wiki.hyperledger.org/display/avalon/Hyperledger+Avalon)  
 [https://github.com/hyperledger/avalon](https://github.com/hyperledger/avalon)  
-1.07 stars per week over 127 weeks  
+1.06 stars per week over 127 weeks  
 136 stars, 96 forks, 27 watches  
 created 2019-06-26, last commit 2021-05-04, main language Python  
 
@@ -337,7 +337,7 @@ created 2019-11-15, last commit 2021-03-22, main language Go
 ### [fabric-private-chaincode](https://github.com/hyperledger/fabric-private-chaincode) by [hyperledger](https://github.com/hyperledger)  
 FPC enables Confidential Chaincode Execution for Hyperledger Fabric using Intel SGX.  
 [https://github.com/hyperledger/fabric-private-chaincode](https://github.com/hyperledger/fabric-private-chaincode)  
-0.64 stars per week over 170 weeks  
+0.64 stars per week over 171 weeks  
 110 stars, 65 forks, 17 watches  
 created 2018-08-27, last commit 2021-11-15, main language Go  
 <sub><sup>blockchain, confidentiality, fabric, hacktoberfest, hyperledger, integrity, intel-sgx, privacy, smart-contract</sup></sub>
@@ -377,10 +377,19 @@ created 2019-11-20, last commit 2021-12-02, main language TypeScript
 JavaScript library for Iroha, a Distributed Ledger Technology (blockchain) platform.  
 [https://wiki.hyperledger.org/display/iroha](https://wiki.hyperledger.org/display/iroha)  
 [https://github.com/hyperledger/iroha-javascript](https://github.com/hyperledger/iroha-javascript)  
-0.3 stars per week over 271 weeks  
-81 stars, 52 forks, 38 watches  
+0.3 stars per week over 272 weeks  
+82 stars, 53 forks, 38 watches  
 created 2016-09-19, last commit 2021-09-14, main language JavaScript  
 <sub><sup>blockchain, distributed-ledger, dlt, hyperledger, iroha, javascript-library</sup></sub>
+
+
+### [fabric-chaincode-go](https://github.com/hyperledger/fabric-chaincode-go) by [hyperledger](https://github.com/hyperledger)  
+Hyperledger Fabric Packages for Go Chaincode  
+[https://wiki.hyperledger.org/display/fabric](https://wiki.hyperledger.org/display/fabric)  
+[https://github.com/hyperledger/fabric-chaincode-go](https://github.com/hyperledger/fabric-chaincode-go)  
+0.66 stars per week over 119 weeks  
+79 stars, 85 forks, 26 watches  
+created 2019-08-21, last commit 2021-07-18, main language Go  
 
 
 ### [sawtooth-marketplace](https://github.com/hyperledger/sawtooth-marketplace) by [hyperledger](https://github.com/hyperledger)  
@@ -390,15 +399,6 @@ created 2016-09-19, last commit 2021-09-14, main language JavaScript
 0.37 stars per week over 210 weeks  
 79 stars, 77 forks, 39 watches  
 created 2017-11-21, last commit 2021-03-31, main language Python  
-
-
-### [fabric-chaincode-go](https://github.com/hyperledger/fabric-chaincode-go) by [hyperledger](https://github.com/hyperledger)  
-Hyperledger Fabric Packages for Go Chaincode  
-[https://wiki.hyperledger.org/display/fabric](https://wiki.hyperledger.org/display/fabric)  
-[https://github.com/hyperledger/fabric-chaincode-go](https://github.com/hyperledger/fabric-chaincode-go)  
-0.65 stars per week over 119 weeks  
-78 stars, 85 forks, 26 watches  
-created 2019-08-21, last commit 2021-07-18, main language Go  
 
 
 ### [sawtooth-seth](https://github.com/hyperledger/sawtooth-seth) by [hyperledger](https://github.com/hyperledger)  
@@ -414,20 +414,10 @@ created 2017-11-16, last commit 2021-04-26, main language Rust
 Multi-party system for enterprise data flows. Allows developers to build decentralized applications rapidly on a blockchain-backed business network, with REST APIs and an event-driven programming model.  
 [https://hyperledger.github.io/firefly](https://hyperledger.github.io/firefly)  
 [https://github.com/hyperledger/firefly](https://github.com/hyperledger/firefly)  
-2.18 stars per week over 31 weeks  
+2.17 stars per week over 31 weeks  
 69 stars, 29 forks, 16 watches  
 created 2021-04-27, last commit 2021-12-03, main language Go  
 <sub><sup>blockchain, corda, ethereum, fabric, hyperledger, ipfs, messaging, microservices, multiparty-system, privacy</sup></sub>
-
-
-### [indy-hipe](https://github.com/hyperledger/indy-hipe) by [hyperledger](https://github.com/hyperledger)  
-Hyperledger Indy Project Enhancements  
-[https://wiki.hyperledger.org/display/indy](https://wiki.hyperledger.org/display/indy)  
-[https://github.com/hyperledger/indy-hipe](https://github.com/hyperledger/indy-hipe)  
-0.31 stars per week over 198 weeks  
-62 stars, 72 forks, 31 watches  
-created 2018-02-16, last commit 2021-03-10, main language TeX  
-<sub><sup>indy, rfc</sup></sub>
 
 
 ### [sawtooth-pbft](https://github.com/hyperledger/sawtooth-pbft) by [hyperledger](https://github.com/hyperledger)  
@@ -439,11 +429,21 @@ Sawtooth PBFT consensus engine
 created 2018-10-03, last commit 2021-08-04, main language Rust  
 
 
+### [indy-hipe](https://github.com/hyperledger/indy-hipe) by [hyperledger](https://github.com/hyperledger)  
+Hyperledger Indy Project Enhancements  
+[https://wiki.hyperledger.org/display/indy](https://wiki.hyperledger.org/display/indy)  
+[https://github.com/hyperledger/indy-hipe](https://github.com/hyperledger/indy-hipe)  
+0.31 stars per week over 198 weeks  
+61 stars, 72 forks, 31 watches  
+created 2018-02-16, last commit 2021-03-10, main language TeX  
+<sub><sup>indy, rfc</sup></sub>
+
+
 ### [aries-framework-dotnet](https://github.com/hyperledger/aries-framework-dotnet) by [hyperledger](https://github.com/hyperledger)  
 Aries Framework .NET for building multiplatform SSI services  
 [https://wiki.hyperledger.org/display/aries](https://wiki.hyperledger.org/display/aries)  
 [https://github.com/hyperledger/aries-framework-dotnet](https://github.com/hyperledger/aries-framework-dotnet)  
-0.48 stars per week over 119 weeks  
+0.48 stars per week over 120 weeks  
 58 stars, 62 forks, 25 watches  
 created 2019-08-19, last commit 2021-11-18, main language C#  
 <sub><sup>aries, aries-framework, decentralized-identity, hyperledger, net-core, self-sovereign-identity, ssi</sup></sub>
@@ -463,7 +463,7 @@ created 2019-08-08, last commit 2021-07-21, main language JavaScript
 Hyperledger Fabric is an enterprise-grade permissioned distributed ledger framework for developing solutions and applications. Its modular and versatile design satisfies a broad range of industry use cases. It offers a unique approach to consensus that enables performance at scale while preserving privacy.  
 [https://wiki.hyperledger.org/display/fabric](https://wiki.hyperledger.org/display/fabric)  
 [https://github.com/hyperledger/fabric-docs-i18n](https://github.com/hyperledger/fabric-docs-i18n)  
-0.73 stars per week over 76 weeks  
+0.73 stars per week over 77 weeks  
 56 stars, 129 forks, 28 watches  
 created 2020-06-15, last commit 2021-11-18, main language Makefile  
 
@@ -486,15 +486,6 @@ Ethereum connectivity bridge for Web Services & async Messaging APIs - familiar 
 created 2018-06-14, last commit 2021-12-01, main language Go  
 
 
-### [education-sawtooth-simple-supply](https://github.com/hyperledger/education-sawtooth-simple-supply) by [hyperledger](https://github.com/hyperledger)  
-  
-[https://wiki.hyperledger.org/display/LMDWG](https://wiki.hyperledger.org/display/LMDWG)  
-[https://github.com/hyperledger/education-sawtooth-simple-supply](https://github.com/hyperledger/education-sawtooth-simple-supply)  
-0.25 stars per week over 185 weeks  
-47 stars, 58 forks, 18 watches  
-created 2018-05-14, last commit 2019-10-24, main language Python  
-
-
 ### [transact](https://github.com/hyperledger/transact) by [hyperledger](https://github.com/hyperledger)  
 Transact is a transaction execution platform designed to be used as a library or component when implementing distributed ledgers, including blockchains.  
 [https://wiki.hyperledger.org/display/transact](https://wiki.hyperledger.org/display/transact)  
@@ -504,11 +495,20 @@ Transact is a transaction execution platform designed to be used as a library or
 created 2019-06-25, last commit 2021-12-03, main language Rust  
 
 
+### [education-sawtooth-simple-supply](https://github.com/hyperledger/education-sawtooth-simple-supply) by [hyperledger](https://github.com/hyperledger)  
+  
+[https://wiki.hyperledger.org/display/LMDWG](https://wiki.hyperledger.org/display/LMDWG)  
+[https://github.com/hyperledger/education-sawtooth-simple-supply](https://github.com/hyperledger/education-sawtooth-simple-supply)  
+0.25 stars per week over 186 weeks  
+47 stars, 59 forks, 18 watches  
+created 2018-05-14, last commit 2019-10-24, main language Python  
+
+
 ### [sawtooth-sabre](https://github.com/hyperledger/sawtooth-sabre) by [hyperledger](https://github.com/hyperledger)  
 Sawtooth Sabre (WASM Smart Contracts)  
 [https://wiki.hyperledger.org/display/sawtooth](https://wiki.hyperledger.org/display/sawtooth)  
 [https://github.com/hyperledger/sawtooth-sabre](https://github.com/hyperledger/sawtooth-sabre)  
-0.25 stars per week over 186 weeks  
+0.25 stars per week over 187 weeks  
 46 stars, 42 forks, 20 watches  
 created 2018-05-07, last commit 2021-11-29, main language Rust  
 
@@ -516,7 +516,7 @@ created 2018-05-07, last commit 2021-11-29, main language Rust
 ### [aries-mobile-agent-react-native](https://github.com/hyperledger/aries-mobile-agent-react-native) by [hyperledger](https://github.com/hyperledger)  
 Aries Mobile Agent React Native - Part of the Aries Bifold effort to provide SSI capabilities in a production ready app.  
 [https://github.com/hyperledger/aries-mobile-agent-react-native](https://github.com/hyperledger/aries-mobile-agent-react-native)  
-0.75 stars per week over 56 weeks  
+0.74 stars per week over 56 weeks  
 42 stars, 31 forks, 16 watches  
 created 2020-11-06, last commit 2021-11-30, main language TypeScript  
 <sub><sup>aries, aries-bifold, aries-mobile-agent, aries-mobile-agent-react-native, indy</sup></sub>
@@ -526,7 +526,7 @@ created 2020-11-06, last commit 2021-11-30, main language TypeScript
   
 [https://wiki.hyperledger.org/display/sawtooth](https://wiki.hyperledger.org/display/sawtooth)  
 [https://github.com/hyperledger/sawtooth-explorer](https://github.com/hyperledger/sawtooth-explorer)  
-0.18 stars per week over 209 weeks  
+0.18 stars per week over 210 weeks  
 38 stars, 46 forks, 29 watches  
 created 2017-11-27, last commit 2021-03-31, main language TypeScript  
 
@@ -545,7 +545,7 @@ Go, Java and Node SDKs for Fabric embedded Gateway
 [https://hyperledger.github.io/fabric-gateway/](https://hyperledger.github.io/fabric-gateway/)  
 [https://github.com/hyperledger/fabric-gateway](https://github.com/hyperledger/fabric-gateway)  
 0.5 stars per week over 63 weeks  
-32 stars, 24 forks, 7 watches  
+32 stars, 25 forks, 7 watches  
 created 2020-09-15, last commit 2021-12-03, main language Java  
 
 
@@ -567,6 +567,15 @@ created 2019-11-26, last commit 2021-12-01, main language Python
 created 2018-03-16, last commit 2021-10-12, main language JavaScript  
 
 
+### [aries-acapy-controllers](https://github.com/hyperledger/aries-acapy-controllers) by [hyperledger](https://github.com/hyperledger)  
+Web controllers for the Aries Cloud Agent - Python (ACA-Py)  
+[https://github.com/hyperledger/aries-acapy-controllers](https://github.com/hyperledger/aries-acapy-controllers)  
+0.29 stars per week over 97 weeks  
+28 stars, 22 forks, 6 watches  
+created 2020-01-21, last commit 2021-11-02, main language TypeScript  
+<sub><sup>aca-py, angular, aries, aries-cloud-agent, dotnet, expressjs, hyperledger, hyperledger-aries, trust-over-ip, verifiable-credentials</sup></sub>
+
+
 ### [aries-mobile-agent-xamarin](https://github.com/hyperledger/aries-mobile-agent-xamarin) by [hyperledger](https://github.com/hyperledger)  
   
 [https://github.com/hyperledger/aries-mobile-agent-xamarin](https://github.com/hyperledger/aries-mobile-agent-xamarin)  
@@ -575,13 +584,22 @@ created 2018-03-16, last commit 2021-10-12, main language JavaScript
 created 2020-03-31, last commit 2021-09-29, main language C#  
 
 
-### [aries-acapy-controllers](https://github.com/hyperledger/aries-acapy-controllers) by [hyperledger](https://github.com/hyperledger)  
-Web controllers for the Aries Cloud Agent - Python (ACA-Py)  
-[https://github.com/hyperledger/aries-acapy-controllers](https://github.com/hyperledger/aries-acapy-controllers)  
-0.29 stars per week over 97 weeks  
-28 stars, 22 forks, 6 watches  
-created 2020-01-21, last commit 2021-11-02, main language TypeScript  
-<sub><sup>aca-py, angular, aries, aries-cloud-agent, dotnet, expressjs, hyperledger, hyperledger-aries, trust-over-ip, verifiable-credentials</sup></sub>
+### [fabric-rfcs](https://github.com/hyperledger/fabric-rfcs) by [hyperledger](https://github.com/hyperledger)  
+RFC process for Hyperledger Fabric. The RFC (request for comments) process is intended to provide a consistent and controlled path for major changes to Fabric and other official project components. https://wiki.hyperledger.org/display/fabric  
+[https://hyperledger.github.io/fabric-rfcs/](https://hyperledger.github.io/fabric-rfcs/)  
+[https://github.com/hyperledger/fabric-rfcs](https://github.com/hyperledger/fabric-rfcs)  
+0.23 stars per week over 112 weeks  
+26 stars, 41 forks, 26 watches  
+created 2019-10-10, last commit 2021-11-16, main language None  
+
+
+### [fabric-protos](https://github.com/hyperledger/fabric-protos) by [hyperledger](https://github.com/hyperledger)  
+  
+[https://wiki.hyperledger.org/display/fabric](https://wiki.hyperledger.org/display/fabric)  
+[https://github.com/hyperledger/fabric-protos](https://github.com/hyperledger/fabric-protos)  
+0.22 stars per week over 119 weeks  
+26 stars, 48 forks, 21 watches  
+created 2019-08-21, last commit 2021-11-18, main language Shell  
 
 
 ### [iroha-java](https://github.com/hyperledger/iroha-java) by [hyperledger](https://github.com/hyperledger)  
@@ -612,24 +630,6 @@ created 2017-11-17, last commit 2019-09-29, main language Assembly
 <sub><sup>amd64-64-24k, ed25519, fips140-2, fips202, flexible, linux, mac, openssl, osx, ref10, rfc8032, sha2, sha3, sha512</sup></sub>
 
 
-### [fabric-protos](https://github.com/hyperledger/fabric-protos) by [hyperledger](https://github.com/hyperledger)  
-  
-[https://wiki.hyperledger.org/display/fabric](https://wiki.hyperledger.org/display/fabric)  
-[https://github.com/hyperledger/fabric-protos](https://github.com/hyperledger/fabric-protos)  
-0.22 stars per week over 119 weeks  
-26 stars, 48 forks, 21 watches  
-created 2019-08-21, last commit 2021-11-18, main language Shell  
-
-
-### [fabric-rfcs](https://github.com/hyperledger/fabric-rfcs) by [hyperledger](https://github.com/hyperledger)  
-RFC process for Hyperledger Fabric. The RFC (request for comments) process is intended to provide a consistent and controlled path for major changes to Fabric and other official project components. https://wiki.hyperledger.org/display/fabric  
-[https://hyperledger.github.io/fabric-rfcs/](https://hyperledger.github.io/fabric-rfcs/)  
-[https://github.com/hyperledger/fabric-rfcs](https://github.com/hyperledger/fabric-rfcs)  
-0.23 stars per week over 112 weeks  
-26 stars, 41 forks, 26 watches  
-created 2019-10-10, last commit 2021-11-16, main language None  
-
-
 ### [sawtooth-rfcs](https://github.com/hyperledger/sawtooth-rfcs) by [hyperledger](https://github.com/hyperledger)  
   
 [https://wiki.hyperledger.org/display/sawtooth](https://wiki.hyperledger.org/display/sawtooth)  
@@ -643,19 +643,10 @@ created 2018-02-22, last commit 2021-03-31, main language None
 Documentation for Hyperledger Besu enterprise-grade Java-based, Apache 2.0 licensed Ethereum client https://wiki.hyperledger.org/display/besu  
 [https://besu.hyperledger.org](https://besu.hyperledger.org)  
 [https://github.com/hyperledger/besu-docs](https://github.com/hyperledger/besu-docs)  
-0.21 stars per week over 116 weeks  
+0.21 stars per week over 117 weeks  
 25 stars, 49 forks, 15 watches  
-created 2019-09-09, last commit 2021-12-02, main language HTML  
+created 2019-09-09, last commit 2021-12-06, main language HTML  
 <sub><sup>besu, besu-docs, besu-documentation, clique, crypto, ethereum, ethereum-client, ibft2, java, pantheon, permissioning, poa, pow, privacy</sup></sub>
-
-
-### [sawtooth-sdk-rust](https://github.com/hyperledger/sawtooth-sdk-rust) by [hyperledger](https://github.com/hyperledger)  
-  
-[https://wiki.hyperledger.org/display/sawtooth](https://wiki.hyperledger.org/display/sawtooth)  
-[https://github.com/hyperledger/sawtooth-sdk-rust](https://github.com/hyperledger/sawtooth-sdk-rust)  
-0.15 stars per week over 152 weeks  
-23 stars, 37 forks, 13 watches  
-created 2019-01-02, last commit 2021-11-24, main language Rust  
 
 
 ### [aries-protocol-test-suite](https://github.com/hyperledger/aries-protocol-test-suite) by [hyperledger](https://github.com/hyperledger)  
@@ -667,6 +658,15 @@ Test Suite for testing protocol compliance of Aries Agents
 created 2019-06-21, last commit 2021-02-19, main language Python  
 
 
+### [sawtooth-sdk-rust](https://github.com/hyperledger/sawtooth-sdk-rust) by [hyperledger](https://github.com/hyperledger)  
+  
+[https://wiki.hyperledger.org/display/sawtooth](https://wiki.hyperledger.org/display/sawtooth)  
+[https://github.com/hyperledger/sawtooth-sdk-rust](https://github.com/hyperledger/sawtooth-sdk-rust)  
+0.15 stars per week over 152 weeks  
+23 stars, 37 forks, 13 watches  
+created 2019-01-02, last commit 2021-11-24, main language Rust  
+
+
 ### [indy-vdr](https://github.com/hyperledger/indy-vdr) by [hyperledger](https://github.com/hyperledger)  
 A library and proxy server for interacting with Hyperledger Indy Node ledger instances  
 [https://github.com/hyperledger/indy-vdr](https://github.com/hyperledger/indy-vdr)  
@@ -674,33 +674,6 @@ A library and proxy server for interacting with Hyperledger Indy Node ledger ins
 22 stars, 23 forks, 17 watches  
 created 2019-12-17, last commit 2021-09-22, main language Rust  
 <sub><sup>hyperledger, hyperledger-indy, trust-over-ip, verifiable-credentials, verifiable-organizations-network, von</sup></sub>
-
-
-### [aries-vcx](https://github.com/hyperledger/aries-vcx) by [hyperledger](https://github.com/hyperledger)  
-aries-vcx  
-[https://wiki.hyperledger.org/display/aries](https://wiki.hyperledger.org/display/aries)  
-[https://github.com/hyperledger/aries-vcx](https://github.com/hyperledger/aries-vcx)  
-0.29 stars per week over 71 weeks  
-21 stars, 13 forks, 8 watches  
-created 2020-07-21, last commit 2021-12-03, main language Rust  
-<sub><sup>aries, decentralized-identity, libvcx, rust, self-sovereign-identity, ssi, trust-over-ip</sup></sub>
-
-
-### [firefly-cli](https://github.com/hyperledger/firefly-cli) by [hyperledger](https://github.com/hyperledger)  
-FireFly Command Line Interface (CLI)  
-[https://github.com/hyperledger/firefly-cli](https://github.com/hyperledger/firefly-cli)  
-0.71 stars per week over 29 weeks  
-21 stars, 12 forks, 13 watches  
-created 2021-05-12, last commit 2021-11-23, main language Go  
-
-
-### [fabric-config](https://github.com/hyperledger/fabric-config) by [hyperledger](https://github.com/hyperledger)  
-Hyperledger Fabric Packages for channel configuration transactions  
-[https://wiki.hyperledger.org/display/fabric](https://wiki.hyperledger.org/display/fabric)  
-[https://github.com/hyperledger/fabric-config](https://github.com/hyperledger/fabric-config)  
-0.25 stars per week over 83 weeks  
-21 stars, 29 forks, 21 watches  
-created 2020-04-27, last commit 2021-08-31, main language Go  
 
 
 ### [sawtooth-sdk-go](https://github.com/hyperledger/sawtooth-sdk-go) by [hyperledger](https://github.com/hyperledger)  
@@ -722,11 +695,38 @@ created 2019-09-06, last commit 2021-10-14, main language Vue
 <sub><sup>hacktoberfest</sup></sub>
 
 
+### [firefly-cli](https://github.com/hyperledger/firefly-cli) by [hyperledger](https://github.com/hyperledger)  
+FireFly Command Line Interface (CLI)  
+[https://github.com/hyperledger/firefly-cli](https://github.com/hyperledger/firefly-cli)  
+0.71 stars per week over 29 weeks  
+21 stars, 12 forks, 13 watches  
+created 2021-05-12, last commit 2021-11-23, main language Go  
+
+
+### [fabric-config](https://github.com/hyperledger/fabric-config) by [hyperledger](https://github.com/hyperledger)  
+Hyperledger Fabric Packages for channel configuration transactions  
+[https://wiki.hyperledger.org/display/fabric](https://wiki.hyperledger.org/display/fabric)  
+[https://github.com/hyperledger/fabric-config](https://github.com/hyperledger/fabric-config)  
+0.25 stars per week over 84 weeks  
+21 stars, 29 forks, 21 watches  
+created 2020-04-27, last commit 2021-08-31, main language Go  
+
+
+### [aries-vcx](https://github.com/hyperledger/aries-vcx) by [hyperledger](https://github.com/hyperledger)  
+aries-vcx  
+[https://wiki.hyperledger.org/display/aries](https://wiki.hyperledger.org/display/aries)  
+[https://github.com/hyperledger/aries-vcx](https://github.com/hyperledger/aries-vcx)  
+0.29 stars per week over 71 weeks  
+21 stars, 13 forks, 8 watches  
+created 2020-07-21, last commit 2021-12-03, main language Rust  
+<sub><sup>aries, decentralized-identity, libvcx, rust, self-sovereign-identity, ssi, trust-over-ip</sup></sub>
+
+
 ### [composer](https://github.com/hyperledger/composer) by [hyperledger](https://github.com/hyperledger)  
 :warning: :warning: :warning: Hyperledger Composer has been deprecated :warning: :warning: :warning:   
 [https://wiki.hyperledger.org/display/composer](https://wiki.hyperledger.org/display/composer)  
 [https://github.com/hyperledger/composer](https://github.com/hyperledger/composer)  
-0.21 stars per week over 90 weeks  
+0.21 stars per week over 91 weeks  
 19 stars, 22 forks, 3 watches  
 created 2020-03-09, last commit 2019-08-30, main language JavaScript  
 
@@ -740,15 +740,6 @@ created 2020-03-09, last commit 2019-08-30, main language JavaScript
 created 2018-03-16, last commit 2021-10-28, main language Java  
 
 
-### [grid-contrib](https://github.com/hyperledger/grid-contrib) by [hyperledger](https://github.com/hyperledger)  
-  
-[https://wiki.hyperledger.org/display/grid](https://wiki.hyperledger.org/display/grid)  
-[https://github.com/hyperledger/grid-contrib](https://github.com/hyperledger/grid-contrib)  
-0.11 stars per week over 150 weeks  
-16 stars, 24 forks, 20 watches  
-created 2019-01-18, last commit 2021-05-05, main language JavaScript  
-
-
 ### [aries-staticagent-python](https://github.com/hyperledger/aries-staticagent-python) by [hyperledger](https://github.com/hyperledger)  
 Aries Static Agent library for Python  
 [https://wiki.hyperledger.org/display/aries](https://wiki.hyperledger.org/display/aries)  
@@ -757,6 +748,15 @@ Aries Static Agent library for Python
 16 stars, 18 forks, 10 watches  
 created 2019-06-20, last commit 2021-11-19, main language Python  
 <sub><sup>hacktoberfest, python</sup></sub>
+
+
+### [grid-contrib](https://github.com/hyperledger/grid-contrib) by [hyperledger](https://github.com/hyperledger)  
+  
+[https://wiki.hyperledger.org/display/grid](https://wiki.hyperledger.org/display/grid)  
+[https://github.com/hyperledger/grid-contrib](https://github.com/hyperledger/grid-contrib)  
+0.11 stars per week over 150 weeks  
+16 stars, 24 forks, 20 watches  
+created 2019-01-18, last commit 2021-05-05, main language JavaScript  
 
 
 ### [sawtooth-sdk-python](https://github.com/hyperledger/sawtooth-sdk-python) by [hyperledger](https://github.com/hyperledger)  
@@ -777,15 +777,6 @@ created 2020-05-08, last commit 2021-10-02, main language Rust
 <sub><sup>hyperledger-aries, secure-storage, trust-over-ip, verifiable-organizations-network, von</sup></sub>
 
 
-### [aries-sdk-javascript](https://github.com/hyperledger/aries-sdk-javascript) by [hyperledger](https://github.com/hyperledger)  
-  
-[https://wiki.hyperledger.org/display/aries](https://wiki.hyperledger.org/display/aries)  
-[https://github.com/hyperledger/aries-sdk-javascript](https://github.com/hyperledger/aries-sdk-javascript)  
-0.11 stars per week over 130 weeks  
-14 stars, 5 forks, 11 watches  
-created 2019-06-04, last commit 2019-11-05, main language C++  
-
-
 ### [fabric-cli](https://github.com/hyperledger/fabric-cli) by [hyperledger](https://github.com/hyperledger)  
   
 [https://wiki.hyperledger.org/display/fabric](https://wiki.hyperledger.org/display/fabric)  
@@ -796,22 +787,21 @@ created 2018-08-02, last commit 2021-11-04, main language Go
 <sub><sup>fabric-cli, hyperledger</sup></sub>
 
 
+### [aries-sdk-javascript](https://github.com/hyperledger/aries-sdk-javascript) by [hyperledger](https://github.com/hyperledger)  
+  
+[https://wiki.hyperledger.org/display/aries](https://wiki.hyperledger.org/display/aries)  
+[https://github.com/hyperledger/aries-sdk-javascript](https://github.com/hyperledger/aries-sdk-javascript)  
+0.11 stars per week over 130 weeks  
+14 stars, 5 forks, 11 watches  
+created 2019-06-04, last commit 2019-11-05, main language C++  
+
+
 ### [firefly-ui](https://github.com/hyperledger/firefly-ui) by [hyperledger](https://github.com/hyperledger)  
 FireFly UI  
 [https://github.com/hyperledger/firefly-ui](https://github.com/hyperledger/firefly-ui)  
-0.42 stars per week over 30 weeks  
+0.42 stars per week over 31 weeks  
 13 stars, 7 forks, 12 watches  
 created 2021-05-03, last commit 2021-11-23, main language TypeScript  
-
-
-### [aries-acapy-plugin-toolbox](https://github.com/hyperledger/aries-acapy-plugin-toolbox) by [hyperledger](https://github.com/hyperledger)  
-Hyperledger Aries  
-[https://wiki.hyperledger.org/display/aries](https://wiki.hyperledger.org/display/aries)  
-[https://github.com/hyperledger/aries-acapy-plugin-toolbox](https://github.com/hyperledger/aries-acapy-plugin-toolbox)  
-0.11 stars per week over 108 weeks  
-12 stars, 27 forks, 10 watches  
-created 2019-11-08, last commit 2021-11-29, main language Python  
-<sub><sup>hacktoberfest</sup></sub>
 
 
 ### [indy-sdk-react-native](https://github.com/hyperledger/indy-sdk-react-native) by [hyperledger](https://github.com/hyperledger)  
@@ -835,17 +825,27 @@ created 2020-10-07, last commit 2021-12-05, main language Go
 Hyperledger TSC documents  
 [https://tsc.hyperledger.org/](https://tsc.hyperledger.org/)  
 [https://github.com/hyperledger/tsc](https://github.com/hyperledger/tsc)  
-0.13 stars per week over 89 weeks  
+0.13 stars per week over 90 weeks  
 12 stars, 9 forks, 24 watches  
 created 2020-03-16, last commit 2021-10-25, main language None  
 <sub><sup>tsc</sup></sub>
+
+
+### [aries-acapy-plugin-toolbox](https://github.com/hyperledger/aries-acapy-plugin-toolbox) by [hyperledger](https://github.com/hyperledger)  
+Hyperledger Aries  
+[https://wiki.hyperledger.org/display/aries](https://wiki.hyperledger.org/display/aries)  
+[https://github.com/hyperledger/aries-acapy-plugin-toolbox](https://github.com/hyperledger/aries-acapy-plugin-toolbox)  
+0.11 stars per week over 108 weeks  
+12 stars, 27 forks, 10 watches  
+created 2019-11-08, last commit 2021-11-29, main language Python  
+<sub><sup>hacktoberfest</sup></sub>
 
 
 ### [ursa-rfcs](https://github.com/hyperledger/ursa-rfcs) by [hyperledger](https://github.com/hyperledger)  
   
 [https://wiki.hyperledger.org/display/ursa](https://wiki.hyperledger.org/display/ursa)  
 [https://github.com/hyperledger/ursa-rfcs](https://github.com/hyperledger/ursa-rfcs)  
-0.08 stars per week over 158 weeks  
+0.08 stars per week over 159 weeks  
 12 stars, 17 forks, 18 watches  
 created 2018-11-19, last commit 2020-09-02, main language TeX  
 
@@ -868,6 +868,6 @@ created 2018-06-19, last commit 2021-10-04, main language Python
 created 2018-03-16, last commit 2021-03-31, main language C#  
 
 
-This file was automatically generated on 2021-12-05.  
+This file was automatically generated on 2021-12-06.  
 
 To curate your own github list, simply clone and change the input csv file.  

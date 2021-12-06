@@ -10,7 +10,7 @@ Litecoin source tree
 [http://www.litecoin.org](http://www.litecoin.org)  
 [https://github.com/litecoin-project/litecoin](https://github.com/litecoin-project/litecoin)  
 8.09 stars per week over 494 weeks  
-4,000 stars, 2,981 forks, 530 watches  
+4,000 stars, 2,980 forks, 530 watches  
 created 2012-06-13, last commit 2021-06-10, main language C++  
 <sub><sup>cryptocurrency, litecoin</sup></sub>
 
@@ -45,7 +45,7 @@ created 2017-05-04, last commit 2019-01-16, main language HTML
 JavaScript Client-Side Bitcoin Wallet Generator  
 [https://www.bitaddress.org](https://www.bitaddress.org)  
 [https://github.com/litecoin-project/liteaddress.org-old](https://github.com/litecoin-project/liteaddress.org-old)  
-0.09 stars per week over 459 weeks  
+0.09 stars per week over 460 weeks  
 43 stars, 10 forks, 31 watches  
 created 2013-02-11, last commit 2013-12-30, main language JavaScript  
 
@@ -106,6 +106,6 @@ Bitcoin OMG
 created 2013-10-29, last commit 2014-12-23, main language C++  
 
 
-This file was automatically generated on 2021-12-05.  
+This file was automatically generated on 2021-12-06.  
 
 To curate your own github list, simply clone and change the input csv file.  

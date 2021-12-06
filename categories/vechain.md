@@ -27,7 +27,7 @@ created 2018-04-25, last commit 2021-11-11, main language TypeScript
 ### [thor-sync.electron](https://github.com/vechain/thor-sync.electron) by [vechain](https://github.com/vechain)  
 A browser that empowers DApps on VeChain  
 [https://github.com/vechain/thor-sync.electron](https://github.com/vechain/thor-sync.electron)  
-0.31 stars per week over 173 weeks  
+0.3 stars per week over 173 weeks  
 53 stars, 29 forks, 17 watches  
 created 2018-08-07, last commit 2021-11-10, main language Vue  
 <sub><sup>blockchain, connex, crypto, dapp, desktop, vechain, wallet</sup></sub>
@@ -94,20 +94,20 @@ created 2018-06-27, last commit 2021-10-18, main language Python
 <sub><sup>blockchain, ethereum, remix, thor, truffle, vechain, web3</sup></sub>
 
 
-### [crowdsale-contracts](https://github.com/vechain/crowdsale-contracts) by [vechain](https://github.com/vechain)  
-Smart contracts to support VeChain's token sale  
-[https://github.com/vechain/crowdsale-contracts](https://github.com/vechain/crowdsale-contracts)  
-0.09 stars per week over 226 weeks  
-21 stars, 17 forks, 7 watches  
-created 2017-07-31, last commit 2018-08-15, main language JavaScript  
-
-
 ### [thor-devkit.py](https://github.com/vechain/thor-devkit.py) by [vechain](https://github.com/vechain)  
 Python 3 library to aid coding with VeChain, eg. Wallets/Tx/Sign/Verify.  
 [https://github.com/vechain/thor-devkit.py](https://github.com/vechain/thor-devkit.py)  
 0.26 stars per week over 81 weeks  
 21 stars, 6 forks, 5 watches  
 created 2020-05-13, last commit 2021-06-07, main language Python  
+
+
+### [crowdsale-contracts](https://github.com/vechain/crowdsale-contracts) by [vechain](https://github.com/vechain)  
+Smart contracts to support VeChain's token sale  
+[https://github.com/vechain/crowdsale-contracts](https://github.com/vechain/crowdsale-contracts)  
+0.09 stars per week over 227 weeks  
+21 stars, 17 forks, 7 watches  
+created 2017-07-31, last commit 2018-08-15, main language JavaScript  
 
 
 ### [picasso](https://github.com/vechain/picasso) by [vechain](https://github.com/vechain)  
@@ -156,7 +156,7 @@ created 2019-07-26, last commit 2020-04-17, main language C
 ### [wallet-Android-sdk](https://github.com/vechain/wallet-Android-sdk) by [vechain](https://github.com/vechain)  
 The VeChainThor blockchain wallet sdk for Android platform  
 [https://github.com/vechain/wallet-Android-sdk](https://github.com/vechain/wallet-Android-sdk)  
-0.11 stars per week over 122 weeks  
+0.11 stars per week over 123 weeks  
 13 stars, 24 forks, 5 watches  
 created 2019-07-29, last commit 2019-07-30, main language Java  
 
@@ -164,17 +164,9 @@ created 2019-07-29, last commit 2019-07-30, main language Java
 ### [thor-devkit.netcore](https://github.com/vechain/thor-devkit.netcore) by [vechain](https://github.com/vechain)  
 .Net Core library to assist smooth development on VeChain for developers and hobbyists.  
 [https://github.com/vechain/thor-devkit.netcore](https://github.com/vechain/thor-devkit.netcore)  
-0.18 stars per week over 73 weeks  
+0.18 stars per week over 74 weeks  
 13 stars, 4 forks, 7 watches  
 created 2020-07-06, last commit 2021-05-05, main language C#  
-
-
-### [ThorNode-contracts](https://github.com/vechain/ThorNode-contracts) by [vechain](https://github.com/vechain)  
-Smart contracts of VeChainThor Node Token based on VIP181 - non-fungible token standard.  
-[https://github.com/vechain/ThorNode-contracts](https://github.com/vechain/ThorNode-contracts)  
-0.08 stars per week over 156 weeks  
-12 stars, 10 forks, 9 watches  
-created 2018-12-04, last commit 2020-05-21, main language None  
 
 
 ### [VIPs](https://github.com/vechain/VIPs) by [vechain](https://github.com/vechain)  
@@ -185,24 +177,32 @@ VeChain Improvement Proposals
 created 2018-08-22, last commit 2021-10-29, main language None  
 
 
+### [ThorNode-contracts](https://github.com/vechain/ThorNode-contracts) by [vechain](https://github.com/vechain)  
+Smart contracts of VeChainThor Node Token based on VIP181 - non-fungible token standard.  
+[https://github.com/vechain/ThorNode-contracts](https://github.com/vechain/ThorNode-contracts)  
+0.08 stars per week over 156 weeks  
+12 stars, 10 forks, 9 watches  
+created 2018-12-04, last commit 2020-05-21, main language None  
+
+
 ### [app-hub](https://github.com/vechain/app-hub) by [vechain](https://github.com/vechain)  
 App-hub is a platform that allow you to submit your awesome app and discovery by people around the world.  
 [https://github.com/vechain/app-hub](https://github.com/vechain/app-hub)  
 0.07 stars per week over 155 weeks  
 11 stars, 39 forks, 10 watches  
-created 2018-12-14, last commit 2021-12-03, main language TypeScript  
+created 2018-12-14, last commit 2021-12-06, main language TypeScript  
 <sub><sup>app, connex, dapp, hub, sync, vechainapp</sup></sub>
 
 
 ### [thor-builtins](https://github.com/vechain/thor-builtins) by [vechain](https://github.com/vechain)  
 Builtin contracts & examples  
 [https://github.com/vechain/thor-builtins](https://github.com/vechain/thor-builtins)  
-0.06 stars per week over 178 weeks  
+0.06 stars per week over 179 weeks  
 10 stars, 8 forks, 6 watches  
 created 2018-07-02, last commit 2020-12-01, main language Solidity  
 <sub><sup>builtin, contracts, thor, vechain</sup></sub>
 
 
-This file was automatically generated on 2021-12-05.  
+This file was automatically generated on 2021-12-06.  
 
 To curate your own github list, simply clone and change the input csv file.  

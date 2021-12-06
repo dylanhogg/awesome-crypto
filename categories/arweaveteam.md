@@ -9,7 +9,7 @@ Checkout the interactive version that you can filter and sort:
 The Arweave server and App Developer Toolkit.  
 [https://www.arweave.org](https://www.arweave.org)  
 [https://github.com/ArweaveTeam/arweave](https://github.com/ArweaveTeam/arweave)  
-2.15 stars per week over 226 weeks  
+2.14 stars per week over 226 weeks  
 486 stars, 105 forks, 52 watches  
 created 2017-08-02, last commit 2021-11-05, main language C  
 
@@ -17,7 +17,7 @@ created 2017-08-02, last commit 2021-11-05, main language C
 ### [arweave-js](https://github.com/ArweaveTeam/arweave-js) by [ArweaveTeam](https://github.com/ArweaveTeam)  
   
 [https://github.com/ArweaveTeam/arweave-js](https://github.com/ArweaveTeam/arweave-js)  
-1.68 stars per week over 159 weeks  
+1.67 stars per week over 159 weeks  
 267 stars, 71 forks, 17 watches  
 created 2018-11-16, last commit 2021-11-24, main language TypeScript  
 
@@ -33,7 +33,7 @@ created 2020-04-23, last commit 2021-10-25, main language TypeScript
 ### [arweave-deploy](https://github.com/ArweaveTeam/arweave-deploy) by [ArweaveTeam](https://github.com/ArweaveTeam)  
   
 [https://github.com/ArweaveTeam/arweave-deploy](https://github.com/ArweaveTeam/arweave-deploy)  
-0.64 stars per week over 156 weeks  
+0.64 stars per week over 157 weeks  
 101 stars, 39 forks, 13 watches  
 created 2018-12-03, last commit 2021-10-25, main language TypeScript  
 
@@ -41,8 +41,8 @@ created 2018-12-03, last commit 2021-10-25, main language TypeScript
 ### [Bounties](https://github.com/ArweaveTeam/Bounties) by [ArweaveTeam](https://github.com/ArweaveTeam)  
 Arweave sponsored Gitcoin bounties.  
 [https://github.com/ArweaveTeam/Bounties](https://github.com/ArweaveTeam/Bounties)  
-0.5 stars per week over 135 weeks  
-68 stars, 28 forks, 18 watches  
+0.51 stars per week over 135 weeks  
+69 stars, 28 forks, 18 watches  
 created 2019-04-30, last commit 2021-04-01, main language None  
 
 
@@ -71,14 +71,6 @@ created 2021-02-23, last commit 2021-04-09, main language None
 created 2021-02-19, last commit 2021-04-13, main language TypeScript  
 
 
-### [gateway](https://github.com/ArweaveTeam/gateway) by [ArweaveTeam](https://github.com/ArweaveTeam)  
-  
-[https://github.com/ArweaveTeam/gateway](https://github.com/ArweaveTeam/gateway)  
-0.2 stars per week over 88 weeks  
-18 stars, 20 forks, 9 watches  
-created 2020-03-24, last commit 2021-09-13, main language Shell  
-
-
 ### [vartex](https://github.com/ArweaveTeam/vartex) by [ArweaveTeam](https://github.com/ArweaveTeam)  
 Vartex is a vortex into the permaweb -- the decentralised web on top of the Arweave protocol.  
 [https://github.com/ArweaveTeam/vartex](https://github.com/ArweaveTeam/vartex)  
@@ -86,6 +78,14 @@ Vartex is a vortex into the permaweb -- the decentralised web on top of the Arwe
 18 stars, 8 forks, 4 watches  
 created 2021-07-23, last commit 2021-11-11, main language TypeScript  
 <sub><sup>arweave, gateway</sup></sub>
+
+
+### [gateway](https://github.com/ArweaveTeam/gateway) by [ArweaveTeam](https://github.com/ArweaveTeam)  
+  
+[https://github.com/ArweaveTeam/gateway](https://github.com/ArweaveTeam/gateway)  
+0.2 stars per week over 88 weeks  
+18 stars, 20 forks, 9 watches  
+created 2020-03-24, last commit 2021-09-13, main language Shell  
 
 
 ### [docs.arweave.org-developers](https://github.com/ArweaveTeam/docs.arweave.org-developers) by [ArweaveTeam](https://github.com/ArweaveTeam)  
@@ -120,6 +120,6 @@ arweave-data
 created 2020-04-07, last commit 2021-09-07, main language TypeScript  
 
 
-This file was automatically generated on 2021-12-05.  
+This file was automatically generated on 2021-12-06.  
 
 To curate your own github list, simply clone and change the input csv file.  

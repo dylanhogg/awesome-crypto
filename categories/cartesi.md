@@ -56,7 +56,7 @@ created 2020-06-30, last commit 2020-08-21, main language JavaScript
 ### [creepts-dapp](https://github.com/cartesi/creepts-dapp) by [cartesi](https://github.com/cartesi)  
 Creepts - Decentralized Tower Defense Game  
 [https://github.com/cartesi/creepts-dapp](https://github.com/cartesi/creepts-dapp)  
-0.15 stars per week over 95 weeks  
+0.15 stars per week over 96 weeks  
 14 stars, 2 forks, 8 watches  
 created 2020-02-03, last commit 2020-03-26, main language Rust  
 
@@ -64,7 +64,7 @@ created 2020-02-03, last commit 2020-03-26, main language Rust
 ### [grpc-interfaces](https://github.com/cartesi/grpc-interfaces) by [cartesi](https://github.com/cartesi)  
 Cartesi GRPC Interfaces  
 [https://github.com/cartesi/grpc-interfaces](https://github.com/cartesi/grpc-interfaces)  
-0.11 stars per week over 126 weeks  
+0.11 stars per week over 127 weeks  
 14 stars, 3 forks, 12 watches  
 created 2019-07-01, last commit 2020-11-05, main language Makefile  
 
@@ -85,14 +85,6 @@ Cartesi Machine Manager Server repository
 created 2019-07-16, last commit 2021-01-14, main language Python  
 
 
-### [machine-emulator-sdk](https://github.com/cartesi/machine-emulator-sdk) by [cartesi](https://github.com/cartesi)  
-Cartesi Machine SDK  
-[https://github.com/cartesi/machine-emulator-sdk](https://github.com/cartesi/machine-emulator-sdk)  
-0.08 stars per week over 126 weeks  
-10 stars, 2 forks, 9 watches  
-created 2019-07-02, last commit 2020-12-10, main language Makefile  
-
-
 ### [creepts-game](https://github.com/cartesi/creepts-game) by [cartesi](https://github.com/cartesi)  
 A JS and Cartesi-compatible implementation of Creepts game  
 [https://github.com/cartesi/creepts-game](https://github.com/cartesi/creepts-game)  
@@ -101,6 +93,14 @@ A JS and Cartesi-compatible implementation of Creepts game
 created 2020-02-02, last commit 2020-03-25, main language TypeScript  
 
 
-This file was automatically generated on 2021-12-05.  
+### [machine-emulator-sdk](https://github.com/cartesi/machine-emulator-sdk) by [cartesi](https://github.com/cartesi)  
+Cartesi Machine SDK  
+[https://github.com/cartesi/machine-emulator-sdk](https://github.com/cartesi/machine-emulator-sdk)  
+0.08 stars per week over 126 weeks  
+10 stars, 2 forks, 9 watches  
+created 2019-07-02, last commit 2020-12-10, main language Makefile  
+
+
+This file was automatically generated on 2021-12-06.  
 
 To curate your own github list, simply clone and change the input csv file.  

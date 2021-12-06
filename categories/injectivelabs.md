@@ -26,9 +26,9 @@ created 2021-02-11, last commit 2021-06-05, main language JavaScript
 ### [injective-dex](https://github.com/InjectiveLabs/injective-dex) by [InjectiveLabs](https://github.com/InjectiveLabs)  
 Decentralized Derivatives Trading. Any Market. Anytime. Anywhere.  
 [https://github.com/InjectiveLabs/injective-dex](https://github.com/InjectiveLabs/injective-dex)  
-0.3 stars per week over 33 weeks  
+0.29 stars per week over 34 weeks  
 10 stars, 6 forks, 10 watches  
-created 2021-04-12, last commit 2021-12-03, main language HTML  
+created 2021-04-12, last commit 2021-12-05, main language HTML  
 
 
 ### [injective-ts](https://github.com/InjectiveLabs/injective-ts) by [InjectiveLabs](https://github.com/InjectiveLabs)  
@@ -40,6 +40,6 @@ created 2019-10-19, last commit 2021-12-04, main language TypeScript
 <sub><sup>injective, injective-chain, injective-protocol, monorepo, typescript</sup></sub>
 
 
-This file was automatically generated on 2021-12-05.  
+This file was automatically generated on 2021-12-06.  
 
 To curate your own github list, simply clone and change the input csv file.  

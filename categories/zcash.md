@@ -10,7 +10,7 @@ Zcash - Internet Money
 [https://z.cash/](https://z.cash/)  
 [https://github.com/zcash/zcash](https://github.com/zcash/zcash)  
 12 stars per week over 367 weeks  
-4,502 stars, 1,864 forks, 398 watches  
+4,503 stars, 1,865 forks, 398 watches  
 created 2014-11-22, last commit 2021-11-24, main language C++  
 
 
@@ -35,15 +35,15 @@ created 2015-12-02, last commit 2021-12-03, main language HTML
 ### [halo2](https://github.com/zcash/halo2) by [zcash](https://github.com/zcash)  
   
 [https://github.com/zcash/halo2](https://github.com/zcash/halo2)  
-2.0 stars per week over 66 weeks  
-134 stars, 56 forks, 28 watches  
+2.0 stars per week over 67 weeks  
+134 stars, 57 forks, 28 watches  
 created 2020-08-24, last commit 2021-12-03, main language Rust  
 
 
 ### [mpc](https://github.com/zcash/mpc) by [zcash](https://github.com/zcash)  
 zk-SNARK parameter multi-party computation protocol  
 [https://github.com/zcash/mpc](https://github.com/zcash/mpc)  
-0.49 stars per week over 266 weeks  
+0.49 stars per week over 267 weeks  
 132 stars, 31 forks, 25 watches  
 created 2016-10-24, last commit 2019-10-30, main language Rust  
 
@@ -60,7 +60,7 @@ created 2016-07-15, last commit 2017-02-09, main language C++
 Lightwalletd is a backend service that provides a bandwidth-efficient interface to the Zcash blockchain  
 [https://github.com/zcash/lightwalletd](https://github.com/zcash/lightwalletd)  
 0.36 stars per week over 157 weeks  
-56 stars, 60 forks, 17 watches  
+56 stars, 61 forks, 17 watches  
 created 2018-11-29, last commit 2021-12-01, main language Go  
 
 
@@ -91,7 +91,7 @@ created 2020-10-20, last commit 2021-12-02, main language Rust
 ### [pasta](https://github.com/zcash/pasta) by [zcash](https://github.com/zcash)  
 Generator and supporting evidence for security of the Pallas/Vesta pair of elliptic curves suitable for Halo  
 [https://github.com/zcash/pasta](https://github.com/zcash/pasta)  
-0.39 stars per week over 54 weeks  
+0.38 stars per week over 54 weeks  
 21 stars, 2 forks, 11 watches  
 created 2020-11-19, last commit 2021-04-27, main language Sage  
 <sub><sup>cryptography, elliptic-curves, mathematics, sagemath</sup></sub>
@@ -170,6 +170,6 @@ An append-only merkle tree which is always pruned, along with incremental, fast-
 created 2015-12-20, last commit 2021-08-03, main language Rust  
 
 
-This file was automatically generated on 2021-12-05.  
+This file was automatically generated on 2021-12-06.  
 
 To curate your own github list, simply clone and change the input csv file.  

@@ -8,15 +8,15 @@ Checkout the interactive version that you can filter and sort:
 ### [cairo-lang](https://github.com/starkware-libs/cairo-lang) by [starkware-libs](https://github.com/starkware-libs)  
   
 [https://github.com/starkware-libs/cairo-lang](https://github.com/starkware-libs/cairo-lang)  
-5.69 stars per week over 57 weeks  
-325 stars, 42 forks, 23 watches  
+5.73 stars per week over 57 weeks  
+328 stars, 42 forks, 23 watches  
 created 2020-10-31, last commit 2021-11-29, main language Python  
 
 
 ### [ethSTARK](https://github.com/starkware-libs/ethSTARK) by [starkware-libs](https://github.com/starkware-libs)  
   
 [https://github.com/starkware-libs/ethSTARK](https://github.com/starkware-libs/ethSTARK)  
-1.27 stars per week over 75 weeks  
+1.26 stars per week over 75 weeks  
 95 stars, 22 forks, 12 watches  
 created 2020-06-28, last commit 2020-08-05, main language C++  
 
@@ -45,6 +45,6 @@ created 2020-06-23, last commit 2020-11-05, main language Solidity
 created 2020-02-04, last commit 2021-04-26, main language Python  
 
 
-This file was automatically generated on 2021-12-05.  
+This file was automatically generated on 2021-12-06.  
 
 To curate your own github list, simply clone and change the input csv file.  

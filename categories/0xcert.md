@@ -19,7 +19,7 @@ created 2018-08-18, last commit 2021-08-19, main language TypeScript
 Fungible token implementation for the Ethereum blockchain.  
 [https://0xcert.org](https://0xcert.org)  
 [https://github.com/0xcert/ethereum-erc20](https://github.com/0xcert/ethereum-erc20)  
-0.14 stars per week over 182 weeks  
+0.14 stars per week over 183 weeks  
 25 stars, 20 forks, 8 watches  
 created 2018-06-04, last commit 2018-08-28, main language JavaScript  
 <sub><sup>blockchain, contract, contracts, eip, erc, erc-20, erc20, eth, ethereum, fungability, fungible, smart, smart-contract, smart-contracts, standard, token, tokens</sup></sub>
@@ -69,7 +69,7 @@ created 2018-06-07, last commit 2018-07-20, main language JavaScript
 0xcert protocol token implementation for the Ethereum blockchain.  
 [https://0xcert.org](https://0xcert.org)  
 [https://github.com/0xcert/ethereum-zxc](https://github.com/0xcert/ethereum-zxc)  
-0.08 stars per week over 182 weeks  
+0.08 stars per week over 183 weeks  
 14 stars, 3 forks, 5 watches  
 created 2018-06-04, last commit 2018-06-26, main language JavaScript  
 <sub><sup>0xcert, blockchain, contract, contracts, eip, erc, erc-20, erc20, eth, ethereum, fungability, fungible, protocol, smart, smart-contract, smart-contracts, standard, token, tokens, zxc</sup></sub>
@@ -122,6 +122,6 @@ created 2018-06-02, last commit 2018-06-23, main language JavaScript
 <sub><sup>blockchain, contract, contracts, eth, ethereum, smart, smart-contract, smart-contracts, token, tokens, utilities, utility, utils</sup></sub>
 
 
-This file was automatically generated on 2021-12-05.  
+This file was automatically generated on 2021-12-06.  
 
 To curate your own github list, simply clone and change the input csv file.  

@@ -9,8 +9,8 @@ Checkout the interactive version that you can filter and sort:
 The core protocol of harmony  
 [https://harmony.one](https://harmony.one)  
 [https://github.com/harmony-one/harmony](https://github.com/harmony-one/harmony)  
-7.16 stars per week over 184 weeks  
-1,322 stars, 216 forks, 96 watches  
+7.15 stars per week over 184 weeks  
+1,322 stars, 216 forks, 95 watches  
 created 2018-05-22, last commit 2021-12-05, main language Go  
 <sub><sup>blockchain, bls, consensus, distributed-ledger-technology, harmony, harmony-protocol, pbft, proof-of-stake, sharding</sup></sub>
 
@@ -36,8 +36,8 @@ created 2021-02-12, last commit 2021-06-24, main language None
 Harmony Chrome Extension Wallet  
 [https://chrome.google.com/webstore/detail/harmony-one-wallet/fnnegphlobjdpkhecapkijjdkgcjhkib](https://chrome.google.com/webstore/detail/harmony-one-wallet/fnnegphlobjdpkhecapkijjdkgcjhkib)  
 [https://github.com/harmony-one/chrome-extension-wallet](https://github.com/harmony-one/chrome-extension-wallet)  
-0.53 stars per week over 81 weeks  
-43 stars, 24 forks, 20 watches  
+0.54 stars per week over 81 weeks  
+44 stars, 25 forks, 20 watches  
 created 2020-05-13, last commit 2021-11-01, main language Vue  
 <sub><sup>chrome-extension, harmony, hrc20, ledger, vue, wallet</sup></sub>
 
@@ -73,7 +73,7 @@ created 2018-11-06, last commit 2018-12-30, main language Go
 ### [vdf](https://github.com/harmony-one/vdf) by [harmony-one](https://github.com/harmony-one)  
 The first go implementation of verifiable delay function (VDF)  
 [https://github.com/harmony-one/vdf](https://github.com/harmony-one/vdf)  
-0.23 stars per week over 133 weeks  
+0.22 stars per week over 133 weeks  
 30 stars, 12 forks, 24 watches  
 created 2019-05-17, last commit 2019-09-24, main language Go  
 <sub><sup>vdf, verifiable-delay-functions</sup></sub>
@@ -219,6 +219,6 @@ repo for harmony hackathons
 created 2020-11-12, last commit 2021-08-27, main language JavaScript  
 
 
-This file was automatically generated on 2021-12-05.  
+This file was automatically generated on 2021-12-06.  
 
 To curate your own github list, simply clone and change the input csv file.  

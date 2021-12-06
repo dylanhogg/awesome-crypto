@@ -35,7 +35,7 @@ created 2016-06-15, last commit 2018-12-22, main language C++
 ### [scout](https://github.com/ewasm/scout) by [ewasm](https://github.com/ewasm)  
 Scout is a Ethereum 2.0 Phase 2 execution prototyping engine.  
 [https://github.com/ewasm/scout](https://github.com/ewasm/scout)  
-0.64 stars per week over 132 weeks  
+0.63 stars per week over 132 weeks  
 84 stars, 16 forks, 11 watches  
 created 2019-05-25, last commit 2020-01-25, main language Rust  
 <sub><sup>eth2, ethereum, webassembly</sup></sub>
@@ -44,7 +44,7 @@ created 2019-05-25, last commit 2020-01-25, main language Rust
 ### [ewasm-rust-api](https://github.com/ewasm/ewasm-rust-api) by [ewasm](https://github.com/ewasm)  
 Ewasm API for Rust  
 [https://github.com/ewasm/ewasm-rust-api](https://github.com/ewasm/ewasm-rust-api)  
-0.44 stars per week over 179 weeks  
+0.44 stars per week over 180 weeks  
 80 stars, 13 forks, 14 watches  
 created 2018-06-25, last commit 2019-11-27, main language Rust  
 <sub><sup>ethereum, ewasm, rust</sup></sub>
@@ -69,7 +69,7 @@ created 2016-12-21, last commit 2018-04-25, main language JavaScript
 ### [ewasm-precompiles](https://github.com/ewasm/ewasm-precompiles) by [ewasm](https://github.com/ewasm)  
 Implementation of the Ethereum precompiled contracts in Rust.  
 [https://github.com/ewasm/ewasm-precompiles](https://github.com/ewasm/ewasm-precompiles)  
-0.25 stars per week over 179 weeks  
+0.25 stars per week over 180 weeks  
 45 stars, 8 forks, 9 watches  
 created 2018-06-25, last commit 2020-05-11, main language Rust  
 <sub><sup>ethereum, ewasm, rust</sup></sub>
@@ -78,7 +78,7 @@ created 2018-06-25, last commit 2020-05-11, main language Rust
 ### [wasm-json-toolkit](https://github.com/ewasm/wasm-json-toolkit) by [ewasm](https://github.com/ewasm)  
 [ORPHANED] A small toolkit for converting wasm binaries into json and back.  
 [https://github.com/ewasm/wasm-json-toolkit](https://github.com/ewasm/wasm-json-toolkit)  
-0.11 stars per week over 260 weeks  
+0.11 stars per week over 261 weeks  
 29 stars, 12 forks, 7 watches  
 created 2016-12-05, last commit 2019-04-12, main language JavaScript  
 <sub><sup>wasm, webassembly</sup></sub>
@@ -92,15 +92,6 @@ created 2016-12-05, last commit 2019-04-12, main language JavaScript
 created 2017-10-20, last commit 2018-01-26, main language JavaScript  
 
 
-### [assemblyscript-ewasm-api](https://github.com/ewasm/assemblyscript-ewasm-api) by [ewasm](https://github.com/ewasm)  
-Ewasm API for AssemblyScript  
-[https://github.com/ewasm/assemblyscript-ewasm-api](https://github.com/ewasm/assemblyscript-ewasm-api)  
-0.11 stars per week over 179 weeks  
-20 stars, 5 forks, 8 watches  
-created 2018-06-28, last commit 2018-06-29, main language TypeScript  
-<sub><sup>assemblyscript, ethereum, ewasm</sup></sub>
-
-
 ### [wast2wasm](https://github.com/ewasm/wast2wasm) by [ewasm](https://github.com/ewasm)  
 [OBSOLETE] converts .wast files -> .wasm  
 [https://github.com/ewasm/wast2wasm](https://github.com/ewasm/wast2wasm)  
@@ -110,12 +101,30 @@ created 2017-01-01, last commit 2018-02-15, main language JavaScript
 <sub><sup>webassembly</sup></sub>
 
 
+### [assemblyscript-ewasm-api](https://github.com/ewasm/assemblyscript-ewasm-api) by [ewasm](https://github.com/ewasm)  
+Ewasm API for AssemblyScript  
+[https://github.com/ewasm/assemblyscript-ewasm-api](https://github.com/ewasm/assemblyscript-ewasm-api)  
+0.11 stars per week over 179 weeks  
+20 stars, 5 forks, 8 watches  
+created 2018-06-28, last commit 2018-06-29, main language TypeScript  
+<sub><sup>assemblyscript, ethereum, ewasm</sup></sub>
+
+
 ### [benchmarking](https://github.com/ewasm/benchmarking) by [ewasm](https://github.com/ewasm)  
 Instructions for benchmarking Ewasm precompiles. (And results.)  
 [https://github.com/ewasm/benchmarking](https://github.com/ewasm/benchmarking)  
-0.12 stars per week over 155 weeks  
+0.12 stars per week over 156 weeks  
 18 stars, 8 forks, 8 watches  
 created 2018-12-10, last commit 2020-10-21, main language Python  
+
+
+### [ewasm-studio](https://github.com/ewasm/ewasm-studio) by [ewasm](https://github.com/ewasm)  
+A lightweight development environment for eWASM  
+[https://github.com/ewasm/ewasm-studio](https://github.com/ewasm/ewasm-studio)  
+0.09 stars per week over 182 weeks  
+17 stars, 7 forks, 7 watches  
+created 2018-06-11, last commit 2018-12-08, main language JavaScript  
+<sub><sup>ewasm</sup></sub>
 
 
 ### [rust-ewasm](https://github.com/ewasm/rust-ewasm) by [ewasm](https://github.com/ewasm)  
@@ -124,15 +133,6 @@ created 2018-12-10, last commit 2020-10-21, main language Python
 0.08 stars per week over 202 weeks  
 17 stars, 6 forks, 12 watches  
 created 2018-01-16, last commit 2018-07-27, main language WebAssembly  
-
-
-### [ewasm-studio](https://github.com/ewasm/ewasm-studio) by [ewasm](https://github.com/ewasm)  
-A lightweight development environment for eWASM  
-[https://github.com/ewasm/ewasm-studio](https://github.com/ewasm/ewasm-studio)  
-0.09 stars per week over 181 weeks  
-17 stars, 7 forks, 7 watches  
-created 2018-06-11, last commit 2018-12-08, main language JavaScript  
-<sub><sup>ewasm</sup></sub>
 
 
 ### [biturbo](https://github.com/ewasm/biturbo) by [ewasm](https://github.com/ewasm)  
@@ -162,14 +162,6 @@ created 2018-07-11, last commit 2019-04-10, main language None
 <sub><sup>erc20, ethereum-contract, ewasm</sup></sub>
 
 
-### [pm](https://github.com/ewasm/pm) by [ewasm](https://github.com/ewasm)  
-Ewasm project management repository  
-[https://github.com/ewasm/pm](https://github.com/ewasm/pm)  
-0.04 stars per week over 269 weeks  
-12 stars, 1 forks, 17 watches  
-created 2016-10-06, last commit 2018-12-14, main language None  
-
-
 ### [sentinel-rs](https://github.com/ewasm/sentinel-rs) by [ewasm](https://github.com/ewasm)  
 Validator and metering injector for Ewasm  
 [https://github.com/ewasm/sentinel-rs](https://github.com/ewasm/sentinel-rs)  
@@ -179,15 +171,23 @@ created 2018-08-11, last commit 2019-12-10, main language Rust
 <sub><sup>ethereum, ewasm, webassembly</sup></sub>
 
 
+### [pm](https://github.com/ewasm/pm) by [ewasm](https://github.com/ewasm)  
+Ewasm project management repository  
+[https://github.com/ewasm/pm](https://github.com/ewasm/pm)  
+0.04 stars per week over 269 weeks  
+12 stars, 1 forks, 17 watches  
+created 2016-10-06, last commit 2018-12-14, main language None  
+
+
 ### [ethereum-bls12.rs](https://github.com/ewasm/ethereum-bls12.rs) by [ewasm](https://github.com/ewasm)  
 Ethereum serialisation for BLS12-381 operations in Rust.  
 [https://github.com/ewasm/ethereum-bls12.rs](https://github.com/ewasm/ethereum-bls12.rs)  
-0.06 stars per week over 174 weeks  
+0.06 stars per week over 175 weeks  
 11 stars, 3 forks, 6 watches  
 created 2018-07-30, last commit 2019-06-19, main language Rust  
 <sub><sup>elliptic-curves, ethereum, rust</sup></sub>
 
 
-This file was automatically generated on 2021-12-05.  
+This file was automatically generated on 2021-12-06.  
 
 To curate your own github list, simply clone and change the input csv file.  

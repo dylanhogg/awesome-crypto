@@ -9,7 +9,7 @@ Checkout the interactive version that you can filter and sort:
 Syscoin is a crypto currency that is universally merge-mineable and offers a unique variety of services including decentralized identities, asset token issuance platform capabilities directly on the blockchain and trustless 0-counterparty interoptibility with the Ethereum blockchain  
 [https://www.syscoin.org](https://www.syscoin.org)  
 [https://github.com/syscoin/syscoin](https://github.com/syscoin/syscoin)  
-0.47 stars per week over 300 weeks  
+0.47 stars per week over 301 weeks  
 140 stars, 63 forks, 51 watches  
 created 2016-02-29, last commit 2021-11-24, main language C++  
 <sub><sup>assets, bitcoin, blockchain, blockchain-technology, cryptocurrency, decentralized, decentralized-applications, ethereum, ethereum-blockchain, identity, interoperability, iot, marketplaces, minable, ownership, scalability, sidechains, smart-contracts, syscoin, zdag</sup></sub>
@@ -19,7 +19,7 @@ created 2016-02-29, last commit 2021-11-24, main language C++
 Syscoin is a crypto currency that is universally merge-mineable and offers a unique variety of services including decentralized identities, marketplaces and certificate management, escrow, asset token issuance platform capabilities directly on the blockchain.  
 [https://www.syscoin.org](https://www.syscoin.org)  
 [https://github.com/syscoin/syscoin1](https://github.com/syscoin/syscoin1)  
-0.08 stars per week over 378 weeks  
+0.08 stars per week over 379 weeks  
 32 stars, 32 forks, 33 watches  
 created 2014-09-01, last commit 2018-03-20, main language C++  
 <sub><sup>assets, blockchain, blockchain-technology, cryptocurrency, decentralized, decentralized-applications, identity, iot, marketplaces, minable, ownership, syscoin</sup></sub>
@@ -35,6 +35,14 @@ created 2017-05-09, last commit 2020-05-19, main language None
 <sub><sup>bitcoin, blockchain, fintech, syscoin</sup></sub>
 
 
+### [syscoin-api](https://github.com/syscoin/syscoin-api) by [syscoin](https://github.com/syscoin)  
+Lightweight Syscoin API Server written in NodeJS.  
+[https://github.com/syscoin/syscoin-api](https://github.com/syscoin/syscoin-api)  
+0.03 stars per week over 377 weeks  
+13 stars, 14 forks, 21 watches  
+created 2014-09-13, last commit 2019-09-20, main language JavaScript  
+
+
 ### [sysethereum-contracts](https://github.com/syscoin/sysethereum-contracts) by [syscoin](https://github.com/syscoin)  
 Syscoin <=> Ethereum bridge smart contracts  
 [http://bridge.syscoin.org](http://bridge.syscoin.org)  
@@ -44,24 +52,16 @@ Syscoin <=> Ethereum bridge smart contracts
 created 2019-02-26, last commit 2021-11-27, main language Solidity  
 
 
-### [syscoin-api](https://github.com/syscoin/syscoin-api) by [syscoin](https://github.com/syscoin)  
-Lightweight Syscoin API Server written in NodeJS.  
-[https://github.com/syscoin/syscoin-api](https://github.com/syscoin/syscoin-api)  
-0.03 stars per week over 377 weeks  
-13 stars, 14 forks, 21 watches  
-created 2014-09-13, last commit 2019-09-20, main language JavaScript  
-
-
 ### [pali-wallet](https://github.com/syscoin/pali-wallet) by [syscoin](https://github.com/syscoin)  
 The Official Syscoin browser wallet. Open source, easy to use & multichain.  
 [http://www.paliwallet.com/](http://www.paliwallet.com/)  
 [https://github.com/syscoin/pali-wallet](https://github.com/syscoin/pali-wallet)  
-0.33 stars per week over 36 weeks  
+0.32 stars per week over 37 weeks  
 12 stars, 2 forks, 3 watches  
 created 2021-03-22, last commit 2021-12-04, main language TypeScript  
 <sub><sup>blockchain, crypto-wallet, crypto-wallet-blockchain, cryptocurrency, defi, evm, syscoin</sup></sub>
 
 
-This file was automatically generated on 2021-12-05.  
+This file was automatically generated on 2021-12-06.  
 
 To curate your own github list, simply clone and change the input csv file.  

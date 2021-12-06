@@ -43,15 +43,15 @@ created 2018-03-20, last commit 2018-10-26, main language Python
 ### [plasma-contracts](https://github.com/omgnetwork/plasma-contracts) by [omgnetwork](https://github.com/omgnetwork)  
 Root chain contracts for Plasma  
 [https://github.com/omgnetwork/plasma-contracts](https://github.com/omgnetwork/plasma-contracts)  
-0.59 stars per week over 179 weeks  
-106 stars, 63 forks, 22 watches  
+0.59 stars per week over 180 weeks  
+106 stars, 64 forks, 22 watches  
 created 2018-06-25, last commit 2021-03-19, main language JavaScript  
 
 
 ### [airdrop](https://github.com/omgnetwork/airdrop) by [omgnetwork](https://github.com/omgnetwork)  
   
 [https://github.com/omgnetwork/airdrop](https://github.com/omgnetwork/airdrop)  
-0.39 stars per week over 214 weeks  
+0.39 stars per week over 215 weeks  
 84 stars, 33 forks, 8 watches  
 created 2017-10-23, last commit 2018-02-26, main language Python  
 
@@ -84,7 +84,7 @@ created 2018-01-09, last commit 2019-03-15, main language Swift
   
 [https://github.com/omgnetwork/web-wallet](https://github.com/omgnetwork/web-wallet)  
 0.23 stars per week over 96 weeks  
-22 stars, 17 forks, 8 watches  
+22 stars, 18 forks, 8 watches  
 created 2020-01-29, last commit 2021-03-25, main language JavaScript  
 
 
@@ -116,17 +116,17 @@ created 2018-01-09, last commit 2018-07-23, main language Swift
 Monorepo implementing the Optimistic Ethereum protocol  
 [https://optimism.io](https://optimism.io)  
 [https://github.com/omgnetwork/optimism](https://github.com/omgnetwork/optimism)  
-0.47 stars per week over 29 weeks  
+0.47 stars per week over 30 weeks  
 14 stars, 6 forks, 2 watches  
 created 2021-05-10, last commit 2021-10-22, main language Go  
 
 
-### [honted](https://github.com/omgnetwork/honted) by [omgnetwork](https://github.com/omgnetwork)  
-OmiseGO node on Tendermint.  
-[https://github.com/omgnetwork/honted](https://github.com/omgnetwork/honted)  
-0.06 stars per week over 203 weeks  
-12 stars, 2 forks, 12 watches  
-created 2018-01-09, last commit 2018-03-27, main language Elixir  
+### [community-points](https://github.com/omgnetwork/community-points) by [omgnetwork](https://github.com/omgnetwork)  
+Community points monorepo  
+[https://github.com/omgnetwork/community-points](https://github.com/omgnetwork/community-points)  
+0.16 stars per week over 74 weeks  
+12 stars, 6 forks, 3 watches  
+created 2020-06-30, last commit 2020-10-29, main language JavaScript  
 
 
 ### [js-starter-kit](https://github.com/omgnetwork/js-starter-kit) by [omgnetwork](https://github.com/omgnetwork)  
@@ -137,12 +137,12 @@ created 2018-01-09, last commit 2018-03-27, main language Elixir
 created 2019-02-08, last commit 2020-09-08, main language Vue  
 
 
-### [community-points](https://github.com/omgnetwork/community-points) by [omgnetwork](https://github.com/omgnetwork)  
-Community points monorepo  
-[https://github.com/omgnetwork/community-points](https://github.com/omgnetwork/community-points)  
-0.16 stars per week over 74 weeks  
-12 stars, 6 forks, 3 watches  
-created 2020-06-30, last commit 2020-10-29, main language JavaScript  
+### [honted](https://github.com/omgnetwork/honted) by [omgnetwork](https://github.com/omgnetwork)  
+OmiseGO node on Tendermint.  
+[https://github.com/omgnetwork/honted](https://github.com/omgnetwork/honted)  
+0.06 stars per week over 203 weeks  
+12 stars, 2 forks, 12 watches  
+created 2018-01-09, last commit 2018-03-27, main language Elixir  
 
 
 ### [ex_plasma](https://github.com/omgnetwork/ex_plasma) by [omgnetwork](https://github.com/omgnetwork)  
@@ -155,6 +155,6 @@ created 2019-10-12, last commit 2021-02-01, main language Elixir
 <sub><sup>elixir, ethereum, omg, plasma, rlp</sup></sub>
 
 
-This file was automatically generated on 2021-12-05.  
+This file was automatically generated on 2021-12-06.  
 
 To curate your own github list, simply clone and change the input csv file.  

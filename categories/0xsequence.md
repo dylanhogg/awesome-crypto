@@ -35,8 +35,8 @@ created 2021-09-30, last commit 2021-10-12, main language Solidity
 ### [erc20-meta-token](https://github.com/0xsequence/erc20-meta-token) by [0xsequence](https://github.com/0xsequence)  
 General ERC20 to ERC1155 Token Wrapper Contract  
 [https://github.com/0xsequence/erc20-meta-token](https://github.com/0xsequence/erc20-meta-token)  
-0.76 stars per week over 150 weeks  
-115 stars, 24 forks, 15 watches  
+0.77 stars per week over 151 weeks  
+116 stars, 24 forks, 15 watches  
 created 2019-01-14, last commit 2021-11-12, main language TypeScript  
 <sub><sup>erc20, ethereum, meta-transaction-functionality</sup></sub>
 
@@ -66,15 +66,6 @@ created 2019-08-10, last commit 2021-12-02, main language Go
 <sub><sup>ethereum, golang, library, wallet</sup></sub>
 
 
-### [collectible-lists](https://github.com/0xsequence/collectible-lists) by [0xsequence](https://github.com/0xsequence)  
-📚 The Token Lists specification for Collectibles (ERC721 and ERC1155)  
-[https://tokenlists.org](https://tokenlists.org)  
-[https://github.com/0xsequence/collectible-lists](https://github.com/0xsequence/collectible-lists)  
-0.68 stars per week over 46 weeks  
-32 stars, 3 forks, 4 watches  
-created 2021-01-11, last commit 2021-01-26, main language TypeScript  
-
-
 ### [wallet-contracts](https://github.com/0xsequence/wallet-contracts) by [0xsequence](https://github.com/0xsequence)  
 Sequence, Ethereum Smart Wallet Contracts  
 [https://sequence.build](https://sequence.build)  
@@ -84,20 +75,21 @@ Sequence, Ethereum Smart Wallet Contracts
 created 2020-03-25, last commit 2021-11-23, main language TypeScript  
 
 
+### [collectible-lists](https://github.com/0xsequence/collectible-lists) by [0xsequence](https://github.com/0xsequence)  
+📚 The Token Lists specification for Collectibles (ERC721 and ERC1155)  
+[https://tokenlists.org](https://tokenlists.org)  
+[https://github.com/0xsequence/collectible-lists](https://github.com/0xsequence/collectible-lists)  
+0.68 stars per week over 47 weeks  
+32 stars, 3 forks, 4 watches  
+created 2021-01-11, last commit 2021-01-26, main language TypeScript  
+
+
 ### [reorgme](https://github.com/0xsequence/reorgme) by [0xsequence](https://github.com/0xsequence)  
 Ethereum local test chain with block reorg on-demand  
 [https://github.com/0xsequence/reorgme](https://github.com/0xsequence/reorgme)  
-1.2 stars per week over 18 weeks  
+1.19 stars per week over 18 weeks  
 22 stars, 1 forks, 7 watches  
 created 2021-07-30, last commit 2021-08-19, main language TypeScript  
-
-
-### [ethers-eip712](https://github.com/0xsequence/ethers-eip712) by [0xsequence](https://github.com/0xsequence)  
-Ethereum Typed Data Hashing and Signing (EIP712) implementation for ethers.js  
-[https://github.com/0xsequence/ethers-eip712](https://github.com/0xsequence/ethers-eip712)  
-0.27 stars per week over 69 weeks  
-19 stars, 1 forks, 8 watches  
-created 2020-08-07, last commit 2020-08-10, main language TypeScript  
 
 
 ### [ethgas-app](https://github.com/0xsequence/ethgas-app) by [0xsequence](https://github.com/0xsequence)  
@@ -107,6 +99,14 @@ Ethereum Gas Price Gague
 0.29 stars per week over 65 weeks  
 19 stars, 4 forks, 8 watches  
 created 2020-09-03, last commit 2021-10-29, main language TypeScript  
+
+
+### [ethers-eip712](https://github.com/0xsequence/ethers-eip712) by [0xsequence](https://github.com/0xsequence)  
+Ethereum Typed Data Hashing and Signing (EIP712) implementation for ethers.js  
+[https://github.com/0xsequence/ethers-eip712](https://github.com/0xsequence/ethers-eip712)  
+0.27 stars per week over 69 weeks  
+19 stars, 1 forks, 8 watches  
+created 2020-08-07, last commit 2020-08-10, main language TypeScript  
 
 
 ### [ethauth.js](https://github.com/0xsequence/ethauth.js) by [0xsequence](https://github.com/0xsequence)  
@@ -133,6 +133,6 @@ Public dataset of ERC20, ERC721, ERC1155 token lists across network deployments
 created 2021-01-06, last commit 2021-11-30, main language TypeScript  
 
 
-This file was automatically generated on 2021-12-05.  
+This file was automatically generated on 2021-12-06.  
 
 To curate your own github list, simply clone and change the input csv file.  

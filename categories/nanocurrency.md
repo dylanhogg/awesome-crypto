@@ -10,7 +10,7 @@ Nano is a cryptocurrency
 [https://nano.org](https://nano.org)  
 [https://github.com/nanocurrency/nano-node](https://github.com/nanocurrency/nano-node)  
 8.4 stars per week over 396 weeks  
-3,329 stars, 756 forks, 275 watches  
+3,330 stars, 756 forks, 275 watches  
 created 2014-05-01, last commit 2021-12-01, main language C++  
 <sub><sup>blockchain, cryptocurrencies, cryptocurrency, nano, nanocurrency</sup></sub>
 
@@ -28,7 +28,7 @@ created 2019-04-03, last commit 2021-11-29, main language HTML
 ### [nano-work-server](https://github.com/nanocurrency/nano-work-server) by [nanocurrency](https://github.com/nanocurrency)  
 A dedicated work server for the Nano cryptocurrency  
 [https://github.com/nanocurrency/nano-work-server](https://github.com/nanocurrency/nano-work-server)  
-0.35 stars per week over 186 weeks  
+0.35 stars per week over 187 weeks  
 65 stars, 39 forks, 18 watches  
 created 2018-05-07, last commit 2021-07-21, main language Rust  
 
@@ -36,8 +36,8 @@ created 2018-05-07, last commit 2021-07-21, main language Rust
 ### [protocol](https://github.com/nanocurrency/protocol) by [nanocurrency](https://github.com/nanocurrency)  
 Implementation independent content related to the Nano protocol  
 [https://github.com/nanocurrency/protocol](https://github.com/nanocurrency/protocol)  
-0.19 stars per week over 165 weeks  
-32 stars, 9 forks, 17 watches  
+0.2 stars per week over 165 weeks  
+33 stars, 9 forks, 17 watches  
 created 2018-10-04, last commit 2021-11-23, main language Kaitai Struct  
 
 
@@ -58,14 +58,13 @@ Issues covering broader features and network upgrades for inclusion in the Nano 
 created 2020-10-02, last commit 2021-10-04, main language None  
 
 
-### [nano-whitepaper](https://github.com/nanocurrency/nano-whitepaper) by [nanocurrency](https://github.com/nanocurrency)  
-Whitepaper for Nano digital currency (out of date, last updated Nov 2017)  
-[https://nano.org/whitepaper/en](https://nano.org/whitepaper/en)  
-[https://github.com/nanocurrency/nano-whitepaper](https://github.com/nanocurrency/nano-whitepaper)  
-0.07 stars per week over 141 weeks  
-10 stars, 4 forks, 13 watches  
-created 2019-03-18, last commit 2021-02-03, main language TeX  
-<sub><sup>blockchain, cryptocurrencies, cryptocurrency, nano, nanocurrency</sup></sub>
+### [nanodb-specification](https://github.com/nanocurrency/nanodb-specification) by [nanocurrency](https://github.com/nanocurrency)  
+Nano ledger database format specification and Python sample  
+[https://github.com/nanocurrency/nanodb-specification](https://github.com/nanocurrency/nanodb-specification)  
+0.1 stars per week over 100 weeks  
+10 stars, 9 forks, 9 watches  
+created 2020-01-06, last commit 2021-04-26, main language Kaitai Struct  
+<sub><sup>kaitai, lmdb, nanocurrency, python, specification</sup></sub>
 
 
 ### [nano-pow-server](https://github.com/nanocurrency/nano-pow-server) by [nanocurrency](https://github.com/nanocurrency)  
@@ -76,15 +75,16 @@ Standalone work server for nano-pow (work in progress, currently returns mock da
 created 2019-09-05, last commit 2020-06-15, main language C++  
 
 
-### [nanodb-specification](https://github.com/nanocurrency/nanodb-specification) by [nanocurrency](https://github.com/nanocurrency)  
-Nano ledger database format specification and Python sample  
-[https://github.com/nanocurrency/nanodb-specification](https://github.com/nanocurrency/nanodb-specification)  
-0.1 stars per week over 99 weeks  
-10 stars, 9 forks, 9 watches  
-created 2020-01-06, last commit 2021-04-26, main language Kaitai Struct  
-<sub><sup>kaitai, lmdb, nanocurrency, python, specification</sup></sub>
+### [nano-whitepaper](https://github.com/nanocurrency/nano-whitepaper) by [nanocurrency](https://github.com/nanocurrency)  
+Whitepaper for Nano digital currency (out of date, last updated Nov 2017)  
+[https://nano.org/whitepaper/en](https://nano.org/whitepaper/en)  
+[https://github.com/nanocurrency/nano-whitepaper](https://github.com/nanocurrency/nano-whitepaper)  
+0.07 stars per week over 142 weeks  
+10 stars, 4 forks, 13 watches  
+created 2019-03-18, last commit 2021-02-03, main language TeX  
+<sub><sup>blockchain, cryptocurrencies, cryptocurrency, nano, nanocurrency</sup></sub>
 
 
-This file was automatically generated on 2021-12-05.  
+This file was automatically generated on 2021-12-06.  
 
 To curate your own github list, simply clone and change the input csv file.  

@@ -18,7 +18,7 @@ created 2018-09-04, last commit 2019-07-01, main language None
 Smart Contracts for Gods Unchained.   
 [https://github.com/immutable/platform-contracts](https://github.com/immutable/platform-contracts)  
 0.24 stars per week over 110 weeks  
-27 stars, 11 forks, 15 watches  
+27 stars, 11 forks, 16 watches  
 created 2019-10-22, last commit 2021-05-27, main language TypeScript  
 <sub><sup>ethereum, gods-unchained, immutable, solidity, typescript</sup></sub>
 
@@ -27,7 +27,7 @@ created 2019-10-22, last commit 2021-05-27, main language TypeScript
 Smart contracts and smart contract utilities for use with Immutable X.  
 [https://github.com/immutable/imx-contracts](https://github.com/immutable/imx-contracts)  
 0.99 stars per week over 23 weeks  
-23 stars, 21 forks, 12 watches  
+23 stars, 21 forks, 13 watches  
 created 2021-06-26, last commit 2021-11-22, main language Solidity  
 
 
@@ -41,6 +41,6 @@ created 2019-08-15, last commit 2021-08-05, main language TypeScript
 <sub><sup>card, ethereum, gods-unchained, immutable</sup></sub>
 
 
-This file was automatically generated on 2021-12-05.  
+This file was automatically generated on 2021-12-06.  
 
 To curate your own github list, simply clone and change the input csv file.  

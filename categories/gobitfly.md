@@ -17,9 +17,9 @@ created 2017-03-09, last commit 2018-11-28, main language JavaScript
 ### [eth2-beaconchain-explorer](https://github.com/gobitfly/eth2-beaconchain-explorer) by [gobitfly](https://github.com/gobitfly)  
 Open source golang based explorer for the eth2 beacon chain  
 [https://github.com/gobitfly/eth2-beaconchain-explorer](https://github.com/gobitfly/eth2-beaconchain-explorer)  
-2.87 stars per week over 106 weeks  
+2.86 stars per week over 106 weeks  
 305 stars, 176 forks, 29 watches  
-created 2019-11-21, last commit 2021-12-03, main language HTML  
+created 2019-11-21, last commit 2021-12-06, main language HTML  
 <sub><sup>block-explorer, eth2, eth2-beacon-chain, golang</sup></sub>
 
 
@@ -37,7 +37,7 @@ Beaconchain Dashboard is an open source ethereum 2.0 validator performance track
 [https://beaconcha.in/mobile](https://beaconcha.in/mobile)  
 [https://github.com/gobitfly/eth2-beaconchain-explorer-app](https://github.com/gobitfly/eth2-beaconchain-explorer-app)  
 1.77 stars per week over 43 weeks  
-77 stars, 21 forks, 10 watches  
+77 stars, 22 forks, 10 watches  
 created 2021-02-04, last commit 2021-11-08, main language TypeScript  
 
 
@@ -58,6 +58,6 @@ Golang based blockchain explorer for the coda protocol
 created 2020-02-05, last commit 2020-06-09, main language JavaScript  
 
 
-This file was automatically generated on 2021-12-05.  
+This file was automatically generated on 2021-12-06.  
 
 To curate your own github list, simply clone and change the input csv file.  

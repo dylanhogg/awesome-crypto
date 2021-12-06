@@ -56,7 +56,7 @@ THORChain Docs
 [https://github.com/thorchain/docs](https://github.com/thorchain/docs)  
 0.18 stars per week over 73 weeks  
 13 stars, 33 forks, 7 watches  
-created 2020-07-11, last commit 2021-11-23, main language None  
+created 2020-07-11, last commit 2021-12-05, main language None  
 
 
 ### [bridge-cosmos-eth](https://github.com/thorchain/bridge-cosmos-eth) by [thorchain](https://github.com/thorchain)  
@@ -67,6 +67,6 @@ created 2020-07-11, last commit 2021-11-23, main language None
 created 2019-06-20, last commit 2019-06-05, main language Go  
 
 
-This file was automatically generated on 2021-12-05.  
+This file was automatically generated on 2021-12-06.  
 
 To curate your own github list, simply clone and change the input csv file.  

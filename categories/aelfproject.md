@@ -29,7 +29,7 @@ AElf's environment for developing contracts and dApps
 [https://github.com/AElfProject/aelf-boilerplate](https://github.com/AElfProject/aelf-boilerplate)  
 0.15 stars per week over 137 weeks  
 21 stars, 25 forks, 12 watches  
-created 2019-04-18, last commit 2021-11-30, main language JavaScript  
+created 2019-04-18, last commit 2021-12-06, main language JavaScript  
 
 
 ### [aelf-wallet-ios](https://github.com/AElfProject/aelf-wallet-ios) by [AElfProject](https://github.com/AElfProject)  
@@ -50,6 +50,6 @@ created 2017-09-06, last commit 2020-05-14, main language HTML
 <sub><sup>aelf, website</sup></sub>
 
 
-This file was automatically generated on 2021-12-05.  
+This file was automatically generated on 2021-12-06.  
 
 To curate your own github list, simply clone and change the input csv file.  

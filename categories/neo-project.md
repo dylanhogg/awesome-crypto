@@ -9,7 +9,7 @@ Checkout the interactive version that you can filter and sort:
 NEO Smart Economy  
 [https://github.com/neo-project/neo](https://github.com/neo-project/neo)  
 9.8 stars per week over 340 weeks  
-3,331 stars, 973 forks, 389 watches  
+3,333 stars, 973 forks, 389 watches  
 created 2015-05-31, last commit 2021-12-03, main language C#  
 <sub><sup>blockchain, neo</sup></sub>
 
@@ -135,12 +135,12 @@ created 2019-08-25, last commit 2021-12-03, main language C#
 ### [global-blockchain-compliance-hub](https://github.com/neo-project/global-blockchain-compliance-hub) by [neo-project](https://github.com/neo-project)  
   
 [https://github.com/neo-project/global-blockchain-compliance-hub](https://github.com/neo-project/global-blockchain-compliance-hub)  
-0.05 stars per week over 200 weeks  
+0.05 stars per week over 201 weeks  
 11 stars, 31 forks, 13 watches  
 created 2018-01-29, last commit 2019-05-25, main language HTML  
 <sub><sup>neo</sup></sub>
 
 
-This file was automatically generated on 2021-12-05.  
+This file was automatically generated on 2021-12-06.  
 
 To curate your own github list, simply clone and change the input csv file.  

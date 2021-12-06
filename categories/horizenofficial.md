@@ -10,7 +10,7 @@ Horizen
 [https://www.horizen.io](https://www.horizen.io)  
 [https://github.com/HorizenOfficial/zen](https://github.com/HorizenOfficial/zen)  
 0.98 stars per week over 202 weeks  
-198 stars, 85 forks, 51 watches  
+198 stars, 86 forks, 51 watches  
 created 2018-01-16, last commit 2021-12-05, main language C++  
 
 
@@ -37,7 +37,7 @@ ZENCash Desktop GUI Wallet
 [https://github.com/HorizenOfficial/zencash-swing-wallet-ui](https://github.com/HorizenOfficial/zencash-swing-wallet-ui)  
 0.43 stars per week over 228 weeks  
 98 stars, 112 forks, 31 watches  
-created 2017-07-19, last commit 2021-11-27, main language Java  
+created 2017-07-19, last commit 2021-12-05, main language Java  
 <sub><sup>wallet, zencash</sup></sub>
 
 
@@ -64,7 +64,7 @@ created 2017-10-10, last commit 2020-07-25, main language JavaScript
 [https://github.com/HorizenOfficial/Sphere_by_Horizen](https://github.com/HorizenOfficial/Sphere_by_Horizen)  
 0.35 stars per week over 156 weeks  
 55 stars, 33 forks, 27 watches  
-created 2018-12-04, last commit 2021-11-30, main language None  
+created 2018-12-04, last commit 2021-12-05, main language None  
 
 
 ### [zencash-mobile](https://github.com/HorizenOfficial/zencash-mobile) by [HorizenOfficial](https://github.com/HorizenOfficial)  
@@ -96,7 +96,7 @@ created 2017-08-29, last commit 2021-11-08, main language JavaScript
 ### [zend_oo](https://github.com/HorizenOfficial/zend_oo) by [HorizenOfficial](https://github.com/HorizenOfficial)  
   
 [https://github.com/HorizenOfficial/zend_oo](https://github.com/HorizenOfficial/zend_oo)  
-0.42 stars per week over 76 weeks  
+0.42 stars per week over 77 weeks  
 32 stars, 24 forks, 17 watches  
 created 2020-06-15, last commit 2021-09-29, main language C++  
 
@@ -104,7 +104,7 @@ created 2020-06-15, last commit 2021-09-29, main language C++
 ### [zendoo-sc-cryptolib](https://github.com/HorizenOfficial/zendoo-sc-cryptolib) by [HorizenOfficial](https://github.com/HorizenOfficial)  
 Exposes to Java, through JNI, the ginger-lib components needed by the Zendoo sidechain SDK.  
 [https://github.com/HorizenOfficial/zendoo-sc-cryptolib](https://github.com/HorizenOfficial/zendoo-sc-cryptolib)  
-0.25 stars per week over 92 weeks  
+0.25 stars per week over 93 weeks  
 23 stars, 11 forks, 9 watches  
 created 2020-02-24, last commit 2021-11-19, main language Rust  
 
@@ -115,7 +115,7 @@ Docker image for the Horizen Blockchain Daemon - zend
 [https://github.com/HorizenOfficial/zen-node-docker](https://github.com/HorizenOfficial/zen-node-docker)  
 0.1 stars per week over 230 weeks  
 22 stars, 6 forks, 8 watches  
-created 2017-07-04, last commit 2021-11-27, main language Dockerfile  
+created 2017-07-04, last commit 2021-12-05, main language Dockerfile  
 <sub><sup>docker, zend</sup></sub>
 
 
@@ -170,6 +170,14 @@ This repository is not maintained anymore, please use https://github.com/s-nomp/
 created 2018-03-06, last commit 2018-06-14, main language C++  
 
 
+### [Sphere_by_Horizen_Sidechain_Testnet](https://github.com/HorizenOfficial/Sphere_by_Horizen_Sidechain_Testnet) by [HorizenOfficial](https://github.com/HorizenOfficial)  
+  
+[https://github.com/HorizenOfficial/Sphere_by_Horizen_Sidechain_Testnet](https://github.com/HorizenOfficial/Sphere_by_Horizen_Sidechain_Testnet)  
+0.18 stars per week over 72 weeks  
+13 stars, 3 forks, 5 watches  
+created 2020-07-15, last commit 2021-04-27, main language None  
+
+
 ### [zendoo-mc-cryptolib](https://github.com/HorizenOfficial/zendoo-mc-cryptolib) by [HorizenOfficial](https://github.com/HorizenOfficial)  
 C FFI library crate that exposes the ginger-lib Rust components needed to support Zendoo in mainchain  
 [https://github.com/HorizenOfficial/zendoo-mc-cryptolib](https://github.com/HorizenOfficial/zendoo-mc-cryptolib)  
@@ -187,19 +195,11 @@ created 2017-08-29, last commit 2019-05-09, main language JavaScript
 <sub><sup>deprecated, obselete</sup></sub>
 
 
-### [Sphere_by_Horizen_Sidechain_Testnet](https://github.com/HorizenOfficial/Sphere_by_Horizen_Sidechain_Testnet) by [HorizenOfficial](https://github.com/HorizenOfficial)  
-  
-[https://github.com/HorizenOfficial/Sphere_by_Horizen_Sidechain_Testnet](https://github.com/HorizenOfficial/Sphere_by_Horizen_Sidechain_Testnet)  
-0.18 stars per week over 72 weeks  
-13 stars, 3 forks, 5 watches  
-created 2020-07-15, last commit 2021-04-27, main language None  
-
-
 ### [zenaddress](https://github.com/HorizenOfficial/zenaddress) by [HorizenOfficial](https://github.com/HorizenOfficial)  
 JavaScript Client-Side ZEN Wallet Generator  
 [https://zenpaperwallet.com](https://zenpaperwallet.com)  
 [https://github.com/HorizenOfficial/zenaddress](https://github.com/HorizenOfficial/zenaddress)  
-0.06 stars per week over 208 weeks  
+0.06 stars per week over 209 weeks  
 12 stars, 32 forks, 11 watches  
 created 2017-12-04, last commit 2021-04-06, main language JavaScript  
 
@@ -210,7 +210,7 @@ Zen APT repository
 [https://github.com/HorizenOfficial/repo](https://github.com/HorizenOfficial/repo)  
 0.05 stars per week over 219 weeks  
 11 stars, 1 forks, 6 watches  
-created 2017-09-24, last commit 2021-11-27, main language None  
+created 2017-09-24, last commit 2021-12-05, main language None  
 
 
 ### [ZenIPs](https://github.com/HorizenOfficial/ZenIPs) by [HorizenOfficial](https://github.com/HorizenOfficial)  
@@ -221,6 +221,6 @@ Horizen Improvement Proposals
 created 2019-09-27, last commit 2021-09-12, main language None  
 
 
-This file was automatically generated on 2021-12-05.  
+This file was automatically generated on 2021-12-06.  
 
 To curate your own github list, simply clone and change the input csv file.  

@@ -1,5 +1,5 @@
 # Crazy Awesome Crypto
-A list of 15 [ProjectOpenSea](https://github.com/ProjectOpenSea) project repos ordered by stars.  
+A list of 16 [ProjectOpenSea](https://github.com/ProjectOpenSea) project repos ordered by stars.  
 
 Checkout the interactive version that you can filter and sort: 
 [https://awesome-crypto.infocruncher.com/](https://awesome-crypto.infocruncher.com/)  
@@ -9,8 +9,8 @@ Checkout the interactive version that you can filter and sort:
 JavaScript SDK for the OpenSea marketplace. Let your users buy or sell cryptogoods on your own site!  
 [https://opensea.io](https://opensea.io)  
 [https://github.com/ProjectOpenSea/opensea-js](https://github.com/ProjectOpenSea/opensea-js)  
-5.71 stars per week over 176 weeks  
-1,007 stars, 331 forks, 45 watches  
+5.74 stars per week over 176 weeks  
+1,013 stars, 329 forks, 45 watches  
 created 2018-07-19, last commit 2021-12-02, main language TypeScript  
 
 
@@ -18,8 +18,8 @@ created 2018-07-19, last commit 2021-12-02, main language TypeScript
 Example non-fungible collectible, to demonstrate OpenSea integration  
 [https://docs.opensea.io](https://docs.opensea.io)  
 [https://github.com/ProjectOpenSea/opensea-creatures](https://github.com/ProjectOpenSea/opensea-creatures)  
-3.6 stars per week over 195 weeks  
-704 stars, 504 forks, 25 watches  
+3.63 stars per week over 195 weeks  
+710 stars, 509 forks, 25 watches  
 created 2018-03-06, last commit 2021-12-01, main language JavaScript  
 
 
@@ -28,15 +28,15 @@ Example semi-fungible collectible, to demonstrate OpenSea integration for an ERC
 [https://docs.opensea.io](https://docs.opensea.io)  
 [https://github.com/ProjectOpenSea/opensea-erc1155](https://github.com/ProjectOpenSea/opensea-erc1155)  
 3.1 stars per week over 116 weeks  
-361 stars, 178 forks, 13 watches  
+362 stars, 179 forks, 13 watches  
 created 2019-09-11, last commit 2020-11-12, main language JavaScript  
 
 
 ### [embeddable-nfts](https://github.com/ProjectOpenSea/embeddable-nfts) by [ProjectOpenSea](https://github.com/ProjectOpenSea)  
 Easily embed OpenSea listings in your website!  
 [https://github.com/ProjectOpenSea/embeddable-nfts](https://github.com/ProjectOpenSea/embeddable-nfts)  
-1.63 stars per week over 98 weeks  
-161 stars, 79 forks, 38 watches  
+1.64 stars per week over 98 weeks  
+162 stars, 79 forks, 38 watches  
 created 2020-01-14, last commit 2021-12-02, main language TypeScript  
 
 
@@ -69,7 +69,7 @@ created 2018-08-29, last commit 2021-05-14, main language JavaScript
 ### [metadata-api-python](https://github.com/ProjectOpenSea/metadata-api-python) by [ProjectOpenSea](https://github.com/ProjectOpenSea)  
 Simple API for serving ERC721 metadata  
 [https://github.com/ProjectOpenSea/metadata-api-python](https://github.com/ProjectOpenSea/metadata-api-python)  
-0.42 stars per week over 142 weeks  
+0.41 stars per week over 142 weeks  
 59 stars, 38 forks, 3 watches  
 created 2019-03-16, last commit 2021-08-18, main language Python  
 
@@ -98,6 +98,14 @@ A bot that finds arbitrage and market-making opportunities on OpenSea and plunde
 created 2018-08-17, last commit 2018-08-17, main language None  
 
 
+### [meta-transactions](https://github.com/ProjectOpenSea/meta-transactions) by [ProjectOpenSea](https://github.com/ProjectOpenSea)  
+  
+[https://github.com/ProjectOpenSea/meta-transactions](https://github.com/ProjectOpenSea/meta-transactions)  
+0.33 stars per week over 42 weeks  
+14 stars, 14 forks, 4 watches  
+created 2021-02-12, last commit 2021-06-30, main language Solidity  
+
+
 ### [multi-token-standard](https://github.com/ProjectOpenSea/multi-token-standard) by [ProjectOpenSea](https://github.com/ProjectOpenSea)  
 Ethereum Multi-Token Standard (ERC-1155)  
 [https://github.com/ProjectOpenSea/multi-token-standard](https://github.com/ProjectOpenSea/multi-token-standard)  
@@ -106,21 +114,21 @@ Ethereum Multi-Token Standard (ERC-1155)
 created 2019-10-15, last commit 2019-10-27, main language TypeScript  
 
 
-### [meta-transactions](https://github.com/ProjectOpenSea/meta-transactions) by [ProjectOpenSea](https://github.com/ProjectOpenSea)  
-  
-[https://github.com/ProjectOpenSea/meta-transactions](https://github.com/ProjectOpenSea/meta-transactions)  
-0.33 stars per week over 42 weeks  
-14 stars, 13 forks, 4 watches  
-created 2021-02-12, last commit 2021-06-30, main language Solidity  
-
-
 ### [wyvern-schemas](https://github.com/ProjectOpenSea/wyvern-schemas) by [ProjectOpenSea](https://github.com/ProjectOpenSea)  
 Nonfungible asset schemas for the Wyvern Protocol  
 [https://exchange.projectwyvern.com/schemas](https://exchange.projectwyvern.com/schemas)  
 [https://github.com/ProjectOpenSea/wyvern-schemas](https://github.com/ProjectOpenSea/wyvern-schemas)  
-0.06 stars per week over 186 weeks  
+0.06 stars per week over 187 weeks  
 12 stars, 22 forks, 3 watches  
 created 2018-05-07, last commit 2020-03-02, main language TypeScript  
+
+
+### [cryptotickets](https://github.com/ProjectOpenSea/cryptotickets) by [ProjectOpenSea](https://github.com/ProjectOpenSea)  
+An ERC721 implementation of event tickets.  
+[https://github.com/ProjectOpenSea/cryptotickets](https://github.com/ProjectOpenSea/cryptotickets)  
+0.07 stars per week over 142 weeks  
+10 stars, 8 forks, 3 watches  
+created 2019-03-14, last commit 2019-01-25, main language JavaScript  
 
 
 ### [wyvern-js](https://github.com/ProjectOpenSea/wyvern-js) by [ProjectOpenSea](https://github.com/ProjectOpenSea)  
@@ -131,6 +139,6 @@ Javascript SDK for the Wyvern Protocol
 created 2018-05-10, last commit 2020-03-02, main language JavaScript  
 
 
-This file was automatically generated on 2021-12-05.  
+This file was automatically generated on 2021-12-06.  
 
 To curate your own github list, simply clone and change the input csv file.  

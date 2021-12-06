@@ -27,8 +27,8 @@ created 2017-10-25, last commit 2019-11-21, main language JavaScript
 Integration of Zerocash on Ethereum: https://arxiv.org/abs/1904.00905  
 [https://clearmatics.github.io/zeth/](https://clearmatics.github.io/zeth/)  
 [https://github.com/clearmatics/zeth](https://github.com/clearmatics/zeth)  
-0.34 stars per week over 140 weeks  
-48 stars, 20 forks, 15 watches  
+0.33 stars per week over 140 weeks  
+47 stars, 20 forks, 15 watches  
 created 2019-03-28, last commit 2021-08-26, main language C++  
 <sub><sup>clearmatics-research, ethereum, mixer, privacy, research-and-development, zero-knowledge-proofs, zerocash, zeth, zk-snarks</sup></sub>
 
@@ -46,7 +46,7 @@ created 2018-03-28, last commit 2020-12-11, main language JavaScript
   
 [https://www.autonity.io](https://www.autonity.io)  
 [https://github.com/clearmatics/autonity](https://github.com/clearmatics/autonity)  
-0.15 stars per week over 164 weeks  
+0.15 stars per week over 165 weeks  
 24 stars, 20 forks, 18 watches  
 created 2018-10-08, last commit 2021-03-30, main language Go  
 <sub><sup>clearmatics-engineering, ethereum, ethereum-blockchain, ethereum-client, ethereum-go</sup></sub>
@@ -55,12 +55,12 @@ created 2018-10-08, last commit 2021-03-30, main language Go
 ### [bn256](https://github.com/clearmatics/bn256) by [clearmatics](https://github.com/clearmatics)  
 Implements the Barreto-Naehrig (BN) curve as used by Ethereum  
 [https://github.com/clearmatics/bn256](https://github.com/clearmatics/bn256)  
-0.06 stars per week over 208 weeks  
+0.06 stars per week over 209 weeks  
 12 stars, 20 forks, 19 watches  
 created 2017-12-04, last commit 2019-05-16, main language Go  
 <sub><sup>alt-bn128, bilinear-pairing, bn256, cryptography, ethereum, golang, golang-library</sup></sub>
 
 
-This file was automatically generated on 2021-12-05.  
+This file was automatically generated on 2021-12-06.  
 
 To curate your own github list, simply clone and change the input csv file.  

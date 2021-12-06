@@ -9,8 +9,8 @@ Checkout the interactive version that you can filter and sort:
 A zkRollup DEX & Payment Protocol  
 [https://loopring.org](https://loopring.org)  
 [https://github.com/Loopring/protocols](https://github.com/Loopring/protocols)  
-0.69 stars per week over 153 weeks  
-105 stars, 18 forks, 44 watches  
+0.7 stars per week over 153 weeks  
+107 stars, 18 forks, 44 watches  
 created 2018-12-29, last commit 2021-09-07, main language Solidity  
 <sub><sup>blockchain, dex, loopring, lrc, oedax, smartwallet, zero-knowledge, zkrollup, zksnarks</sup></sub>
 
@@ -18,8 +18,8 @@ created 2018-12-29, last commit 2021-09-07, main language Solidity
 ### [loopring_sdk](https://github.com/Loopring/loopring_sdk) by [Loopring](https://github.com/Loopring)  
   
 [https://github.com/Loopring/loopring_sdk](https://github.com/Loopring/loopring_sdk)  
-4.27 stars per week over 24 weeks  
-103 stars, 16 forks, 55 watches  
+4.28 stars per week over 24 weeks  
+104 stars, 16 forks, 55 watches  
 created 2021-06-19, last commit 2021-12-02, main language TypeScript  
 
 
@@ -36,14 +36,14 @@ This is the whitepaper for Loopring protocol 1.0, 1.5, and 2.0.
 [https://loopring.org](https://loopring.org)  
 [https://github.com/Loopring/whitepaper](https://github.com/Loopring/whitepaper)  
 0.2 stars per week over 232 weeks  
-46 stars, 46 forks, 28 watches  
+47 stars, 46 forks, 28 watches  
 created 2017-06-22, last commit 2018-09-09, main language TeX  
 
 
 ### [awesome-loopring](https://github.com/Loopring/awesome-loopring) by [Loopring](https://github.com/Loopring)  
 A curated list of awesome things built on Loopring.  
 [https://github.com/Loopring/awesome-loopring](https://github.com/Loopring/awesome-loopring)  
-0.6 stars per week over 64 weeks  
+0.6 stars per week over 65 weeks  
 39 stars, 3 forks, 15 watches  
 created 2020-09-07, last commit 2021-10-07, main language None  
 
@@ -94,9 +94,9 @@ created 2020-08-20, last commit 2020-09-25, main language JavaScript
 ### [loopring-web-v2](https://github.com/Loopring/loopring-web-v2) by [Loopring](https://github.com/Loopring)  
 Web application version 2, update new UI design.  
 [https://github.com/Loopring/loopring-web-v2](https://github.com/Loopring/loopring-web-v2)  
-0.64 stars per week over 20 weeks  
-13 stars, 6 forks, 10 watches  
-created 2021-07-15, last commit 2021-12-03, main language TypeScript  
+0.68 stars per week over 20 weeks  
+14 stars, 6 forks, 10 watches  
+created 2021-07-15, last commit 2021-12-06, main language TypeScript  
 
 
 ### [eddsa-metamask-plugin](https://github.com/Loopring/eddsa-metamask-plugin) by [Loopring](https://github.com/Loopring)  
@@ -107,6 +107,6 @@ created 2021-07-15, last commit 2021-12-03, main language TypeScript
 created 2020-01-21, last commit 2021-11-17, main language JavaScript  
 
 
-This file was automatically generated on 2021-12-05.  
+This file was automatically generated on 2021-12-06.  
 
 To curate your own github list, simply clone and change the input csv file.  

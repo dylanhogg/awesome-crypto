@@ -15,6 +15,6 @@ created 2018-11-30, last commit 2021-03-22, main language JavaScript
 <sub><sup>borrowing, celsius, coins, crypto, financial, fintech, interest, javascript, lending, network, nodejs, tokens</sup></sub>
 
 
-This file was automatically generated on 2021-12-05.  
+This file was automatically generated on 2021-12-06.  
 
 To curate your own github list, simply clone and change the input csv file.  

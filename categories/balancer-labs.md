@@ -8,7 +8,7 @@ Checkout the interactive version that you can filter and sort:
 ### [balancer-core](https://github.com/balancer-labs/balancer-core) by [balancer-labs](https://github.com/balancer-labs)  
 Balancer on the EVM  
 [https://github.com/balancer-labs/balancer-core](https://github.com/balancer-labs/balancer-core)  
-1.89 stars per week over 124 weeks  
+1.88 stars per week over 124 weeks  
 234 stars, 125 forks, 33 watches  
 created 2019-07-21, last commit 2020-05-14, main language Solidity  
 
@@ -52,7 +52,7 @@ created 2020-05-13, last commit 2021-12-01, main language Python
 Pool management dapp  
 [https://pools.balancer.exchange](https://pools.balancer.exchange)  
 [https://github.com/balancer-labs/pool-management-vue](https://github.com/balancer-labs/pool-management-vue)  
-0.92 stars per week over 77 weeks  
+0.92 stars per week over 78 weeks  
 72 stars, 70 forks, 8 watches  
 created 2020-06-08, last commit 2021-09-29, main language Vue  
 
@@ -61,9 +61,18 @@ created 2020-06-08, last commit 2021-09-29, main language Vue
   
 [claims.vercel.app](claims.vercel.app)  
 [https://github.com/balancer-labs/erc20-redeemable](https://github.com/balancer-labs/erc20-redeemable)  
-0.88 stars per week over 69 weeks  
+0.87 stars per week over 69 weeks  
 61 stars, 33 forks, 8 watches  
 created 2020-08-04, last commit 2021-11-11, main language Vue  
+
+
+### [frontend-v2](https://github.com/balancer-labs/frontend-v2) by [balancer-labs](https://github.com/balancer-labs)  
+Frontend Vue app for Balancer exchange and pool management.  
+[https://app.balancer.fi](https://app.balancer.fi)  
+[https://github.com/balancer-labs/frontend-v2](https://github.com/balancer-labs/frontend-v2)  
+0.89 stars per week over 53 weeks  
+48 stars, 64 forks, 9 watches  
+created 2020-11-25, last commit 2021-12-05, main language Vue  
 
 
 ### [balancer-subgraph](https://github.com/balancer-labs/balancer-subgraph) by [balancer-labs](https://github.com/balancer-labs)  
@@ -74,19 +83,10 @@ Subgraph (Graph Protocol) data layer for Balancer pools, swaps, txs, users
 created 2019-10-27, last commit 2021-02-05, main language TypeScript  
 
 
-### [frontend-v2](https://github.com/balancer-labs/frontend-v2) by [balancer-labs](https://github.com/balancer-labs)  
-Frontend Vue app for Balancer exchange and pool management.  
-[https://app.balancer.fi](https://app.balancer.fi)  
-[https://github.com/balancer-labs/frontend-v2](https://github.com/balancer-labs/frontend-v2)  
-0.9 stars per week over 53 weeks  
-48 stars, 64 forks, 9 watches  
-created 2020-11-25, last commit 2021-12-02, main language Vue  
-
-
 ### [balancer-subgraph-v2](https://github.com/balancer-labs/balancer-subgraph-v2) by [balancer-labs](https://github.com/balancer-labs)  
 Subgraph (Graph Protocol) data layer for Balancer v2 vault, swaps, txs, users  
 [https://github.com/balancer-labs/balancer-subgraph-v2](https://github.com/balancer-labs/balancer-subgraph-v2)  
-0.62 stars per week over 52 weeks  
+0.62 stars per week over 53 weeks  
 33 stars, 20 forks, 9 watches  
 created 2020-11-30, last commit 2021-11-13, main language TypeScript  
 
@@ -102,7 +102,7 @@ created 2020-07-25, last commit 2020-10-02, main language JavaScript
 ### [balpy](https://github.com/balancer-labs/balpy) by [balancer-labs](https://github.com/balancer-labs)  
 Tools for interacting with Balancer Protocol V2 in Python.   
 [https://github.com/balancer-labs/balpy](https://github.com/balancer-labs/balpy)  
-0.99 stars per week over 25 weeks  
+0.98 stars per week over 25 weeks  
 25 stars, 7 forks, 1 watches  
 created 2021-06-11, last commit 2021-11-26, main language Python  
 
@@ -119,8 +119,8 @@ created 2019-11-19, last commit 2020-03-07, main language Solidity
 Pool management dapp  
 [https://pools.balancer.exchange](https://pools.balancer.exchange)  
 [https://github.com/balancer-labs/pool-management](https://github.com/balancer-labs/pool-management)  
-0.23 stars per week over 87 weeks  
-20 stars, 44 forks, 10 watches  
+0.23 stars per week over 88 weeks  
+20 stars, 45 forks, 10 watches  
 created 2020-03-30, last commit 2020-08-05, main language TypeScript  
 
 
@@ -136,7 +136,7 @@ created 2020-08-06, last commit 2021-11-13, main language JavaScript
 Balancer Protocol Frontend  
 [https://balancer.exchange](https://balancer.exchange)  
 [https://github.com/balancer-labs/balancer-frontend](https://github.com/balancer-labs/balancer-frontend)  
-0.25 stars per week over 61 weeks  
+0.24 stars per week over 61 weeks  
 15 stars, 39 forks, 2 watches  
 created 2020-10-03, last commit 2021-05-01, main language Vue  
 
@@ -153,11 +153,11 @@ created 2019-11-10, last commit 2021-08-03, main language None
 ### [balancer-registry](https://github.com/balancer-labs/balancer-registry) by [balancer-labs](https://github.com/balancer-labs)  
   
 [https://github.com/balancer-labs/balancer-registry](https://github.com/balancer-labs/balancer-registry)  
-0.14 stars per week over 73 weeks  
+0.14 stars per week over 74 weeks  
 10 stars, 18 forks, 7 watches  
 created 2020-07-06, last commit 2021-02-09, main language Solidity  
 
 
-This file was automatically generated on 2021-12-05.  
+This file was automatically generated on 2021-12-06.  
 
 To curate your own github list, simply clone and change the input csv file.  

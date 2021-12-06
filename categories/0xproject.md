@@ -26,7 +26,7 @@ created 2019-03-27, last commit 2020-12-24, main language Rust
 Start an exchange in under a minute  
 [https://0x.org/launch-kit](https://0x.org/launch-kit)  
 [https://github.com/0xProject/0x-launch-kit](https://github.com/0xProject/0x-launch-kit)  
-2.33 stars per week over 132 weeks  
+2.33 stars per week over 133 weeks  
 310 stars, 198 forks, 24 watches  
 created 2019-05-20, last commit 2020-08-13, main language JavaScript  
 <sub><sup>0x, ethereum</sup></sub>
@@ -37,7 +37,7 @@ A peer-to-peer network for sharing 0x orders
 [https://0x-org.gitbook.io/mesh/](https://0x-org.gitbook.io/mesh/)  
 [https://github.com/0xProject/0x-mesh](https://github.com/0xProject/0x-mesh)  
 1.52 stars per week over 140 weeks  
-213 stars, 97 forks, 25 watches  
+213 stars, 98 forks, 25 watches  
 created 2019-03-28, last commit 2021-08-11, main language Go  
 <sub><sup>0x, dapp, ethereum, golang, libp2p, webassembly, webrtc</sup></sub>
 
@@ -70,7 +70,7 @@ created 2017-08-25, last commit 2019-12-17, main language None
 ### [0x-starter-project](https://github.com/0xProject/0x-starter-project) by [0xProject](https://github.com/0xProject)  
 A project showcasing how to get started with 0x.js  
 [https://github.com/0xProject/0x-starter-project](https://github.com/0xProject/0x-starter-project)  
-0.62 stars per week over 214 weeks  
+0.61 stars per week over 214 weeks  
 132 stars, 105 forks, 15 watches  
 created 2017-10-25, last commit 2021-03-12, main language TypeScript  
 
@@ -87,7 +87,7 @@ created 2018-02-17, last commit 2018-10-26, main language CSS
 ### [0x-protocol-specification](https://github.com/0xProject/0x-protocol-specification) by [0xProject](https://github.com/0xProject)  
 Specification for 0x protocol  
 [https://github.com/0xProject/0x-protocol-specification](https://github.com/0xProject/0x-protocol-specification)  
-0.56 stars per week over 201 weeks  
+0.56 stars per week over 202 weeks  
 113 stars, 74 forks, 13 watches  
 created 2018-01-22, last commit 2020-10-19, main language None  
 
@@ -95,17 +95,9 @@ created 2018-01-22, last commit 2020-10-19, main language None
 ### [0x-launch-kit-frontend](https://github.com/0xProject/0x-launch-kit-frontend) by [0xProject](https://github.com/0xProject)  
   
 [https://github.com/0xProject/0x-launch-kit-frontend](https://github.com/0xProject/0x-launch-kit-frontend)  
-0.66 stars per week over 148 weeks  
+0.66 stars per week over 149 weeks  
 98 stars, 188 forks, 16 watches  
 created 2019-01-28, last commit 2020-08-13, main language TypeScript  
-
-
-### [protocol](https://github.com/0xProject/protocol) by [0xProject](https://github.com/0xProject)  
-  
-[https://github.com/0xProject/protocol](https://github.com/0xProject/protocol)  
-1.57 stars per week over 58 weeks  
-92 stars, 62 forks, 13 watches  
-created 2020-10-20, last commit 2021-12-01, main language TypeScript  
 
 
 ### [wiki](https://github.com/0xProject/wiki) by [0xProject](https://github.com/0xProject)  
@@ -116,10 +108,18 @@ created 2020-10-20, last commit 2021-12-01, main language TypeScript
 created 2017-09-05, last commit 2019-08-26, main language None  
 
 
+### [protocol](https://github.com/0xProject/protocol) by [0xProject](https://github.com/0xProject)  
+  
+[https://github.com/0xProject/protocol](https://github.com/0xProject/protocol)  
+1.56 stars per week over 58 weeks  
+92 stars, 62 forks, 13 watches  
+created 2020-10-20, last commit 2021-12-01, main language TypeScript  
+
+
 ### [ZEIPs](https://github.com/0xProject/ZEIPs) by [0xProject](https://github.com/0xProject)  
 0x Improvement Proposals  
 [https://github.com/0xProject/ZEIPs](https://github.com/0xProject/ZEIPs)  
-0.36 stars per week over 240 weeks  
+0.36 stars per week over 241 weeks  
 87 stars, 21 forks, 25 watches  
 created 2017-04-24, last commit 2020-02-27, main language None  
 
@@ -136,8 +136,8 @@ created 2018-03-09, last commit 2020-03-13, main language TypeScript
 ### [tools](https://github.com/0xProject/tools) by [0xProject](https://github.com/0xProject)  
   
 [https://github.com/0xProject/tools](https://github.com/0xProject/tools)  
-0.6 stars per week over 58 weeks  
-35 stars, 30 forks, 6 watches  
+0.59 stars per week over 58 weeks  
+35 stars, 31 forks, 6 watches  
 created 2020-10-20, last commit 2021-10-27, main language TypeScript  
 
 
@@ -166,20 +166,20 @@ created 2017-02-02, last commit 2018-01-11, main language TeX
 created 2019-09-03, last commit 2021-12-03, main language TypeScript  
 
 
-### [0x-api-starter-guide-code](https://github.com/0xProject/0x-api-starter-guide-code) by [0xProject](https://github.com/0xProject)  
-Filling 0x orders via a contract with 0x api  
-[https://github.com/0xProject/0x-api-starter-guide-code](https://github.com/0xProject/0x-api-starter-guide-code)  
-0.25 stars per week over 114 weeks  
-28 stars, 22 forks, 4 watches  
-created 2019-09-29, last commit 2020-10-17, main language JavaScript  
-
-
 ### [dev-tools-truffle-example](https://github.com/0xProject/dev-tools-truffle-example) by [0xProject](https://github.com/0xProject)  
 An example Truffle project showing how to use the 0x Dev Tools with the Truffle framework  
 [https://github.com/0xProject/dev-tools-truffle-example](https://github.com/0xProject/dev-tools-truffle-example)  
 0.19 stars per week over 150 weeks  
 28 stars, 13 forks, 8 watches  
 created 2019-01-17, last commit 2019-07-30, main language JavaScript  
+
+
+### [0x-api-starter-guide-code](https://github.com/0xProject/0x-api-starter-guide-code) by [0xProject](https://github.com/0xProject)  
+Filling 0x orders via a contract with 0x api  
+[https://github.com/0xProject/0x-api-starter-guide-code](https://github.com/0xProject/0x-api-starter-guide-code)  
+0.25 stars per week over 114 weeks  
+28 stars, 22 forks, 4 watches  
+created 2019-09-29, last commit 2020-10-17, main language JavaScript  
 
 
 ### [0x-codesandbox](https://github.com/0xProject/0x-codesandbox) by [0xProject](https://github.com/0xProject)  
@@ -192,12 +192,28 @@ created 2018-08-28, last commit 2019-12-08, main language TypeScript
 <sub><sup>0x, codesandbox, erc20, ethereum, exchange</sup></sub>
 
 
+### [quote-server](https://github.com/0xProject/quote-server) by [0xProject](https://github.com/0xProject)  
+An RFQ quote server that can be used to provide quotes via 0x API  
+[https://github.com/0xProject/quote-server](https://github.com/0xProject/quote-server)  
+0.13 stars per week over 83 weeks  
+11 stars, 5 forks, 7 watches  
+created 2020-05-01, last commit 2021-11-10, main language TypeScript  
+
+
 ### [VDF](https://github.com/0xProject/VDF) by [0xProject](https://github.com/0xProject)  
 A Solidity implementation of a VDF verifier contract  
 [https://github.com/0xProject/VDF](https://github.com/0xProject/VDF)  
 0.12 stars per week over 89 weeks  
 11 stars, 4 forks, 11 watches  
 created 2020-03-18, last commit 2020-04-10, main language Solidity  
+
+
+### [0x-debug](https://github.com/0xProject/0x-debug) by [0xProject](https://github.com/0xProject)  
+  
+[https://github.com/0xProject/0x-debug](https://github.com/0xProject/0x-debug)  
+0.07 stars per week over 146 weeks  
+11 stars, 3 forks, 8 watches  
+created 2019-02-13, last commit 2020-02-27, main language TypeScript  
 
 
 ### [connect-starter-project](https://github.com/0xProject/connect-starter-project) by [0xProject](https://github.com/0xProject)  
@@ -208,20 +224,12 @@ A tutorial for interacting with a relayer that conforms to the standard relayer 
 created 2017-11-22, last commit 2018-03-07, main language TypeScript  
 
 
-### [0x-debug](https://github.com/0xProject/0x-debug) by [0xProject](https://github.com/0xProject)  
-  
-[https://github.com/0xProject/0x-debug](https://github.com/0xProject/0x-debug)  
-0.08 stars per week over 146 weeks  
-11 stars, 3 forks, 8 watches  
-created 2019-02-13, last commit 2020-02-27, main language TypeScript  
-
-
-### [quote-server](https://github.com/0xProject/quote-server) by [0xProject](https://github.com/0xProject)  
-An RFQ quote server that can be used to provide quotes via 0x API  
-[https://github.com/0xProject/quote-server](https://github.com/0xProject/quote-server)  
-0.13 stars per week over 83 weeks  
-11 stars, 5 forks, 7 watches  
-created 2020-05-01, last commit 2021-11-10, main language TypeScript  
+### [fast-abi](https://github.com/0xProject/fast-abi) by [0xProject](https://github.com/0xProject)  
+ABI encoding, fast  
+[https://github.com/0xProject/fast-abi](https://github.com/0xProject/fast-abi)  
+0.31 stars per week over 32 weeks  
+10 stars, 12 forks, 5 watches  
+created 2021-04-26, last commit 2021-10-26, main language Rust  
 
 
 ### [0x-staking-pool-registry](https://github.com/0xProject/0x-staking-pool-registry) by [0xProject](https://github.com/0xProject)  
@@ -232,22 +240,14 @@ A collection of metadata about staking pools on 0x - https://0x.org/
 created 2019-11-13, last commit 2021-07-26, main language TypeScript  
 
 
-### [fast-abi](https://github.com/0xProject/fast-abi) by [0xProject](https://github.com/0xProject)  
-ABI encoding, fast  
-[https://github.com/0xProject/fast-abi](https://github.com/0xProject/fast-abi)  
-0.31 stars per week over 31 weeks  
-10 stars, 11 forks, 5 watches  
-created 2021-04-26, last commit 2021-10-26, main language Rust  
-
-
 ### [0x-coordinator-server](https://github.com/0xProject/0x-coordinator-server) by [0xProject](https://github.com/0xProject)  
 A reference implementation of a 0x coordinator server (soft-cancel variant)  
 [https://github.com/0xProject/0x-coordinator-server](https://github.com/0xProject/0x-coordinator-server)  
-0.07 stars per week over 144 weeks  
+0.07 stars per week over 145 weeks  
 10 stars, 11 forks, 3 watches  
 created 2019-02-25, last commit 2019-12-12, main language TypeScript  
 
 
-This file was automatically generated on 2021-12-05.  
+This file was automatically generated on 2021-12-06.  
 
 To curate your own github list, simply clone and change the input csv file.  

@@ -9,15 +9,15 @@ Checkout the interactive version that you can filter and sort:
 Nightfall protocols for private transactions on the Ethereum blockchain using zk-snarks  
 [https://github.com/EYBlockchain/nightfall](https://github.com/EYBlockchain/nightfall)  
 5.77 stars per week over 139 weeks  
-803 stars, 145 forks, 56 watches  
+804 stars, 145 forks, 56 watches  
 created 2019-04-05, last commit 2021-07-01, main language JavaScript  
 
 
 ### [nightfall_3](https://github.com/EYBlockchain/nightfall_3) by [EYBlockchain](https://github.com/EYBlockchain)  
 a mono-repo containing an optimistic version of nightfall  
 [https://github.com/EYBlockchain/nightfall_3](https://github.com/EYBlockchain/nightfall_3)  
-2.45 stars per week over 31 weeks  
-77 stars, 11 forks, 8 watches  
+2.5 stars per week over 31 weeks  
+79 stars, 11 forks, 8 watches  
 created 2021-04-29, last commit 2021-12-02, main language JavaScript  
 
 
@@ -41,7 +41,7 @@ created 2018-09-19, last commit 2019-06-03, main language None
 ### [starlight](https://github.com/EYBlockchain/starlight) by [EYBlockchain](https://github.com/EYBlockchain)  
 :zap: solidity --> zApp transpiler :zap:  
 [https://github.com/EYBlockchain/starlight](https://github.com/EYBlockchain/starlight)  
-0.53 stars per week over 64 weeks  
+0.52 stars per week over 64 weeks  
 34 stars, 5 forks, 6 watches  
 created 2020-09-08, last commit 2021-07-22, main language JavaScript  
 
@@ -57,11 +57,11 @@ created 2019-09-05, last commit 2020-11-17, main language JavaScript
 ### [fundamental-cost-of-ownership](https://github.com/EYBlockchain/fundamental-cost-of-ownership) by [EYBlockchain](https://github.com/EYBlockchain)  
 Outlining the fundamental costs of running a production scale blockchain solution.   
 [https://github.com/EYBlockchain/fundamental-cost-of-ownership](https://github.com/EYBlockchain/fundamental-cost-of-ownership)  
-0.1 stars per week over 174 weeks  
+0.1 stars per week over 175 weeks  
 18 stars, 11 forks, 4 watches  
 created 2018-07-30, last commit 2019-07-17, main language None  
 
 
-This file was automatically generated on 2021-12-05.  
+This file was automatically generated on 2021-12-06.  
 
 To curate your own github list, simply clone and change the input csv file.  

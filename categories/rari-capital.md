@@ -8,8 +8,8 @@ Checkout the interactive version that you can filter and sort:
 ### [solcurity](https://github.com/Rari-Capital/solcurity) by [Rari-Capital](https://github.com/Rari-Capital)  
 Opinionated security and code quality standard for Solidity smart contracts.  
 [https://github.com/Rari-Capital/solcurity](https://github.com/Rari-Capital/solcurity)  
-21 stars per week over 13 weeks  
-283 stars, 24 forks, 8 watches  
+20 stars per week over 13 weeks  
+284 stars, 24 forks, 8 watches  
 created 2021-09-02, last commit 2021-12-02, main language None  
 
 
@@ -17,15 +17,15 @@ created 2021-09-02, last commit 2021-12-02, main language None
 Modern, opinionated, and gas optimized building blocks for smart contract development.  
 [https://github.com/Rari-Capital/solmate](https://github.com/Rari-Capital/solmate)  
 10 stars per week over 20 weeks  
-214 stars, 21 forks, 5 watches  
+216 stars, 21 forks, 5 watches  
 created 2021-07-17, last commit 2021-11-30, main language Solidity  
 
 
 ### [nova](https://github.com/Rari-Capital/nova) by [Rari-Capital](https://github.com/Rari-Capital)  
 Read and write to L1 with minimal latency and no trust tradeoffs.  
 [https://github.com/Rari-Capital/nova](https://github.com/Rari-Capital/nova)  
-4.7 stars per week over 34 weeks  
-164 stars, 7 forks, 12 watches  
+4.74 stars per week over 35 weeks  
+166 stars, 7 forks, 12 watches  
 created 2021-04-05, last commit 2021-11-22, main language TypeScript  
 
 
@@ -42,8 +42,8 @@ created 2020-08-06, last commit 2021-12-03, main language TypeScript
 ### [vaults](https://github.com/Rari-Capital/vaults) by [Rari-Capital](https://github.com/Rari-Capital)  
 Flexible, minimalist, and gas-optimized yield aggregator protocol for earning interest on any ERC20 token.  
 [https://github.com/Rari-Capital/vaults](https://github.com/Rari-Capital/vaults)  
-2.66 stars per week over 23 weeks  
-63 stars, 12 forks, 5 watches  
+2.68 stars per week over 23 weeks  
+64 stars, 12 forks, 5 watches  
 created 2021-06-22, last commit 2021-12-03, main language Solidity  
 
 
@@ -58,7 +58,7 @@ created 2021-01-21, last commit 2021-05-12, main language JavaScript
 ### [duppgrade](https://github.com/Rari-Capital/duppgrade) by [Rari-Capital](https://github.com/Rari-Capital)  
 Update or revert to a specific DappTools commit with ease.  
 [https://github.com/Rari-Capital/duppgrade](https://github.com/Rari-Capital/duppgrade)  
-1.66 stars per week over 16 weeks  
+1.65 stars per week over 17 weeks  
 28 stars, 1 forks, 1 watches  
 created 2021-08-09, last commit 2021-09-19, main language Shell  
 
@@ -66,7 +66,7 @@ created 2021-08-09, last commit 2021-09-19, main language Shell
 ### [rari-stable-pool-contracts](https://github.com/Rari-Capital/rari-stable-pool-contracts) by [Rari-Capital](https://github.com/Rari-Capital)  
 Smart contracts for the Rari Stable Pool.  
 [https://github.com/Rari-Capital/rari-stable-pool-contracts](https://github.com/Rari-Capital/rari-stable-pool-contracts)  
-0.29 stars per week over 81 weeks  
+0.29 stars per week over 82 weeks  
 24 stars, 11 forks, 7 watches  
 created 2020-05-11, last commit 2021-05-30, main language HTML  
 
@@ -100,7 +100,7 @@ created 2021-04-22, last commit 2021-11-05, main language Vue
 ### [golf-course](https://github.com/Rari-Capital/golf-course) by [Rari-Capital](https://github.com/Rari-Capital)  
 A list of common Solidity optimization tips and myths.  
 [https://github.com/Rari-Capital/golf-course](https://github.com/Rari-Capital/golf-course)  
-1.58 stars per week over 7 weeks  
+1.56 stars per week over 7 weeks  
 12 stars, 0 forks, 4 watches  
 created 2021-10-13, last commit 2021-10-13, main language None  
 
@@ -113,6 +113,6 @@ OVM-safe version of OpenZepplin's SafeERC20.sol
 created 2021-04-23, last commit 2021-04-23, main language Solidity  
 
 
-This file was automatically generated on 2021-12-05.  
+This file was automatically generated on 2021-12-06.  
 
 To curate your own github list, simply clone and change the input csv file.  

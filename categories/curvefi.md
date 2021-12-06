@@ -10,7 +10,7 @@ Vyper contracts used in Curve.fi exchange pools.
 [https://www.curve.fi/](https://www.curve.fi/)  
 [https://github.com/curvefi/curve-contract](https://github.com/curvefi/curve-contract)  
 5.61 stars per week over 98 weeks  
-553 stars, 210 forks, 44 watches  
+554 stars, 210 forks, 44 watches  
 created 2020-01-15, last commit 2021-05-29, main language Python  
 <sub><sup>defi, ethereum, vyper</sup></sub>
 
@@ -27,14 +27,14 @@ created 2020-04-24, last commit 2021-11-29, main language Python
 On-chain registry and unified API for Curve.fi pools.  
 [https://github.com/curvefi/curve-pool-registry](https://github.com/curvefi/curve-pool-registry)  
 1.02 stars per week over 82 weeks  
-84 stars, 21 forks, 11 watches  
+84 stars, 22 forks, 11 watches  
 created 2020-05-10, last commit 2021-11-23, main language Python  
 
 
 ### [curve-crypto-contract](https://github.com/curvefi/curve-crypto-contract) by [curvefi](https://github.com/curvefi)  
 Guess what  
 [https://github.com/curvefi/curve-crypto-contract](https://github.com/curvefi/curve-crypto-contract)  
-1.0 stars per week over 45 weeks  
+0.99 stars per week over 45 weeks  
 45 stars, 14 forks, 10 watches  
 created 2021-01-23, last commit 2021-11-24, main language Python  
 
@@ -59,7 +59,7 @@ created 2021-01-12, last commit 2021-12-04, main language None
 ### [brownie-tutorial](https://github.com/curvefi/brownie-tutorial) by [curvefi](https://github.com/curvefi)  
 Brownie Video Tutorial at https://www.youtube.com/playlist?list=PLVOHzVzbg7bFUaOGwN0NOgkTItUAVyBBQ  
 [https://github.com/curvefi/brownie-tutorial](https://github.com/curvefi/brownie-tutorial)  
-1.09 stars per week over 31 weeks  
+1.08 stars per week over 31 weeks  
 34 stars, 10 forks, 7 watches  
 created 2021-04-30, last commit 2021-11-29, main language Python  
 
@@ -68,8 +68,8 @@ created 2021-04-30, last commit 2021-11-29, main language Python
   
 [curve-api-git-main-curvefi.vercel.app](curve-api-git-main-curvefi.vercel.app)  
 [https://github.com/curvefi/curve-api](https://github.com/curvefi/curve-api)  
-0.72 stars per week over 38 weeks  
-28 stars, 11 forks, 5 watches  
+0.75 stars per week over 38 weeks  
+29 stars, 11 forks, 5 watches  
 created 2021-03-09, last commit 2021-12-04, main language JavaScript  
 
 
@@ -121,14 +121,6 @@ A modified version of the SNX staking rewards contract, for use with Curve.fi li
 created 2020-12-16, last commit 2020-12-16, main language Solidity  
 
 
-### [curve-dao](https://github.com/curvefi/curve-dao) by [curvefi](https://github.com/curvefi)  
-  
-[https://github.com/curvefi/curve-dao](https://github.com/curvefi/curve-dao)  
-0.15 stars per week over 68 weeks  
-10 stars, 16 forks, 3 watches  
-created 2020-08-16, last commit 2020-09-02, main language Vue  
-
-
 ### [curve-subgraph](https://github.com/curvefi/curve-subgraph) by [curvefi](https://github.com/curvefi)  
   
 [https://thegraph.com/explorer/subgraph?id=0x2382ab6c2099474cf424560a370ed1b1fdb65253-0](https://thegraph.com/explorer/subgraph?id=0x2382ab6c2099474cf424560a370ed1b1fdb65253-0)  
@@ -138,6 +130,14 @@ created 2020-08-16, last commit 2020-09-02, main language Vue
 created 2021-05-21, last commit 2021-12-03, main language TypeScript  
 
 
-This file was automatically generated on 2021-12-05.  
+### [curve-dao](https://github.com/curvefi/curve-dao) by [curvefi](https://github.com/curvefi)  
+  
+[https://github.com/curvefi/curve-dao](https://github.com/curvefi/curve-dao)  
+0.15 stars per week over 68 weeks  
+10 stars, 16 forks, 3 watches  
+created 2020-08-16, last commit 2020-09-02, main language Vue  
+
+
+This file was automatically generated on 2021-12-06.  
 
 To curate your own github list, simply clone and change the input csv file.  
