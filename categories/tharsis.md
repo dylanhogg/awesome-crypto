@@ -9,9 +9,9 @@ Checkout the interactive version that you can filter and sort:
 Ethermint is a scalable and interoperable Ethereum library, built on Proof-of-Stake with fast-finality using the Cosmos SDK.  
 [https://evmos.dev/](https://evmos.dev/)  
 [https://github.com/tharsis/ethermint](https://github.com/tharsis/ethermint)  
-46 stars per week over 33 weeks  
-1,551 stars, 179 forks, 441 watches  
-created 2021-04-17, last commit 2021-12-03, main language Go  
+45 stars per week over 34 weeks  
+1,558 stars, 180 forks, 439 watches  
+created 2021-04-17, last commit 2021-12-10, main language Go  
 <sub><sup>blockchain, cosmos-sdk, ethereum, evm, go</sup></sub>
 
 
@@ -19,12 +19,12 @@ created 2021-04-17, last commit 2021-12-03, main language Go
 Evmos is the Ethereum Virtual Machine (EVM) Hub on the Cosmos Network. It is the flagship implementation of the Ethermint library that prioritizes interoperability and novel economics.  
 [https://evmos.dev](https://evmos.dev)  
 [https://github.com/tharsis/evmos](https://github.com/tharsis/evmos)  
-81 stars per week over 9 weeks  
-807 stars, 141 forks, 298 watches  
-created 2021-09-28, last commit 2021-12-03, main language Go  
+74 stars per week over 10 weeks  
+813 stars, 143 forks, 294 watches  
+created 2021-09-28, last commit 2021-12-12, main language Go  
 <sub><sup>blockchain, cosmos-sdk, ethereum, evm, go, smart-contracts</sup></sub>
 
 
-This file was automatically generated on 2021-12-06.  
+This file was automatically generated on 2021-12-13.  
 
 To curate your own github list, simply clone and change the input csv file.  
