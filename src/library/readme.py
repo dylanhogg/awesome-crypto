@@ -76,7 +76,8 @@ def safe_get_url(repopath, branch, filename):
         resource = urllib.request.urlopen(url)
         charset = resource.headers.get_content_charset()
         return resource.read().decode(charset).strip()
-    except urllib.error.HTTPError as ex:
+    except Exception as ex:
+        logger.error(f"Exception in safe_get_url with url: {url}")
         return ""
 
 
