@@ -7,14 +7,14 @@ Checkout the interactive version that you can filter and sort:
 
 ### [polygon-sdk](https://github.com/0xPolygon/polygon-sdk) by [0xPolygon](https://github.com/0xPolygon)  
 A Framework for Building Ethereum-compatible Blockchain Networks  
-[https://polygon.technology/polygon-sdk/](https://polygon.technology/polygon-sdk/)  
+[https://polygon.technology/polygon-edge/](https://polygon.technology/polygon-edge/)  
 [https://github.com/0xPolygon/polygon-sdk](https://github.com/0xPolygon/polygon-sdk)  
-5.42 stars per week over 69 weeks  
-376 stars, 76 forks, 36 watches  
-created 2020-08-14, last commit 2021-12-10, main language Go  
+6.07 stars per week over 74 weeks  
+449 stars, 97 forks, 41 watches  
+created 2020-08-14, last commit 2022-01-13, main language Go  
 <sub><sup>blockchain, ethereum, protocol</sup></sub>
 
 
-This file was automatically generated on 2021-12-13.  
+This file was automatically generated on 2022-01-14.  
 
 To curate your own github list, simply clone and change the input csv file.  

@@ -1,5 +1,5 @@
 # Crazy Awesome Crypto
-A list of 25 [smartcontractkit](https://github.com/smartcontractkit) project repos ordered by stars.  
+A list of 26 [smartcontractkit](https://github.com/smartcontractkit) project repos ordered by stars.  
 
 Checkout the interactive version that you can filter and sort: 
 [https://awesome-crypto.infocruncher.com/](https://awesome-crypto.infocruncher.com/)  
@@ -8,9 +8,9 @@ Checkout the interactive version that you can filter and sort:
 ### [full-blockchain-solidity-course-py](https://github.com/smartcontractkit/full-blockchain-solidity-course-py) by [smartcontractkit](https://github.com/smartcontractkit)  
 Ultimate Solidity, Blockchain, and Smart Contract - Beginner to Expert Full Course | Python Edition  
 [https://github.com/smartcontractkit/full-blockchain-solidity-course-py](https://github.com/smartcontractkit/full-blockchain-solidity-course-py)  
-197 stars per week over 19 weeks  
-3,919 stars, 848 forks, 84 watches  
-created 2021-07-27, last commit 2021-11-24, main language None  
+197 stars per week over 24 weeks  
+4,836 stars, 1,184 forks, 107 watches  
+created 2021-07-27, last commit 2021-12-26, main language None  
 <sub><sup>blockchain, chainlink, dapp, ethereum, smart-contracts, solidity, web3</sup></sub>
 
 
@@ -18,17 +18,17 @@ created 2021-07-27, last commit 2021-11-24, main language None
 node of the decentralized oracle network, bridging on and off-chain computation  
 [https://chain.link](https://chain.link)  
 [https://github.com/smartcontractkit/chainlink](https://github.com/smartcontractkit/chainlink)  
-12 stars per week over 212 weeks  
-2,640 stars, 777 forks, 242 watches  
-created 2017-11-20, last commit 2021-12-11, main language Go  
+12 stars per week over 216 weeks  
+2,809 stars, 812 forks, 251 watches  
+created 2017-11-20, last commit 2022-01-13, main language Go  
 <sub><sup>blockchain, chainlink, ethereum, golang, oracle, solidity</sup></sub>
 
 
 ### [hardhat-starter-kit](https://github.com/smartcontractkit/hardhat-starter-kit) by [smartcontractkit](https://github.com/smartcontractkit)  
 A repo for boilerplate code for testing, deploying, and shipping chainlink solidity code.   
 [https://github.com/smartcontractkit/hardhat-starter-kit](https://github.com/smartcontractkit/hardhat-starter-kit)  
-4.78 stars per week over 37 weeks  
-181 stars, 91 forks, 9 watches  
+4.88 stars per week over 42 weeks  
+207 stars, 103 forks, 9 watches  
 created 2021-03-23, last commit 2021-12-08, main language JavaScript  
 <sub><sup>chainlink, hardhat, javascript</sup></sub>
 
@@ -37,9 +37,9 @@ created 2021-03-23, last commit 2021-12-08, main language JavaScript
 Working with smart contracts with eth-brownie, python, and Chainlink.   
 [https://chain.link/](https://chain.link/)  
 [https://github.com/smartcontractkit/chainlink-mix](https://github.com/smartcontractkit/chainlink-mix)  
-3.38 stars per week over 52 weeks  
-176 stars, 79 forks, 9 watches  
-created 2020-12-14, last commit 2021-11-29, main language Solidity  
+3.54 stars per week over 56 weeks  
+200 stars, 96 forks, 11 watches  
+created 2020-12-14, last commit 2022-01-11, main language Solidity  
 <sub><sup>brownie, chainlink, eth-brownie, ethereum, infura, python, smart-contracts</sup></sub>
 
 
@@ -47,7 +47,7 @@ created 2020-12-14, last commit 2021-11-29, main language Solidity
 Easily connect your applications to blockchains  
 [https://chainlink-docs.smartcontract.com](https://chainlink-docs.smartcontract.com)  
 [https://github.com/smartcontractkit/chainlink-ruby](https://github.com/smartcontractkit/chainlink-ruby)  
-0.56 stars per week over 273 weeks  
+0.55 stars per week over 278 weeks  
 153 stars, 33 forks, 46 watches  
 created 2016-09-16, last commit 2018-06-20, main language Ruby  
 <sub><sup>bitcoin, blockchain, chainlink, ethereum, oracle</sup></sub>
@@ -56,8 +56,8 @@ created 2016-09-16, last commit 2018-06-20, main language Ruby
 ### [truffle-starter-kit](https://github.com/smartcontractkit/truffle-starter-kit) by [smartcontractkit](https://github.com/smartcontractkit)  
 An example smart contract utilizing Chainlink  
 [https://github.com/smartcontractkit/truffle-starter-kit](https://github.com/smartcontractkit/truffle-starter-kit)  
-1.44 stars per week over 93 weeks  
-135 stars, 68 forks, 71 watches  
+1.47 stars per week over 98 weeks  
+144 stars, 76 forks, 77 watches  
 created 2020-02-27, last commit 2021-10-28, main language JavaScript  
 <sub><sup>chainlink, ethereum, javascript, truffle</sup></sub>
 
@@ -65,98 +65,114 @@ created 2020-02-27, last commit 2021-10-28, main language JavaScript
 ### [external-adapters-js](https://github.com/smartcontractkit/external-adapters-js) by [smartcontractkit](https://github.com/smartcontractkit)  
 Monorepo containing JavaScript implementation of external adapters  
 [https://github.com/smartcontractkit/external-adapters-js](https://github.com/smartcontractkit/external-adapters-js)  
-1.46 stars per week over 85 weeks  
-125 stars, 97 forks, 58 watches  
-created 2020-04-23, last commit 2021-12-11, main language TypeScript  
+1.46 stars per week over 90 weeks  
+132 stars, 102 forks, 62 watches  
+created 2020-04-23, last commit 2022-01-13, main language TypeScript  
 
 
 ### [chainlink-polkadot](https://github.com/smartcontractkit/chainlink-polkadot) by [smartcontractkit](https://github.com/smartcontractkit)  
   
 [https://github.com/smartcontractkit/chainlink-polkadot](https://github.com/smartcontractkit/chainlink-polkadot)  
-1.05 stars per week over 104 weeks  
-110 stars, 54 forks, 59 watches  
+1.03 stars per week over 109 weeks  
+112 stars, 58 forks, 64 watches  
 created 2019-12-13, last commit 2021-09-21, main language Go  
+
+
+### [documentation](https://github.com/smartcontractkit/documentation) by [smartcontractkit](https://github.com/smartcontractkit)  
+https://docs.chain.link The Chainlink developer documentation website for Smart Contract Devs and Node Operators  
+[https://github.com/smartcontractkit/documentation](https://github.com/smartcontractkit/documentation)  
+2.41 stars per week over 41 weeks  
+100 stars, 125 forks, 48 watches  
+created 2021-03-29, last commit 2022-01-13, main language Solidity  
+<sub><sup>blockchain, chainlink, defi, solidity</sup></sub>
 
 
 ### [LinkToken](https://github.com/smartcontractkit/LinkToken) by [smartcontractkit](https://github.com/smartcontractkit)  
 LINK Token Contracts for the Chainlink Network  
 [https://chain.link](https://chain.link)  
 [https://github.com/smartcontractkit/LinkToken](https://github.com/smartcontractkit/LinkToken)  
-0.4 stars per week over 230 weeks  
-93 stars, 55 forks, 65 watches  
+0.41 stars per week over 234 weeks  
+97 stars, 57 forks, 70 watches  
 created 2017-07-16, last commit 2021-08-25, main language Solidity  
-
-
-### [documentation](https://github.com/smartcontractkit/documentation) by [smartcontractkit](https://github.com/smartcontractkit)  
-https://docs.chain.link The Chainlink developer documentation website for Smart Contract Devs and Node Operators  
-[https://github.com/smartcontractkit/documentation](https://github.com/smartcontractkit/documentation)  
-2.32 stars per week over 37 weeks  
-86 stars, 106 forks, 43 watches  
-created 2021-03-29, last commit 2021-12-11, main language Solidity  
-<sub><sup>blockchain, chainlink, defi, solidity</sup></sub>
 
 
 ### [solidity-cborutils](https://github.com/smartcontractkit/solidity-cborutils) by [smartcontractkit](https://github.com/smartcontractkit)  
 A library for encoding CBOR in Solidity.  
 [https://github.com/smartcontractkit/solidity-cborutils](https://github.com/smartcontractkit/solidity-cborutils)  
-0.27 stars per week over 192 weeks  
-51 stars, 10 forks, 56 watches  
+0.26 stars per week over 197 weeks  
+52 stars, 10 forks, 61 watches  
 created 2018-04-06, last commit 2021-09-24, main language Solidity  
 
 
 ### [chainlink-brownie-contracts](https://github.com/smartcontractkit/chainlink-brownie-contracts) by [smartcontractkit](https://github.com/smartcontractkit)  
 A repository for automatically using the latest chainlink repo from the core chainlink repo.   
 [https://github.com/smartcontractkit/chainlink-brownie-contracts](https://github.com/smartcontractkit/chainlink-brownie-contracts)  
-1.0 stars per week over 36 weeks  
-36 stars, 7 forks, 5 watches  
-created 2021-04-05, last commit 2021-12-10, main language Solidity  
+1.13 stars per week over 40 weeks  
+46 stars, 10 forks, 5 watches  
+created 2021-04-05, last commit 2022-01-07, main language Solidity  
 <sub><sup>chainlink</sup></sub>
 
 
 ### [external-initiator](https://github.com/smartcontractkit/external-initiator) by [smartcontractkit](https://github.com/smartcontractkit)  
 Initiate Chainlink job runs from external sources  
 [https://github.com/smartcontractkit/external-initiator](https://github.com/smartcontractkit/external-initiator)  
-0.3 stars per week over 118 weeks  
-35 stars, 38 forks, 55 watches  
-created 2019-09-05, last commit 2021-08-30, main language Go  
+0.29 stars per week over 123 weeks  
+36 stars, 40 forks, 59 watches  
+created 2019-09-05, last commit 2022-01-05, main language Go  
 
 
 ### [chainlink-solana-demo](https://github.com/smartcontractkit/chainlink-solana-demo) by [smartcontractkit](https://github.com/smartcontractkit)  
 Showing how to deploy a Solana program using Chainlink Price Feeds  
 [https://github.com/smartcontractkit/chainlink-solana-demo](https://github.com/smartcontractkit/chainlink-solana-demo)  
-1.72 stars per week over 15 weeks  
-27 stars, 12 forks, 5 watches  
+1.48 stars per week over 20 weeks  
+30 stars, 17 forks, 5 watches  
 created 2021-08-25, last commit 2021-09-03, main language TypeScript  
 
 
 ### [devnet](https://github.com/smartcontractkit/devnet) by [smartcontractkit](https://github.com/smartcontractkit)  
 An Ethereum development network with preset configs for easy testing.  
 [https://github.com/smartcontractkit/devnet](https://github.com/smartcontractkit/devnet)  
-0.09 stars per week over 233 weeks  
-22 stars, 5 forks, 67 watches  
+0.09 stars per week over 238 weeks  
+22 stars, 5 forks, 72 watches  
 created 2017-06-23, last commit 2020-07-13, main language Makefile  
-
-
-### [schemas](https://github.com/smartcontractkit/schemas) by [smartcontractkit](https://github.com/smartcontractkit)  
-specification for offering and requesting off-blockchain services  
-[https://github.com/smartcontractkit/schemas](https://github.com/smartcontractkit/schemas)  
-0.06 stars per week over 273 weeks  
-17 stars, 5 forks, 11 watches  
-created 2016-09-16, last commit 2018-02-01, main language None  
 
 
 ### [ccip-read](https://github.com/smartcontractkit/ccip-read) by [smartcontractkit](https://github.com/smartcontractkit)  
   
 [https://github.com/smartcontractkit/ccip-read](https://github.com/smartcontractkit/ccip-read)  
-0.86 stars per week over 19 weeks  
-17 stars, 3 forks, 8 watches  
+0.86 stars per week over 24 weeks  
+21 stars, 6 forks, 10 watches  
 created 2021-07-28, last commit 2021-10-18, main language TypeScript  
+
+
+### [dapptools-starter-kit](https://github.com/smartcontractkit/dapptools-starter-kit) by [smartcontractkit](https://github.com/smartcontractkit)  
+  
+[https://github.com/smartcontractkit/dapptools-starter-kit](https://github.com/smartcontractkit/dapptools-starter-kit)  
+21 stars per week over 0 weeks  
+18 stars, 0 forks, 1 watches  
+created 2022-01-08, last commit 2022-01-14, main language JavaScript  
+
+
+### [chainlink-solana](https://github.com/smartcontractkit/chainlink-solana) by [smartcontractkit](https://github.com/smartcontractkit)  
+  
+[https://github.com/smartcontractkit/chainlink-solana](https://github.com/smartcontractkit/chainlink-solana)  
+0.88 stars per week over 20 weeks  
+18 stars, 14 forks, 36 watches  
+created 2021-08-23, last commit 2022-01-13, main language Go  
+
+
+### [schemas](https://github.com/smartcontractkit/schemas) by [smartcontractkit](https://github.com/smartcontractkit)  
+specification for offering and requesting off-blockchain services  
+[https://github.com/smartcontractkit/schemas](https://github.com/smartcontractkit/schemas)  
+0.06 stars per week over 278 weeks  
+17 stars, 5 forks, 11 watches  
+created 2016-09-16, last commit 2018-02-01, main language None  
 
 
 ### [wei_watchers](https://github.com/smartcontractkit/wei_watchers) by [smartcontractkit](https://github.com/smartcontractkit)  
 A service for push notifications of Ethereum logs and account balances.  
 [https://github.com/smartcontractkit/wei_watchers](https://github.com/smartcontractkit/wei_watchers)  
-0.06 stars per week over 251 weeks  
+0.06 stars per week over 256 weeks  
 15 stars, 6 forks, 7 watches  
 created 2017-02-15, last commit 2019-03-20, main language Ruby  
 
@@ -164,60 +180,52 @@ created 2017-02-15, last commit 2019-03-20, main language Ruby
 ### [paypal-adapter](https://github.com/smartcontractkit/paypal-adapter) by [smartcontractkit](https://github.com/smartcontractkit)  
   
 [https://github.com/smartcontractkit/paypal-adapter](https://github.com/smartcontractkit/paypal-adapter)  
-0.09 stars per week over 147 weeks  
-14 stars, 7 forks, 62 watches  
+0.09 stars per week over 152 weeks  
+14 stars, 7 forks, 67 watches  
 created 2019-02-12, last commit 2019-09-25, main language TypeScript  
 
 
 ### [near-protocol-contracts](https://github.com/smartcontractkit/near-protocol-contracts) by [smartcontractkit](https://github.com/smartcontractkit)  
   
 [https://github.com/smartcontractkit/near-protocol-contracts](https://github.com/smartcontractkit/near-protocol-contracts)  
-0.13 stars per week over 102 weeks  
-13 stars, 4 forks, 64 watches  
+0.12 stars per week over 107 weeks  
+13 stars, 5 forks, 69 watches  
 created 2019-12-26, last commit 2020-08-28, main language Rust  
 
 
 ### [hello_chainlink](https://github.com/smartcontractkit/hello_chainlink) by [smartcontractkit](https://github.com/smartcontractkit)  
 chainlink demos  
 [https://github.com/smartcontractkit/hello_chainlink](https://github.com/smartcontractkit/hello_chainlink)  
-0.06 stars per week over 199 weeks  
-12 stars, 1 forks, 6 watches  
+0.06 stars per week over 204 weeks  
+13 stars, 1 forks, 6 watches  
 created 2018-02-14, last commit 2018-04-09, main language JavaScript  
 <sub><sup>blockchain, chainlink, demo, node-js, oracle, truffle, twilio</sup></sub>
-
-
-### [libocr](https://github.com/smartcontractkit/libocr) by [smartcontractkit](https://github.com/smartcontractkit)  
-libocr consists of a Go library and a set of Solidity smart contracts that implement the Chainlink Offchain Reporting Protocol  
-[https://github.com/smartcontractkit/libocr](https://github.com/smartcontractkit/libocr)  
-0.19 stars per week over 62 weeks  
-12 stars, 7 forks, 4 watches  
-created 2020-10-05, last commit 2021-12-10, main language Go  
 
 
 ### [solc-api](https://github.com/smartcontractkit/solc-api) by [smartcontractkit](https://github.com/smartcontractkit)  
 minimal Solidity compiler service  
 [https://github.com/smartcontractkit/solc-api](https://github.com/smartcontractkit/solc-api)  
-0.04 stars per week over 291 weeks  
+0.04 stars per week over 296 weeks  
 12 stars, 2 forks, 7 watches  
 created 2016-05-10, last commit 2017-11-09, main language JavaScript  
 
 
-### [chainlink-solana](https://github.com/smartcontractkit/chainlink-solana) by [smartcontractkit](https://github.com/smartcontractkit)  
-  
-[https://github.com/smartcontractkit/chainlink-solana](https://github.com/smartcontractkit/chainlink-solana)  
-0.69 stars per week over 16 weeks  
-11 stars, 9 forks, 32 watches  
-created 2021-08-23, last commit 2021-12-08, main language Rust  
+### [libocr](https://github.com/smartcontractkit/libocr) by [smartcontractkit](https://github.com/smartcontractkit)  
+libocr consists of a Go library and a set of Solidity smart contracts that implement the Chainlink Offchain Reporting Protocol  
+[https://github.com/smartcontractkit/libocr](https://github.com/smartcontractkit/libocr)  
+0.18 stars per week over 66 weeks  
+12 stars, 7 forks, 4 watches  
+created 2020-10-05, last commit 2021-12-10, main language Go  
 
 
 ### [arbitrum-quickstart](https://github.com/smartcontractkit/arbitrum-quickstart) by [smartcontractkit](https://github.com/smartcontractkit)  
   
 [https://github.com/smartcontractkit/arbitrum-quickstart](https://github.com/smartcontractkit/arbitrum-quickstart)  
-0.1 stars per week over 95 weeks  
-10 stars, 6 forks, 64 watches  
+0.11 stars per week over 100 weeks  
+11 stars, 5 forks, 69 watches  
 created 2020-02-13, last commit 2020-02-19, main language JavaScript  
 
 
-This file was automatically generated on 2021-12-13.  
+This file was automatically generated on 2022-01-14.  
 
 To curate your own github list, simply clone and change the input csv file.  

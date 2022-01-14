@@ -8,11 +8,11 @@ Checkout the interactive version that you can filter and sort:
 ### [Token](https://github.com/Revain/Token) by [Revain](https://github.com/Revain)  
 Source code for R token  
 [https://github.com/Revain/Token](https://github.com/Revain/Token)  
-0.06 stars per week over 224 weeks  
-14 stars, 15 forks, 7 watches  
+0.07 stars per week over 228 weeks  
+15 stars, 15 forks, 7 watches  
 created 2017-08-26, last commit 2017-09-13, main language None  
 
 
-This file was automatically generated on 2021-12-13.  
+This file was automatically generated on 2022-01-14.  
 
 To curate your own github list, simply clone and change the input csv file.  

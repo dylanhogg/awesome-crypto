@@ -9,19 +9,19 @@ Checkout the interactive version that you can filter and sort:
 Current work on BTCGPU  
 [http://bitcoingold.org](http://bitcoingold.org)  
 [https://github.com/BTCGPU/BTCGPU](https://github.com/BTCGPU/BTCGPU)  
-2.67 stars per week over 229 weeks  
-611 stars, 324 forks, 143 watches  
+2.64 stars per week over 233 weeks  
+617 stars, 326 forks, 142 watches  
 created 2017-07-23, last commit 2021-04-11, main language C++  
 
 
 ### [electrum](https://github.com/BTCGPU/electrum) by [BTCGPU](https://github.com/BTCGPU)  
 ElectrumG; Bitcoin Gold thin client  
 [https://github.com/BTCGPU/electrum](https://github.com/BTCGPU/electrum)  
-0.09 stars per week over 199 weeks  
-17 stars, 16 forks, 9 watches  
+0.09 stars per week over 204 weeks  
+18 stars, 16 forks, 9 watches  
 created 2018-02-13, last commit 2018-07-16, main language Python  
 
 
-This file was automatically generated on 2021-12-13.  
+This file was automatically generated on 2022-01-14.  
 
 To curate your own github list, simply clone and change the input csv file.  
