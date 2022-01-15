@@ -2,7 +2,7 @@
 A list of 7 [worldwide-asset-exchange](https://github.com/worldwide-asset-exchange) project repos ordered by stars.  
 
 Checkout the interactive version that you can filter and sort: 
-[https://awesome-crypto.infocruncher.com/](https://awesome-crypto.infocruncher.com/)  
+[https://www.awesomecrypto.xyz/](https://www.awesomecrypto.xyz/)  
 
 
 ### [wax-blockchain](https://github.com/worldwide-asset-exchange/wax-blockchain) by [worldwide-asset-exchange](https://github.com/worldwide-asset-exchange)  

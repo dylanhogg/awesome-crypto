@@ -2,7 +2,7 @@
 A list of 30 [storj](https://github.com/storj) project repos ordered by stars.  
 
 Checkout the interactive version that you can filter and sort: 
-[https://awesome-crypto.infocruncher.com/](https://awesome-crypto.infocruncher.com/)  
+[https://www.awesomecrypto.xyz/](https://www.awesomecrypto.xyz/)  
 
 
 ### [storj](https://github.com/storj/storj)  

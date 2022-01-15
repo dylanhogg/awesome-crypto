@@ -2,7 +2,7 @@
 A list of 26 [smartcontractkit](https://github.com/smartcontractkit) project repos ordered by stars.  
 
 Checkout the interactive version that you can filter and sort: 
-[https://awesome-crypto.infocruncher.com/](https://awesome-crypto.infocruncher.com/)  
+[https://www.awesomecrypto.xyz/](https://www.awesomecrypto.xyz/)  
 
 
 ### [full-blockchain-solidity-course-py](https://github.com/smartcontractkit/full-blockchain-solidity-course-py) by [smartcontractkit](https://github.com/smartcontractkit)  

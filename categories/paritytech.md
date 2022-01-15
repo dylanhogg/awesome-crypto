@@ -2,7 +2,7 @@
 A list of 110 [paritytech](https://github.com/paritytech) project repos ordered by stars.  
 
 Checkout the interactive version that you can filter and sort: 
-[https://awesome-crypto.infocruncher.com/](https://awesome-crypto.infocruncher.com/)  
+[https://www.awesomecrypto.xyz/](https://www.awesomecrypto.xyz/)  
 
 
 ### [substrate](https://github.com/paritytech/substrate) by [paritytech](https://github.com/paritytech)  

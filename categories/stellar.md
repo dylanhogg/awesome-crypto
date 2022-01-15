@@ -2,7 +2,7 @@
 A list of 35 [stellar](https://github.com/stellar) project repos ordered by stars.  
 
 Checkout the interactive version that you can filter and sort: 
-[https://awesome-crypto.infocruncher.com/](https://awesome-crypto.infocruncher.com/)  
+[https://www.awesomecrypto.xyz/](https://www.awesomecrypto.xyz/)  
 
 
 ### [stellar-core](https://github.com/stellar/stellar-core) by [stellar](https://github.com/stellar)  

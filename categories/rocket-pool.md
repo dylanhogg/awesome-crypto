@@ -2,7 +2,7 @@
 A list of 5 [rocket-pool](https://github.com/rocket-pool) project repos ordered by stars.  
 
 Checkout the interactive version that you can filter and sort: 
-[https://awesome-crypto.infocruncher.com/](https://awesome-crypto.infocruncher.com/)  
+[https://www.awesomecrypto.xyz/](https://www.awesomecrypto.xyz/)  
 
 
 ### [rocketpool](https://github.com/rocket-pool/rocketpool) by [rocket-pool](https://github.com/rocket-pool)  

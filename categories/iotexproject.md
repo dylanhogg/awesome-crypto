@@ -2,7 +2,7 @@
 A list of 12 [iotexproject](https://github.com/iotexproject) project repos ordered by stars.  
 
 Checkout the interactive version that you can filter and sort: 
-[https://awesome-crypto.infocruncher.com/](https://awesome-crypto.infocruncher.com/)  
+[https://www.awesomecrypto.xyz/](https://www.awesomecrypto.xyz/)  
 
 
 ### [iotex-core](https://github.com/iotexproject/iotex-core) by [iotexproject](https://github.com/iotexproject)  

@@ -2,7 +2,7 @@
 A list of 105 [iotaledger](https://github.com/iotaledger) project repos ordered by stars.  
 
 Checkout the interactive version that you can filter and sort: 
-[https://awesome-crypto.infocruncher.com/](https://awesome-crypto.infocruncher.com/)  
+[https://www.awesomecrypto.xyz/](https://www.awesomecrypto.xyz/)  
 
 
 ### [legacy-wallet-use-trinity-wallet-instead](https://github.com/iotaledger/legacy-wallet-use-trinity-wallet-instead) by [iotaledger](https://github.com/iotaledger)  

@@ -2,7 +2,7 @@
 A list of 46 [decentraland](https://github.com/decentraland) project repos ordered by stars.  
 
 Checkout the interactive version that you can filter and sort: 
-[https://awesome-crypto.infocruncher.com/](https://awesome-crypto.infocruncher.com/)  
+[https://www.awesomecrypto.xyz/](https://www.awesomecrypto.xyz/)  
 
 
 ### [marketplace](https://github.com/decentraland/marketplace) by [decentraland](https://github.com/decentraland)  

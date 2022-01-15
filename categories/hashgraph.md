@@ -2,7 +2,7 @@
 A list of 20 [hashgraph](https://github.com/hashgraph) project repos ordered by stars.  
 
 Checkout the interactive version that you can filter and sort: 
-[https://awesome-crypto.infocruncher.com/](https://awesome-crypto.infocruncher.com/)  
+[https://www.awesomecrypto.xyz/](https://www.awesomecrypto.xyz/)  
 
 
 ### [awesome-hashgraph](https://github.com/hashgraph/awesome-hashgraph) by [hashgraph](https://github.com/hashgraph)  

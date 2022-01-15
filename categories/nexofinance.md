@@ -2,7 +2,7 @@
 A list of 1 [nexofinance](https://github.com/nexofinance) project repos ordered by stars.  
 
 Checkout the interactive version that you can filter and sort: 
-[https://awesome-crypto.infocruncher.com/](https://awesome-crypto.infocruncher.com/)  
+[https://www.awesomecrypto.xyz/](https://www.awesomecrypto.xyz/)  
 
 
 ### [NEXO-Token](https://github.com/nexofinance/NEXO-Token) by [nexofinance](https://github.com/nexofinance)  

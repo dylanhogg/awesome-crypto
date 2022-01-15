@@ -2,7 +2,7 @@
 A list of 24 [celo-org](https://github.com/celo-org) project repos ordered by stars.  
 
 Checkout the interactive version that you can filter and sort: 
-[https://awesome-crypto.infocruncher.com/](https://awesome-crypto.infocruncher.com/)  
+[https://www.awesomecrypto.xyz/](https://www.awesomecrypto.xyz/)  
 
 
 ### [celo-monorepo](https://github.com/celo-org/celo-monorepo) by [celo-org](https://github.com/celo-org)  

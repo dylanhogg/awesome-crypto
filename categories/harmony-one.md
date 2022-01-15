@@ -2,7 +2,7 @@
 A list of 27 [harmony-one](https://github.com/harmony-one) project repos ordered by stars.  
 
 Checkout the interactive version that you can filter and sort: 
-[https://awesome-crypto.infocruncher.com/](https://awesome-crypto.infocruncher.com/)  
+[https://www.awesomecrypto.xyz/](https://www.awesomecrypto.xyz/)  
 
 
 ### [harmony](https://github.com/harmony-one/harmony) by [harmony-one](https://github.com/harmony-one)  

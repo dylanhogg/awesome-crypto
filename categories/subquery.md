@@ -2,7 +2,7 @@
 A list of 5 [subquery](https://github.com/subquery) project repos ordered by stars.  
 
 Checkout the interactive version that you can filter and sort: 
-[https://awesome-crypto.infocruncher.com/](https://awesome-crypto.infocruncher.com/)  
+[https://www.awesomecrypto.xyz/](https://www.awesomecrypto.xyz/)  
 
 
 ### [subql](https://github.com/subquery/subql) by [subquery](https://github.com/subquery)  

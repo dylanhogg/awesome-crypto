@@ -2,7 +2,7 @@
 A list of 1 [CelsiusNetwork](https://github.com/CelsiusNetwork) project repos ordered by stars.  
 
 Checkout the interactive version that you can filter and sort: 
-[https://awesome-crypto.infocruncher.com/](https://awesome-crypto.infocruncher.com/)  
+[https://www.awesomecrypto.xyz/](https://www.awesomecrypto.xyz/)  
 
 
 ### [celsius-js-sdk](https://github.com/CelsiusNetwork/celsius-js-sdk) by [CelsiusNetwork](https://github.com/CelsiusNetwork)  

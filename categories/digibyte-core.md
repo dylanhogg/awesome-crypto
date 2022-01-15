@@ -2,7 +2,7 @@
 A list of 2 [DigiByte-Core](https://github.com/DigiByte-Core) project repos ordered by stars.  
 
 Checkout the interactive version that you can filter and sort: 
-[https://awesome-crypto.infocruncher.com/](https://awesome-crypto.infocruncher.com/)  
+[https://www.awesomecrypto.xyz/](https://www.awesomecrypto.xyz/)  
 
 
 ### [digibyte](https://github.com/DigiByte-Core/digibyte) by [DigiByte-Core](https://github.com/DigiByte-Core)  

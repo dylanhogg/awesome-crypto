@@ -2,7 +2,7 @@
 A list of 31 [terra-money](https://github.com/terra-money) project repos ordered by stars.  
 
 Checkout the interactive version that you can filter and sort: 
-[https://awesome-crypto.infocruncher.com/](https://awesome-crypto.infocruncher.com/)  
+[https://www.awesomecrypto.xyz/](https://www.awesomecrypto.xyz/)  
 
 
 ### [core](https://github.com/terra-money/core) by [terra-money](https://github.com/terra-money)  

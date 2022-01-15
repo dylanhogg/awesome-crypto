@@ -2,7 +2,7 @@
 A list of 1 [CasperLabs](https://github.com/CasperLabs) project repos ordered by stars.  
 
 Checkout the interactive version that you can filter and sort: 
-[https://awesome-crypto.infocruncher.com/](https://awesome-crypto.infocruncher.com/)  
+[https://www.awesomecrypto.xyz/](https://www.awesomecrypto.xyz/)  
 
 
 ### [contract-examples](https://github.com/CasperLabs/contract-examples) by [CasperLabs](https://github.com/CasperLabs)  

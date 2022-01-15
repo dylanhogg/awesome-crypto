@@ -2,7 +2,7 @@
 A list of 8 [ethers-io](https://github.com/ethers-io) project repos ordered by stars.  
 
 Checkout the interactive version that you can filter and sort: 
-[https://awesome-crypto.infocruncher.com/](https://awesome-crypto.infocruncher.com/)  
+[https://www.awesomecrypto.xyz/](https://www.awesomecrypto.xyz/)  
 
 
 ### [ethers.js](https://github.com/ethers-io/ethers.js) by [ethers-io](https://github.com/ethers-io)  

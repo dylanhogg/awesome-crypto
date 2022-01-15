@@ -2,7 +2,7 @@
 A list of 15 [monero-project](https://github.com/monero-project) project repos ordered by stars.  
 
 Checkout the interactive version that you can filter and sort: 
-[https://awesome-crypto.infocruncher.com/](https://awesome-crypto.infocruncher.com/)  
+[https://www.awesomecrypto.xyz/](https://www.awesomecrypto.xyz/)  
 
 
 ### [monero](https://github.com/monero-project/monero) by [monero-project](https://github.com/monero-project)  

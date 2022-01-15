@@ -2,7 +2,7 @@
 A list of 44 [Uniswap](https://github.com/Uniswap) project repos ordered by stars.  
 
 Checkout the interactive version that you can filter and sort: 
-[https://awesome-crypto.infocruncher.com/](https://awesome-crypto.infocruncher.com/)  
+[https://www.awesomecrypto.xyz/](https://www.awesomecrypto.xyz/)  
 
 
 ### [interface](https://github.com/Uniswap/interface) by [Uniswap](https://github.com/Uniswap)  

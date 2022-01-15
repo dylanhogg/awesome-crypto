@@ -127,7 +127,7 @@ def lines_header(count, category="") -> List[str]:
         f"# Crazy Awesome Crypto",
         category_line,
         f"Checkout the interactive version that you can filter and sort: ",
-        f"[https://awesome-crypto.infocruncher.com/](https://awesome-crypto.infocruncher.com/)  \n\n",
+        f"[https://www.awesomecrypto.xyz/](https://www.awesomecrypto.xyz/)  \n\n",
     ]
 
 

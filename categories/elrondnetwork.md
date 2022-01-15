@@ -2,7 +2,7 @@
 A list of 19 [ElrondNetwork](https://github.com/ElrondNetwork) project repos ordered by stars.  
 
 Checkout the interactive version that you can filter and sort: 
-[https://awesome-crypto.infocruncher.com/](https://awesome-crypto.infocruncher.com/)  
+[https://www.awesomecrypto.xyz/](https://www.awesomecrypto.xyz/)  
 
 
 ### [elrond-go](https://github.com/ElrondNetwork/elrond-go) by [ElrondNetwork](https://github.com/ElrondNetwork)  

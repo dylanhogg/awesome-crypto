@@ -2,7 +2,7 @@
 A list of 14 [Synthetixio](https://github.com/Synthetixio) project repos ordered by stars.  
 
 Checkout the interactive version that you can filter and sort: 
-[https://awesome-crypto.infocruncher.com/](https://awesome-crypto.infocruncher.com/)  
+[https://www.awesomecrypto.xyz/](https://www.awesomecrypto.xyz/)  
 
 
 ### [synthetix](https://github.com/Synthetixio/synthetix) by [Synthetixio](https://github.com/Synthetixio)  

@@ -2,7 +2,7 @@
 A list of 113 [ConsenSys](https://github.com/ConsenSys) project repos ordered by stars.  
 
 Checkout the interactive version that you can filter and sort: 
-[https://awesome-crypto.infocruncher.com/](https://awesome-crypto.infocruncher.com/)  
+[https://www.awesomecrypto.xyz/](https://www.awesomecrypto.xyz/)  
 
 
 ### [smart-contract-best-practices](https://github.com/ConsenSys/smart-contract-best-practices) by [ConsenSys](https://github.com/ConsenSys)  

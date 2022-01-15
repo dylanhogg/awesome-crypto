@@ -2,7 +2,7 @@
 A list of 1 [l2beat](https://github.com/l2beat) project repos ordered by stars.  
 
 Checkout the interactive version that you can filter and sort: 
-[https://awesome-crypto.infocruncher.com/](https://awesome-crypto.infocruncher.com/)  
+[https://www.awesomecrypto.xyz/](https://www.awesomecrypto.xyz/)  
 
 
 ### [l2beat](https://github.com/l2beat/l2beat)  

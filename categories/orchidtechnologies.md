@@ -2,7 +2,7 @@
 A list of 1 [OrchidTechnologies](https://github.com/OrchidTechnologies) project repos ordered by stars.  
 
 Checkout the interactive version that you can filter and sort: 
-[https://awesome-crypto.infocruncher.com/](https://awesome-crypto.infocruncher.com/)  
+[https://www.awesomecrypto.xyz/](https://www.awesomecrypto.xyz/)  
 
 
 ### [orchid](https://github.com/OrchidTechnologies/orchid) by [OrchidTechnologies](https://github.com/OrchidTechnologies)  

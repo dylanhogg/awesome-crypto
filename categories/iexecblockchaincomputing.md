@@ -2,7 +2,7 @@
 A list of 15 [iExecBlockchainComputing](https://github.com/iExecBlockchainComputing) project repos ordered by stars.  
 
 Checkout the interactive version that you can filter and sort: 
-[https://awesome-crypto.infocruncher.com/](https://awesome-crypto.infocruncher.com/)  
+[https://www.awesomecrypto.xyz/](https://www.awesomecrypto.xyz/)  
 
 
 ### [iexec-sdk](https://github.com/iExecBlockchainComputing/iexec-sdk) by [iExecBlockchainComputing](https://github.com/iExecBlockchainComputing)  

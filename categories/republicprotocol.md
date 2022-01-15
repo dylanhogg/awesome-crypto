@@ -2,7 +2,7 @@
 A list of 5 [republicprotocol](https://github.com/republicprotocol) project repos ordered by stars.  
 
 Checkout the interactive version that you can filter and sort: 
-[https://awesome-crypto.infocruncher.com/](https://awesome-crypto.infocruncher.com/)  
+[https://www.awesomecrypto.xyz/](https://www.awesomecrypto.xyz/)  
 
 
 ### [renex-sol](https://github.com/republicprotocol/renex-sol) by [republicprotocol](https://github.com/republicprotocol)  

@@ -2,7 +2,7 @@
 A list of 19 [Fantom-foundation](https://github.com/Fantom-foundation) project repos ordered by stars.  
 
 Checkout the interactive version that you can filter and sort: 
-[https://awesome-crypto.infocruncher.com/](https://awesome-crypto.infocruncher.com/)  
+[https://www.awesomecrypto.xyz/](https://www.awesomecrypto.xyz/)  
 
 
 ### [go-lachesis](https://github.com/Fantom-foundation/go-lachesis) by [Fantom-foundation](https://github.com/Fantom-foundation)  

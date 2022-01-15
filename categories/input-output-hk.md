@@ -2,7 +2,7 @@
 A list of 97 [input-output-hk](https://github.com/input-output-hk) project repos ordered by stars.  
 
 Checkout the interactive version that you can filter and sort: 
-[https://awesome-crypto.infocruncher.com/](https://awesome-crypto.infocruncher.com/)  
+[https://www.awesomecrypto.xyz/](https://www.awesomecrypto.xyz/)  
 
 
 ### [cardano-sl](https://github.com/input-output-hk/cardano-sl) by [input-output-hk](https://github.com/input-output-hk)  

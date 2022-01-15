@@ -2,7 +2,7 @@
 A list of 40 [ChainSafe](https://github.com/ChainSafe) project repos ordered by stars.  
 
 Checkout the interactive version that you can filter and sort: 
-[https://awesome-crypto.infocruncher.com/](https://awesome-crypto.infocruncher.com/)  
+[https://www.awesomecrypto.xyz/](https://www.awesomecrypto.xyz/)  
 
 
 ### [web3.js](https://github.com/ChainSafe/web3.js) by [ChainSafe](https://github.com/ChainSafe)  

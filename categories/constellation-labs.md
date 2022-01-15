@@ -2,7 +2,7 @@
 A list of 3 [Constellation-Labs](https://github.com/Constellation-Labs) project repos ordered by stars.  
 
 Checkout the interactive version that you can filter and sort: 
-[https://awesome-crypto.infocruncher.com/](https://awesome-crypto.infocruncher.com/)  
+[https://www.awesomecrypto.xyz/](https://www.awesomecrypto.xyz/)  
 
 
 ### [constellation](https://github.com/Constellation-Labs/constellation) by [Constellation-Labs](https://github.com/Constellation-Labs)  

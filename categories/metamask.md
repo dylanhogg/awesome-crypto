@@ -2,7 +2,7 @@
 A list of 61 [MetaMask](https://github.com/MetaMask) project repos ordered by stars.  
 
 Checkout the interactive version that you can filter and sort: 
-[https://awesome-crypto.infocruncher.com/](https://awesome-crypto.infocruncher.com/)  
+[https://www.awesomecrypto.xyz/](https://www.awesomecrypto.xyz/)  
 
 
 ### [metamask-extension](https://github.com/MetaMask/metamask-extension) by [MetaMask](https://github.com/MetaMask)  

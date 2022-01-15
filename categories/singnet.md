@@ -2,7 +2,7 @@
 A list of 24 [singnet](https://github.com/singnet) project repos ordered by stars.  
 
 Checkout the interactive version that you can filter and sort: 
-[https://awesome-crypto.infocruncher.com/](https://awesome-crypto.infocruncher.com/)  
+[https://www.awesomecrypto.xyz/](https://www.awesomecrypto.xyz/)  
 
 
 ### [dev-portal](https://github.com/singnet/dev-portal) by [singnet](https://github.com/singnet)  

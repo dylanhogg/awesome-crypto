@@ -2,7 +2,7 @@
 A list of 38 [holochain](https://github.com/holochain) project repos ordered by stars.  
 
 Checkout the interactive version that you can filter and sort: 
-[https://awesome-crypto.infocruncher.com/](https://awesome-crypto.infocruncher.com/)  
+[https://www.awesomecrypto.xyz/](https://www.awesomecrypto.xyz/)  
 
 
 ### [holochain-rust](https://github.com/holochain/holochain-rust) by [holochain](https://github.com/holochain)  

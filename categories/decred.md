@@ -2,7 +2,7 @@
 A list of 33 [decred](https://github.com/decred) project repos ordered by stars.  
 
 Checkout the interactive version that you can filter and sort: 
-[https://awesome-crypto.infocruncher.com/](https://awesome-crypto.infocruncher.com/)  
+[https://www.awesomecrypto.xyz/](https://www.awesomecrypto.xyz/)  
 
 
 ### [dcrd](https://github.com/decred/dcrd) by [decred](https://github.com/decred)  

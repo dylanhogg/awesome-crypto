@@ -2,7 +2,7 @@
 A list of 1 [vyperlang](https://github.com/vyperlang) project repos ordered by stars.  
 
 Checkout the interactive version that you can filter and sort: 
-[https://awesome-crypto.infocruncher.com/](https://awesome-crypto.infocruncher.com/)  
+[https://www.awesomecrypto.xyz/](https://www.awesomecrypto.xyz/)  
 
 
 ### [vyper](https://github.com/vyperlang/vyper) by [vyperlang](https://github.com/vyperlang)  

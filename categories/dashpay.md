@@ -2,7 +2,7 @@
 A list of 17 [dashpay](https://github.com/dashpay) project repos ordered by stars.  
 
 Checkout the interactive version that you can filter and sort: 
-[https://awesome-crypto.infocruncher.com/](https://awesome-crypto.infocruncher.com/)  
+[https://www.awesomecrypto.xyz/](https://www.awesomecrypto.xyz/)  
 
 
 ### [dash](https://github.com/dashpay/dash) by [dashpay](https://github.com/dashpay)  

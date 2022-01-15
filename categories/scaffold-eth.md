@@ -2,7 +2,7 @@
 A list of 7 [scaffold-eth](https://github.com/scaffold-eth) project repos ordered by stars.  
 
 Checkout the interactive version that you can filter and sort: 
-[https://awesome-crypto.infocruncher.com/](https://awesome-crypto.infocruncher.com/)  
+[https://www.awesomecrypto.xyz/](https://www.awesomecrypto.xyz/)  
 
 
 ### [scaffold-eth](https://github.com/scaffold-eth/scaffold-eth)  

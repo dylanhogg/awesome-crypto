@@ -2,7 +2,7 @@
 A list of 5 [nearprotocol](https://github.com/nearprotocol) project repos ordered by stars.  
 
 Checkout the interactive version that you can filter and sort: 
-[https://awesome-crypto.infocruncher.com/](https://awesome-crypto.infocruncher.com/)  
+[https://www.awesomecrypto.xyz/](https://www.awesomecrypto.xyz/)  
 
 
 ### [NEARStudio](https://github.com/nearprotocol/NEARStudio) by [nearprotocol](https://github.com/nearprotocol)  

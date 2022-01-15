@@ -2,7 +2,7 @@
 A list of 4 [AlphaFinanceLab](https://github.com/AlphaFinanceLab) project repos ordered by stars.  
 
 Checkout the interactive version that you can filter and sort: 
-[https://awesome-crypto.infocruncher.com/](https://awesome-crypto.infocruncher.com/)  
+[https://www.awesomecrypto.xyz/](https://www.awesomecrypto.xyz/)  
 
 
 ### [alpha-homora-v1-eth-contract](https://github.com/AlphaFinanceLab/alpha-homora-v1-eth-contract) by [AlphaFinanceLab](https://github.com/AlphaFinanceLab)  

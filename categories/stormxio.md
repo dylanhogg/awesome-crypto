@@ -2,7 +2,7 @@
 A list of 1 [stormxio](https://github.com/stormxio) project repos ordered by stars.  
 
 Checkout the interactive version that you can filter and sort: 
-[https://awesome-crypto.infocruncher.com/](https://awesome-crypto.infocruncher.com/)  
+[https://www.awesomecrypto.xyz/](https://www.awesomecrypto.xyz/)  
 
 
 ### [crowdsale](https://github.com/stormxio/crowdsale) by [stormxio](https://github.com/stormxio)  

@@ -2,7 +2,7 @@
 A list of 15 [0xsequence](https://github.com/0xsequence) project repos ordered by stars.  
 
 Checkout the interactive version that you can filter and sort: 
-[https://awesome-crypto.infocruncher.com/](https://awesome-crypto.infocruncher.com/)  
+[https://www.awesomecrypto.xyz/](https://www.awesomecrypto.xyz/)  
 
 
 ### [erc-1155](https://github.com/0xsequence/erc-1155) by [0xsequence](https://github.com/0xsequence)  

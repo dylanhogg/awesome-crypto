@@ -2,7 +2,7 @@
 A list of 3 [kusamanetwork](https://github.com/kusamanetwork) project repos ordered by stars.  
 
 Checkout the interactive version that you can filter and sort: 
-[https://awesome-crypto.infocruncher.com/](https://awesome-crypto.infocruncher.com/)  
+[https://www.awesomecrypto.xyz/](https://www.awesomecrypto.xyz/)  
 
 
 ### [faucet](https://github.com/kusamanetwork/faucet) by [kusamanetwork](https://github.com/kusamanetwork)  

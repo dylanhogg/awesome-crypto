@@ -2,7 +2,7 @@
 A list of 11 [celer-network](https://github.com/celer-network) project repos ordered by stars.  
 
 Checkout the interactive version that you can filter and sort: 
-[https://awesome-crypto.infocruncher.com/](https://awesome-crypto.infocruncher.com/)  
+[https://www.awesomecrypto.xyz/](https://www.awesomecrypto.xyz/)  
 
 
 ### [goCeler-oss](https://github.com/celer-network/goCeler-oss) by [celer-network](https://github.com/celer-network)  

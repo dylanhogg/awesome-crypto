@@ -2,7 +2,7 @@
 A list of 11 [0xcert](https://github.com/0xcert) project repos ordered by stars.  
 
 Checkout the interactive version that you can filter and sort: 
-[https://awesome-crypto.infocruncher.com/](https://awesome-crypto.infocruncher.com/)  
+[https://www.awesomecrypto.xyz/](https://www.awesomecrypto.xyz/)  
 
 
 ### [framework](https://github.com/0xcert/framework) by [0xcert](https://github.com/0xcert)  

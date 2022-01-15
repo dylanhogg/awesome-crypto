@@ -2,7 +2,7 @@
 A list of 5 [RavenProject](https://github.com/RavenProject) project repos ordered by stars.  
 
 Checkout the interactive version that you can filter and sort: 
-[https://awesome-crypto.infocruncher.com/](https://awesome-crypto.infocruncher.com/)  
+[https://www.awesomecrypto.xyz/](https://www.awesomecrypto.xyz/)  
 
 
 ### [Ravencoin](https://github.com/RavenProject/Ravencoin) by [RavenProject](https://github.com/RavenProject)  

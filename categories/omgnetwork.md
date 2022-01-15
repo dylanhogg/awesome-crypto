@@ -2,7 +2,7 @@
 A list of 19 [omgnetwork](https://github.com/omgnetwork) project repos ordered by stars.  
 
 Checkout the interactive version that you can filter and sort: 
-[https://awesome-crypto.infocruncher.com/](https://awesome-crypto.infocruncher.com/)  
+[https://www.awesomecrypto.xyz/](https://www.awesomecrypto.xyz/)  
 
 
 ### [plasma-mvp](https://github.com/omgnetwork/plasma-mvp) by [omgnetwork](https://github.com/omgnetwork)  

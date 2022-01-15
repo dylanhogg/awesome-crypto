@@ -2,7 +2,7 @@
 A list of 1 [mushroomlabs](https://github.com/mushroomlabs) project repos ordered by stars.  
 
 Checkout the interactive version that you can filter and sort: 
-[https://awesome-crypto.infocruncher.com/](https://awesome-crypto.infocruncher.com/)  
+[https://www.awesomecrypto.xyz/](https://www.awesomecrypto.xyz/)  
 
 
 ### [hub20](https://github.com/mushroomlabs/hub20) by [mushroomlabs](https://github.com/mushroomlabs)  

@@ -2,7 +2,7 @@
 A list of 1 [Tokemak](https://github.com/Tokemak) project repos ordered by stars.  
 
 Checkout the interactive version that you can filter and sort: 
-[https://awesome-crypto.infocruncher.com/](https://awesome-crypto.infocruncher.com/)  
+[https://www.awesomecrypto.xyz/](https://www.awesomecrypto.xyz/)  
 
 
 ### [tokemak-smart-contracts-public](https://github.com/Tokemak/tokemak-smart-contracts-public) by [Tokemak](https://github.com/Tokemak)  

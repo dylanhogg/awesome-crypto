@@ -2,7 +2,7 @@
 A list of 4 [reef-defi](https://github.com/reef-defi) project repos ordered by stars.  
 
 Checkout the interactive version that you can filter and sort: 
-[https://awesome-crypto.infocruncher.com/](https://awesome-crypto.infocruncher.com/)  
+[https://www.awesomecrypto.xyz/](https://www.awesomecrypto.xyz/)  
 
 
 ### [reef-chain](https://github.com/reef-defi/reef-chain) by [reef-defi](https://github.com/reef-defi)  

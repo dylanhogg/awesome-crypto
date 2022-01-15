@@ -2,7 +2,7 @@
 A list of 31 [dapphub](https://github.com/dapphub) project repos ordered by stars.  
 
 Checkout the interactive version that you can filter and sort: 
-[https://awesome-crypto.infocruncher.com/](https://awesome-crypto.infocruncher.com/)  
+[https://www.awesomecrypto.xyz/](https://www.awesomecrypto.xyz/)  
 
 
 ### [dapptools](https://github.com/dapphub/dapptools) by [dapphub](https://github.com/dapphub)  

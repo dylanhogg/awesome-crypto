@@ -2,7 +2,7 @@
 A list of 3 [unlock-protocol](https://github.com/unlock-protocol) project repos ordered by stars.  
 
 Checkout the interactive version that you can filter and sort: 
-[https://awesome-crypto.infocruncher.com/](https://awesome-crypto.infocruncher.com/)  
+[https://www.awesomecrypto.xyz/](https://www.awesomecrypto.xyz/)  
 
 
 ### [unlock](https://github.com/unlock-protocol/unlock) by [unlock-protocol](https://github.com/unlock-protocol)  

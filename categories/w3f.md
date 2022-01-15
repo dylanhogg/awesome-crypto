@@ -2,7 +2,7 @@
 A list of 33 [w3f](https://github.com/w3f) project repos ordered by stars.  
 
 Checkout the interactive version that you can filter and sort: 
-[https://awesome-crypto.infocruncher.com/](https://awesome-crypto.infocruncher.com/)  
+[https://www.awesomecrypto.xyz/](https://www.awesomecrypto.xyz/)  
 
 
 ### [General-Grants-Program](https://github.com/w3f/General-Grants-Program) by [w3f](https://github.com/w3f)  

@@ -2,7 +2,7 @@
 A list of 20 [crytic](https://github.com/crytic) project repos ordered by stars.  
 
 Checkout the interactive version that you can filter and sort: 
-[https://awesome-crypto.infocruncher.com/](https://awesome-crypto.infocruncher.com/)  
+[https://www.awesomecrypto.xyz/](https://www.awesomecrypto.xyz/)  
 
 
 ### [slither](https://github.com/crytic/slither) by [crytic](https://github.com/crytic)  

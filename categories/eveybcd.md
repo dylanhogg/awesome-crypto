@@ -2,7 +2,7 @@
 A list of 2 [eveybcd](https://github.com/eveybcd) project repos ordered by stars.  
 
 Checkout the interactive version that you can filter and sort: 
-[https://awesome-crypto.infocruncher.com/](https://awesome-crypto.infocruncher.com/)  
+[https://www.awesomecrypto.xyz/](https://www.awesomecrypto.xyz/)  
 
 
 ### [BitcoinDiamond](https://github.com/eveybcd/BitcoinDiamond) by [eveybcd](https://github.com/eveybcd)  

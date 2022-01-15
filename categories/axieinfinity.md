@@ -2,7 +2,7 @@
 A list of 6 [axieinfinity](https://github.com/axieinfinity) project repos ordered by stars.  
 
 Checkout the interactive version that you can filter and sort: 
-[https://awesome-crypto.infocruncher.com/](https://awesome-crypto.infocruncher.com/)  
+[https://www.awesomecrypto.xyz/](https://www.awesomecrypto.xyz/)  
 
 
 ### [public-smart-contracts](https://github.com/axieinfinity/public-smart-contracts) by [axieinfinity](https://github.com/axieinfinity)  

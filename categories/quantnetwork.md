@@ -2,7 +2,7 @@
 A list of 4 [quantnetwork](https://github.com/quantnetwork) project repos ordered by stars.  
 
 Checkout the interactive version that you can filter and sort: 
-[https://awesome-crypto.infocruncher.com/](https://awesome-crypto.infocruncher.com/)  
+[https://www.awesomecrypto.xyz/](https://www.awesomecrypto.xyz/)  
 
 
 ### [overledger-sdk-javascript](https://github.com/quantnetwork/overledger-sdk-javascript) by [quantnetwork](https://github.com/quantnetwork)  

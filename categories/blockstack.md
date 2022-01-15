@@ -2,7 +2,7 @@
 A list of 40 [blockstack](https://github.com/blockstack) project repos ordered by stars.  
 
 Checkout the interactive version that you can filter and sort: 
-[https://awesome-crypto.infocruncher.com/](https://awesome-crypto.infocruncher.com/)  
+[https://www.awesomecrypto.xyz/](https://www.awesomecrypto.xyz/)  
 
 
 ### [stacks-blockchain](https://github.com/blockstack/stacks-blockchain) by [blockstack](https://github.com/blockstack)  

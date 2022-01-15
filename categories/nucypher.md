@@ -2,7 +2,7 @@
 A list of 19 [nucypher](https://github.com/nucypher) project repos ordered by stars.  
 
 Checkout the interactive version that you can filter and sort: 
-[https://awesome-crypto.infocruncher.com/](https://awesome-crypto.infocruncher.com/)  
+[https://www.awesomecrypto.xyz/](https://www.awesomecrypto.xyz/)  
 
 
 ### [zerodb](https://github.com/nucypher/zerodb) by [nucypher](https://github.com/nucypher)  

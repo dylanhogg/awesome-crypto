@@ -2,7 +2,7 @@
 A list of 7 [crypto-com](https://github.com/crypto-com) project repos ordered by stars.  
 
 Checkout the interactive version that you can filter and sort: 
-[https://awesome-crypto.infocruncher.com/](https://awesome-crypto.infocruncher.com/)  
+[https://www.awesomecrypto.xyz/](https://www.awesomecrypto.xyz/)  
 
 
 ### [chain-desktop-wallet](https://github.com/crypto-com/chain-desktop-wallet) by [crypto-com](https://github.com/crypto-com)  

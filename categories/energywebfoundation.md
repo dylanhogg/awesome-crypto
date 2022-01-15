@@ -2,7 +2,7 @@
 A list of 10 [energywebfoundation](https://github.com/energywebfoundation) project repos ordered by stars.  
 
 Checkout the interactive version that you can filter and sort: 
-[https://awesome-crypto.infocruncher.com/](https://awesome-crypto.infocruncher.com/)  
+[https://www.awesomecrypto.xyz/](https://www.awesomecrypto.xyz/)  
 
 
 ### [origin](https://github.com/energywebfoundation/origin) by [energywebfoundation](https://github.com/energywebfoundation)  

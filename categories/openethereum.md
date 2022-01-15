@@ -2,7 +2,7 @@
 A list of 18 [openethereum](https://github.com/openethereum) project repos ordered by stars.  
 
 Checkout the interactive version that you can filter and sort: 
-[https://awesome-crypto.infocruncher.com/](https://awesome-crypto.infocruncher.com/)  
+[https://www.awesomecrypto.xyz/](https://www.awesomecrypto.xyz/)  
 
 
 ### [parity-ethereum](https://github.com/openethereum/parity-ethereum) by [openethereum](https://github.com/openethereum)  

@@ -2,7 +2,7 @@
 A list of 22 [ethersphere](https://github.com/ethersphere) project repos ordered by stars.  
 
 Checkout the interactive version that you can filter and sort: 
-[https://awesome-crypto.infocruncher.com/](https://awesome-crypto.infocruncher.com/)  
+[https://www.awesomecrypto.xyz/](https://www.awesomecrypto.xyz/)  
 
 
 ### [bee](https://github.com/ethersphere/bee) by [ethersphere](https://github.com/ethersphere)  

@@ -2,7 +2,7 @@
 A list of 32 [maidsafe](https://github.com/maidsafe) project repos ordered by stars.  
 
 Checkout the interactive version that you can filter and sort: 
-[https://awesome-crypto.infocruncher.com/](https://awesome-crypto.infocruncher.com/)  
+[https://www.awesomecrypto.xyz/](https://www.awesomecrypto.xyz/)  
 
 
 ### [sn_routing](https://github.com/maidsafe/sn_routing) by [maidsafe](https://github.com/maidsafe)  

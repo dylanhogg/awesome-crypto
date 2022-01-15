@@ -2,7 +2,7 @@
 A list of 1 [diadata-org](https://github.com/diadata-org) project repos ordered by stars.  
 
 Checkout the interactive version that you can filter and sort: 
-[https://awesome-crypto.infocruncher.com/](https://awesome-crypto.infocruncher.com/)  
+[https://www.awesomecrypto.xyz/](https://www.awesomecrypto.xyz/)  
 
 
 ### [diadata](https://github.com/diadata-org/diadata) by [diadata-org](https://github.com/diadata-org)  

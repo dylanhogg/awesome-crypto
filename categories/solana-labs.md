@@ -2,7 +2,7 @@
 A list of 37 [solana-labs](https://github.com/solana-labs) project repos ordered by stars.  
 
 Checkout the interactive version that you can filter and sort: 
-[https://awesome-crypto.infocruncher.com/](https://awesome-crypto.infocruncher.com/)  
+[https://www.awesomecrypto.xyz/](https://www.awesomecrypto.xyz/)  
 
 
 ### [solana](https://github.com/solana-labs/solana) by [solana-labs](https://github.com/solana-labs)  

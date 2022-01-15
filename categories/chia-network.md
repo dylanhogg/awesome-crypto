@@ -2,7 +2,7 @@
 A list of 19 [Chia-Network](https://github.com/Chia-Network) project repos ordered by stars.  
 
 Checkout the interactive version that you can filter and sort: 
-[https://awesome-crypto.infocruncher.com/](https://awesome-crypto.infocruncher.com/)  
+[https://www.awesomecrypto.xyz/](https://www.awesomecrypto.xyz/)  
 
 
 ### [chia-blockchain](https://github.com/Chia-Network/chia-blockchain) by [Chia-Network](https://github.com/Chia-Network)  

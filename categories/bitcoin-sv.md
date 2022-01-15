@@ -2,7 +2,7 @@
 A list of 5 [bitcoin-sv](https://github.com/bitcoin-sv) project repos ordered by stars.  
 
 Checkout the interactive version that you can filter and sort: 
-[https://awesome-crypto.infocruncher.com/](https://awesome-crypto.infocruncher.com/)  
+[https://www.awesomecrypto.xyz/](https://www.awesomecrypto.xyz/)  
 
 
 ### [bitcoin-sv](https://github.com/bitcoin-sv/bitcoin-sv)  

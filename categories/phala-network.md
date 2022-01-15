@@ -2,7 +2,7 @@
 A list of 5 [Phala-Network](https://github.com/Phala-Network) project repos ordered by stars.  
 
 Checkout the interactive version that you can filter and sort: 
-[https://awesome-crypto.infocruncher.com/](https://awesome-crypto.infocruncher.com/)  
+[https://www.awesomecrypto.xyz/](https://www.awesomecrypto.xyz/)  
 
 
 ### [phala-blockchain](https://github.com/Phala-Network/phala-blockchain) by [Phala-Network](https://github.com/Phala-Network)  

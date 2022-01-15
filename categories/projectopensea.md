@@ -2,7 +2,7 @@
 A list of 15 [ProjectOpenSea](https://github.com/ProjectOpenSea) project repos ordered by stars.  
 
 Checkout the interactive version that you can filter and sort: 
-[https://awesome-crypto.infocruncher.com/](https://awesome-crypto.infocruncher.com/)  
+[https://www.awesomecrypto.xyz/](https://www.awesomecrypto.xyz/)  
 
 
 ### [opensea-js](https://github.com/ProjectOpenSea/opensea-js) by [ProjectOpenSea](https://github.com/ProjectOpenSea)  

@@ -2,7 +2,7 @@
 A list of 14 [ArweaveTeam](https://github.com/ArweaveTeam) project repos ordered by stars.  
 
 Checkout the interactive version that you can filter and sort: 
-[https://awesome-crypto.infocruncher.com/](https://awesome-crypto.infocruncher.com/)  
+[https://www.awesomecrypto.xyz/](https://www.awesomecrypto.xyz/)  
 
 
 ### [arweave](https://github.com/ArweaveTeam/arweave) by [ArweaveTeam](https://github.com/ArweaveTeam)  

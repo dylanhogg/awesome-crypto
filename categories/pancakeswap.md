@@ -2,7 +2,7 @@
 A list of 19 [pancakeswap](https://github.com/pancakeswap) project repos ordered by stars.  
 
 Checkout the interactive version that you can filter and sort: 
-[https://awesome-crypto.infocruncher.com/](https://awesome-crypto.infocruncher.com/)  
+[https://www.awesomecrypto.xyz/](https://www.awesomecrypto.xyz/)  
 
 
 ### [pancake-frontend](https://github.com/pancakeswap/pancake-frontend) by [pancakeswap](https://github.com/pancakeswap)  

@@ -2,7 +2,7 @@
 A list of 13 [cartesi](https://github.com/cartesi) project repos ordered by stars.  
 
 Checkout the interactive version that you can filter and sort: 
-[https://awesome-crypto.infocruncher.com/](https://awesome-crypto.infocruncher.com/)  
+[https://www.awesomecrypto.xyz/](https://www.awesomecrypto.xyz/)  
 
 
 ### [machine-solidity-step](https://github.com/cartesi/machine-solidity-step) by [cartesi](https://github.com/cartesi)  

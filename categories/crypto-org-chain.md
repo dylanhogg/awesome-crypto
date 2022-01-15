@@ -2,7 +2,7 @@
 A list of 8 [crypto-org-chain](https://github.com/crypto-org-chain) project repos ordered by stars.  
 
 Checkout the interactive version that you can filter and sort: 
-[https://awesome-crypto.infocruncher.com/](https://awesome-crypto.infocruncher.com/)  
+[https://www.awesomecrypto.xyz/](https://www.awesomecrypto.xyz/)  
 
 
 ### [chain-main](https://github.com/crypto-org-chain/chain-main) by [crypto-org-chain](https://github.com/crypto-org-chain)  

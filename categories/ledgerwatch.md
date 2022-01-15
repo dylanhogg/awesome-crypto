@@ -2,7 +2,7 @@
 A list of 3 [ledgerwatch](https://github.com/ledgerwatch) project repos ordered by stars.  
 
 Checkout the interactive version that you can filter and sort: 
-[https://awesome-crypto.infocruncher.com/](https://awesome-crypto.infocruncher.com/)  
+[https://www.awesomecrypto.xyz/](https://www.awesomecrypto.xyz/)  
 
 
 ### [erigon](https://github.com/ledgerwatch/erigon) by [ledgerwatch](https://github.com/ledgerwatch)  

@@ -2,7 +2,7 @@
 A list of 4 [bitcoin](https://github.com/bitcoin) project repos ordered by stars.  
 
 Checkout the interactive version that you can filter and sort: 
-[https://awesome-crypto.infocruncher.com/](https://awesome-crypto.infocruncher.com/)  
+[https://www.awesomecrypto.xyz/](https://www.awesomecrypto.xyz/)  
 
 
 ### [bitcoin](https://github.com/bitcoin/bitcoin)  

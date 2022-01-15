@@ -2,7 +2,7 @@
 A list of 1 [dydxfoundation](https://github.com/dydxfoundation) project repos ordered by stars.  
 
 Checkout the interactive version that you can filter and sort: 
-[https://awesome-crypto.infocruncher.com/](https://awesome-crypto.infocruncher.com/)  
+[https://www.awesomecrypto.xyz/](https://www.awesomecrypto.xyz/)  
 
 
 ### [governance-contracts](https://github.com/dydxfoundation/governance-contracts) by [dydxfoundation](https://github.com/dydxfoundation)  

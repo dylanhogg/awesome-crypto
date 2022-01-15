@@ -2,7 +2,7 @@
 A list of 12 [PolymathNetwork](https://github.com/PolymathNetwork) project repos ordered by stars.  
 
 Checkout the interactive version that you can filter and sort: 
-[https://awesome-crypto.infocruncher.com/](https://awesome-crypto.infocruncher.com/)  
+[https://www.awesomecrypto.xyz/](https://www.awesomecrypto.xyz/)  
 
 
 ### [polymath-core](https://github.com/PolymathNetwork/polymath-core) by [PolymathNetwork](https://github.com/PolymathNetwork)  

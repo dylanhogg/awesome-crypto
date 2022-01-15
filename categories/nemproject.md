@@ -2,7 +2,7 @@
 A list of 11 [NemProject](https://github.com/NemProject) project repos ordered by stars.  
 
 Checkout the interactive version that you can filter and sort: 
-[https://awesome-crypto.infocruncher.com/](https://awesome-crypto.infocruncher.com/)  
+[https://www.awesomecrypto.xyz/](https://www.awesomecrypto.xyz/)  
 
 
 ### [nem.core](https://github.com/NemProject/nem.core) by [NemProject](https://github.com/NemProject)  

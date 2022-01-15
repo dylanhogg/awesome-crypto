@@ -2,7 +2,7 @@
 A list of 6 [medibloc](https://github.com/medibloc) project repos ordered by stars.  
 
 Checkout the interactive version that you can filter and sort: 
-[https://awesome-crypto.infocruncher.com/](https://awesome-crypto.infocruncher.com/)  
+[https://www.awesomecrypto.xyz/](https://www.awesomecrypto.xyz/)  
 
 
 ### [go-medibloc](https://github.com/medibloc/go-medibloc) by [medibloc](https://github.com/medibloc)  

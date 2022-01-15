@@ -2,7 +2,7 @@
 A list of 5 [AElfProject](https://github.com/AElfProject) project repos ordered by stars.  
 
 Checkout the interactive version that you can filter and sort: 
-[https://awesome-crypto.infocruncher.com/](https://awesome-crypto.infocruncher.com/)  
+[https://www.awesomecrypto.xyz/](https://www.awesomecrypto.xyz/)  
 
 
 ### [AElf](https://github.com/AElfProject/AElf) by [AElfProject](https://github.com/AElfProject)  

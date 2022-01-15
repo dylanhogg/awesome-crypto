@@ -2,7 +2,7 @@
 A list of 13 [Loopring](https://github.com/Loopring) project repos ordered by stars.  
 
 Checkout the interactive version that you can filter and sort: 
-[https://awesome-crypto.infocruncher.com/](https://awesome-crypto.infocruncher.com/)  
+[https://www.awesomecrypto.xyz/](https://www.awesomecrypto.xyz/)  
 
 
 ### [protocols](https://github.com/Loopring/protocols) by [Loopring](https://github.com/Loopring)  

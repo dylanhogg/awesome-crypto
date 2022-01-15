@@ -2,7 +2,7 @@
 A list of 19 [stratisproject](https://github.com/stratisproject) project repos ordered by stars.  
 
 Checkout the interactive version that you can filter and sort: 
-[https://awesome-crypto.infocruncher.com/](https://awesome-crypto.infocruncher.com/)  
+[https://www.awesomecrypto.xyz/](https://www.awesomecrypto.xyz/)  
 
 
 ### [StratisBitcoinFullNode](https://github.com/stratisproject/StratisBitcoinFullNode) by [stratisproject](https://github.com/stratisproject)  

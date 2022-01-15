@@ -2,7 +2,7 @@
 A list of 2 [BTCGPU](https://github.com/BTCGPU) project repos ordered by stars.  
 
 Checkout the interactive version that you can filter and sort: 
-[https://awesome-crypto.infocruncher.com/](https://awesome-crypto.infocruncher.com/)  
+[https://www.awesomecrypto.xyz/](https://www.awesomecrypto.xyz/)  
 
 
 ### [BTCGPU](https://github.com/BTCGPU/BTCGPU)  

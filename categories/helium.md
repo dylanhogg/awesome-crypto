@@ -2,7 +2,7 @@
 A list of 51 [helium](https://github.com/helium) project repos ordered by stars.  
 
 Checkout the interactive version that you can filter and sort: 
-[https://awesome-crypto.infocruncher.com/](https://awesome-crypto.infocruncher.com/)  
+[https://www.awesomecrypto.xyz/](https://www.awesomecrypto.xyz/)  
 
 
 ### [miner](https://github.com/helium/miner) by [helium](https://github.com/helium)  

@@ -2,7 +2,7 @@
 A list of 2 [EthTx](https://github.com/EthTx) project repos ordered by stars.  
 
 Checkout the interactive version that you can filter and sort: 
-[https://awesome-crypto.infocruncher.com/](https://awesome-crypto.infocruncher.com/)  
+[https://www.awesomecrypto.xyz/](https://www.awesomecrypto.xyz/)  
 
 
 ### [ethtx](https://github.com/EthTx/ethtx) by [EthTx](https://github.com/EthTx)  

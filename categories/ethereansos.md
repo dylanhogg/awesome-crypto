@@ -2,7 +2,7 @@
 A list of 4 [EthereansOS](https://github.com/EthereansOS) project repos ordered by stars.  
 
 Checkout the interactive version that you can filter and sort: 
-[https://awesome-crypto.infocruncher.com/](https://awesome-crypto.infocruncher.com/)  
+[https://www.awesomecrypto.xyz/](https://www.awesomecrypto.xyz/)  
 
 
 ### [unifihub-deprecated](https://github.com/EthereansOS/unifihub-deprecated) by [EthereansOS](https://github.com/EthereansOS)  

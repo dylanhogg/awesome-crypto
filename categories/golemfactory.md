@@ -2,7 +2,7 @@
 A list of 17 [golemfactory](https://github.com/golemfactory) project repos ordered by stars.  
 
 Checkout the interactive version that you can filter and sort: 
-[https://awesome-crypto.infocruncher.com/](https://awesome-crypto.infocruncher.com/)  
+[https://www.awesomecrypto.xyz/](https://www.awesomecrypto.xyz/)  
 
 
 ### [clay](https://github.com/golemfactory/clay) by [golemfactory](https://github.com/golemfactory)  

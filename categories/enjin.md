@@ -2,7 +2,7 @@
 A list of 7 [enjin](https://github.com/enjin) project repos ordered by stars.  
 
 Checkout the interactive version that you can filter and sort: 
-[https://awesome-crypto.infocruncher.com/](https://awesome-crypto.infocruncher.com/)  
+[https://www.awesomecrypto.xyz/](https://www.awesomecrypto.xyz/)  
 
 
 ### [erc-1155](https://github.com/enjin/erc-1155) by [enjin](https://github.com/enjin)  

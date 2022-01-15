@@ -2,7 +2,7 @@
 A list of 12 [orbs-network](https://github.com/orbs-network) project repos ordered by stars.  
 
 Checkout the interactive version that you can filter and sort: 
-[https://awesome-crypto.infocruncher.com/](https://awesome-crypto.infocruncher.com/)  
+[https://www.awesomecrypto.xyz/](https://www.awesomecrypto.xyz/)  
 
 
 ### [go-scaffold](https://github.com/orbs-network/go-scaffold) by [orbs-network](https://github.com/orbs-network)  

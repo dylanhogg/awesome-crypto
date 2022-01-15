@@ -2,7 +2,7 @@
 A list of 10 [OriginProtocol](https://github.com/OriginProtocol) project repos ordered by stars.  
 
 Checkout the interactive version that you can filter and sort: 
-[https://awesome-crypto.infocruncher.com/](https://awesome-crypto.infocruncher.com/)  
+[https://www.awesomecrypto.xyz/](https://www.awesomecrypto.xyz/)  
 
 
 ### [origin](https://github.com/OriginProtocol/origin) by [OriginProtocol](https://github.com/OriginProtocol)  

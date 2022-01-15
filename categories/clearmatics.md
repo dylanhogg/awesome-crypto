@@ -2,7 +2,7 @@
 A list of 7 [clearmatics](https://github.com/clearmatics) project repos ordered by stars.  
 
 Checkout the interactive version that you can filter and sort: 
-[https://awesome-crypto.infocruncher.com/](https://awesome-crypto.infocruncher.com/)  
+[https://www.awesomecrypto.xyz/](https://www.awesomecrypto.xyz/)  
 
 
 ### [ion](https://github.com/clearmatics/ion) by [clearmatics](https://github.com/clearmatics)  

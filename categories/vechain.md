@@ -2,7 +2,7 @@
 A list of 23 [vechain](https://github.com/vechain) project repos ordered by stars.  
 
 Checkout the interactive version that you can filter and sort: 
-[https://awesome-crypto.infocruncher.com/](https://awesome-crypto.infocruncher.com/)  
+[https://www.awesomecrypto.xyz/](https://www.awesomecrypto.xyz/)  
 
 
 ### [thor](https://github.com/vechain/thor) by [vechain](https://github.com/vechain)  

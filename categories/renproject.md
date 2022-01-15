@@ -2,7 +2,7 @@
 A list of 21 [renproject](https://github.com/renproject) project repos ordered by stars.  
 
 Checkout the interactive version that you can filter and sort: 
-[https://awesome-crypto.infocruncher.com/](https://awesome-crypto.infocruncher.com/)  
+[https://www.awesomecrypto.xyz/](https://www.awesomecrypto.xyz/)  
 
 
 ### [multichain](https://github.com/renproject/multichain) by [renproject](https://github.com/renproject)  

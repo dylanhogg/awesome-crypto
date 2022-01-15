@@ -2,7 +2,7 @@
 A list of 1 [alchemix-finance](https://github.com/alchemix-finance) project repos ordered by stars.  
 
 Checkout the interactive version that you can filter and sort: 
-[https://awesome-crypto.infocruncher.com/](https://awesome-crypto.infocruncher.com/)  
+[https://www.awesomecrypto.xyz/](https://www.awesomecrypto.xyz/)  
 
 
 ### [alchemix-protocol](https://github.com/alchemix-finance/alchemix-protocol) by [alchemix-finance](https://github.com/alchemix-finance)  
