@@ -38,4 +38,5 @@ def main(include_crawl_github, include_org_data_update):
 
 if __name__ == "__main__":
     main(include_crawl_github=True, include_org_data_update=True)
+    # main(include_crawl_github=False, include_org_data_update=True)
 

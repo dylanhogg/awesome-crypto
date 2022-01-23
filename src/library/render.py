@@ -59,16 +59,28 @@ def make_markdown(row, include_category=False) -> str:
 def get_repo_topics(repo_obj, throttle_secs, throttled=True):
     if throttled:
         time.sleep(throttle_secs)
-    logger.info(f"get_last_commit_date")
-    return repo_obj.get_topics()
+    repo_name = repo_obj.name
+    logger.info(f"get_repo_topics for repo: {repo_obj.name}")
+    try:
+        return repo_obj.get_topics()
+    except Exception as ex:
+        logger.error(f"Exception in get_repo_topics for repo {repo_name}: {ex}")
+        return []
 
 
-def get_last_commit_date(repo_obj, throttle_secs, throttled=True):
+def get_last_commit_date(repo_obj, throttle_secs, throttled=True, fmt="%a, %d %b %Y %H:%M:%S %Z"):
     if throttled:
         time.sleep(throttle_secs)
-    logger.info(f"get_last_commit_date")
+    repo_name = repo_obj.name
+    logger.info(f"get_last_commit_date for repo: {repo_name}")
     # TODO: store 1st page of commits
-    return repo_obj.get_commits().get_page(0)[0].last_modified
+    try:
+        last_modified = repo_obj.get_commits().get_page(0)[0].last_modified
+        # E.g. Sat, 18 Jul 2020 17:14:09 GMT
+        return datetime.strptime(last_modified, fmt).date()
+    except Exception as ex:
+        logger.error(f"Exception in get_last_commit_date for repo {repo_name}: {ex}")
+        return ""
 
 
 def process(df_input, ghw, throttle_secs) -> pd.DataFrame:
@@ -97,11 +109,7 @@ def process(df_input, ghw, throttle_secs) -> pd.DataFrame:
         lambda x: x.updated_at.date()
     )
     df["_last_commit_date"] = df["_repo_obj"].apply(
-        # E.g. Sat, 18 Jul 2020 17:14:09 GMT
-        lambda x: datetime.strptime(
-            get_last_commit_date(x, throttle_secs),
-            "%a, %d %b %Y %H:%M:%S %Z",
-        ).date()
+        lambda x: get_last_commit_date(x, throttle_secs)
     )
     df["_created_at"] = df["_repo_obj"].apply(
         lambda x: x.created_at.date()

@@ -9,6 +9,8 @@ def process(csv_location, ghw, output_csv_filename, output_json_filename, thrott
 
     # Read github urls from google docs
     df_input = input.get_input_data(csv_location, ghw)
+
+    # If testing, limit input repos
     # df_input = df_input.head(2)  # Testing
 
     # Augment repo name with metadata from Github
