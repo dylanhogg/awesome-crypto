@@ -8,8 +8,8 @@ Checkout the interactive version that you can filter and sort:
 ### [public-smart-contracts](https://github.com/axieinfinity/public-smart-contracts) by [axieinfinity](https://github.com/axieinfinity)  
 Public smart contracts of Axie Infinity.  
 [https://github.com/axieinfinity/public-smart-contracts](https://github.com/axieinfinity/public-smart-contracts)  
-0.75 stars per week over 203 weeks  
-152 stars, 75 forks, 5 watches  
+0.74 stars per week over 205 weeks  
+152 stars, 76 forks, 5 watches  
 created 2018-02-18, last commit 2018-04-02, main language None  
 <sub><sup>ethereum, smart-contract, solidity</sup></sub>
 
@@ -17,23 +17,23 @@ created 2018-02-18, last commit 2018-04-02, main language None
 ### [ronin-smart-contracts](https://github.com/axieinfinity/ronin-smart-contracts) by [axieinfinity](https://github.com/axieinfinity)  
   
 [https://github.com/axieinfinity/ronin-smart-contracts](https://github.com/axieinfinity/ronin-smart-contracts)  
-1.44 stars per week over 78 weeks  
-112 stars, 46 forks, 24 watches  
+1.46 stars per week over 79 weeks  
+116 stars, 48 forks, 24 watches  
 created 2020-07-17, last commit 2022-01-13, main language Solidity  
 
 
 ### [festival](https://github.com/axieinfinity/festival) by [axieinfinity](https://github.com/axieinfinity)  
 Design principles of a front-end system  🎉  
 [https://github.com/axieinfinity/festival](https://github.com/axieinfinity/festival)  
-0.28 stars per week over 125 weeks  
-35 stars, 9 forks, 7 watches  
+0.27 stars per week over 126 weeks  
+34 stars, 9 forks, 6 watches  
 created 2019-08-20, last commit 2019-08-23, main language None  
 
 
 ### [spine-rs](https://github.com/axieinfinity/spine-rs) by [axieinfinity](https://github.com/axieinfinity)  
 Spine runtime for Rust.  
 [https://github.com/axieinfinity/spine-rs](https://github.com/axieinfinity/spine-rs)  
-0.19 stars per week over 96 weeks  
+0.18 stars per week over 98 weeks  
 18 stars, 14 forks, 4 watches  
 created 2020-03-08, last commit 2020-06-09, main language Rust  
 
@@ -41,7 +41,7 @@ created 2020-03-08, last commit 2020-06-09, main language Rust
 ### [w3b](https://github.com/axieinfinity/w3b) by [axieinfinity](https://github.com/axieinfinity)  
 Web3 API in Rust.  
 [https://github.com/axieinfinity/w3b](https://github.com/axieinfinity/w3b)  
-0.14 stars per week over 105 weeks  
+0.14 stars per week over 106 weeks  
 15 stars, 7 forks, 3 watches  
 created 2020-01-07, last commit 2020-01-17, main language Rust  
 <sub><sup>abi-gen, api, api-client, ethereum, smart-contract, solidity, solidity-abi, web3</sup></sub>
@@ -50,12 +50,12 @@ created 2020-01-07, last commit 2020-01-17, main language Rust
 ### [clap-nested](https://github.com/axieinfinity/clap-nested) by [axieinfinity](https://github.com/axieinfinity)  
 Convenient `clap-rs` for CLI apps with multi-level subcommands.  
 [https://github.com/axieinfinity/clap-nested](https://github.com/axieinfinity/clap-nested)  
-0.1 stars per week over 122 weeks  
+0.1 stars per week over 123 weeks  
 12 stars, 6 forks, 4 watches  
 created 2019-09-13, last commit 2020-05-29, main language Rust  
 <sub><sup>clap, clap-rs, cli, command, command-line, multi-level, nested, subcommand</sup></sub>
 
 
-This file was automatically generated on 2022-01-14.  
+This file was automatically generated on 2022-01-24.  
 
 To curate your own github list, simply clone and change the input csv file.  

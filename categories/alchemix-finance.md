@@ -8,11 +8,11 @@ Checkout the interactive version that you can filter and sort:
 ### [alchemix-protocol](https://github.com/alchemix-finance/alchemix-protocol) by [alchemix-finance](https://github.com/alchemix-finance)  
 contracts for the Alchemix protocol  
 [https://github.com/alchemix-finance/alchemix-protocol](https://github.com/alchemix-finance/alchemix-protocol)  
-3.65 stars per week over 46 weeks  
-168 stars, 63 forks, 16 watches  
+3.61 stars per week over 47 weeks  
+171 stars, 64 forks, 17 watches  
 created 2021-02-26, last commit 2021-08-04, main language TypeScript  
 
 
-This file was automatically generated on 2022-01-14.  
+This file was automatically generated on 2022-01-24.  
 
 To curate your own github list, simply clone and change the input csv file.  

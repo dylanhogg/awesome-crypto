@@ -8,7 +8,7 @@ Checkout the interactive version that you can filter and sort:
 ### [NMR](https://github.com/erasureprotocol/NMR) by [erasureprotocol](https://github.com/erasureprotocol)  
 The Numeraire Ethereum Smart Contract  
 [https://github.com/erasureprotocol/NMR](https://github.com/erasureprotocol/NMR)  
-1.25 stars per week over 255 weeks  
+1.24 stars per week over 256 weeks  
 319 stars, 59 forks, 47 watches  
 created 2017-02-21, last commit 2020-03-26, main language None  
 <sub><sup>ethereum, ethereum-contract, numerai, smart-contracts</sup></sub>
@@ -18,11 +18,11 @@ created 2017-02-21, last commit 2020-03-26, main language None
 Information wants to be expensive  
 [https://erasure.world/](https://erasure.world/)  
 [https://github.com/erasureprotocol/erasure-protocol](https://github.com/erasureprotocol/erasure-protocol)  
-1.03 stars per week over 142 weeks  
+1.02 stars per week over 143 weeks  
 147 stars, 25 forks, 19 watches  
 created 2019-04-25, last commit 2020-05-13, main language JavaScript  
 
 
-This file was automatically generated on 2022-01-14.  
+This file was automatically generated on 2022-01-24.  
 
 To curate your own github list, simply clone and change the input csv file.  

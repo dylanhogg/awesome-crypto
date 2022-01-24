@@ -8,19 +8,19 @@ Checkout the interactive version that you can filter and sort:
 ### [perpetual-pools-contracts](https://github.com/tracer-protocol/perpetual-pools-contracts) by [tracer-protocol](https://github.com/tracer-protocol)  
 Repo for Tracer Pool Swaps Protocol  
 [https://github.com/tracer-protocol/perpetual-pools-contracts](https://github.com/tracer-protocol/perpetual-pools-contracts)  
-0.46 stars per week over 34 weeks  
-16 stars, 4 forks, 5 watches  
-created 2021-05-18, last commit 2022-01-11, main language TypeScript  
+0.5 stars per week over 35 weeks  
+18 stars, 5 forks, 5 watches  
+created 2021-05-18, last commit 2022-01-20, main language TypeScript  
 
 
 ### [perpetual-contracts](https://github.com/tracer-protocol/perpetual-contracts) by [tracer-protocol](https://github.com/tracer-protocol)  
 Smart contracts for the Tracer perpetual swaps protocol  
 [https://github.com/tracer-protocol/perpetual-contracts](https://github.com/tracer-protocol/perpetual-contracts)  
-0.25 stars per week over 44 weeks  
+0.24 stars per week over 46 weeks  
 11 stars, 0 forks, 1 watches  
 created 2021-03-07, last commit 2021-10-20, main language JavaScript  
 
 
-This file was automatically generated on 2022-01-14.  
+This file was automatically generated on 2022-01-24.  
 
 To curate your own github list, simply clone and change the input csv file.  
