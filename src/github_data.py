@@ -11,6 +11,7 @@ def process(csv_location, ghw, output_csv_filename, output_json_filename, thrott
     df_input = input.get_input_data(csv_location, ghw)
 
     # If testing, limit input repos
+    # logger.warning("Testing mode 1 on")
     # df_input = df_input.head(2)  # Testing
 
     # Augment repo name with metadata from Github

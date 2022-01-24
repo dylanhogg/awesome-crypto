@@ -23,6 +23,7 @@ def get_input_data(csv_location, ghw) -> pd.DataFrame:
         logger.info("No duplicate githuburl values found in csv :)")
 
     # If testing, limit input repos for expanding
+    # logger.warning("Testing mode 2 on")
     # return df.drop(df[df.githuburl.str.endswith("/*")].index)[0:2]  # Testing
 
     df_normal_repos, df_expanded_repos = _explode_org_repos(df, ghw)

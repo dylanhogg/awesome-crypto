@@ -67,13 +67,18 @@ def get_marketcap_by_cg_id(cg_id, currency="usd"):
 
     with open(filename) as f:
         data = json.load(f)
-        market_cap_rank = data["market_cap_rank"]
         crawl_datetime = data["_crawl_datetime"]
+
+        try:
+            market_cap_rank = data["market_cap_rank"]
+        except KeyError as ex:
+            logger.error(f"get_marketcap_by_cg_id 'market_cap_rank' KeyError for file {filename}: {ex}")
+            return -1, -1, crawl_datetime
 
         try:
             market_cap = data["market_data"]["market_cap"][currency]
         except KeyError as ex:
-            logger.error(f"get_marketcap_by_cg_id KeyError for file {filename} and currency {currency}: {ex}")
+            logger.error(f"get_marketcap_by_cg_id 'market_cap' KeyError for file {filename} and currency {currency}: {ex}")
             return -1, market_cap_rank, crawl_datetime
 
         return market_cap, market_cap_rank, crawl_datetime
