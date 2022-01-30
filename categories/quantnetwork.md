@@ -9,8 +9,8 @@ Checkout the interactive version that you can filter and sort:
 Overledger software development kit for the JavaScript language.  
 [https://www.quant.network](https://www.quant.network)  
 [https://github.com/quantnetwork/overledger-sdk-javascript](https://github.com/quantnetwork/overledger-sdk-javascript)  
-0.2 stars per week over 174 weeks  
-34 stars, 9 forks, 11 watches  
+0.19 stars per week over 174 weeks  
+34 stars, 10 forks, 11 watches  
 created 2018-09-24, last commit 2021-04-20, main language TypeScript  
 
 
@@ -25,7 +25,7 @@ created 2020-06-29, last commit 2020-07-30, main language None
 ### [quant-demo-application](https://github.com/quantnetwork/quant-demo-application) by [quantnetwork](https://github.com/quantnetwork)  
   
 [https://github.com/quantnetwork/quant-demo-application](https://github.com/quantnetwork/quant-demo-application)  
-0.44 stars per week over 27 weeks  
+0.42 stars per week over 28 weeks  
 12 stars, 2 forks, 2 watches  
 created 2021-07-15, last commit 2021-07-23, main language Vue  
 
@@ -38,6 +38,6 @@ Quant Network software development kit for the Java language
 created 2018-10-15, last commit 2020-10-20, main language Java  
 
 
-This file was automatically generated on 2022-01-24.  
+This file was automatically generated on 2022-01-30.  
 
 To curate your own github list, simply clone and change the input csv file.  

@@ -29,7 +29,7 @@ created 2014-09-01, last commit 2018-03-20, main language C++
 Public location for issue reporting on the Blockmarket Desktop public data, built using Syscoin blockchain technology.  
 [http://blockchainfoundry.co](http://blockchainfoundry.co)  
 [https://github.com/syscoin/blockmarket-desktop-public](https://github.com/syscoin/blockmarket-desktop-public)  
-0.13 stars per week over 245 weeks  
+0.13 stars per week over 246 weeks  
 31 stars, 25 forks, 23 watches  
 created 2017-05-09, last commit 2020-05-19, main language None  
 <sub><sup>bitcoin, blockchain, fintech, syscoin</sup></sub>
@@ -45,23 +45,23 @@ created 2021-03-22, last commit 2021-12-14, main language TypeScript
 <sub><sup>blockchain, crypto-wallet, crypto-wallet-blockchain, cryptocurrency, defi, evm, syscoin</sup></sub>
 
 
-### [sysethereum-contracts](https://github.com/syscoin/sysethereum-contracts) by [syscoin](https://github.com/syscoin)  
-Syscoin <=> Ethereum bridge smart contracts  
-[http://bridge.syscoin.org](http://bridge.syscoin.org)  
-[https://github.com/syscoin/sysethereum-contracts](https://github.com/syscoin/sysethereum-contracts)  
-0.09 stars per week over 151 weeks  
-13 stars, 15 forks, 5 watches  
-created 2019-02-26, last commit 2021-11-27, main language Solidity  
-
-
 ### [syscoin-api](https://github.com/syscoin/syscoin-api) by [syscoin](https://github.com/syscoin)  
 Lightweight Syscoin API Server written in NodeJS.  
 [https://github.com/syscoin/syscoin-api](https://github.com/syscoin/syscoin-api)  
-0.03 stars per week over 384 weeks  
+0.03 stars per week over 385 weeks  
 13 stars, 15 forks, 20 watches  
 created 2014-09-13, last commit 2019-09-20, main language JavaScript  
 
 
-This file was automatically generated on 2022-01-24.  
+### [sysethereum-contracts](https://github.com/syscoin/sysethereum-contracts) by [syscoin](https://github.com/syscoin)  
+Syscoin <=> Ethereum bridge smart contracts  
+[http://bridge.syscoin.org](http://bridge.syscoin.org)  
+[https://github.com/syscoin/sysethereum-contracts](https://github.com/syscoin/sysethereum-contracts)  
+0.09 stars per week over 152 weeks  
+13 stars, 15 forks, 5 watches  
+created 2019-02-26, last commit 2021-11-27, main language Solidity  
+
+
+This file was automatically generated on 2022-01-30.  
 
 To curate your own github list, simply clone and change the input csv file.  

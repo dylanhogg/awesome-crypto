@@ -10,7 +10,7 @@ Reference implementation of the Theta Blockchain Ledger Protocol
 [https://docs.thetatoken.org/](https://docs.thetatoken.org/)  
 [https://github.com/thetatoken/theta-protocol-ledger](https://github.com/thetatoken/theta-protocol-ledger)  
 1.7 stars per week over 181 weeks  
-307 stars, 68 forks, 53 watches  
+310 stars, 69 forks, 53 watches  
 created 2018-08-06, last commit 2022-01-13, main language Go  
 <sub><sup>blockchain-technology, decentralized, distributed-systems</sup></sub>
 
@@ -20,7 +20,7 @@ Guide for setting up the Guardian Node for the mainnet
 [https://docs.thetatoken.org/](https://docs.thetatoken.org/)  
 [https://github.com/thetatoken/guardian-mainnet-guide](https://github.com/thetatoken/guardian-mainnet-guide)  
 1.54 stars per week over 89 weeks  
-137 stars, 32 forks, 32 watches  
+138 stars, 32 forks, 32 watches  
 created 2020-05-11, last commit 2021-03-21, main language None  
 <sub><sup>blockchain-technology, distributed-systems</sup></sub>
 
@@ -31,7 +31,7 @@ Explorer for the Theta Ledger
 [https://github.com/thetatoken/theta-infrastructure-ledger-explorer](https://github.com/thetatoken/theta-infrastructure-ledger-explorer)  
 0.24 stars per week over 203 weeks  
 49 stars, 18 forks, 24 watches  
-created 2018-03-05, last commit 2022-01-21, main language JavaScript  
+created 2018-03-05, last commit 2022-01-28, main language JavaScript  
 <sub><sup>blockchain-explorer, blockchain-technology</sup></sub>
 
 
@@ -39,35 +39,35 @@ created 2018-03-05, last commit 2022-01-21, main language JavaScript
 Documents and demos to facilitate Theta mainnet integration  
 [https://docs.thetatoken.org/](https://docs.thetatoken.org/)  
 [https://github.com/thetatoken/theta-mainnet-integration-guide](https://github.com/thetatoken/theta-mainnet-integration-guide)  
-0.27 stars per week over 157 weeks  
+0.27 stars per week over 158 weeks  
 43 stars, 14 forks, 18 watches  
 created 2019-01-17, last commit 2022-01-07, main language None  
 <sub><sup>blockchain-demos</sup></sub>
-
-
-### [theta-protocol-delivery-lib](https://github.com/thetatoken/theta-protocol-delivery-lib) by [thetatoken](https://github.com/thetatoken)  
-Reference library/SDK of the Theta Mesh Delivery Protocol  
-[https://docs.thetatoken.org/](https://docs.thetatoken.org/)  
-[https://github.com/thetatoken/theta-protocol-delivery-lib](https://github.com/thetatoken/theta-protocol-delivery-lib)  
-0.21 stars per week over 187 weeks  
-39 stars, 8 forks, 19 watches  
-created 2018-06-19, last commit 2020-09-27, main language None  
-<sub><sup>decentralized, distributed-systems, mesh-networks, streaming</sup></sub>
 
 
 ### [theta-wallet-web](https://github.com/thetatoken/theta-wallet-web) by [thetatoken](https://github.com/thetatoken)  
 Official Theta Wallet for Web  
 [https://docs.thetatoken.org/](https://docs.thetatoken.org/)  
 [https://github.com/thetatoken/theta-wallet-web](https://github.com/thetatoken/theta-wallet-web)  
-0.26 stars per week over 151 weeks  
-39 stars, 16 forks, 15 watches  
+0.26 stars per week over 152 weeks  
+39 stars, 17 forks, 15 watches  
 created 2019-02-27, last commit 2022-01-13, main language HTML  
+
+
+### [theta-protocol-delivery-lib](https://github.com/thetatoken/theta-protocol-delivery-lib) by [thetatoken](https://github.com/thetatoken)  
+Reference library/SDK of the Theta Mesh Delivery Protocol  
+[https://docs.thetatoken.org/](https://docs.thetatoken.org/)  
+[https://github.com/thetatoken/theta-protocol-delivery-lib](https://github.com/thetatoken/theta-protocol-delivery-lib)  
+0.21 stars per week over 188 weeks  
+39 stars, 8 forks, 19 watches  
+created 2018-06-19, last commit 2020-09-27, main language None  
+<sub><sup>decentralized, distributed-systems, mesh-networks, streaming</sup></sub>
 
 
 ### [theta-erc20-token-sale](https://github.com/thetatoken/theta-erc20-token-sale) by [thetatoken](https://github.com/thetatoken)  
 Smart contracts for the Theta ERC20 token sale  
 [https://github.com/thetatoken/theta-erc20-token-sale](https://github.com/thetatoken/theta-erc20-token-sale)  
-0.13 stars per week over 216 weeks  
+0.13 stars per week over 217 weeks  
 28 stars, 14 forks, 14 watches  
 created 2017-12-01, last commit 2018-02-01, main language JavaScript  
 
@@ -75,8 +75,8 @@ created 2017-12-01, last commit 2018-02-01, main language JavaScript
 ### [theta-tool-ethereum-erc20-snapshot](https://github.com/thetatoken/theta-tool-ethereum-erc20-snapshot) by [thetatoken](https://github.com/thetatoken)  
 A tool to extract all the holders of an ERC20 token at a given height  
 [https://github.com/thetatoken/theta-tool-ethereum-erc20-snapshot](https://github.com/thetatoken/theta-tool-ethereum-erc20-snapshot)  
-0.14 stars per week over 161 weeks  
-23 stars, 14 forks, 10 watches  
+0.15 stars per week over 162 weeks  
+24 stars, 14 forks, 10 watches  
 created 2018-12-20, last commit 2019-02-01, main language Python  
 <sub><sup>blockchain-technology, ethereum</sup></sub>
 
@@ -84,7 +84,7 @@ created 2018-12-20, last commit 2019-02-01, main language Python
 ### [sliver-integration-transaction-service](https://github.com/thetatoken/sliver-integration-transaction-service) by [thetatoken](https://github.com/thetatoken)  
 Transaction service module for SLIVER integration with the Theta ERC20 token  
 [https://github.com/thetatoken/sliver-integration-transaction-service](https://github.com/thetatoken/sliver-integration-transaction-service)  
-0.08 stars per week over 211 weeks  
+0.08 stars per week over 212 weeks  
 16 stars, 4 forks, 10 watches  
 created 2018-01-03, last commit 2019-02-01, main language JavaScript  
 
@@ -102,7 +102,7 @@ created 2019-12-16, last commit 2020-07-08, main language None
 An adaptor that translates the Theta RPC APIs to the Ethereum RPC APIs  
 [https://docs.thetatoken.org/](https://docs.thetatoken.org/)  
 [https://github.com/thetatoken/theta-eth-rpc-adaptor](https://github.com/thetatoken/theta-eth-rpc-adaptor)  
-0.37 stars per week over 37 weeks  
+0.36 stars per week over 38 weeks  
 14 stars, 5 forks, 9 watches  
 created 2021-05-04, last commit 2022-01-14, main language Go  
 
@@ -110,7 +110,7 @@ created 2021-05-04, last commit 2022-01-14, main language Go
 ### [sliver-integration-transaction-signer](https://github.com/thetatoken/sliver-integration-transaction-signer) by [thetatoken](https://github.com/thetatoken)  
 Transaction signer module for SLIVER integration with the Theta ERC20 token  
 [https://github.com/thetatoken/sliver-integration-transaction-signer](https://github.com/thetatoken/sliver-integration-transaction-signer)  
-0.06 stars per week over 211 weeks  
+0.06 stars per week over 212 weeks  
 13 stars, 3 forks, 6 watches  
 created 2018-01-03, last commit 2018-01-12, main language Python  
 
@@ -118,7 +118,7 @@ created 2018-01-03, last commit 2018-01-12, main language Python
 ### [theta-protocol-delivery-android-sdk-lib](https://github.com/thetatoken/theta-protocol-delivery-android-sdk-lib) by [thetatoken](https://github.com/thetatoken)  
 Reference Android SDK of the Theta Mesh Delivery Protocol  
 [https://github.com/thetatoken/theta-protocol-delivery-android-sdk-lib](https://github.com/thetatoken/theta-protocol-delivery-android-sdk-lib)  
-0.09 stars per week over 134 weeks  
+0.09 stars per week over 135 weeks  
 12 stars, 5 forks, 7 watches  
 created 2019-06-25, last commit 2019-06-25, main language Kotlin  
 
@@ -126,11 +126,11 @@ created 2019-06-25, last commit 2019-06-25, main language Kotlin
 ### [videojs-theta-plugin-example](https://github.com/thetatoken/videojs-theta-plugin-example) by [thetatoken](https://github.com/thetatoken)  
   
 [https://github.com/thetatoken/videojs-theta-plugin-example](https://github.com/thetatoken/videojs-theta-plugin-example)  
-0.09 stars per week over 122 weeks  
+0.09 stars per week over 123 weeks  
 11 stars, 5 forks, 5 watches  
 created 2019-09-19, last commit 2020-06-30, main language None  
 
 
-This file was automatically generated on 2022-01-24.  
+This file was automatically generated on 2022-01-30.  
 
 To curate your own github list, simply clone and change the input csv file.  

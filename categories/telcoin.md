@@ -5,31 +5,31 @@ Checkout the interactive version that you can filter and sort:
 [https://www.awesomecrypto.xyz/](https://www.awesomecrypto.xyz/)  
 
 
-### [ico](https://github.com/telcoin/ico) by [telcoin](https://github.com/telcoin)  
-  
-[https://github.com/telcoin/ico](https://github.com/telcoin/ico)  
-0.05 stars per week over 224 weeks  
-11 stars, 3 forks, 7 watches  
-created 2017-10-06, last commit 2018-01-08, main language JavaScript  
-
-
 ### [plaid](https://github.com/telcoin/plaid) by [telcoin](https://github.com/telcoin)  
 Unofficial Rust client library for the Plaid API  
 [https://github.com/telcoin/plaid](https://github.com/telcoin/plaid)  
-0.17 stars per week over 65 weeks  
+0.17 stars per week over 66 weeks  
 11 stars, 5 forks, 7 watches  
 created 2020-10-21, last commit 2021-08-20, main language Rust  
 <sub><sup>plaid, rust</sup></sub>
 
 
+### [ico](https://github.com/telcoin/ico) by [telcoin](https://github.com/telcoin)  
+  
+[https://github.com/telcoin/ico](https://github.com/telcoin/ico)  
+0.05 stars per week over 225 weeks  
+11 stars, 3 forks, 7 watches  
+created 2017-10-06, last commit 2018-01-08, main language JavaScript  
+
+
 ### [token-list](https://github.com/telcoin/token-list) by [telcoin](https://github.com/telcoin)  
 Ethereum token list standard  
 [https://github.com/telcoin/token-list](https://github.com/telcoin/token-list)  
-0.34 stars per week over 29 weeks  
+0.33 stars per week over 29 weeks  
 10 stars, 0 forks, 3 watches  
 created 2021-07-05, last commit 2021-09-24, main language Rust  
 
 
-This file was automatically generated on 2022-01-24.  
+This file was automatically generated on 2022-01-30.  
 
 To curate your own github list, simply clone and change the input csv file.  

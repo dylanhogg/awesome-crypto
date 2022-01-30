@@ -9,7 +9,7 @@ Checkout the interactive version that you can filter and sort:
 Blockchain developed from MediBloc, using Go language.  
 [https://medibloc.org](https://medibloc.org)  
 [https://github.com/medibloc/go-medibloc](https://github.com/medibloc/go-medibloc)  
-0.28 stars per week over 201 weeks  
+0.28 stars per week over 202 weeks  
 56 stars, 19 forks, 32 watches  
 created 2018-03-13, last commit 2019-06-17, main language Go  
 
@@ -18,16 +18,16 @@ created 2018-03-13, last commit 2019-06-17, main language Go
 MediBloc Blockchain Core  
 [https://medibloc.org](https://medibloc.org)  
 [https://github.com/medibloc/panacea-core](https://github.com/medibloc/panacea-core)  
-0.31 stars per week over 129 weeks  
-40 stars, 11 forks, 7 watches  
+0.31 stars per week over 130 weeks  
+41 stars, 11 forks, 7 watches  
 created 2019-07-30, last commit 2022-01-17, main language Go  
 
 
 ### [nestjs-request-context](https://github.com/medibloc/nestjs-request-context) by [medibloc](https://github.com/medibloc)  
 NestJS Request Context using AsyncLocalStorage  
 [https://github.com/medibloc/nestjs-request-context](https://github.com/medibloc/nestjs-request-context)  
-0.39 stars per week over 56 weeks  
-22 stars, 1 forks, 4 watches  
+0.37 stars per week over 57 weeks  
+21 stars, 1 forks, 4 watches  
 created 2020-12-24, last commit 2020-12-28, main language TypeScript  
 
 
@@ -35,7 +35,7 @@ created 2020-12-24, last commit 2020-12-28, main language TypeScript
 Official client-side JavaScript library for the MediBloc platform.  
 [https://medibloc.org](https://medibloc.org)  
 [https://github.com/medibloc/panacea-js-old](https://github.com/medibloc/panacea-js-old)  
-0.09 stars per week over 197 weeks  
+0.09 stars per week over 198 weeks  
 17 stars, 4 forks, 22 watches  
 created 2018-04-12, last commit 2019-05-02, main language JavaScript  
 
@@ -53,12 +53,12 @@ created 2018-06-25, last commit 2021-07-07, main language JavaScript
 Panacea Mainnet  
 [https://medibloc.org](https://medibloc.org)  
 [https://github.com/medibloc/panacea-mainnet](https://github.com/medibloc/panacea-mainnet)  
-0.08 stars per week over 129 weeks  
+0.08 stars per week over 130 weeks  
 11 stars, 4 forks, 8 watches  
 created 2019-07-30, last commit 2022-01-04, main language None  
 <sub><sup>blockchain, genesis, launch, mainnet, medibloc, node</sup></sub>
 
 
-This file was automatically generated on 2022-01-24.  
+This file was automatically generated on 2022-01-30.  
 
 To curate your own github list, simply clone and change the input csv file.  

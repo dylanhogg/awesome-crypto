@@ -9,9 +9,9 @@ Checkout the interactive version that you can filter and sort:
 Ʉnlock is a protocol for memberships built on a blockchain.  
 [https://unlock-protocol.com](https://unlock-protocol.com)  
 [https://github.com/unlock-protocol/unlock](https://github.com/unlock-protocol/unlock)  
-2.52 stars per week over 216 weeks  
-546 stars, 129 forks, 31 watches  
-created 2017-12-01, last commit 2022-01-23, main language Solidity  
+2.53 stars per week over 217 weeks  
+549 stars, 131 forks, 31 watches  
+created 2017-12-01, last commit 2022-01-28, main language Solidity  
 <sub><sup>blockchain, ethereum, infrastructure, javascript, memberships, nft, protocol, solidity, unlock</sup></sub>
 
 
@@ -19,7 +19,7 @@ created 2017-12-01, last commit 2022-01-23, main language Solidity
 A basic notes application where notes are stored on IPFS and only visible by members of a lock  
 [https://locked.fyi/](https://locked.fyi/)  
 [https://github.com/unlock-protocol/locked.fyi](https://github.com/unlock-protocol/locked.fyi)  
-0.2 stars per week over 102 weeks  
+0.19 stars per week over 103 weeks  
 20 stars, 7 forks, 6 watches  
 created 2020-02-08, last commit 2020-11-30, main language JavaScript  
 
@@ -27,8 +27,8 @@ created 2020-02-08, last commit 2020-11-30, main language JavaScript
 ### [cloudflare-worker](https://github.com/unlock-protocol/cloudflare-worker) by [unlock-protocol](https://github.com/unlock-protocol)  
 A cloudflare worker to add a lock to any website!  
 [https://github.com/unlock-protocol/cloudflare-worker](https://github.com/unlock-protocol/cloudflare-worker)  
-0.12 stars per week over 95 weeks  
-11 stars, 3 forks, 4 watches  
+0.13 stars per week over 95 weeks  
+12 stars, 3 forks, 4 watches  
 created 2020-03-30, last commit 2020-03-30, main language JavaScript  
 
 
@@ -36,11 +36,11 @@ created 2020-03-30, last commit 2020-03-30, main language JavaScript
 A plugin for Wordpress to add locked sections to both your posts and pages!  
 [https://wordpress.org/plugins/unlock-protocol/](https://wordpress.org/plugins/unlock-protocol/)  
 [https://github.com/unlock-protocol/unlock-wordpress-plugin](https://github.com/unlock-protocol/unlock-wordpress-plugin)  
-0.08 stars per week over 123 weeks  
+0.08 stars per week over 124 weeks  
 10 stars, 7 forks, 5 watches  
-created 2019-09-10, last commit 2022-01-16, main language PHP  
+created 2019-09-10, last commit 2022-01-28, main language PHP  
 
 
-This file was automatically generated on 2022-01-24.  
+This file was automatically generated on 2022-01-30.  
 
 To curate your own github list, simply clone and change the input csv file.  

@@ -9,9 +9,9 @@ Checkout the interactive version that you can filter and sort:
 Nano is a cryptocurrency  
 [https://nano.org](https://nano.org)  
 [https://github.com/nanocurrency/nano-node](https://github.com/nanocurrency/nano-node)  
-8.37 stars per week over 403 weeks  
-3,378 stars, 762 forks, 275 watches  
-created 2014-05-01, last commit 2022-01-20, main language C++  
+8.36 stars per week over 404 weeks  
+3,382 stars, 765 forks, 275 watches  
+created 2014-05-01, last commit 2022-01-25, main language C++  
 <sub><sup>blockchain, cryptocurrencies, cryptocurrency, nano, nanocurrency</sup></sub>
 
 
@@ -19,16 +19,16 @@ created 2014-05-01, last commit 2022-01-20, main language C++
 Documentation for the Nano protocol  
 [https://docs.nano.org/](https://docs.nano.org/)  
 [https://github.com/nanocurrency/nano-docs](https://github.com/nanocurrency/nano-docs)  
-0.89 stars per week over 146 weeks  
+0.88 stars per week over 147 weeks  
 130 stars, 115 forks, 13 watches  
-created 2019-04-03, last commit 2022-01-17, main language HTML  
+created 2019-04-03, last commit 2022-01-27, main language HTML  
 <sub><sup>blockchain, cryptocurrencies, cryptocurrency, documentation, nano, nanocurrency</sup></sub>
 
 
 ### [nano-work-server](https://github.com/nanocurrency/nano-work-server) by [nanocurrency](https://github.com/nanocurrency)  
 A dedicated work server for the Nano cryptocurrency  
 [https://github.com/nanocurrency/nano-work-server](https://github.com/nanocurrency/nano-work-server)  
-0.36 stars per week over 194 weeks  
+0.35 stars per week over 194 weeks  
 69 stars, 41 forks, 18 watches  
 created 2018-05-07, last commit 2021-07-21, main language Rust  
 
@@ -36,7 +36,7 @@ created 2018-05-07, last commit 2021-07-21, main language Rust
 ### [protocol](https://github.com/nanocurrency/protocol) by [nanocurrency](https://github.com/nanocurrency)  
 Implementation independent content related to the Nano protocol  
 [https://github.com/nanocurrency/protocol](https://github.com/nanocurrency/protocol)  
-0.2 stars per week over 172 weeks  
+0.2 stars per week over 173 weeks  
 35 stars, 9 forks, 17 watches  
 created 2018-10-04, last commit 2021-11-23, main language Kaitai Struct  
 
@@ -44,7 +44,7 @@ created 2018-10-04, last commit 2021-11-23, main language Kaitai Struct
 ### [nano-pow](https://github.com/nanocurrency/nano-pow) by [nanocurrency](https://github.com/nanocurrency)  
 A simple, memory hard, Proof-of-Work scheme  
 [https://github.com/nanocurrency/nano-pow](https://github.com/nanocurrency/nano-pow)  
-0.19 stars per week over 141 weeks  
+0.19 stars per week over 142 weeks  
 27 stars, 6 forks, 15 watches  
 created 2019-05-12, last commit 2019-10-08, main language C++  
 
@@ -53,7 +53,7 @@ created 2019-05-12, last commit 2019-10-08, main language C++
 Issues covering broader features and network upgrades for inclusion in the Nano public roadmap  
 [https://github.com/orgs/nanocurrency/projects/5](https://github.com/orgs/nanocurrency/projects/5)  
 [https://github.com/nanocurrency/roadmap](https://github.com/nanocurrency/roadmap)  
-0.35 stars per week over 68 weeks  
+0.35 stars per week over 69 weeks  
 24 stars, 2 forks, 13 watches  
 created 2020-10-02, last commit 2021-10-04, main language None  
 
@@ -70,7 +70,7 @@ created 2020-01-06, last commit 2021-04-26, main language Kaitai Struct
 ### [nano-pow-server](https://github.com/nanocurrency/nano-pow-server) by [nanocurrency](https://github.com/nanocurrency)  
 Standalone work server for nano-pow (work in progress, currently returns mock data)  
 [https://github.com/nanocurrency/nano-pow-server](https://github.com/nanocurrency/nano-pow-server)  
-0.08 stars per week over 124 weeks  
+0.08 stars per week over 125 weeks  
 10 stars, 4 forks, 9 watches  
 created 2019-09-05, last commit 2020-06-15, main language C++  
 
@@ -85,6 +85,6 @@ created 2019-03-18, last commit 2021-02-03, main language TeX
 <sub><sup>blockchain, cryptocurrencies, cryptocurrency, nano, nanocurrency</sup></sub>
 
 
-This file was automatically generated on 2022-01-24.  
+This file was automatically generated on 2022-01-30.  
 
 To curate your own github list, simply clone and change the input csv file.  

@@ -8,8 +8,8 @@ Checkout the interactive version that you can filter and sort:
 ### [bakery-swap-core](https://github.com/BakeryProject/bakery-swap-core) by [BakeryProject](https://github.com/BakeryProject)  
   
 [https://github.com/BakeryProject/bakery-swap-core](https://github.com/BakeryProject/bakery-swap-core)  
-0.69 stars per week over 71 weeks  
-49 stars, 67 forks, 7 watches  
+0.68 stars per week over 72 weeks  
+49 stars, 69 forks, 7 watches  
 created 2020-09-13, last commit 2020-09-13, main language Solidity  
 
 
@@ -17,18 +17,18 @@ created 2020-09-13, last commit 2020-09-13, main language Solidity
   
 [https://github.com/BakeryProject/bakery-swap-dish](https://github.com/BakeryProject/bakery-swap-dish)  
 0.28 stars per week over 67 weeks  
-19 stars, 32 forks, 4 watches  
+19 stars, 33 forks, 4 watches  
 created 2020-10-12, last commit 2020-10-12, main language Solidity  
 
 
 ### [bakery-swap-periphery](https://github.com/BakeryProject/bakery-swap-periphery) by [BakeryProject](https://github.com/BakeryProject)  
   
 [https://github.com/BakeryProject/bakery-swap-periphery](https://github.com/BakeryProject/bakery-swap-periphery)  
-0.22 stars per week over 71 weeks  
-16 stars, 33 forks, 7 watches  
+0.21 stars per week over 72 weeks  
+15 stars, 35 forks, 7 watches  
 created 2020-09-13, last commit 2020-09-14, main language Solidity  
 
 
-This file was automatically generated on 2022-01-24.  
+This file was automatically generated on 2022-01-30.  
 
 To curate your own github list, simply clone and change the input csv file.  
