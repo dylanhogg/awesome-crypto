@@ -3,8 +3,7 @@ data/
 data*/
 
 # Custom
-_coingecko/
-_coingecko_old/
+_coingecko*/
 .idea/
 .vscode/
 *.log
