@@ -1,5 +1,5 @@
 # Crazy Awesome Crypto
-A list of 7 [crypto-com](https://github.com/crypto-com) project repos ordered by stars.  
+A list of 8 [crypto-com](https://github.com/crypto-com) project repos ordered by stars.  
 
 Checkout the interactive version that you can filter and sort: 
 [https://www.awesomecrypto.xyz/](https://www.awesomecrypto.xyz/)  
@@ -9,9 +9,9 @@ Checkout the interactive version that you can filter and sort:
 Crypto.org Chain desktop wallet (Beta)  
 [https://crypto.org/desktopwallet](https://crypto.org/desktopwallet)  
 [https://github.com/crypto-com/chain-desktop-wallet](https://github.com/crypto-com/chain-desktop-wallet)  
-4.08 stars per week over 60 weeks  
-248 stars, 71 forks, 26 watches  
-created 2020-11-30, last commit 2022-01-28, main language TypeScript  
+4.01 stars per week over 63 weeks  
+253 stars, 74 forks, 27 watches  
+created 2020-11-30, last commit 2022-02-14, main language TypeScript  
 <sub><sup>cryptocurrency, electron, wallet</sup></sub>
 
 
@@ -19,8 +19,8 @@ created 2020-11-30, last commit 2022-01-28, main language TypeScript
 Thaler Experimental Network; For Crypto.org Chain: github.com/crypto-org-chain/chain-main  
 [https://thaler-testnet.crypto.com](https://thaler-testnet.crypto.com)  
 [https://github.com/crypto-com/thaler](https://github.com/crypto-com/thaler)  
-0.98 stars per week over 154 weeks  
-151 stars, 77 forks, 21 watches  
+0.97 stars per week over 157 weeks  
+152 stars, 76 forks, 22 watches  
 created 2019-02-12, last commit 2021-02-25, main language Rust  
 <sub><sup>chain, cro, crypto, rust, tendermint</sup></sub>
 
@@ -28,45 +28,55 @@ created 2019-02-12, last commit 2021-02-25, main language Rust
 ### [swap-token-list](https://github.com/crypto-com/swap-token-list) by [crypto-com](https://github.com/crypto-com)  
   
 [https://github.com/crypto-com/swap-token-list](https://github.com/crypto-com/swap-token-list)  
-0.33 stars per week over 72 weeks  
-24 stars, 29 forks, 7 watches  
+0.34 stars per week over 74 weeks  
+25 stars, 30 forks, 7 watches  
 created 2020-09-11, last commit 2021-03-15, main language JavaScript  
 
 
 ### [chain-indexing](https://github.com/crypto-com/chain-indexing) by [crypto-com](https://github.com/crypto-com)  
   
 [https://github.com/crypto-com/chain-indexing](https://github.com/crypto-com/chain-indexing)  
-0.3 stars per week over 73 weeks  
-22 stars, 20 forks, 10 watches  
-created 2020-09-05, last commit 2022-01-25, main language Go  
+0.3 stars per week over 75 weeks  
+23 stars, 20 forks, 10 watches  
+created 2020-09-05, last commit 2022-02-15, main language Go  
 
 
 ### [swap-interface](https://github.com/crypto-com/swap-interface) by [crypto-com](https://github.com/crypto-com)  
 DeFi Swap Interface  
 [https://crypto.com/defi/swap](https://crypto.com/defi/swap)  
 [https://github.com/crypto-com/swap-interface](https://github.com/crypto-com/swap-interface)  
-0.26 stars per week over 72 weeks  
-19 stars, 21 forks, 7 watches  
+0.29 stars per week over 74 weeks  
+22 stars, 21 forks, 8 watches  
 created 2020-09-10, last commit 2020-09-11, main language TypeScript  
-
-
-### [thaler-nodelib](https://github.com/crypto-com/thaler-nodelib) by [crypto-com](https://github.com/crypto-com)  
-Crypto.com Chain library for Node.js  
-[https://github.com/crypto-com/thaler-nodelib](https://github.com/crypto-com/thaler-nodelib)  
-0.12 stars per week over 114 weeks  
-14 stars, 8 forks, 5 watches  
-created 2019-11-24, last commit 2020-09-03, main language TypeScript  
 
 
 ### [ibc-solo-machine](https://github.com/crypto-com/ibc-solo-machine) by [crypto-com](https://github.com/crypto-com)  
 This repository implements IBC solo machine which can be used to interface with other machines and replicated ledgers which speak IBC.  
 [https://github.com/crypto-com/ibc-solo-machine](https://github.com/crypto-com/ibc-solo-machine)  
-0.31 stars per week over 42 weeks  
-13 stars, 6 forks, 2 watches  
+0.31 stars per week over 44 weeks  
+14 stars, 6 forks, 2 watches  
 created 2021-04-08, last commit 2021-12-02, main language Rust  
 <sub><sup>cosmos, ibc, solo-machine, tendermint</sup></sub>
 
 
-This file was automatically generated on 2022-01-30.  
+### [thaler-nodelib](https://github.com/crypto-com/thaler-nodelib) by [crypto-com](https://github.com/crypto-com)  
+Crypto.com Chain library for Node.js  
+[https://github.com/crypto-com/thaler-nodelib](https://github.com/crypto-com/thaler-nodelib)  
+0.12 stars per week over 116 weeks  
+14 stars, 8 forks, 5 watches  
+created 2019-11-24, last commit 2020-09-03, main language TypeScript  
+
+
+### [tmkms-light](https://github.com/crypto-com/tmkms-light) by [crypto-com](https://github.com/crypto-com)  
+TEE-based Key Management System for Tendermint validators.  
+[https://github.com/tendermint/tendermint/](https://github.com/tendermint/tendermint/)  
+[https://github.com/crypto-com/tmkms-light](https://github.com/crypto-com/tmkms-light)  
+0.21 stars per week over 53 weeks  
+11 stars, 5 forks, 1 watches  
+created 2021-02-09, last commit 2022-02-15, main language Rust  
+<sub><sup>kms, nitro, sgx, tendermint</sup></sub>
+
+
+This file was automatically generated on 2022-02-15.  
 
 To curate your own github list, simply clone and change the input csv file.  

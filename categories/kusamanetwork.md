@@ -8,7 +8,7 @@ Checkout the interactive version that you can filter and sort:
 ### [faucet](https://github.com/kusamanetwork/faucet) by [kusamanetwork](https://github.com/kusamanetwork)  
 Frictional faucet for the Kusama Network.  
 [https://github.com/kusamanetwork/faucet](https://github.com/kusamanetwork/faucet)  
-0.51 stars per week over 118 weeks  
+0.5 stars per week over 120 weeks  
 60 stars, 28 forks, 11 watches  
 created 2019-10-24, last commit 2020-05-20, main language None  
 
@@ -17,7 +17,7 @@ created 2019-10-24, last commit 2020-05-20, main language None
 Kusama user guide  
 [https://guide.kusama.network](https://guide.kusama.network)  
 [https://github.com/kusamanetwork/userguide](https://github.com/kusamanetwork/userguide)  
-0.19 stars per week over 133 weeks  
+0.19 stars per week over 135 weeks  
 26 stars, 18 forks, 8 watches  
 created 2019-07-10, last commit 2020-07-28, main language HTML  
 
@@ -26,11 +26,11 @@ created 2019-07-10, last commit 2020-07-28, main language HTML
 Kusama claiming DApp  
 [https://claim.kusama.network](https://claim.kusama.network)  
 [https://github.com/kusamanetwork/KSM-dapp](https://github.com/kusamanetwork/KSM-dapp)  
-0.12 stars per week over 135 weeks  
+0.12 stars per week over 137 weeks  
 16 stars, 5 forks, 4 watches  
 created 2019-06-28, last commit 2019-10-22, main language JavaScript  
 
 
-This file was automatically generated on 2022-01-30.  
+This file was automatically generated on 2022-02-15.  
 
 To curate your own github list, simply clone and change the input csv file.  

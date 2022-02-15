@@ -1,5 +1,5 @@
 # Crazy Awesome Crypto
-A list of 6 [UMAprotocol](https://github.com/UMAprotocol) project repos ordered by stars.  
+A list of 7 [UMAprotocol](https://github.com/UMAprotocol) project repos ordered by stars.  
 
 Checkout the interactive version that you can filter and sort: 
 [https://www.awesomecrypto.xyz/](https://www.awesomecrypto.xyz/)  
@@ -9,31 +9,31 @@ Checkout the interactive version that you can filter and sort:
 UMA Protocol Running on Ethereum  
 [https://umaproject.org/](https://umaproject.org/)  
 [https://github.com/UMAprotocol/protocol](https://github.com/UMAprotocol/protocol)  
-1.43 stars per week over 183 weeks  
-263 stars, 148 forks, 25 watches  
-created 2018-07-24, last commit 2022-01-28, main language JavaScript  
+1.43 stars per week over 186 weeks  
+266 stars, 149 forks, 25 watches  
+created 2018-07-24, last commit 2022-02-11, main language JavaScript  
 
 
 ### [whitepaper](https://github.com/UMAprotocol/whitepaper) by [UMAprotocol](https://github.com/UMAprotocol)  
   
 [https://github.com/UMAprotocol/whitepaper](https://github.com/UMAprotocol/whitepaper)  
-0.47 stars per week over 150 weeks  
-71 stars, 8 forks, 30 watches  
+0.47 stars per week over 152 weeks  
+72 stars, 8 forks, 30 watches  
 created 2019-03-17, last commit 2020-06-29, main language None  
 
 
 ### [UMIPs](https://github.com/UMAprotocol/UMIPs) by [UMAprotocol](https://github.com/UMAprotocol)  
 UMA Improvement Proposal repository  
 [https://github.com/UMAprotocol/UMIPs](https://github.com/UMAprotocol/UMIPs)  
-0.39 stars per week over 94 weeks  
+0.38 stars per week over 97 weeks  
 37 stars, 92 forks, 20 watches  
-created 2020-04-07, last commit 2022-01-27, main language None  
+created 2020-04-07, last commit 2022-02-09, main language None  
 
 
 ### [token-distribution](https://github.com/UMAprotocol/token-distribution) by [UMAprotocol](https://github.com/UMAprotocol)  
   
 [https://github.com/UMAprotocol/token-distribution](https://github.com/UMAprotocol/token-distribution)  
-0.57 stars per week over 48 weeks  
+0.55 stars per week over 51 weeks  
 28 stars, 222 forks, 11 watches  
 created 2021-02-23, last commit 2021-03-05, main language JavaScript  
 
@@ -42,7 +42,7 @@ created 2021-02-23, last commit 2021-03-05, main language JavaScript
 A tool for minting and managing your position with UMA's expiring tokens.  
 [https://tools.umaproject.org](https://tools.umaproject.org)  
 [https://github.com/UMAprotocol/emp-tools](https://github.com/UMAprotocol/emp-tools)  
-0.18 stars per week over 85 weeks  
+0.17 stars per week over 87 weeks  
 15 stars, 25 forks, 13 watches  
 created 2020-06-14, last commit 2021-10-22, main language TypeScript  
 
@@ -50,11 +50,21 @@ created 2020-06-14, last commit 2021-10-22, main language TypeScript
 ### [launch-lsp](https://github.com/UMAprotocol/launch-lsp) by [UMAprotocol](https://github.com/UMAprotocol)  
 CLI tool for launching a new LSP (Long-Short Pair) https://umaproject.org/lsp.html  
 [https://github.com/UMAprotocol/launch-lsp](https://github.com/UMAprotocol/launch-lsp)  
-0.38 stars per week over 31 weeks  
-12 stars, 11 forks, 10 watches  
-created 2021-06-21, last commit 2022-01-23, main language JavaScript  
+0.35 stars per week over 34 weeks  
+12 stars, 12 forks, 10 watches  
+created 2021-06-21, last commit 2022-02-03, main language JavaScript  
 
 
-This file was automatically generated on 2022-01-30.  
+### [docs](https://github.com/UMAprotocol/docs) by [UMAprotocol](https://github.com/UMAprotocol)  
+Repository for the official documentation of UMA.  
+[https://docs.umaproject.org](https://docs.umaproject.org)  
+[https://github.com/UMAprotocol/docs](https://github.com/UMAprotocol/docs)  
+0.12 stars per week over 83 weeks  
+10 stars, 23 forks, 13 watches  
+created 2020-07-11, last commit 2022-01-21, main language JavaScript  
+<sub><sup>blockchain, defi, ethereum</sup></sub>
+
+
+This file was automatically generated on 2022-02-15.  
 
 To curate your own github list, simply clone and change the input csv file.  

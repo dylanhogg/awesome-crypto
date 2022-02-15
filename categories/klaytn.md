@@ -8,25 +8,25 @@ Checkout the interactive version that you can filter and sort:
 ### [klaytn](https://github.com/klaytn/klaytn)  
 Official Go implementation of the Klaytn protocol  
 [https://github.com/klaytn/klaytn](https://github.com/klaytn/klaytn)  
-1.66 stars per week over 137 weeks  
-228 stars, 94 forks, 34 watches  
-created 2019-06-11, last commit 2022-01-21, main language Go  
+1.7 stars per week over 140 weeks  
+238 stars, 99 forks, 35 watches  
+created 2019-06-11, last commit 2022-02-15, main language Go  
 <sub><sup>blockchain, blockchain-platform</sup></sub>
 
 
 ### [caver-js](https://github.com/klaytn/caver-js) by [klaytn](https://github.com/klaytn)  
 Official caver-js repository  
 [https://github.com/klaytn/caver-js](https://github.com/klaytn/caver-js)  
-0.51 stars per week over 137 weeks  
-70 stars, 46 forks, 14 watches  
-created 2019-06-11, last commit 2022-01-28, main language JavaScript  
+0.51 stars per week over 140 weeks  
+72 stars, 49 forks, 14 watches  
+created 2019-06-11, last commit 2022-02-04, main language JavaScript  
 <sub><sup>blockchain</sup></sub>
 
 
 ### [caver-java](https://github.com/klaytn/caver-java) by [klaytn](https://github.com/klaytn)  
 Official caver-java repository  
 [https://github.com/klaytn/caver-java](https://github.com/klaytn/caver-java)  
-0.36 stars per week over 135 weeks  
+0.35 stars per week over 138 weeks  
 49 stars, 27 forks, 15 watches  
 created 2019-06-24, last commit 2021-11-08, main language Java  
 <sub><sup>blockchain</sup></sub>
@@ -35,27 +35,27 @@ created 2019-06-24, last commit 2021-11-08, main language Java
 ### [klaytn-contracts](https://github.com/klaytn/klaytn-contracts) by [klaytn](https://github.com/klaytn)  
   
 [https://github.com/klaytn/klaytn-contracts](https://github.com/klaytn/klaytn-contracts)  
-0.83 stars per week over 50 weeks  
-42 stars, 49 forks, 8 watches  
+0.83 stars per week over 53 weeks  
+44 stars, 54 forks, 9 watches  
 created 2021-02-08, last commit 2021-06-15, main language JavaScript  
 
 
 ### [kaikas-tutorial](https://github.com/klaytn/kaikas-tutorial) by [klaytn](https://github.com/klaytn)  
 Kaikas tutorial repository to send Klaytn's various types of transactions!  
 [https://github.com/klaytn/kaikas-tutorial](https://github.com/klaytn/kaikas-tutorial)  
-0.17 stars per week over 97 weeks  
-17 stars, 13 forks, 3 watches  
+0.18 stars per week over 99 weeks  
+18 stars, 15 forks, 3 watches  
 created 2020-03-19, last commit 2020-11-06, main language JavaScript  
 
 
 ### [klaystagram](https://github.com/klaytn/klaystagram) by [klaytn](https://github.com/klaytn)  
   
 [https://github.com/klaytn/klaystagram](https://github.com/klaytn/klaystagram)  
-0.08 stars per week over 122 weeks  
-10 stars, 17 forks, 6 watches  
+0.08 stars per week over 125 weeks  
+10 stars, 15 forks, 6 watches  
 created 2019-09-24, last commit 2021-10-07, main language JavaScript  
 
 
-This file was automatically generated on 2022-01-30.  
+This file was automatically generated on 2022-02-15.  
 
 To curate your own github list, simply clone and change the input csv file.  
