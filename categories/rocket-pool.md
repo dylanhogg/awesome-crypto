@@ -9,8 +9,8 @@ Checkout the interactive version that you can filter and sort:
 A next generation decentralised Ethereum proof of stake network and pool, currently in beta and built to be compatible with Ethereum 2.0 and the Beacon Chain.  
 [https://www.rocketpool.net](https://www.rocketpool.net)  
 [https://github.com/rocket-pool/rocketpool](https://github.com/rocket-pool/rocketpool)  
-2.64 stars per week over 247 weeks  
-653 stars, 126 forks, 78 watches  
+2.63 stars per week over 249 weeks  
+657 stars, 129 forks, 77 watches  
 created 2017-05-19, last commit 2021-11-04, main language JavaScript  
 <sub><sup>beacon-chain, casper, ethereum, pool, pos, proof-of-stake</sup></sub>
 
@@ -18,23 +18,23 @@ created 2017-05-19, last commit 2021-11-04, main language JavaScript
 ### [smartnode-install](https://github.com/rocket-pool/smartnode-install) by [rocket-pool](https://github.com/rocket-pool)  
 The install script for a Rocket Pool smart node.  
 [https://github.com/rocket-pool/smartnode-install](https://github.com/rocket-pool/smartnode-install)  
-0.25 stars per week over 194 weeks  
-48 stars, 23 forks, 13 watches  
-created 2018-05-29, last commit 2022-02-03, main language Shell  
+0.24 stars per week over 196 weeks  
+47 stars, 24 forks, 13 watches  
+created 2018-05-29, last commit 2022-02-22, main language Shell  
 
 
 ### [smartnode](https://github.com/rocket-pool/smartnode) by [rocket-pool](https://github.com/rocket-pool)  
 The CLI package for Rocket Pool smart nodes.  
 [https://github.com/rocket-pool/smartnode](https://github.com/rocket-pool/smartnode)  
-0.22 stars per week over 181 weeks  
-40 stars, 35 forks, 10 watches  
-created 2018-08-23, last commit 2022-02-14, main language Go  
+0.22 stars per week over 183 weeks  
+41 stars, 35 forks, 10 watches  
+created 2018-08-23, last commit 2022-02-22, main language Go  
 
 
 ### [rocketpool-research](https://github.com/rocket-pool/rocketpool-research) by [rocket-pool](https://github.com/rocket-pool)  
   
 [https://github.com/rocket-pool/rocketpool-research](https://github.com/rocket-pool/rocketpool-research)  
-0.73 stars per week over 34 weeks  
+0.69 stars per week over 36 weeks  
 25 stars, 7 forks, 3 watches  
 created 2021-06-21, last commit 2022-01-18, main language None  
 
@@ -42,11 +42,11 @@ created 2021-06-21, last commit 2022-01-18, main language None
 ### [docs.rocketpool.net](https://github.com/rocket-pool/docs.rocketpool.net) by [rocket-pool](https://github.com/rocket-pool)  
 Rocket Pool Documentation & Guide Hub  
 [https://github.com/rocket-pool/docs.rocketpool.net](https://github.com/rocket-pool/docs.rocketpool.net)  
-0.2 stars per week over 65 weeks  
-13 stars, 49 forks, 8 watches  
-created 2020-11-11, last commit 2022-02-03, main language JavaScript  
+0.19 stars per week over 67 weeks  
+13 stars, 51 forks, 8 watches  
+created 2020-11-11, last commit 2022-02-22, main language JavaScript  
 
 
-This file was automatically generated on 2022-02-15.  
+This file was automatically generated on 2022-03-01.  
 
 To curate your own github list, simply clone and change the input csv file.  

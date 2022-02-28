@@ -9,98 +9,98 @@ Checkout the interactive version that you can filter and sort:
 Performant and Confidentiality-Preserving Smart Contracts + Blockchains  
 [https://oasisprotocol.org](https://oasisprotocol.org)  
 [https://github.com/oasisprotocol/oasis-core](https://github.com/oasisprotocol/oasis-core)  
-1.1 stars per week over 202 weeks  
-223 stars, 63 forks, 35 watches  
-created 2018-03-31, last commit 2022-02-11, main language Go  
+1.1 stars per week over 204 weeks  
+225 stars, 65 forks, 36 watches  
+created 2018-03-31, last commit 2022-02-28, main language Go  
 <sub><sup>blockchain, privacy, smart-contracts</sup></sub>
+
+
+### [oasis-wallet-web](https://github.com/oasisprotocol/oasis-wallet-web) by [oasisprotocol](https://github.com/oasisprotocol)  
+The official non-custodial web wallet for the Oasis Network.  
+[https://github.com/oasisprotocol/oasis-wallet-web](https://github.com/oasisprotocol/oasis-wallet-web)  
+1.29 stars per week over 45 weeks  
+58 stars, 22 forks, 14 watches  
+created 2021-04-20, last commit 2022-02-25, main language TypeScript  
+<sub><sup>blockchain, crypto, delegation, ledger, non-custodial, oasis, official, rose, staking, wallet, web</sup></sub>
 
 
 ### [ed25519](https://github.com/oasisprotocol/ed25519) by [oasisprotocol](https://github.com/oasisprotocol)  
 Golang ed25519  
 [https://github.com/oasisprotocol/ed25519](https://github.com/oasisprotocol/ed25519)  
-0.31 stars per week over 153 weeks  
-48 stars, 4 forks, 25 watches  
+0.31 stars per week over 155 weeks  
+48 stars, 4 forks, 26 watches  
 created 2019-03-10, last commit 2021-05-05, main language Go  
 
 
 ### [curve25519-voi](https://github.com/oasisprotocol/curve25519-voi) by [oasisprotocol](https://github.com/oasisprotocol)  
 High-performance Curve25519/ristretto255 for Go  
 [https://github.com/oasisprotocol/curve25519-voi](https://github.com/oasisprotocol/curve25519-voi)  
-0.76 stars per week over 58 weeks  
-44 stars, 7 forks, 16 watches  
+0.73 stars per week over 60 weeks  
+44 stars, 7 forks, 17 watches  
 created 2021-01-04, last commit 2022-02-03, main language Go  
 <sub><sup>batch-verification, cryptography, cryptography-algorithms, curve25519, ed25519, go, golang, ristretto255, sr25519, x25519</sup></sub>
-
-
-### [oasis-wallet-web](https://github.com/oasisprotocol/oasis-wallet-web) by [oasisprotocol](https://github.com/oasisprotocol)  
-The official non-custodial web wallet for the Oasis Network.  
-[https://github.com/oasisprotocol/oasis-wallet-web](https://github.com/oasisprotocol/oasis-wallet-web)  
-1.02 stars per week over 43 weeks  
-44 stars, 18 forks, 12 watches  
-created 2021-04-20, last commit 2022-02-14, main language TypeScript  
-<sub><sup>blockchain, crypto, delegation, ledger, non-custodial, oasis, official, rose, staking, wallet, web</sup></sub>
 
 
 ### [oasis-sdk](https://github.com/oasisprotocol/oasis-sdk) by [oasisprotocol](https://github.com/oasisprotocol)  
 SDK for the Oasis network  
 [https://github.com/oasisprotocol/oasis-sdk](https://github.com/oasisprotocol/oasis-sdk)  
-0.6 stars per week over 53 weeks  
-32 stars, 16 forks, 9 watches  
-created 2021-02-08, last commit 2022-02-14, main language Rust  
+0.62 stars per week over 55 weeks  
+34 stars, 17 forks, 9 watches  
+created 2021-02-08, last commit 2022-02-28, main language Rust  
 
 
 ### [community](https://github.com/oasisprotocol/community) by [oasisprotocol](https://github.com/oasisprotocol)  
 A forum for community discussion  
 [https://github.com/oasisprotocol/community](https://github.com/oasisprotocol/community)  
-0.37 stars per week over 67 weeks  
-25 stars, 5 forks, 20 watches  
+0.38 stars per week over 69 weeks  
+26 stars, 5 forks, 21 watches  
 created 2020-11-02, last commit 2020-12-08, main language None  
 
 
 ### [deoxysii-rust](https://github.com/oasisprotocol/deoxysii-rust) by [oasisprotocol](https://github.com/oasisprotocol)  
 Deoxys-II-256-128 MRAE primitives for Rust  
 [https://github.com/oasisprotocol/deoxysii-rust](https://github.com/oasisprotocol/deoxysii-rust)  
-0.12 stars per week over 149 weeks  
-18 stars, 6 forks, 26 watches  
-created 2019-04-04, last commit 2021-12-08, main language Rust  
+0.12 stars per week over 151 weeks  
+18 stars, 6 forks, 27 watches  
+created 2019-04-04, last commit 2022-02-25, main language Rust  
 <sub><sup>deoxys, mrae, rust-crate</sup></sub>
 
 
 ### [deoxysii](https://github.com/oasisprotocol/deoxysii) by [oasisprotocol](https://github.com/oasisprotocol)  
 Go Deoxys-II-256-128  
 [https://github.com/oasisprotocol/deoxysii](https://github.com/oasisprotocol/deoxysii)  
-0.09 stars per week over 152 weeks  
-14 stars, 4 forks, 23 watches  
+0.09 stars per week over 154 weeks  
+14 stars, 4 forks, 24 watches  
 created 2019-03-19, last commit 2020-05-27, main language Go  
 <sub><sup>aead, cryptography, go, golang, mrae</sup></sub>
 
 
-### [oasis-core-rosetta-gateway](https://github.com/oasisprotocol/oasis-core-rosetta-gateway) by [oasisprotocol](https://github.com/oasisprotocol)  
+### [oasis-rosetta-gateway](https://github.com/oasisprotocol/oasis-rosetta-gateway) by [oasisprotocol](https://github.com/oasisprotocol)  
 Rosetta Server for the Oasis Core consensus layer.  
-[https://github.com/oasisprotocol/oasis-core-rosetta-gateway](https://github.com/oasisprotocol/oasis-core-rosetta-gateway)  
-0.14 stars per week over 95 weeks  
-13 stars, 9 forks, 16 watches  
-created 2020-04-17, last commit 2022-02-14, main language Go  
-
-
-### [emerald-web3-gateway](https://github.com/oasisprotocol/emerald-web3-gateway) by [oasisprotocol](https://github.com/oasisprotocol)  
-The Web3 Gateway for the Oasis Emerald paratime  
-[https://github.com/oasisprotocol/emerald-web3-gateway](https://github.com/oasisprotocol/emerald-web3-gateway)  
-0.63 stars per week over 20 weeks  
-13 stars, 7 forks, 5 watches  
-created 2021-09-23, last commit 2022-02-11, main language Go  
-<sub><sup>ethereum, oasis</sup></sub>
+[https://github.com/oasisprotocol/oasis-rosetta-gateway](https://github.com/oasisprotocol/oasis-rosetta-gateway)  
+0.13 stars per week over 97 weeks  
+13 stars, 9 forks, 17 watches  
+created 2020-04-17, last commit 2022-02-16, main language Go  
 
 
 ### [oasis-wallet-ext](https://github.com/oasisprotocol/oasis-wallet-ext) by [oasisprotocol](https://github.com/oasisprotocol)  
 The official non-custodial browser extension wallet for the Oasis Network.  
 [https://github.com/oasisprotocol/oasis-wallet-ext](https://github.com/oasisprotocol/oasis-wallet-ext)  
-0.43 stars per week over 27 weeks  
-12 stars, 8 forks, 6 watches  
-created 2021-08-04, last commit 2022-01-28, main language JavaScript  
+0.44 stars per week over 29 weeks  
+13 stars, 9 forks, 7 watches  
+created 2021-08-04, last commit 2022-02-21, main language JavaScript  
 <sub><sup>blockchain, chrome-extension, cryptocurrency, delegation, ledger, non-custodial, oasis, official, rose, staking, wallet</sup></sub>
 
 
-This file was automatically generated on 2022-02-15.  
+### [emerald-web3-gateway](https://github.com/oasisprotocol/emerald-web3-gateway) by [oasisprotocol](https://github.com/oasisprotocol)  
+The Web3 Gateway for the Oasis Emerald paratime  
+[https://github.com/oasisprotocol/emerald-web3-gateway](https://github.com/oasisprotocol/emerald-web3-gateway)  
+0.57 stars per week over 22 weeks  
+13 stars, 8 forks, 5 watches  
+created 2021-09-23, last commit 2022-02-25, main language Go  
+<sub><sup>ethereum, oasis</sup></sub>
+
+
+This file was automatically generated on 2022-03-01.  
 
 To curate your own github list, simply clone and change the input csv file.  

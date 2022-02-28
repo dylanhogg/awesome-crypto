@@ -9,12 +9,12 @@ Checkout the interactive version that you can filter and sort:
 A list of awesome crypto and blockchain projects  
 [https://www.awesomecrypto.xyz/](https://www.awesomecrypto.xyz/)  
 [https://github.com/dylanhogg/crazy-awesome-crypto](https://github.com/dylanhogg/crazy-awesome-crypto)  
-1.09 stars per week over 20 weeks  
-22 stars, 6 forks, 1 watches  
-created 2021-09-27, last commit 2022-01-30, main language Python  
+1.04 stars per week over 22 weeks  
+23 stars, 6 forks, 1 watches  
+created 2021-09-27, last commit 2022-02-16, main language Python  
 <sub><sup>awesome, awesome-list, bitcoin, blockchain, crypto, cryptocurrency, data, data-analysis, ethereum, github</sup></sub>
 
 
-This file was automatically generated on 2022-02-15.  
+This file was automatically generated on 2022-03-01.  
 
 To curate your own github list, simply clone and change the input csv file.  

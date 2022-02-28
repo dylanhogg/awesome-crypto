@@ -9,8 +9,8 @@ Checkout the interactive version that you can filter and sort:
 Python package with core transaction decoding functions.  
 [https://www.ethtx.info](https://www.ethtx.info)  
 [https://github.com/EthTx/ethtx](https://github.com/EthTx/ethtx)  
-6.82 stars per week over 33 weeks  
-226 stars, 28 forks, 10 watches  
+6.66 stars per week over 35 weeks  
+234 stars, 30 forks, 10 watches  
 created 2021-06-28, last commit 2022-02-07, main language Python  
 
 
@@ -18,11 +18,11 @@ created 2021-06-28, last commit 2022-02-07, main language Python
 Ethereum transaction decoder (community version).  
 [https://ethtx.info](https://ethtx.info)  
 [https://github.com/EthTx/ethtx_ce](https://github.com/EthTx/ethtx_ce)  
-4.46 stars per week over 29 weeks  
-130 stars, 23 forks, 9 watches  
+4.43 stars per week over 31 weeks  
+138 stars, 27 forks, 9 watches  
 created 2021-07-26, last commit 2022-02-07, main language HTML  
 
 
-This file was automatically generated on 2022-02-15.  
+This file was automatically generated on 2022-03-01.  
 
 To curate your own github list, simply clone and change the input csv file.  
