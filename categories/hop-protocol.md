@@ -9,8 +9,8 @@ Checkout the interactive version that you can filter and sort:
 🐰 Hop Protocol smart contracts  
 [https://hop.exchange](https://hop.exchange)  
 [https://github.com/hop-protocol/contracts](https://github.com/hop-protocol/contracts)  
-2.2 stars per week over 56 weeks  
-125 stars, 34 forks, 9 watches  
+2.16 stars per week over 59 weeks  
+129 stars, 38 forks, 9 watches  
 created 2021-01-27, last commit 2022-02-03, main language TypeScript  
 <sub><sup>bridge, cryptocurrency, ethereum, hop, hop-protocol, layer2, smart-contracts, solidity</sup></sub>
 
@@ -19,9 +19,9 @@ created 2021-01-27, last commit 2022-02-03, main language TypeScript
 🐰 Hop monorepo  
 [https://hop.exchange/](https://hop.exchange/)  
 [https://github.com/hop-protocol/hop](https://github.com/hop-protocol/hop)  
-1.12 stars per week over 71 weeks  
-80 stars, 27 forks, 8 watches  
-created 2020-10-19, last commit 2022-02-27, main language TypeScript  
+1.08 stars per week over 74 weeks  
+80 stars, 28 forks, 8 watches  
+created 2020-10-19, last commit 2022-03-19, main language TypeScript  
 <sub><sup>frontend, hop, hop-node, hop-protocol, javascript, monorepo, npm, react, sdk, typescript</sup></sub>
 
 
@@ -29,12 +29,12 @@ created 2020-10-19, last commit 2022-02-27, main language TypeScript
 🇬 The Hop Protocol Subgraph for The Graph  
 [https://github.com/hop-protocol/hop-subgraph](https://github.com/hop-protocol/hop-subgraph)  
 [https://github.com/hop-protocol/subgraph](https://github.com/hop-protocol/subgraph)  
-0.43 stars per week over 35 weeks  
+0.39 stars per week over 38 weeks  
 15 stars, 4 forks, 5 watches  
-created 2021-06-27, last commit 2022-02-21, main language TypeScript  
+created 2021-06-27, last commit 2022-03-18, main language TypeScript  
 <sub><sup>graphql, hop, hop-protocol, subgraph, thegraph, thegraphprotocol</sup></sub>
 
 
-This file was automatically generated on 2022-03-01.  
+This file was automatically generated on 2022-03-21.  
 
 To curate your own github list, simply clone and change the input csv file.  
