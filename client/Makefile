@@ -44,6 +44,11 @@ s3-deploy-app: remove-data-local-app
 	# aws s3 cp app/sitemap.xml s3://${BUCKET_NAME}/sitemap.xml --profile ${AWS_PROFILE}
 	# NOTE: Remember to invalidate Cloudfront cache to materialise changes: "make cf-invalidation"
 
+## AWS S3 cp sitemap.xml to S3
+s3-deploy-app-sitemap:
+	aws s3 cp app/sitemap.xml s3://${BUCKET_NAME}/sitemap.xml --profile ${AWS_PROFILE}
+	# NOTE: Remember to invalidate Cloudfront cache to materialise changes: "make cf-invalidation"
+
 ## AWS S3 rm static_files from S3
 s3-delete-app:
 	aws s3 rm s3://${BUCKET_NAME} --recursive
