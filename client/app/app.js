@@ -1,4 +1,4 @@
-const version = "v0.0.8";
+const version = "v0.0.9";
 const ms_per_day = 1000 * 60 * 60 * 24;
 
 function dateDiffInWeeks(a, b) {
@@ -6,6 +6,27 @@ function dateDiffInWeeks(a, b) {
   var utc2 = Date.UTC(b.getFullYear(), b.getMonth(), b.getDate());
   var weeks = Math.floor((utc2 - utc1) / ms_per_day) / 7;
   return weeks.toFixed(0);
+}
+
+function getUrlParams() {
+    // Ref: https://stackoverflow.com/questions/4656843/get-querystring-from-url-using-jquery/4656873#4656873
+    var vars = [], hash;
+    var hashes = window.location.href.slice(window.location.href.indexOf('?') + 1).split('&');
+    for(var i = 0; i < hashes.length; i++) {
+        hash = hashes[i].split('=');
+        vars.push(hash[0]);
+        vars[hash[0]] = hash[1];
+    }
+    return vars;
+}
+
+function getUrlQuery() {
+    try {
+        var params = getUrlParams();
+        if ("q" in params) { return decodeURI(params["q"]); } else { return ""; }
+    } catch(err) {
+        return "";
+    }
 }
 
 $(document).ready( function () {
@@ -17,6 +38,8 @@ $(document).ready( function () {
         ajax_url_orgs = '/github_data_org.json';
         ajax_url_repos = '/github_data.json';
     }
+
+    var initialSearchTerm = getUrlQuery();
 
     // Github orgainisation table
     $("#org-table").DataTable( {
@@ -30,7 +53,13 @@ $(document).ready( function () {
         },
         order: [[ 6, "desc" ]],
         columnDefs: [{ targets:"_all", orderSequence: ["desc", "asc"] }],
-        paging: false,
+        paging: true,
+        lengthChange: false,
+        lengthMenu: [ 10, 100, 1000, 10000 ],
+        pageLength: 10,
+        search: {
+           search: initialSearchTerm
+        },
         columns: [
           { title: "Symbol",
             render: function(data, type, row, meta) {
@@ -103,7 +132,10 @@ $(document).ready( function () {
         paging: true,
         lengthChange: false,
         lengthMenu: [ 10, 100, 1000, 10000 ],
-        pageLength: 100,
+        pageLength: 10,
+        search: {
+           search: initialSearchTerm
+        },
         columns: [
           { data: "_readme_localurl", title: "",
             orderable: false,
