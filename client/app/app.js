@@ -1,4 +1,4 @@
-const version = "v0.0.9";
+const version = "v0.0.10";
 const ms_per_day = 1000 * 60 * 60 * 24;
 
 function dateDiffInWeeks(a, b) {
@@ -54,12 +54,14 @@ $(document).ready( function () {
         order: [[ 6, "desc" ]],
         columnDefs: [{ targets:"_all", orderSequence: ["desc", "asc"] }],
         paging: true,
-        lengthChange: false,
-        lengthMenu: [ 10, 100, 1000, 10000 ],
         pageLength: 10,
+        lengthChange: true,
+        lengthMenu: [[10, 50, 100, -1], [10, 50, 100, "All"]],
         search: {
            search: initialSearchTerm
         },
+        // dom: 'lfrtip',  // Default. https://datatables.net/reference/option/dom
+        dom: 'frtilp',
         columns: [
           { title: "Symbol",
             render: function(data, type, row, meta) {
@@ -130,12 +132,14 @@ $(document).ready( function () {
         order: [[ 4, "desc" ]],
         columnDefs: [{ targets:"_all", orderSequence: ["desc", "asc"] }],
         paging: true,
-        lengthChange: false,
-        lengthMenu: [ 10, 100, 1000, 10000 ],
         pageLength: 10,
+        lengthChange: true,
+        lengthMenu: [[10, 50, 100, -1], [10, 50, 100, "All"]],
         search: {
            search: initialSearchTerm
         },
+        // dom: 'lfrtip',  // Default. https://datatables.net/reference/option/dom
+        dom: 'frtilp',
         columns: [
           { data: "_readme_localurl", title: "",
             orderable: false,
