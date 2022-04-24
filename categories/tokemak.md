@@ -8,11 +8,11 @@ Checkout the interactive version that you can filter and sort:
 ### [tokemak-smart-contracts-public](https://github.com/Tokemak/tokemak-smart-contracts-public) by [Tokemak](https://github.com/Tokemak)  
 A public repo of Tokemak's currently deployed contracts.  
 [https://github.com/Tokemak/tokemak-smart-contracts-public](https://github.com/Tokemak/tokemak-smart-contracts-public)  
-1.28 stars per week over 30 weeks  
-39 stars, 16 forks, 6 watches  
-created 2021-08-19, last commit 2022-02-24, main language Solidity  
+1.3 stars per week over 35 weeks  
+46 stars, 17 forks, 6 watches  
+created 2021-08-19, last commit 2022-03-21, main language Solidity  
 
 
-This file was automatically generated on 2022-03-21.  
+This file was automatically generated on 2022-04-24.  
 
 To curate your own github list, simply clone and change the input csv file.  

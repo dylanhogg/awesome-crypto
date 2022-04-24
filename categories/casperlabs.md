@@ -8,11 +8,11 @@ Checkout the interactive version that you can filter and sort:
 ### [contract-examples](https://github.com/CasperLabs/contract-examples) by [CasperLabs](https://github.com/CasperLabs)  
 WASM Contract Examples  
 [https://github.com/CasperLabs/contract-examples](https://github.com/CasperLabs/contract-examples)  
-0.07 stars per week over 161 weeks  
+0.07 stars per week over 166 weeks  
 12 stars, 12 forks, 12 watches  
 created 2019-02-15, last commit 2019-10-25, main language None  
 
 
-This file was automatically generated on 2022-03-21.  
+This file was automatically generated on 2022-04-24.  
 
 To curate your own github list, simply clone and change the input csv file.  
