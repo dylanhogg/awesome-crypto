@@ -9,11 +9,11 @@ Checkout the interactive version that you can filter and sort:
 GateChain Documents  
 [https://www.gatechain.io/docs/](https://www.gatechain.io/docs/)  
 [https://github.com/gatechain/gatechain-docs](https://github.com/gatechain/gatechain-docs)  
-0.09 stars per week over 134 weeks  
-12 stars, 4 forks, 16 watches  
+0.09 stars per week over 142 weeks  
+13 stars, 5 forks, 16 watches  
 created 2019-09-27, last commit 2021-05-26, main language CSS  
 
 
-This file was automatically generated on 2022-04-24.  
+This file was automatically generated on 2022-06-20.  
 
 To curate your own github list, simply clone and change the input csv file.  

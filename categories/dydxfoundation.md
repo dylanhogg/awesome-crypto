@@ -8,7 +8,7 @@ Checkout the interactive version that you can filter and sort:
 ### [governance-contracts](https://github.com/dydxfoundation/governance-contracts) by [dydxfoundation](https://github.com/dydxfoundation)  
   
 [https://github.com/dydxfoundation/governance-contracts](https://github.com/dydxfoundation/governance-contracts)  
-0.56 stars per week over 37 weeks  
+0.46 stars per week over 45 weeks  
 21 stars, 6 forks, 7 watches  
 created 2021-08-03, last commit 2022-01-24, main language Solidity  
 
@@ -17,11 +17,11 @@ created 2021-08-03, last commit 2022-01-24, main language Solidity
 dYdX Foundation Governance & Staking Dashboard  
 [https://dydx.community](https://dydx.community)  
 [https://github.com/dydxfoundation/pnyx](https://github.com/dydxfoundation/pnyx)  
-0.26 stars per week over 38 weeks  
-10 stars, 1 forks, 5 watches  
-created 2021-07-29, last commit 2022-04-05, main language TypeScript  
+0.21 stars per week over 46 weeks  
+10 stars, 2 forks, 5 watches  
+created 2021-07-29, last commit 2022-06-01, main language TypeScript  
 
 
-This file was automatically generated on 2022-04-24.  
+This file was automatically generated on 2022-06-20.  
 
 To curate your own github list, simply clone and change the input csv file.  

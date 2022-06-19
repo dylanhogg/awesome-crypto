@@ -9,12 +9,12 @@ Checkout the interactive version that you can filter and sort:
 A Python-based development and testing framework for smart contracts targeting the Ethereum Virtual Machine.  
 [https://eth-brownie.readthedocs.io](https://eth-brownie.readthedocs.io)  
 [https://github.com/eth-brownie/brownie](https://github.com/eth-brownie/brownie)  
-10 stars per week over 181 weeks  
-1,860 stars, 359 forks, 39 watches  
-created 2018-11-02, last commit 2022-02-14, main language Python  
+10 stars per week over 189 weeks  
+2,049 stars, 390 forks, 42 watches  
+created 2018-11-02, last commit 2022-05-29, main language Python  
 <sub><sup>ethereum, solidity, vyper, web3py</sup></sub>
 
 
-This file was automatically generated on 2022-04-24.  
+This file was automatically generated on 2022-06-20.  
 
 To curate your own github list, simply clone and change the input csv file.  
