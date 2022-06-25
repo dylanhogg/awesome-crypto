@@ -89,7 +89,7 @@ def process(df_input, ghw, throttle_secs) -> pd.DataFrame:
     # TODO: more https://pygithub.readthedocs.io/en/latest/examples/Repository.html
 
     df["_repopath"] = df["githuburl"].apply(lambda x: urlparse(x).path.lstrip("/"))
-    df["_repo_obj"] = df["_repopath"].apply(lambda x: ghw.get_repo(x))
+    df["_repo_obj"] = df["_repopath"].apply(lambda x: ghw.get_repo(x))  # TODO: maybe use joblib cache here?
 
     df["_reponame"] = df["_repo_obj"].apply(lambda x: x.name)
     df["_stars"] = df["_repo_obj"].apply(lambda x: x.stargazers_count)

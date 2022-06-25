@@ -18,6 +18,12 @@ clean:
 run:
 	source venv/bin/activate ; PYTHONPATH='./src' python -m app
 
+## Run the app after removing caches
+run-rm-cache:
+	rm -rf .joblib_cache
+	rm -rf _coingecko
+	source venv/bin/activate ; PYTHONPATH='./src' python -m app
+
 ## Run black code formatter
 black:
 	source venv/bin/activate ; black .

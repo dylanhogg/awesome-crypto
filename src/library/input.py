@@ -1,8 +1,11 @@
 import sys
 import time
 import pandas as pd
+from joblib import Memory
 from loguru import logger
 from urllib.parse import urlparse
+
+memory = Memory(".joblib_cache")
 
 
 def get_input_data(csv_location, ghw) -> pd.DataFrame:
@@ -37,6 +40,11 @@ def get_input_data(csv_location, ghw) -> pd.DataFrame:
     return df_concat
 
 
+@memory.cache
+def _cached_get_org_repos(ghw, org):
+    return ghw.get_org_repos(org)
+
+
 def _explode_org_repos(df, ghw):
     wildcard_row_mask = df.githuburl.str.endswith("/*")
     df_normal_repos = df.drop(df[wildcard_row_mask].index)
@@ -51,7 +59,8 @@ def _explode_org_repos(df, ghw):
         org = urlparse(row.githuburl).path.lstrip("/").rstrip("/*")
         logger.info(f"Read repos for wildcard org: {org}...")
         time.sleep(1)
-        org_repos = ghw.get_org_repos(org)
+        # org_repos = ghw.get_org_repos(org)
+        org_repos = _cached_get_org_repos(ghw, org)
         giturls = [[row.category,
                     row.subcategory,
                     "https://github.com/" + org_repo.full_name,

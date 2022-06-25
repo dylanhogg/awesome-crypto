@@ -6,6 +6,7 @@ data*/
 _coingecko*/
 .idea/
 .vscode/
+.joblib_cache/
 *.log
 
 # Byte-compiled / optimized / DLL files

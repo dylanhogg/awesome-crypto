@@ -9,3 +9,4 @@ pycoingecko
 python-dotenv
 black
 loguru
+joblib
