@@ -9,12 +9,12 @@ Checkout the interactive version that you can filter and sort:
 DIAdata.org platform  
 [https://diadata.org](https://diadata.org)  
 [https://github.com/diadata-org/diadata](https://github.com/diadata-org/diadata)  
-0.89 stars per week over 201 weeks  
-180 stars, 117 forks, 25 watches  
-created 2018-08-08, last commit 2022-06-17, main language Go  
-<sub><sup>bitcoin, blockchain, blockchain-explorer, blockchain-technology, ethereum</sup></sub>
+0.88 stars per week over 209 weeks  
+185 stars, 119 forks, 25 watches  
+created 2018-08-08, last commit 2022-08-11, main language Go  
+<sub><sup>bitcoin, blockchain, blockchain-explorer, blockchain-technology, defi, ethereum, oracle, web3</sup></sub>
 
 
-This file was automatically generated on 2022-06-20.  
+This file was automatically generated on 2022-08-12.  
 
 To curate your own github list, simply clone and change the input csv file.  

@@ -8,11 +8,11 @@ Checkout the interactive version that you can filter and sort:
 ### [NanoWallet](https://github.com/NemProject/NanoWallet) by [NemProject](https://github.com/NemProject)  
 👛  
 [https://github.com/NemProject/NanoWallet](https://github.com/NemProject/NanoWallet)  
-0.97 stars per week over 294 weeks  
-285 stars, 4 forks, 1 watches  
-created 2016-10-29, last commit 2022-03-25, main language JavaScript  
+0.94 stars per week over 301 weeks  
+284 stars, 4 forks, 1 watches  
+created 2016-10-29, last commit 2022-08-01, main language JavaScript  
 
 
-This file was automatically generated on 2022-06-20.  
+This file was automatically generated on 2022-08-12.  
 
 To curate your own github list, simply clone and change the input csv file.  

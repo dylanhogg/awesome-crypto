@@ -9,21 +9,21 @@ Checkout the interactive version that you can filter and sort:
 Create Ethereum-powered apps with one command  
 [https://www.npmjs.com/package/create-eth-app](https://www.npmjs.com/package/create-eth-app)  
 [https://github.com/paulrberg/create-eth-app](https://github.com/paulrberg/create-eth-app)  
-17 stars per week over 127 weeks  
-2,237 stars, 365 forks, 53 watches  
+17 stars per week over 134 weeks  
+2,327 stars, 383 forks, 56 watches  
 created 2020-01-13, last commit 2022-04-21, main language JavaScript  
 <sub><sup>create-react-app, ethereum, graphql, react, the-graph, yarn, yarn-workspaces</sup></sub>
 
 
-### [solidity-template](https://github.com/paulrberg/solidity-template) by [paulrberg](https://github.com/paulrberg)  
-Combines Hardhat, TypeChain, Ethers, Waffle, Solhint, Solcover and Prettier  
+### [hardhat-template](https://github.com/paulrberg/solidity-template) by [paulrberg](https://github.com/paulrberg)  
+Hardhat-based template for developing Solidity smart contracts  
 [https://github.com/paulrberg/solidity-template](https://github.com/paulrberg/solidity-template)  
-13 stars per week over 102 weeks  
-1,418 stars, 415 forks, 27 watches  
-created 2020-07-06, last commit 2022-06-16, main language TypeScript  
-<sub><sup>ethereum, ethers, ethersjs, hardhat, smart-contracts, solidity, typechain, typescript, waffle</sup></sub>
+13 stars per week over 109 weeks  
+1,506 stars, 447 forks, 27 watches  
+created 2020-07-06, last commit 2022-08-10, main language TypeScript  
+<sub><sup>blockchain, ethereum, ethers, hardhat, smart-contracts, solidity, template, typechain, typescript</sup></sub>
 
 
-This file was automatically generated on 2022-06-20.  
+This file was automatically generated on 2022-08-12.  
 
 To curate your own github list, simply clone and change the input csv file.  
