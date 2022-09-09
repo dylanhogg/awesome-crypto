@@ -1,4 +1,4 @@
-const version = "v0.0.10";
+const version = "v0.0.11";
 const ms_per_day = 1000 * 60 * 60 * 24;
 
 function dateDiffInWeeks(a, b) {
@@ -51,6 +51,7 @@ $(document).ready( function () {
             var cnt = this.api().data().length.toString().replace(/\B(?=(\d{3})+(?!\d))/g, ",");
             $('#count').text(cnt);
         },
+        responsive: true,
         order: [[ 6, "desc" ]],
         columnDefs: [{ targets:"_all", orderSequence: ["desc", "asc"] }],
         paging: true,
@@ -63,7 +64,14 @@ $(document).ready( function () {
         // dom: 'lfrtip',  // Default. https://datatables.net/reference/option/dom
         dom: 'frtilp',
         columns: [
-          { title: "Symbol",
+          { data: null,
+            title: "Github<br />Organisation <img src='img/org.png' class='github-img' />",
+            render: function(data, type, row, meta) {
+                return "<img src='img/org.png' class='github-img' />&nbsp;<a href='https://github.com/" + row.org + "'>" + row.org + "</a>";
+            }
+          },
+          { data: null,
+            title: "Symbol",
             render: function(data, type, row, meta) {
                 if (row.ticker == null || row.cmc_name == null) {
                     return ""
@@ -73,13 +81,9 @@ $(document).ready( function () {
             }
           },
           { data: "market_cap_usd_mil", title: "Market<br />Cap USD", className: "text-nowrap", render: $.fn.dataTable.render.number(',', '.', 0, '', 'M') },
-          { title: "Github<br />Organisation <img src='img/org.png' class='github-img' />",
-            render: function(data, type, row, meta) {
-                return "<img src='img/org.png' class='github-img' />&nbsp;<a href='https://github.com/" + row.org + "'>" + row.org + "</a>";
-            }
-          },
           { data: "repo_count", title: "Project<br />Count" },
-          { title: "Top Projects<br />by Stars <img src='img/star.png' class='github-img' />",
+          { data: null,
+            title: "Top Projects<br />by Stars <img src='img/star.png' class='github-img' />",
             render: function(data, type, row, meta) {
                 var repos = row.repopath_first5.split(",");
                 var repos_links = repos.map(repo =>
@@ -93,7 +97,8 @@ $(document).ready( function () {
           { data: "stars_sum", title: "Sum of<br />Stars", className: "text-nowrap", render: $.fn.dataTable.render.number(',', '.', 0) },
           //{ data: "stars_per_week_max", title: "Stars/wk<br />(max)", className: "text-nowrap", render: $.fn.dataTable.render.number(',', '.', 0) },
           { data: "stars_per_week_sum", title: "Sum of<br />Stars/week", className: "text-nowrap", render: $.fn.dataTable.render.number(',', '.', 0) },
-          { title: "Project Age<br />Histogram",
+          { data: null,
+            title: "Project Age<br />Histogram",
             render: function(data, type, row, meta) {
                 return row.age_weeks_hist + " weeks";
             }
@@ -117,6 +122,7 @@ $(document).ready( function () {
           },
         ],
     });
+    // End Github orgainisation table
 
     // Github repository table
     $("#repo-table").DataTable( {
@@ -129,6 +135,7 @@ $(document).ready( function () {
             var cnt = this.api().data().length.toString().replace(/\B(?=(\d{3})+(?!\d))/g, ",");
             $('#count').text(cnt);
         },
+        responsive: true,
         order: [[ 4, "desc" ]],
         columnDefs: [{ targets:"_all", orderSequence: ["desc", "asc"] }],
         paging: true,
@@ -141,18 +148,7 @@ $(document).ready( function () {
         // dom: 'lfrtip',  // Default. https://datatables.net/reference/option/dom
         dom: 'frtilp',
         columns: [
-          { data: "_readme_localurl", title: "",
-            orderable: false,
-            render: function(data, type, row, meta) {
-                if (data.length > 0) {
-                    var url = "/data/" + data + "";
-                    return "<img src='img/info2.png' alt='info' class='modal-ajax info-img' href='#' data-localurl='"+url+"' data-ext='.html' data-title='' data-replace-lf='false'></img>";
-                } else {
-                    return "";
-                }
-            }
-          },
-          //{ data: "category", title: "Category" },
+          // { data: "category", title: "Category" },
 //          { data: "_organization", title: "Organisation",
 //            render: function(data, type, row, meta) {
 //                return "<a href='https://github.com/" + data + "'>" + data.toLowerCase() + "</a>";
@@ -170,7 +166,8 @@ $(document).ready( function () {
                 return "<div class='text-wrap description-column'>" + desc + "</div>";
             }
           },
-          { title: "Links",
+          { data: null,
+            title: "Links",
             render: function(data, type, row, meta) {
                 var orgUrl = "<a href='https://github.com/" + row._organization + "' target='_blank'>" + "<img src='img/org.png' class='github-img'></img></a>&nbsp;<a href='https://github.com/" + row._organization + "'>" + row._organization.toLowerCase() + "</a>";
                 var repoUrl = "<br /><a href='" + row.githuburl + "' target='_blank'>" + "<img src='img/repo.png' class='github-img'></img></a>&nbsp;<a href='" + row.githuburl + "'>" + row._reponame.toLowerCase() + "</a>";
@@ -212,11 +209,23 @@ $(document).ready( function () {
             }
           },
           { data: "_language", title: "Primary<br />Language" },
-//          { data: "_topics", title: "Tags",
-//            render: function(data, type, row, meta) { return data.join(", "); }
-//          },
+          { data: "_topics", title: "Tags",
+            render: function(data, type, row, meta) { return data.slice(0, 6).join(", "); }
+          },
+          { data: "_readme_localurl", title: "Docs",
+            orderable: false,
+            render: function(data, type, row, meta) {
+                if (data.length > 0) {
+                    var url = "/data/" + data + "";
+                    return "<img src='img/info2.png' alt='info' class='modal-ajax info-img' href='#' data-localurl='"+url+"' data-ext='.html' data-title='' data-replace-lf='false'></img>";
+                } else {
+                    return "";
+                }
+            }
+          },
         ],
     });
+    // End Github repository table
 
     $("#repo-table").on('click', '.modal-ajax', function(e) {
         var localurl = $(this).data('localurl') + $(this).data('ext');
