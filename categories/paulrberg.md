@@ -9,21 +9,21 @@ Checkout the interactive version that you can filter and sort:
 Create Ethereum-powered apps with one command  
 [https://www.npmjs.com/package/create-eth-app](https://www.npmjs.com/package/create-eth-app)  
 [https://github.com/paulrberg/create-eth-app](https://github.com/paulrberg/create-eth-app)  
-17 stars per week over 134 weeks  
-2,327 stars, 383 forks, 56 watches  
-created 2020-01-13, last commit 2022-04-21, main language JavaScript  
+16 stars per week over 145 weeks  
+2,419 stars, 417 forks, 55 watches  
+created 2020-01-13, last commit 2022-09-25, main language JavaScript  
 <sub><sup>create-react-app, ethereum, graphql, react, the-graph, yarn, yarn-workspaces</sup></sub>
 
 
 ### [hardhat-template](https://github.com/paulrberg/solidity-template) by [paulrberg](https://github.com/paulrberg)  
 Hardhat-based template for developing Solidity smart contracts  
 [https://github.com/paulrberg/solidity-template](https://github.com/paulrberg/solidity-template)  
-13 stars per week over 109 weeks  
-1,506 stars, 447 forks, 27 watches  
-created 2020-07-06, last commit 2022-08-10, main language TypeScript  
+13 stars per week over 120 weeks  
+1,613 stars, 468 forks, 31 watches  
+created 2020-07-06, last commit 2022-10-17, main language TypeScript  
 <sub><sup>blockchain, ethereum, ethers, hardhat, smart-contracts, solidity, template, typechain, typescript</sup></sub>
 
 
-This file was automatically generated on 2022-08-12.  
+This file was automatically generated on 2022-10-30.  
 
 To curate your own github list, simply clone and change the input csv file.  

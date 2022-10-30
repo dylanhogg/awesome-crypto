@@ -9,12 +9,12 @@ Checkout the interactive version that you can filter and sort:
 System-wide Web3 for macOS, Windows and Linux  
 [https://frame.sh](https://frame.sh)  
 [https://github.com/floating/frame](https://github.com/floating/frame)  
-2.81 stars per week over 231 weeks  
-648 stars, 86 forks, 21 watches  
+2.87 stars per week over 242 weeks  
+696 stars, 94 forks, 22 watches  
 created 2018-03-09, last commit 2022-07-25, main language JavaScript  
 <sub><sup>dapp, ethereum, ledger, provider, trezor, web3</sup></sub>
 
 
-This file was automatically generated on 2022-08-12.  
+This file was automatically generated on 2022-10-30.  
 
 To curate your own github list, simply clone and change the input csv file.  

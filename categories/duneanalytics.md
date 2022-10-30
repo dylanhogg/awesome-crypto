@@ -5,31 +5,31 @@ Checkout the interactive version that you can filter and sort:
 [https://www.awesomecrypto.xyz/](https://www.awesomecrypto.xyz/)  
 
 
-### [abstractions](https://github.com/duneanalytics/abstractions) by [duneanalytics](https://github.com/duneanalytics)  
+### [spellbook](https://github.com/duneanalytics/spellbook) by [duneanalytics](https://github.com/duneanalytics)  
 SQL views for Dune  
-[https://github.com/duneanalytics/abstractions](https://github.com/duneanalytics/abstractions)  
-3.75 stars per week over 132 weeks  
-495 stars, 391 forks, 20 watches  
-created 2020-01-31, last commit 2022-08-11, main language PLpgSQL  
+[https://github.com/duneanalytics/spellbook](https://github.com/duneanalytics/spellbook)  
+4.0 stars per week over 143 weeks  
+573 stars, 512 forks, 25 watches  
+created 2020-01-31, last commit 2022-10-28, main language PLpgSQL  
+
+
+### [docs](https://github.com/duneanalytics/docs) by [duneanalytics](https://github.com/duneanalytics)  
+Documentation for Dune  
+[https://dune.com/docs](https://dune.com/docs)  
+[https://github.com/duneanalytics/docs](https://github.com/duneanalytics/docs)  
+1.09 stars per week over 83 weeks  
+91 stars, 72 forks, 15 watches  
+created 2021-03-25, last commit 2022-10-29, main language HTML  
 
 
 ### [projects](https://github.com/duneanalytics/projects) by [duneanalytics](https://github.com/duneanalytics)  
   
 [https://github.com/duneanalytics/projects](https://github.com/duneanalytics/projects)  
-0.6 stars per week over 100 weeks  
-60 stars, 101 forks, 12 watches  
-created 2020-09-09, last commit 2022-06-29, main language JavaScript  
+0.56 stars per week over 111 weeks  
+62 stars, 114 forks, 12 watches  
+created 2020-09-09, last commit 2022-10-20, main language JavaScript  
 
 
-### [docs](https://github.com/duneanalytics/docs) by [duneanalytics](https://github.com/duneanalytics)  
-Documentation for Dune  
-[https://docs.duneanalytics.com](https://docs.duneanalytics.com)  
-[https://github.com/duneanalytics/docs](https://github.com/duneanalytics/docs)  
-0.67 stars per week over 72 weeks  
-48 stars, 32 forks, 13 watches  
-created 2021-03-25, last commit 2022-08-10, main language None  
-
-
-This file was automatically generated on 2022-08-12.  
+This file was automatically generated on 2022-10-30.  
 
 To curate your own github list, simply clone and change the input csv file.  

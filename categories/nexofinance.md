@@ -9,11 +9,11 @@ Checkout the interactive version that you can filter and sort:
 Ethereum Smart Contract for NEXO ERC20 Token  
 [https://nexo.io](https://nexo.io)  
 [https://github.com/nexofinance/NEXO-Token](https://github.com/nexofinance/NEXO-Token)  
-0.39 stars per week over 225 weeks  
-89 stars, 50 forks, 20 watches  
+0.39 stars per week over 236 weeks  
+93 stars, 51 forks, 21 watches  
 created 2018-04-17, last commit 2018-04-20, main language JavaScript  
 
 
-This file was automatically generated on 2022-08-12.  
+This file was automatically generated on 2022-10-30.  
 
 To curate your own github list, simply clone and change the input csv file.  

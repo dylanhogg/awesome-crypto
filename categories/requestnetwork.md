@@ -9,16 +9,16 @@ Checkout the interactive version that you can filter and sort:
 A JavaScript library for interacting with the Request Network protocol  
 [https://docs.request.network/](https://docs.request.network/)  
 [https://github.com/RequestNetwork/requestNetwork](https://github.com/RequestNetwork/requestNetwork)  
-1.41 stars per week over 248 weeks  
-350 stars, 55 forks, 45 watches  
-created 2017-11-07, last commit 2022-08-11, main language TypeScript  
+1.37 stars per week over 259 weeks  
+356 stars, 56 forks, 44 watches  
+created 2017-11-07, last commit 2022-10-27, main language TypeScript  
 <sub><sup>ethereum, protocol, request, request-network</sup></sub>
 
 
 ### [Request_SmartContracts](https://github.com/RequestNetwork/Request_SmartContracts) by [RequestNetwork](https://github.com/RequestNetwork)  
 *DEPRECATED*   
 [https://github.com/RequestNetwork/Request_SmartContracts](https://github.com/RequestNetwork/Request_SmartContracts)  
-0.44 stars per week over 264 weeks  
+0.42 stars per week over 275 weeks  
 117 stars, 9 forks, 33 watches  
 created 2017-07-17, last commit 2018-03-05, main language JavaScript  
 
@@ -26,7 +26,7 @@ created 2017-07-17, last commit 2018-03-05, main language JavaScript
 ### [RequestTokenSale](https://github.com/RequestNetwork/RequestTokenSale) by [RequestNetwork](https://github.com/RequestNetwork)  
   
 [https://github.com/RequestNetwork/RequestTokenSale](https://github.com/RequestNetwork/RequestTokenSale)  
-0.26 stars per week over 255 weeks  
+0.25 stars per week over 266 weeks  
 67 stars, 20 forks, 15 watches  
 created 2017-09-20, last commit 2018-02-05, main language JavaScript  
 
@@ -34,7 +34,7 @@ created 2017-09-20, last commit 2018-02-05, main language JavaScript
 ### [RequestVesting](https://github.com/RequestNetwork/RequestVesting) by [RequestNetwork](https://github.com/RequestNetwork)  
   
 [https://github.com/RequestNetwork/RequestVesting](https://github.com/RequestNetwork/RequestVesting)  
-0.23 stars per week over 253 weeks  
+0.22 stars per week over 264 weeks  
 58 stars, 7 forks, 15 watches  
 created 2017-10-05, last commit 2020-02-28, main language JavaScript  
 
@@ -42,11 +42,11 @@ created 2017-10-05, last commit 2020-02-28, main language JavaScript
 ### [Request](https://github.com/RequestNetwork/Request) by [RequestNetwork](https://github.com/RequestNetwork)  
 The Request repository aim to gather content available for Request. This includes wikis, documentation, press material...  
 [https://github.com/RequestNetwork/Request](https://github.com/RequestNetwork/Request)  
-0.05 stars per week over 241 weeks  
+0.04 stars per week over 252 weeks  
 11 stars, 4 forks, 7 watches  
 created 2017-12-28, last commit 2019-02-21, main language None  
 
 
-This file was automatically generated on 2022-08-12.  
+This file was automatically generated on 2022-10-30.  
 
 To curate your own github list, simply clone and change the input csv file.  

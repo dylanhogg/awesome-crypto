@@ -9,9 +9,9 @@ Checkout the interactive version that you can filter and sort:
 Complete Ethereum library and wallet implementation in JavaScript.  
 [https://ethers.org/](https://ethers.org/)  
 [https://github.com/ethers-io/ethers.js](https://github.com/ethers-io/ethers.js)  
-17 stars per week over 316 weeks  
-5,445 stars, 1,198 forks, 92 watches  
-created 2016-07-16, last commit 2022-06-18, main language TypeScript  
+17 stars per week over 328 weeks  
+5,861 stars, 1,295 forks, 102 watches  
+created 2016-07-16, last commit 2022-10-19, main language TypeScript  
 <sub><sup>ethereum, ethers, javascript, typescript</sup></sub>
 
 
@@ -19,8 +19,8 @@ created 2016-07-16, last commit 2022-06-18, main language TypeScript
 Ethereum Wallet and Dapp Browser for iOS.  
 [https://itunes.apple.com/us/app/ethers-wallet/id1186052971?mt=8](https://itunes.apple.com/us/app/ethers-wallet/id1186052971?mt=8)  
 [https://github.com/ethers-io/EthersWallet-ios](https://github.com/ethers-io/EthersWallet-ios)  
-1.02 stars per week over 287 weeks  
-292 stars, 79 forks, 22 watches  
+0.98 stars per week over 298 weeks  
+292 stars, 81 forks, 22 watches  
 created 2017-02-08, last commit 2018-01-31, main language Objective-C  
 <sub><sup>ethereum, ios, wallet</sup></sub>
 
@@ -28,8 +28,8 @@ created 2017-02-08, last commit 2018-01-31, main language Objective-C
 ### [ethers.objc](https://github.com/ethers-io/ethers.objc) by [ethers-io](https://github.com/ethers-io)  
 Fast, simple and complete library for Ethereum in Objective-C.  
 [https://github.com/ethers-io/ethers.objc](https://github.com/ethers-io/ethers.objc)  
-0.55 stars per week over 287 weeks  
-158 stars, 60 forks, 12 watches  
+0.53 stars per week over 298 weeks  
+159 stars, 60 forks, 12 watches  
 created 2017-02-08, last commit 2018-01-21, main language C  
 <sub><sup>ethereum, objective-c</sup></sub>
 
@@ -38,8 +38,8 @@ created 2017-02-08, last commit 2018-01-21, main language C
 Deprecated; please see `@ethersproject/cli` instead  
 [https://github.com/ethers-io/ethers.js/tree/ethers-v5-beta/packages/cli](https://github.com/ethers-io/ethers.js/tree/ethers-v5-beta/packages/cli)  
 [https://github.com/ethers-io/ethers-ens](https://github.com/ethers-io/ethers-ens)  
-0.19 stars per week over 274 weeks  
-51 stars, 14 forks, 9 watches  
+0.18 stars per week over 285 weeks  
+51 stars, 15 forks, 9 watches  
 created 2017-05-10, last commit 2018-11-29, main language JavaScript  
 <sub><sup>cli, ens, ethereum</sup></sub>
 
@@ -48,15 +48,15 @@ created 2017-05-10, last commit 2018-11-29, main language JavaScript
 Frontend website HTML, JavaScript and CSS for ethers.io.  
 [https://ethers.io](https://ethers.io)  
 [https://github.com/ethers-io/ethers.io](https://github.com/ethers-io/ethers.io)  
-0.13 stars per week over 318 weeks  
-40 stars, 16 forks, 8 watches  
+0.12 stars per week over 329 weeks  
+41 stars, 17 forks, 8 watches  
 created 2016-07-07, last commit 2018-06-07, main language JavaScript  
 
 
 ### [ethers-web3-bridge](https://github.com/ethers-io/ethers-web3-bridge) by [ethers-io](https://github.com/ethers-io)  
 Allow Web3 instances to connect and use Ethers Providers and Signers.  
 [https://github.com/ethers-io/ethers-web3-bridge](https://github.com/ethers-io/ethers-web3-bridge)  
-0.08 stars per week over 234 weeks  
+0.07 stars per week over 245 weeks  
 18 stars, 11 forks, 3 watches  
 created 2018-02-14, last commit 2021-05-01, main language JavaScript  
 
@@ -65,7 +65,7 @@ created 2018-02-14, last commit 2021-05-01, main language JavaScript
 Deprecated; please see the `@ethersproject/cli` package instead  
 [https://github.com/ethers-io/ethers.js/tree/ethers-v5-beta/packages/cli](https://github.com/ethers-io/ethers.js/tree/ethers-v5-beta/packages/cli)  
 [https://github.com/ethers-io/ethers-cli](https://github.com/ethers-io/ethers-cli)  
-0.06 stars per week over 277 weeks  
+0.06 stars per week over 288 weeks  
 17 stars, 11 forks, 3 watches  
 created 2017-04-21, last commit 2019-02-28, main language HTML  
 <sub><sup>cli, ethereum, ethers</sup></sub>
@@ -74,8 +74,8 @@ created 2017-04-21, last commit 2019-02-28, main language HTML
 ### [tutorial-simplestore](https://github.com/ethers-io/tutorial-simplestore) by [ethers-io](https://github.com/ethers-io)  
 Tutorial for creating a simple storage contract using Ethers.  
 [https://github.com/ethers-io/tutorial-simplestore](https://github.com/ethers-io/tutorial-simplestore)  
-0.06 stars per week over 226 weeks  
-14 stars, 10 forks, 4 watches  
+0.06 stars per week over 237 weeks  
+15 stars, 11 forks, 4 watches  
 created 2018-04-09, last commit 2018-04-15, main language JavaScript  
 
 
@@ -83,11 +83,11 @@ created 2018-04-09, last commit 2018-04-15, main language JavaScript
 Deprecated; please see `@ethersproject/hardware-wallets` instead  
 [https://github.com/ethers-io/ethers.js/tree/ethers-v5-beta/packages/hardware-wallets](https://github.com/ethers-io/ethers.js/tree/ethers-v5-beta/packages/hardware-wallets)  
 [https://github.com/ethers-io/ethers-ledger](https://github.com/ethers-io/ethers-ledger)  
-0.07 stars per week over 212 weeks  
+0.06 stars per week over 223 weeks  
 14 stars, 10 forks, 4 watches  
 created 2018-07-18, last commit 2018-10-03, main language JavaScript  
 
 
-This file was automatically generated on 2022-08-12.  
+This file was automatically generated on 2022-10-30.  
 
 To curate your own github list, simply clone and change the input csv file.  

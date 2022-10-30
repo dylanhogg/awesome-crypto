@@ -8,17 +8,17 @@ Checkout the interactive version that you can filter and sort:
 ### [kava](https://github.com/Kava-Labs/kava) by [Kava-Labs](https://github.com/Kava-Labs)  
 DeFi for Crypto.  
 [https://github.com/Kava-Labs/kava](https://github.com/Kava-Labs/kava)  
-1.64 stars per week over 220 weeks  
-363 stars, 255 forks, 36 watches  
-created 2018-05-19, last commit 2022-07-28, main language Go  
+1.62 stars per week over 232 weeks  
+376 stars, 261 forks, 35 watches  
+created 2018-05-19, last commit 2022-10-28, main language Go  
 <sub><sup>blockchain, cosmos-sdk, cryptocurrency, go</sup></sub>
 
 
 ### [switch](https://github.com/Kava-Labs/switch) by [Kava-Labs](https://github.com/Kava-Labs)  
 Swap BTC, ETH, DAI & XRP in seconds. Keep your private keys private.  
 [https://github.com/Kava-Labs/switch](https://github.com/Kava-Labs/switch)  
-0.44 stars per week over 177 weeks  
-78 stars, 34 forks, 12 watches  
+0.42 stars per week over 188 weeks  
+79 stars, 34 forks, 13 watches  
 created 2019-03-19, last commit 2019-06-11, main language Vue  
 <sub><sup>btc, ethereum, exchange, ilp, interledger, lightning, micropayments, streaming, trade, wallet, xrp</sup></sub>
 
@@ -26,7 +26,7 @@ created 2019-03-19, last commit 2019-06-11, main language Vue
 ### [kava-devnet](https://github.com/Kava-Labs/kava-devnet) by [Kava-Labs](https://github.com/Kava-Labs)  
 Research and Technical Specification for the Kava Blockchain  
 [https://github.com/Kava-Labs/kava-devnet](https://github.com/Kava-Labs/kava-devnet)  
-0.19 stars per week over 176 weeks  
+0.18 stars per week over 187 weeks  
 34 stars, 11 forks, 9 watches  
 created 2019-03-27, last commit 2019-10-17, main language Go  
 
@@ -34,24 +34,24 @@ created 2019-03-27, last commit 2019-10-17, main language Go
 ### [ilp-sdk](https://github.com/Kava-Labs/ilp-sdk) by [Kava-Labs](https://github.com/Kava-Labs)  
 Stream Interledger payments between Lightning, Ethereum and XRP  
 [https://github.com/Kava-Labs/ilp-sdk](https://github.com/Kava-Labs/ilp-sdk)  
-0.14 stars per week over 200 weeks  
-29 stars, 12 forks, 7 watches  
+0.14 stars per week over 211 weeks  
+29 stars, 13 forks, 7 watches  
 created 2018-10-12, last commit 2019-06-10, main language TypeScript  
 
 
 ### [kava-testnets](https://github.com/Kava-Labs/kava-testnets) by [Kava-Labs](https://github.com/Kava-Labs)  
 Kava Testnets  
 [https://github.com/Kava-Labs/kava-testnets](https://github.com/Kava-Labs/kava-testnets)  
-0.18 stars per week over 159 weeks  
+0.16 stars per week over 170 weeks  
 28 stars, 218 forks, 7 watches  
-created 2019-07-25, last commit 2022-06-09, main language None  
+created 2019-07-25, last commit 2022-10-13, main language None  
 
 
 ### [cosmos-paychan](https://github.com/Kava-Labs/cosmos-paychan) by [Kava-Labs](https://github.com/Kava-Labs)  
 A Cosmos SDK module to add payment channels to any blockchain built using the SDK.  
 [https://github.com/Kava-Labs/cosmos-paychan](https://github.com/Kava-Labs/cosmos-paychan)  
-0.09 stars per week over 165 weeks  
-15 stars, 5 forks, 5 watches  
+0.08 stars per week over 176 weeks  
+15 stars, 4 forks, 5 watches  
 created 2019-06-10, last commit 2019-06-10, main language Go  
 <sub><sup>blockchain, cosmos-sdk, cryptocurrency, go</sup></sub>
 
@@ -59,11 +59,11 @@ created 2019-06-10, last commit 2019-06-10, main language Go
 ### [javascript-sdk](https://github.com/Kava-Labs/javascript-sdk) by [Kava-Labs](https://github.com/Kava-Labs)  
 JavaScript SDK to communicate with Kava.  
 [https://github.com/Kava-Labs/javascript-sdk](https://github.com/Kava-Labs/javascript-sdk)  
-0.11 stars per week over 123 weeks  
+0.1 stars per week over 134 weeks  
 13 stars, 6 forks, 10 watches  
-created 2020-03-30, last commit 2022-05-26, main language TypeScript  
+created 2020-03-30, last commit 2022-10-07, main language TypeScript  
 
 
-This file was automatically generated on 2022-08-12.  
+This file was automatically generated on 2022-10-30.  
 
 To curate your own github list, simply clone and change the input csv file.  
