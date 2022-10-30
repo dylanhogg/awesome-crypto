@@ -35,8 +35,8 @@ $(document).ready( function () {
 
     if (location.hostname === "localhost" || location.hostname === "127.0.0.1") {
         // Use local testing json data
-        ajax_url_orgs = '/github_data_org.json';
-        ajax_url_repos = '/github_data.json';
+        ajax_url_orgs = '/github_data_org.json?v=1.0';
+        ajax_url_repos = '/github_data.json?v=1.0';
     }
 
     var initialSearchTerm = getUrlQuery();
