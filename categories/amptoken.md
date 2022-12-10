@@ -8,11 +8,11 @@ Checkout the interactive version that you can filter and sort:
 ### [amp-token-contracts](https://github.com/amptoken/amp-token-contracts) by [amptoken](https://github.com/amptoken)  
 A digital collateral token designed to facilitate fast and efficient value transfer  
 [https://github.com/amptoken/amp-token-contracts](https://github.com/amptoken/amp-token-contracts)  
-0.41 stars per week over 115 weeks  
-47 stars, 18 forks, 18 watches  
+0.4 stars per week over 121 weeks  
+48 stars, 18 forks, 18 watches  
 created 2020-08-10, last commit 2020-12-04, main language JavaScript  
 
 
-This file was automatically generated on 2022-10-30.  
+This file was automatically generated on 2022-12-08.  
 
 To curate your own github list, simply clone and change the input csv file.  

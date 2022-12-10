@@ -9,79 +9,79 @@ Checkout the interactive version that you can filter and sort:
 Crypto.org Chain⛓: Croeseid Testnet and beyond development  
 [https://crypto.org](https://crypto.org)  
 [https://github.com/crypto-org-chain/chain-main](https://github.com/crypto-org-chain/chain-main)  
-3.76 stars per week over 112 weeks  
-424 stars, 321 forks, 47 watches  
-created 2020-09-01, last commit 2022-10-19, main language Go  
+3.67 stars per week over 118 weeks  
+434 stars, 332 forks, 49 watches  
+created 2020-09-01, last commit 2022-12-06, main language Go  
 <sub><sup>chain, cosmos-sdk, cro, crypto, go, golang, tendermint</sup></sub>
 
 
 ### [cronos](https://github.com/crypto-org-chain/cronos) by [crypto-org-chain](https://github.com/crypto-org-chain)  
 Cronos is the first Ethereum-compatible blockchain network built on Cosmos SDK technology. Cronos aims to massively scale the DeFi, GameFi, and overall Web3 user community by providing builders with the ability to instantly port apps and crypto assets from other chains while benefiting from low transaction fees, high throughput, and fast finality.  
 [https://github.com/crypto-org-chain/cronos](https://github.com/crypto-org-chain/cronos)  
-3.22 stars per week over 66 weeks  
-214 stars, 179 forks, 22 watches  
-created 2021-07-22, last commit 2022-10-28, main language TypeScript  
+3.06 stars per week over 72 weeks  
+220 stars, 185 forks, 24 watches  
+created 2021-07-22, last commit 2022-12-05, main language TypeScript  
 <sub><sup>blockchain, cosmos-sdk, ethermint, evm</sup></sub>
-
-
-### [cassini](https://github.com/crypto-org-chain/cassini) by [crypto-org-chain](https://github.com/crypto-org-chain)  
-Cassini - Cronos Incentivised Testnet  
-[https://github.com/crypto-org-chain/cassini](https://github.com/crypto-org-chain/cassini)  
-0.62 stars per week over 56 weeks  
-35 stars, 46 forks, 11 watches  
-created 2021-09-28, last commit 2021-12-22, main language None  
 
 
 ### [chain-docs](https://github.com/crypto-org-chain/chain-docs) by [crypto-org-chain](https://github.com/crypto-org-chain)  
 Docs for http://github.com/crypto-com/chain-main/  
 [http://chain.crypto.com/docs/](http://chain.crypto.com/docs/)  
 [https://github.com/crypto-org-chain/chain-docs](https://github.com/crypto-org-chain/chain-docs)  
-0.31 stars per week over 112 weeks  
-35 stars, 50 forks, 6 watches  
-created 2020-09-03, last commit 2022-10-26, main language Shell  
+0.31 stars per week over 118 weeks  
+36 stars, 49 forks, 6 watches  
+created 2020-09-03, last commit 2022-12-07, main language Shell  
+
+
+### [cassini](https://github.com/crypto-org-chain/cassini) by [crypto-org-chain](https://github.com/crypto-org-chain)  
+Cassini - Cronos Incentivised Testnet  
+[https://github.com/crypto-org-chain/cassini](https://github.com/crypto-org-chain/cassini)  
+0.55 stars per week over 62 weeks  
+34 stars, 46 forks, 11 watches  
+created 2021-09-28, last commit 2021-12-22, main language None  
 
 
 ### [chain-jslib](https://github.com/crypto-org-chain/chain-jslib) by [crypto-org-chain](https://github.com/crypto-org-chain)  
   
 [https://github.com/crypto-org-chain/chain-jslib](https://github.com/crypto-org-chain/chain-jslib)  
-0.25 stars per week over 112 weeks  
-28 stars, 14 forks, 6 watches  
-created 2020-09-03, last commit 2022-07-26, main language TypeScript  
+0.25 stars per week over 118 weeks  
+29 stars, 15 forks, 6 watches  
+created 2020-09-03, last commit 2022-11-23, main language TypeScript  
 
 
 ### [cronos-docs](https://github.com/crypto-org-chain/cronos-docs) by [crypto-org-chain](https://github.com/crypto-org-chain)  
 Docs for https://github.com/crypto-org-chain/cronos  
 [https://github.com/crypto-org-chain/cronos-docs](https://github.com/crypto-org-chain/cronos-docs)  
 [https://github.com/crypto-org-chain/cronos-docs](https://github.com/crypto-org-chain/cronos-docs)  
-0.37 stars per week over 67 weeks  
-25 stars, 31 forks, 2 watches  
-created 2021-07-12, last commit 2022-10-12, main language Shell  
+0.33 stars per week over 73 weeks  
+24 stars, 32 forks, 2 watches  
+created 2021-07-12, last commit 2022-12-01, main language Shell  
 
 
 ### [awesome](https://github.com/crypto-org-chain/awesome) by [crypto-org-chain](https://github.com/crypto-org-chain)  
 Collections of awesome Crypto.com Chain related projects  
 [https://github.com/crypto-org-chain/awesome](https://github.com/crypto-org-chain/awesome)  
-0.21 stars per week over 93 weeks  
-20 stars, 13 forks, 7 watches  
+0.2 stars per week over 99 weeks  
+20 stars, 14 forks, 7 watches  
 created 2021-01-13, last commit 2022-06-28, main language None  
 
 
 ### [mainnet](https://github.com/crypto-org-chain/mainnet) by [crypto-org-chain](https://github.com/crypto-org-chain)  
   
 [https://github.com/crypto-org-chain/mainnet](https://github.com/crypto-org-chain/mainnet)  
-0.18 stars per week over 84 weeks  
+0.17 stars per week over 90 weeks  
 15 stars, 8 forks, 5 watches  
-created 2021-03-15, last commit 2022-05-31, main language Shell  
+created 2021-03-15, last commit 2022-11-16, main language Shell  
 
 
 ### [cronos-blockscout](https://github.com/crypto-org-chain/cronos-blockscout) by [crypto-org-chain](https://github.com/crypto-org-chain)  
   
 [https://github.com/crypto-org-chain/cronos-blockscout](https://github.com/crypto-org-chain/cronos-blockscout)  
-0.23 stars per week over 66 weeks  
-15 stars, 14 forks, 6 watches  
-created 2021-07-22, last commit 2022-08-12, main language Elixir  
+0.19 stars per week over 72 weeks  
+14 stars, 14 forks, 6 watches  
+created 2021-07-22, last commit 2022-11-07, main language Elixir  
 
 
-This file was automatically generated on 2022-10-30.  
+This file was automatically generated on 2022-12-08.  
 
 To curate your own github list, simply clone and change the input csv file.  

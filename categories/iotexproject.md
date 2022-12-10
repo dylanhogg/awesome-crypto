@@ -1,5 +1,5 @@
 # Crazy Awesome Crypto
-A list of 15 [iotexproject](https://github.com/iotexproject) project repos ordered by stars.  
+A list of 14 [iotexproject](https://github.com/iotexproject) project repos ordered by stars.  
 
 Checkout the interactive version that you can filter and sort: 
 [https://www.awesomecrypto.xyz/](https://www.awesomecrypto.xyz/)  
@@ -9,26 +9,26 @@ Checkout the interactive version that you can filter and sort:
 Official implementation of IoTeX blockchain protocol in Go.  
 [https://iotex.io](https://iotex.io)  
 [https://github.com/iotexproject/iotex-core](https://github.com/iotexproject/iotex-core)  
-6.08 stars per week over 236 weeks  
-1,437 stars, 292 forks, 102 watches  
-created 2018-04-19, last commit 2022-10-26, main language Go  
+5.97 stars per week over 242 weeks  
+1,445 stars, 292 forks, 102 watches  
+created 2018-04-19, last commit 2022-12-06, main language Go  
 <sub><sup>blockchain, crypto, cryptography, distributed-systems, internet-of-everything, internet-of-things, internet-of-trusted-things, machinefi, privacy</sup></sub>
 
 
 ### [iotex-desktop-wallet](https://github.com/iotexproject/iotex-desktop-wallet) by [iotexproject](https://github.com/iotexproject)  
 IoTeX Desktop Wallet  
 [https://github.com/iotexproject/iotex-desktop-wallet](https://github.com/iotexproject/iotex-desktop-wallet)  
-0.63 stars per week over 210 weeks  
-132 stars, 75 forks, 26 watches  
-created 2018-10-20, last commit 2022-10-24, main language TypeScript  
+0.62 stars per week over 215 weeks  
+133 stars, 76 forks, 27 watches  
+created 2018-10-20, last commit 2022-11-09, main language TypeScript  
 
 
 ### [iotex-bootstrap](https://github.com/iotexproject/iotex-bootstrap) by [iotexproject](https://github.com/iotexproject)  
 Config and instructions for running IoTeX node  
 [https://iotex.io](https://iotex.io)  
 [https://github.com/iotexproject/iotex-bootstrap](https://github.com/iotexproject/iotex-bootstrap)  
-0.43 stars per week over 191 weeks  
-82 stars, 33 forks, 28 watches  
+0.42 stars per week over 197 weeks  
+82 stars, 34 forks, 28 watches  
 created 2019-02-26, last commit 2022-10-21, main language Shell  
 <sub><sup>iotex</sup></sub>
 
@@ -37,16 +37,16 @@ created 2019-02-26, last commit 2022-10-21, main language Shell
 This is a boilerplate template for making your awesome dApp on IoTeX and ETH, BSC, and other EVM compatible chains  
 [https://dappsample.iotex.dev/](https://dappsample.iotex.dev/)  
 [https://github.com/iotexproject/iotex-dapp-sample](https://github.com/iotexproject/iotex-dapp-sample)  
-0.97 stars per week over 74 weeks  
-72 stars, 33 forks, 11 watches  
-created 2021-05-28, last commit 2022-09-26, main language TypeScript  
+0.93 stars per week over 79 weeks  
+74 stars, 33 forks, 11 watches  
+created 2021-05-28, last commit 2022-12-05, main language TypeScript  
 
 
 ### [halogrants](https://github.com/iotexproject/halogrants) by [iotexproject](https://github.com/iotexproject)  
 👟 Apply for a IoTeX Halo Grant. Help build the IoTeX ecosystem!  
 [https://github.com/iotexproject/halogrants](https://github.com/iotexproject/halogrants)  
-0.51 stars per week over 132 weeks  
-68 stars, 47 forks, 17 watches  
+0.51 stars per week over 138 weeks  
+70 stars, 47 forks, 18 watches  
 created 2020-04-16, last commit 2021-11-07, main language None  
 
 
@@ -54,15 +54,15 @@ created 2020-04-16, last commit 2021-11-07, main language None
 IoTeX Decentralized Identifier Protocol  
 [https://iotex.io](https://iotex.io)  
 [https://github.com/iotexproject/iotex-did](https://github.com/iotexproject/iotex-did)  
-0.31 stars per week over 169 weeks  
-53 stars, 11 forks, 13 watches  
+0.32 stars per week over 175 weeks  
+56 stars, 11 forks, 13 watches  
 created 2019-07-29, last commit 2021-07-28, main language Go  
 
 
 ### [iotex-antenna](https://github.com/iotexproject/iotex-antenna) by [iotexproject](https://github.com/iotexproject)  
 IoTeX Javascript SDK  
 [https://github.com/iotexproject/iotex-antenna](https://github.com/iotexproject/iotex-antenna)  
-0.16 stars per week over 193 weeks  
+0.15 stars per week over 198 weeks  
 30 stars, 20 forks, 16 watches  
 created 2019-02-15, last commit 2022-10-18, main language JavaScript  
 
@@ -70,7 +70,7 @@ created 2019-02-15, last commit 2022-10-18, main language JavaScript
 ### [iips](https://github.com/iotexproject/iips) by [iotexproject](https://github.com/iotexproject)  
 IoTeX Improvement Proposals  
 [https://github.com/iotexproject/iips](https://github.com/iotexproject/iips)  
-0.12 stars per week over 179 weeks  
+0.12 stars per week over 185 weeks  
 22 stars, 1 forks, 10 watches  
 created 2019-05-21, last commit 2022-05-26, main language None  
 
@@ -78,7 +78,7 @@ created 2019-05-21, last commit 2022-05-26, main language None
 ### [iotex-token-metadata](https://github.com/iotexproject/iotex-token-metadata) by [iotexproject](https://github.com/iotexproject)  
 A collection of all tokens' metadata on IoTeX blockchain  
 [https://github.com/iotexproject/iotex-token-metadata](https://github.com/iotexproject/iotex-token-metadata)  
-0.16 stars per week over 125 weeks  
+0.15 stars per week over 131 weeks  
 20 stars, 62 forks, 6 watches  
 created 2020-06-04, last commit 2022-07-21, main language JavaScript  
 
@@ -87,7 +87,7 @@ created 2020-06-04, last commit 2022-07-21, main language JavaScript
 The independent service that analyzes data from IoTeX blockchain  
 [https://analytics.iotexscan.io](https://analytics.iotexscan.io)  
 [https://github.com/iotexproject/iotex-analytics](https://github.com/iotexproject/iotex-analytics)  
-0.08 stars per week over 183 weeks  
+0.08 stars per week over 188 weeks  
 15 stars, 14 forks, 17 watches  
 created 2019-04-26, last commit 2022-04-29, main language Go  
 <sub><sup>analytics, blockchain, data, iotex</sup></sub>
@@ -96,45 +96,37 @@ created 2019-04-26, last commit 2022-04-29, main language Go
 ### [iotex-antenna-go](https://github.com/iotexproject/iotex-antenna-go) by [iotexproject](https://github.com/iotexproject)  
 Golang SDK for IoTeX bloclchain  
 [https://github.com/iotexproject/iotex-antenna-go](https://github.com/iotexproject/iotex-antenna-go)  
-0.06 stars per week over 191 weeks  
-11 stars, 14 forks, 15 watches  
+0.06 stars per week over 196 weeks  
+11 stars, 15 forks, 15 watches  
 created 2019-03-01, last commit 2022-08-25, main language Go  
+
+
+### [iotex-pantheon](https://github.com/iotexproject/iotex-pantheon) by [iotexproject](https://github.com/iotexproject)  
+Pantheon - IoTeX Consortium Blockchain  
+[https://github.com/iotexproject/iotex-pantheon](https://github.com/iotexproject/iotex-pantheon)  
+0.07 stars per week over 134 weeks  
+10 stars, 2 forks, 11 watches  
+created 2020-05-08, last commit 2020-09-01, main language Shell  
 
 
 ### [iotex-studio](https://github.com/iotexproject/iotex-studio) by [iotexproject](https://github.com/iotexproject)  
 IDE for developing, deploying and debugging of native IoTeX smart contract  
 [https://ide.iotex.io/](https://ide.iotex.io/)  
 [https://github.com/iotexproject/iotex-studio](https://github.com/iotexproject/iotex-studio)  
-0.07 stars per week over 152 weeks  
+0.06 stars per week over 158 weeks  
 10 stars, 3 forks, 15 watches  
 created 2019-11-25, last commit 2021-04-15, main language Vue  
-
-
-### [iotex-pantheon](https://github.com/iotexproject/iotex-pantheon) by [iotexproject](https://github.com/iotexproject)  
-Pantheon - IoTeX Consortium Blockchain  
-[https://github.com/iotexproject/iotex-pantheon](https://github.com/iotexproject/iotex-pantheon)  
-0.08 stars per week over 129 weeks  
-10 stars, 2 forks, 11 watches  
-created 2020-05-08, last commit 2020-09-01, main language Shell  
-
-
-### [iotex-proto](https://github.com/iotexproject/iotex-proto) by [iotexproject](https://github.com/iotexproject)  
-Protobuf definition for IoTeX transactions, blocks, chain and APIs!  
-[https://github.com/iotexproject/iotex-proto](https://github.com/iotexproject/iotex-proto)  
-0.05 stars per week over 182 weeks  
-10 stars, 14 forks, 10 watches  
-created 2019-05-03, last commit 2022-04-15, main language Go  
 
 
 ### [iotex-docs-old](https://github.com/iotexproject/iotex-docs-old) by [iotexproject](https://github.com/iotexproject)  
 :trumpet: Docs for IoTeX Developer  
 [https://docs.iotex.io/](https://docs.iotex.io/)  
 [https://github.com/iotexproject/iotex-docs-old](https://github.com/iotexproject/iotex-docs-old)  
-0.05 stars per week over 213 weeks  
+0.05 stars per week over 218 weeks  
 10 stars, 17 forks, 18 watches  
 created 2018-09-30, last commit 2021-06-03, main language Shell  
 
 
-This file was automatically generated on 2022-10-30.  
+This file was automatically generated on 2022-12-08.  
 
 To curate your own github list, simply clone and change the input csv file.  

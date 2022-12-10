@@ -6,12 +6,12 @@ Checkout the interactive version that you can filter and sort:
 
 
 ### [asgardex-electron](https://github.com/thorchain/asgardex-electron) by [thorchain](https://github.com/thorchain)  
-||| ASGARDEX Electron App ||| desktop wallet and decentralized exchange for THORChain ||| 100% open-source  
+ASGARDEX desktop wallet and decentralized exchange for THORChain, 100% open-source  
 [https://twitter.com/asgardex](https://twitter.com/asgardex)  
 [https://github.com/thorchain/asgardex-electron](https://github.com/thorchain/asgardex-electron)  
-0.74 stars per week over 132 weeks  
-98 stars, 43 forks, 9 watches  
-created 2020-04-16, last commit 2022-10-27, main language TypeScript  
+0.71 stars per week over 138 weeks  
+98 stars, 44 forks, 10 watches  
+created 2020-04-16, last commit 2022-12-06, main language TypeScript  
 <sub><sup>dex, open-source, thorchain, wallet</sup></sub>
 
 
@@ -19,7 +19,7 @@ created 2020-04-16, last commit 2022-10-27, main language TypeScript
 Resources for the THORChain Project; whitepapers, branding, fonts, logos, documents  
 [https://thorchain.org](https://thorchain.org)  
 [https://github.com/thorchain/Resources](https://github.com/thorchain/Resources)  
-0.34 stars per week over 222 weeks  
+0.33 stars per week over 227 weeks  
 75 stars, 20 forks, 18 watches  
 created 2018-07-28, last commit 2021-12-08, main language None  
 
@@ -28,7 +28,7 @@ created 2018-07-28, last commit 2021-12-08, main language None
 A lightning fast decentralised liquidity protocol.  
 [https://thorchain.org](https://thorchain.org)  
 [https://github.com/thorchain/THORChain-v1](https://github.com/thorchain/THORChain-v1)  
-0.2 stars per week over 222 weeks  
+0.2 stars per week over 227 weeks  
 45 stars, 12 forks, 21 watches  
 created 2018-07-28, last commit 2018-12-23, main language Go  
 
@@ -37,25 +37,25 @@ created 2018-07-28, last commit 2018-12-23, main language Go
 THORChain is a CosmosSDK-powered replicated state machine to coordinate asset movement for ASGARDEX, including processing swaps, stakes and more. THORChain does not peg assets, it simply determines how to move them.  This repository is hosted on GitLab: https://gitlab.com/thorchain/thornode.  
 [https://thorchain.org](https://thorchain.org)  
 [https://github.com/thorchain/thornode](https://github.com/thorchain/thornode)  
-0.32 stars per week over 135 weeks  
-43 stars, 17 forks, 7 watches  
+0.31 stars per week over 140 weeks  
+43 stars, 18 forks, 7 watches  
 created 2020-03-27, last commit 2022-10-03, main language None  
 
 
 ### [docs](https://github.com/thorchain/docs) by [thorchain](https://github.com/thorchain)  
 THORChain Docs  
 [https://github.com/thorchain/docs](https://github.com/thorchain/docs)  
-0.17 stars per week over 120 weeks  
-21 stars, 44 forks, 7 watches  
-created 2020-07-11, last commit 2022-10-26, main language None  
+0.17 stars per week over 125 weeks  
+21 stars, 46 forks, 7 watches  
+created 2020-07-11, last commit 2022-12-01, main language None  
 
 
 ### [bepswap-web-ui](https://github.com/thorchain/bepswap-web-ui) by [thorchain](https://github.com/thorchain)  
 React Front-End for BEPSwap. The frontend allows users to connect Binance Chain wallets, and then swap assets by using the BEPSwap pool address provided by the BEPSwap statechain. A Chain Service is queried for other information.  
 [https://thorchain.org](https://thorchain.org)  
 [https://github.com/thorchain/bepswap-web-ui](https://github.com/thorchain/bepswap-web-ui)  
-0.14 stars per week over 135 weeks  
-19 stars, 16 forks, 6 watches  
+0.12 stars per week over 140 weeks  
+17 stars, 16 forks, 6 watches  
 created 2020-03-27, last commit 2021-06-22, main language TypeScript  
 
 
@@ -63,16 +63,16 @@ created 2020-03-27, last commit 2021-06-22, main language TypeScript
 THORChain TSS Module  
 [https://thorchain.org](https://thorchain.org)  
 [https://github.com/thorchain/thorchain-tss](https://github.com/thorchain/thorchain-tss)  
-0.08 stars per week over 135 weeks  
-11 stars, 13 forks, 8 watches  
-created 2020-03-27, last commit 2022-09-29, main language Go  
+0.09 stars per week over 140 weeks  
+12 stars, 15 forks, 8 watches  
+created 2020-03-27, last commit 2022-11-21, main language Go  
 
 
 ### [bridge-cosmos-eth](https://github.com/thorchain/bridge-cosmos-eth) by [thorchain](https://github.com/thorchain)  
 1-way bridge for Cosmos-Eth  
 [https://github.com/thorchain/bridge-cosmos-eth](https://github.com/thorchain/bridge-cosmos-eth)  
-0.06 stars per week over 175 weeks  
-10 stars, 3 forks, 4 watches  
+0.06 stars per week over 181 weeks  
+10 stars, 5 forks, 4 watches  
 created 2019-06-20, last commit 2019-06-05, main language Go  
 
 
@@ -80,11 +80,11 @@ created 2019-06-20, last commit 2019-06-05, main language Go
 The Midgard Public API queries THORChain and any chains linked via the Bifröst and prepares information about the network to be readily available for public users. The API parses event data from THORChain. Midgard does not hold critical information.  
 [https://thorchain.org](https://thorchain.org)  
 [https://github.com/thorchain/midgard](https://github.com/thorchain/midgard)  
-0.07 stars per week over 135 weeks  
-10 stars, 4 forks, 7 watches  
+0.07 stars per week over 140 weeks  
+10 stars, 5 forks, 7 watches  
 created 2020-03-27, last commit 2020-11-10, main language Go  
 
 
-This file was automatically generated on 2022-10-30.  
+This file was automatically generated on 2022-12-08.  
 
 To curate your own github list, simply clone and change the input csv file.  

@@ -8,24 +8,24 @@ Checkout the interactive version that you can filter and sort:
 ### [imx-contracts](https://github.com/immutable/imx-contracts) by [immutable](https://github.com/immutable)  
 Smart contracts and smart contract utilities for use with Immutable X.  
 [https://github.com/immutable/imx-contracts](https://github.com/immutable/imx-contracts)  
-1.57 stars per week over 70 weeks  
-110 stars, 69 forks, 27 watches  
-created 2021-06-26, last commit 2022-09-21, main language Solidity  
+1.49 stars per week over 75 weeks  
+113 stars, 69 forks, 28 watches  
+created 2021-06-26, last commit 2022-11-02, main language Solidity  
 
 
 ### [imx-starknet](https://github.com/immutable/imx-starknet) by [immutable](https://github.com/immutable)  
 Immutable X on StarkNet  
 [https://github.com/immutable/imx-starknet](https://github.com/immutable/imx-starknet)  
-2.36 stars per week over 25 weeks  
-60 stars, 9 forks, 25 watches  
-created 2022-05-05, last commit 2022-09-23, main language Python  
+2.03 stars per week over 31 weeks  
+63 stars, 9 forks, 23 watches  
+created 2022-05-05, last commit 2022-11-14, main language Python  
 
 
 ### [gods-unchained-api](https://github.com/immutable/gods-unchained-api) by [immutable](https://github.com/immutable)  
 Public developer API documentation for Gods Unchained.   
 [https://github.com/immutable/gods-unchained-api](https://github.com/immutable/gods-unchained-api)  
-0.24 stars per week over 216 weeks  
-51 stars, 10 forks, 24 watches  
+0.22 stars per week over 222 weeks  
+49 stars, 9 forks, 24 watches  
 created 2018-09-04, last commit 2019-07-01, main language None  
 <sub><sup>api, blockchain, blockchain-gaming, ethereum, gods-unchained, tcg</sup></sub>
 
@@ -34,24 +34,24 @@ created 2018-09-04, last commit 2019-07-01, main language None
 The Immutable Core SDK provides convenient access to the Immutable API's and Ethereum contract methods for applications written on the Immutable X platform.  
 [https://docs.x.immutable.com/reference](https://docs.x.immutable.com/reference)  
 [https://github.com/immutable/imx-core-sdk](https://github.com/immutable/imx-core-sdk)  
-1.41 stars per week over 29 weeks  
-42 stars, 12 forks, 22 watches  
-created 2022-04-05, last commit 2022-10-27, main language TypeScript  
+1.28 stars per week over 35 weeks  
+45 stars, 14 forks, 23 watches  
+created 2022-04-05, last commit 2022-12-07, main language TypeScript  
 
 
 ### [imx-reactjs-integration-example](https://github.com/immutable/imx-reactjs-integration-example) by [immutable](https://github.com/immutable)  
 React app to demonstrate basic Immutable X integration flows  
 [https://github.com/immutable/imx-reactjs-integration-example](https://github.com/immutable/imx-reactjs-integration-example)  
-0.67 stars per week over 59 weeks  
-40 stars, 38 forks, 8 watches  
+0.63 stars per week over 64 weeks  
+41 stars, 41 forks, 8 watches  
 created 2021-09-10, last commit 2022-09-22, main language TypeScript  
 
 
 ### [platform-contracts](https://github.com/immutable/platform-contracts) by [immutable](https://github.com/immutable)  
 Smart Contracts for Gods Unchained.   
 [https://github.com/immutable/platform-contracts](https://github.com/immutable/platform-contracts)  
-0.2 stars per week over 157 weeks  
-32 stars, 15 forks, 17 watches  
+0.21 stars per week over 163 weeks  
+34 stars, 15 forks, 17 watches  
 created 2019-10-22, last commit 2021-05-27, main language TypeScript  
 <sub><sup>ethereum, gods-unchained, immutable, solidity, typescript</sup></sub>
 
@@ -59,8 +59,8 @@ created 2019-10-22, last commit 2021-05-27, main language TypeScript
 ### [imx-examples](https://github.com/immutable/imx-examples) by [immutable](https://github.com/immutable)  
 Open source ImmutableX Examples  
 [https://github.com/immutable/imx-examples](https://github.com/immutable/imx-examples)  
-0.54 stars per week over 49 weeks  
-27 stars, 30 forks, 26 watches  
+0.51 stars per week over 55 weeks  
+28 stars, 30 forks, 27 watches  
 created 2021-11-16, last commit 2022-09-20, main language TypeScript  
 
 
@@ -68,12 +68,12 @@ created 2021-11-16, last commit 2022-09-20, main language TypeScript
 A simple, framework agnostic web component to facilitate the display of Gods Unchained card element(s).  
 [https://immutable.github.io/gu-composited-card/](https://immutable.github.io/gu-composited-card/)  
 [https://github.com/immutable/gu-composited-card](https://github.com/immutable/gu-composited-card)  
-0.09 stars per week over 167 weeks  
-15 stars, 5 forks, 14 watches  
+0.09 stars per week over 173 weeks  
+15 stars, 5 forks, 13 watches  
 created 2019-08-15, last commit 2022-05-02, main language TypeScript  
 <sub><sup>card, ethereum, gods-unchained, immutable</sup></sub>
 
 
-This file was automatically generated on 2022-10-30.  
+This file was automatically generated on 2022-12-08.  
 
 To curate your own github list, simply clone and change the input csv file.  

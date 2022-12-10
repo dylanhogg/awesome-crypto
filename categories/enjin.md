@@ -8,15 +8,15 @@ Checkout the interactive version that you can filter and sort:
 ### [erc-1155](https://github.com/enjin/erc-1155) by [enjin](https://github.com/enjin)  
 ERC-1155: Smart Contract Sample Implementation  
 [https://github.com/enjin/erc-1155](https://github.com/enjin/erc-1155)  
-1.66 stars per week over 226 weeks  
-377 stars, 197 forks, 34 watches  
+1.64 stars per week over 232 weeks  
+381 stars, 198 forks, 34 watches  
 created 2018-06-26, last commit 2020-10-04, main language Solidity  
 
 
 ### [contracts](https://github.com/enjin/contracts) by [enjin](https://github.com/enjin)  
 Enjin Coin Contracts  
 [https://github.com/enjin/contracts](https://github.com/enjin/contracts)  
-0.24 stars per week over 270 weeks  
+0.24 stars per week over 276 weeks  
 66 stars, 26 forks, 22 watches  
 created 2017-08-23, last commit 2017-11-02, main language JavaScript  
 
@@ -25,8 +25,8 @@ created 2017-08-23, last commit 2017-11-02, main language JavaScript
 Minecraft plugin for integration with the Enjin Platform.  
 [https://enjin.io/](https://enjin.io/)  
 [https://github.com/enjin/enjincraft](https://github.com/enjin/enjincraft)  
-0.23 stars per week over 246 weeks  
-56 stars, 29 forks, 13 watches  
+0.22 stars per week over 252 weeks  
+56 stars, 28 forks, 13 watches  
 created 2018-02-05, last commit 2022-06-20, main language Java  
 <sub><sup>enjin-coin-platform, enjin-platform, ethereum, gaming, minecraft, minecraft-plugin</sup></sub>
 
@@ -35,8 +35,8 @@ created 2018-02-05, last commit 2022-06-20, main language Java
 Enjin Platform SDK for Java.  
 [https://enjin.io/products/platform](https://enjin.io/products/platform)  
 [https://github.com/enjin/enjin-java-sdk](https://github.com/enjin/enjin-java-sdk)  
-0.15 stars per week over 260 weeks  
-39 stars, 32 forks, 15 watches  
+0.15 stars per week over 266 weeks  
+40 stars, 32 forks, 14 watches  
 created 2017-11-01, last commit 2022-07-19, main language Java  
 <sub><sup>blockchain, blockchain-sdk, enjin-platform, enjin-sdk, java, nft, nfts, non-fungible-tokens, sdk, sdk-java</sup></sub>
 
@@ -45,8 +45,8 @@ created 2017-11-01, last commit 2022-07-19, main language Java
 Enjin Platform SDK for Godot.  
 [https://enjin.io/products/platform](https://enjin.io/products/platform)  
 [https://github.com/enjin/enjin-godot-sdk](https://github.com/enjin/enjin-godot-sdk)  
-0.15 stars per week over 243 weeks  
-37 stars, 16 forks, 9 watches  
+0.15 stars per week over 249 weeks  
+37 stars, 16 forks, 8 watches  
 created 2018-02-26, last commit 2020-11-13, main language GDScript  
 <sub><sup>blockchain, blockchain-sdk, enjin-platform, enjin-sdk, godot, nft, nfts, non-fungible-tokens, sdk, sdk-godot</sup></sub>
 
@@ -55,8 +55,8 @@ created 2018-02-26, last commit 2020-11-13, main language GDScript
 Enjin Platform SDK for C#.  
 [https://enjin.io/products/platform](https://enjin.io/products/platform)  
 [https://github.com/enjin/enjin-csharp-sdk](https://github.com/enjin/enjin-csharp-sdk)  
-0.22 stars per week over 142 weeks  
-31 stars, 10 forks, 8 watches  
+0.21 stars per week over 148 weeks  
+31 stars, 10 forks, 6 watches  
 created 2020-02-03, last commit 2022-07-18, main language C#  
 <sub><sup>blockchain, blockchain-sdk, csharp, enjin-platform, enjin-sdk, nft, nfts, non-fungible-tokens, sdk, sdk-csharp</sup></sub>
 
@@ -65,12 +65,12 @@ created 2020-02-03, last commit 2022-07-18, main language C#
 Enjin Platform SDK for C++.  
 [https://enjin.io/products/platform](https://enjin.io/products/platform)  
 [https://github.com/enjin/enjin-cpp-sdk](https://github.com/enjin/enjin-cpp-sdk)  
-0.15 stars per week over 101 weeks  
-15 stars, 12 forks, 5 watches  
+0.14 stars per week over 107 weeks  
+15 stars, 12 forks, 4 watches  
 created 2020-11-16, last commit 2022-07-18, main language C++  
 <sub><sup>blockchain, blockchain-sdk, cpp, enjin-platform, enjin-sdk, nft, nfts, non-fungible-tokens, sdk, sdk-cpp</sup></sub>
 
 
-This file was automatically generated on 2022-10-30.  
+This file was automatically generated on 2022-12-08.  
 
 To curate your own github list, simply clone and change the input csv file.  

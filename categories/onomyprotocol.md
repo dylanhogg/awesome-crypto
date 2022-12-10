@@ -9,12 +9,12 @@ Checkout the interactive version that you can filter and sort:
 Onomy protocol  
 [https://onomy.io/](https://onomy.io/)  
 [https://github.com/onomyprotocol/onomy](https://github.com/onomyprotocol/onomy)  
-0.2 stars per week over 64 weeks  
-13 stars, 17 forks, 2 watches  
-created 2021-08-03, last commit 2022-10-25, main language Go  
+0.34 stars per week over 70 weeks  
+24 stars, 31 forks, 2 watches  
+created 2021-08-03, last commit 2022-12-05, main language Go  
 <sub><sup>blockchain, cosmos-sdk, cryptocurrency, defi, ethereum</sup></sub>
 
 
-This file was automatically generated on 2022-10-30.  
+This file was automatically generated on 2022-12-08.  
 
 To curate your own github list, simply clone and change the input csv file.  

@@ -9,8 +9,8 @@ Checkout the interactive version that you can filter and sort:
  An Analysis Tool for Smart Contracts   
 [https://oyente.melonport.com](https://oyente.melonport.com)  
 [https://github.com/enzymefinance/oyente](https://github.com/enzymefinance/oyente)  
-3.88 stars per week over 293 weeks  
-1,139 stars, 276 forks, 58 watches  
+3.87 stars per week over 298 weeks  
+1,157 stars, 282 forks, 58 watches  
 created 2017-03-17, last commit 2020-11-06, main language JavaScript  
 <sub><sup>blockchain, ethereum, security-analyzers, smart-contracts</sup></sub>
 
@@ -19,9 +19,9 @@ created 2017-03-17, last commit 2020-11-06, main language JavaScript
 Enzyme Protocol Implementation  
 [https://enzyme.finance](https://enzyme.finance)  
 [https://github.com/enzymefinance/protocol](https://github.com/enzymefinance/protocol)  
-0.98 stars per week over 312 weeks  
-306 stars, 120 forks, 50 watches  
-created 2016-11-04, last commit 2022-08-16, main language TypeScript  
+0.97 stars per week over 317 weeks  
+308 stars, 120 forks, 50 watches  
+created 2016-11-04, last commit 2022-12-06, main language TypeScript  
 <sub><sup>blockchain, defi, enzyme, ethereum, protocol</sup></sub>
 
 
@@ -29,27 +29,26 @@ created 2016-11-04, last commit 2022-08-16, main language TypeScript
  Melon Token Contracts   
 [https://melonport.com](https://melonport.com)  
 [https://github.com/enzymefinance/melon](https://github.com/enzymefinance/melon)  
-0.12 stars per week over 316 weeks  
+0.12 stars per week over 322 weeks  
 38 stars, 18 forks, 13 watches  
 created 2016-10-03, last commit 2019-01-28, main language None  
 <sub><sup>blockchain, ethereum, melon, token</sup></sub>
 
 
 ### [enzyme-subgraph](https://github.com/enzymefinance/enzyme-subgraph) by [enzymefinance](https://github.com/enzymefinance)  
-The official subgraph the Enzyme protocol.  
-[https://thegraph.com/explorer/subgraph/enzymefinance/enzyme](https://thegraph.com/explorer/subgraph/enzymefinance/enzyme)  
+The official subgraphs of the Enzyme protocol.  
 [https://github.com/enzymefinance/enzyme-subgraph](https://github.com/enzymefinance/enzyme-subgraph)  
-0.19 stars per week over 114 weeks  
-22 stars, 21 forks, 8 watches  
-created 2020-08-18, last commit 2022-02-10, main language TypeScript  
-<sub><sup>blockchain, defi, enzyme, ethereum, graphprotocol, protocol, thegraph</sup></sub>
+0.21 stars per week over 120 weeks  
+25 stars, 22 forks, 8 watches  
+created 2020-08-18, last commit 2022-12-01, main language TypeScript  
+<sub><sup>defi, graphprotocol, thegraph</sup></sub>
 
 
 ### [melonjs](https://github.com/enzymefinance/melonjs) by [enzymefinance](https://github.com/enzymefinance)  
 A convenient JavaScript interface to the Melon protocol Ethereum smart contracts.  
 [https://melonproject.github.io/melonjs/](https://melonproject.github.io/melonjs/)  
 [https://github.com/enzymefinance/melonjs](https://github.com/enzymefinance/melonjs)  
-0.11 stars per week over 160 weeks  
+0.1 stars per week over 165 weeks  
 17 stars, 7 forks, 8 watches  
 created 2019-10-04, last commit 2020-06-01, main language TypeScript  
 
@@ -58,11 +57,11 @@ created 2019-10-04, last commit 2020-06-01, main language TypeScript
 Melon Ecosystem Documentation  
 [https://docs.melonprotocol.com/](https://docs.melonprotocol.com/)  
 [https://github.com/enzymefinance/documentation](https://github.com/enzymefinance/documentation)  
-0.05 stars per week over 236 weeks  
+0.05 stars per week over 242 weeks  
 11 stars, 8 forks, 17 watches  
 created 2018-04-17, last commit 2020-07-31, main language CSS  
 
 
-This file was automatically generated on 2022-10-30.  
+This file was automatically generated on 2022-12-08.  
 
 To curate your own github list, simply clone and change the input csv file.  

@@ -8,8 +8,8 @@ Checkout the interactive version that you can filter and sort:
 ### [constellation](https://github.com/Constellation-Labs/constellation) by [Constellation-Labs](https://github.com/Constellation-Labs)  
 :milky_way::satellite: Decentralized Application Integration Platform  
 [https://github.com/Constellation-Labs/constellation](https://github.com/Constellation-Labs/constellation)  
-0.55 stars per week over 255 weeks  
-140 stars, 38 forks, 43 watches  
+0.56 stars per week over 261 weeks  
+146 stars, 40 forks, 45 watches  
 created 2017-12-05, last commit 2022-09-03, main language Scala  
 
 
@@ -17,19 +17,19 @@ created 2017-12-05, last commit 2022-09-03, main language Scala
 :page_facing_up::satellite: Technical whitepaper (2017)  
 [http://constellationlabs.io/](http://constellationlabs.io/)  
 [https://github.com/Constellation-Labs/whitepaper-technical](https://github.com/Constellation-Labs/whitepaper-technical)  
-0.13 stars per week over 251 weeks  
-33 stars, 10 forks, 12 watches  
+0.13 stars per week over 256 weeks  
+33 stars, 10 forks, 11 watches  
 created 2018-01-05, last commit 2018-10-01, main language None  
 
 
 ### [tessellation](https://github.com/Constellation-Labs/tessellation) by [Constellation-Labs](https://github.com/Constellation-Labs)  
 Monadic execution contexts for topology organization   
 [https://github.com/Constellation-Labs/tessellation](https://github.com/Constellation-Labs/tessellation)  
-0.23 stars per week over 121 weeks  
-28 stars, 13 forks, 12 watches  
-created 2020-07-01, last commit 2022-10-21, main language Scala  
+0.24 stars per week over 127 weeks  
+31 stars, 15 forks, 13 watches  
+created 2020-07-01, last commit 2022-12-03, main language Scala  
 
 
-This file was automatically generated on 2022-10-30.  
+This file was automatically generated on 2022-12-08.  
 
 To curate your own github list, simply clone and change the input csv file.  
