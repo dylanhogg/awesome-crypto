@@ -9,12 +9,12 @@ Checkout the interactive version that you can filter and sort:
   
 [https://functionx.gitbook.io](https://functionx.gitbook.io)  
 [https://github.com/FunctionX/fx-core](https://github.com/FunctionX/fx-core)  
-0.14 stars per week over 72 weeks  
-10 stars, 8 forks, 3 watches  
-created 2021-07-22, last commit 2022-12-08, main language Go  
+0.2 stars per week over 81 weeks  
+16 stars, 10 forks, 4 watches  
+created 2021-07-22, last commit 2023-02-10, main language Go  
 <sub><sup>blockchain</sup></sub>
 
 
-This file was automatically generated on 2022-12-08.  
+This file was automatically generated on 2023-02-13.  
 
 To curate your own github list, simply clone and change the input csv file.  

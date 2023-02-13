@@ -9,8 +9,8 @@ Checkout the interactive version that you can filter and sort:
 IDE for building smart contracts on NEAR Protocol  
 [https://studio.nearprotocol.com](https://studio.nearprotocol.com)  
 [https://github.com/nearprotocol/NEARStudio](https://github.com/nearprotocol/NEARStudio)  
-0.3 stars per week over 213 weeks  
-65 stars, 18 forks, 24 watches  
+0.3 stars per week over 222 weeks  
+67 stars, 18 forks, 24 watches  
 created 2018-11-06, last commit 2020-02-29, main language TypeScript  
 <sub><sup>assemblyscript, blockchain, ide, smart-contracts, typescript, webassembly</sup></sub>
 
@@ -18,8 +18,8 @@ created 2018-11-06, last commit 2020-02-29, main language TypeScript
 ### [stakewars](https://github.com/nearprotocol/stakewars) by [nearprotocol](https://github.com/nearprotocol)  
 Stake Wars leaderboard and place to report issues  
 [https://github.com/nearprotocol/stakewars](https://github.com/nearprotocol/stakewars)  
-0.33 stars per week over 164 weeks  
-54 stars, 270 forks, 19 watches  
+0.3 stars per week over 174 weeks  
+53 stars, 269 forks, 18 watches  
 created 2019-10-14, last commit 2020-12-09, main language None  
 
 
@@ -27,7 +27,7 @@ created 2019-10-14, last commit 2020-12-09, main language None
 BSON encoder / decoder for AssemblyScript  
 [https://nearprotocol.com](https://nearprotocol.com)  
 [https://github.com/nearprotocol/assemblyscript-bson](https://github.com/nearprotocol/assemblyscript-bson)  
-0.14 stars per week over 209 weeks  
+0.13 stars per week over 219 weeks  
 29 stars, 0 forks, 3 watches  
 created 2018-12-01, last commit 2021-02-11, main language TypeScript  
 <sub><sup>assemblyscript, bson, webassembly</sup></sub>
@@ -37,7 +37,7 @@ created 2018-12-01, last commit 2021-02-11, main language TypeScript
 Online chess game running on NEAR Protocol  
 [https://nearprotocol.github.io/near-chess/](https://nearprotocol.github.io/near-chess/)  
 [https://github.com/nearprotocol/near-chess](https://github.com/nearprotocol/near-chess)  
-0.13 stars per week over 193 weeks  
+0.12 stars per week over 202 weeks  
 25 stars, 4 forks, 25 watches  
 created 2019-03-27, last commit 2021-02-12, main language JavaScript  
 
@@ -45,11 +45,11 @@ created 2019-03-27, last commit 2021-02-12, main language JavaScript
 ### [near-runtime-ts](https://github.com/nearprotocol/near-runtime-ts) by [nearprotocol](https://github.com/nearprotocol)  
 Typescript library for writing near smart contracts  
 [https://github.com/nearprotocol/near-runtime-ts](https://github.com/nearprotocol/near-runtime-ts)  
-0.1 stars per week over 200 weeks  
+0.1 stars per week over 209 weeks  
 21 stars, 6 forks, 25 watches  
 created 2019-02-05, last commit 2020-04-07, main language TypeScript  
 
 
-This file was automatically generated on 2022-12-08.  
+This file was automatically generated on 2023-02-13.  
 
 To curate your own github list, simply clone and change the input csv file.  

@@ -9,12 +9,12 @@ Checkout the interactive version that you can filter and sort:
 Self-hosted payment gateway for Ethereum and any ERC20 token, integrates with Raiden for almost-zero fees.  
 [https://hub20.io](https://hub20.io)  
 [https://github.com/mushroomlabs/hub20](https://github.com/mushroomlabs/hub20)  
-0.35 stars per week over 158 weeks  
-56 stars, 17 forks, 4 watches  
+0.36 stars per week over 168 weeks  
+60 stars, 19 forks, 4 watches  
 created 2019-11-22, last commit 2022-06-28, main language None  
 <sub><sup>ethereum, payment-gateway, payments</sup></sub>
 
 
-This file was automatically generated on 2022-12-08.  
+This file was automatically generated on 2023-02-13.  
 
 To curate your own github list, simply clone and change the input csv file.  

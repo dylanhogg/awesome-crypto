@@ -1,5 +1,5 @@
 # Crazy Awesome Crypto
-A list of 6 [ledgerwatch](https://github.com/ledgerwatch) project repos ordered by stars.  
+A list of 7 [ledgerwatch](https://github.com/ledgerwatch) project repos ordered by stars.  
 
 Checkout the interactive version that you can filter and sort: 
 [https://www.awesomecrypto.xyz/](https://www.awesomecrypto.xyz/)  
@@ -8,24 +8,24 @@ Checkout the interactive version that you can filter and sort:
 ### [erigon](https://github.com/ledgerwatch/erigon) by [ledgerwatch](https://github.com/ledgerwatch)  
 Ethereum implementation on the efficiency frontier  
 [https://github.com/ledgerwatch/erigon](https://github.com/ledgerwatch/erigon)  
-10 stars per week over 184 weeks  
-1,996 stars, 580 forks, 53 watches  
-created 2019-05-27, last commit 2022-12-08, main language Go  
+11 stars per week over 194 weeks  
+2,175 stars, 632 forks, 54 watches  
+created 2019-05-27, last commit 2023-02-12, main language Go  
 <sub><sup>blockchain, ethereum</sup></sub>
 
 
 ### [interfaces](https://github.com/ledgerwatch/interfaces) by [ledgerwatch](https://github.com/ledgerwatch)  
 Interfaces for turbo-geth components  
 [https://github.com/ledgerwatch/interfaces](https://github.com/ledgerwatch/interfaces)  
-0.71 stars per week over 110 weeks  
-78 stars, 35 forks, 5 watches  
-created 2020-10-27, last commit 2022-12-05, main language Rust  
+0.73 stars per week over 119 weeks  
+87 stars, 44 forks, 5 watches  
+created 2020-10-27, last commit 2023-02-10, main language Rust  
 
 
 ### [erigon-book](https://github.com/ledgerwatch/erigon-book) by [ledgerwatch](https://github.com/ledgerwatch)  
 Technical book about Erigon technology  
 [https://github.com/ledgerwatch/erigon-book](https://github.com/ledgerwatch/erigon-book)  
-1.41 stars per week over 38 weeks  
+1.12 stars per week over 48 weeks  
 54 stars, 5 forks, 2 watches  
 created 2022-03-14, last commit 2022-06-30, main language None  
 
@@ -33,15 +33,15 @@ created 2022-03-14, last commit 2022-06-30, main language None
 ### [erigon-lib](https://github.com/ledgerwatch/erigon-lib) by [ledgerwatch](https://github.com/ledgerwatch)  
 Dependencies of Erigon project, rewritten from scratch and licensed under Apache 2.0  
 [https://github.com/ledgerwatch/erigon-lib](https://github.com/ledgerwatch/erigon-lib)  
-0.6 stars per week over 76 weeks  
-46 stars, 54 forks, 3 watches  
-created 2021-06-19, last commit 2022-12-07, main language Go  
+0.59 stars per week over 86 weeks  
+51 stars, 64 forks, 3 watches  
+created 2021-06-19, last commit 2023-02-12, main language Go  
 
 
 ### [eth_state](https://github.com/ledgerwatch/eth_state) by [ledgerwatch](https://github.com/ledgerwatch)  
 data and charts for Ethereum state analysis  
 [https://github.com/ledgerwatch/eth_state](https://github.com/ledgerwatch/eth_state)  
-0.21 stars per week over 213 weeks  
+0.2 stars per week over 222 weeks  
 45 stars, 11 forks, 6 watches  
 created 2018-11-06, last commit 2019-12-19, main language HTML  
 
@@ -49,11 +49,19 @@ created 2018-11-06, last commit 2019-12-19, main language HTML
 ### [lmdb-go](https://github.com/ledgerwatch/lmdb-go) by [ledgerwatch](https://github.com/ledgerwatch)  
   
 [https://github.com/ledgerwatch/lmdb-go](https://github.com/ledgerwatch/lmdb-go)  
-0.1 stars per week over 126 weeks  
+0.1 stars per week over 135 weeks  
 13 stars, 8 forks, 2 watches  
 created 2020-07-07, last commit 2021-05-18, main language C  
 
 
-This file was automatically generated on 2022-12-08.  
+### [erigon-snapshot](https://github.com/ledgerwatch/erigon-snapshot) by [ledgerwatch](https://github.com/ledgerwatch)  
+Hashes of Erigon snapshots https://ledgerwatch.github.io/erigon-snapshot/  
+[https://github.com/ledgerwatch/erigon-snapshot](https://github.com/ledgerwatch/erigon-snapshot)  
+0.18 stars per week over 61 weeks  
+11 stars, 9 forks, 3 watches  
+created 2021-12-12, last commit 2023-02-11, main language Shell  
+
+
+This file was automatically generated on 2023-02-13.  
 
 To curate your own github list, simply clone and change the input csv file.  

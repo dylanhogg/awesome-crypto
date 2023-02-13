@@ -8,8 +8,8 @@ Checkout the interactive version that you can filter and sort:
 ### [parity-ethereum](https://github.com/openethereum/parity-ethereum) by [openethereum](https://github.com/openethereum)  
 The fast, light, and robust client for Ethereum-like networks.  
 [https://github.com/openethereum/parity-ethereum](https://github.com/openethereum/parity-ethereum)  
-18 stars per week over 367 weeks  
-6,706 stars, 1,680 forks, 355 watches  
+17 stars per week over 377 weeks  
+6,728 stars, 1,686 forks, 354 watches  
 created 2015-11-23, last commit 2020-02-05, main language Rust  
 <sub><sup>blockchain, client, ethereum, node, rust</sup></sub>
 
@@ -17,8 +17,8 @@ created 2015-11-23, last commit 2020-02-05, main language Rust
 ### [openethereum](https://github.com/openethereum/openethereum)  
 (deprecated) The fast, light, and robust client for the Ethereum mainnet.   
 [https://github.com/openethereum/openethereum](https://github.com/openethereum/openethereum)  
-13 stars per week over 123 weeks  
-1,631 stars, 352 forks, 44 watches  
+12 stars per week over 132 weeks  
+1,634 stars, 353 forks, 43 watches  
 created 2020-07-30, last commit 2022-04-05, main language Rust  
 <sub><sup>ethereum</sup></sub>
 
@@ -26,16 +26,16 @@ created 2020-07-30, last commit 2022-04-05, main language Rust
 ### [pwasm-tutorial](https://github.com/openethereum/pwasm-tutorial) by [openethereum](https://github.com/openethereum)  
 A step-by-step tutorial on how to write contracts in Wasm for Kovan  
 [https://github.com/openethereum/pwasm-tutorial](https://github.com/openethereum/pwasm-tutorial)  
-0.88 stars per week over 259 weeks  
-227 stars, 32 forks, 15 watches  
+0.85 stars per week over 269 weeks  
+228 stars, 33 forks, 15 watches  
 created 2017-12-18, last commit 2019-01-21, main language Rust  
 
 
 ### [js-libs](https://github.com/openethereum/js-libs) by [openethereum](https://github.com/openethereum)  
 A collection of JavaScript libraries for Ethereum dapp development.  
 [https://github.com/openethereum/js-libs](https://github.com/openethereum/js-libs)  
-0.73 stars per week over 229 weeks  
-168 stars, 44 forks, 6 watches  
+0.7 stars per week over 239 weeks  
+168 stars, 45 forks, 6 watches  
 created 2018-07-16, last commit 2020-03-10, main language TypeScript  
 <sub><sup>api, dapp, ethereum, reactive</sup></sub>
 
@@ -43,8 +43,8 @@ created 2018-07-16, last commit 2020-03-10, main language TypeScript
 ### [fether](https://github.com/openethereum/fether) by [openethereum](https://github.com/openethereum)  
 Decentralized and light Ethereum Wallet  
 [https://github.com/openethereum/fether](https://github.com/openethereum/fether)  
-0.5 stars per week over 244 weeks  
-122 stars, 43 forks, 13 watches  
+0.48 stars per week over 253 weeks  
+122 stars, 44 forks, 13 watches  
 created 2018-04-03, last commit 2020-02-10, main language JavaScript  
 <sub><sup>ethereum, light, light-client, parity</sup></sub>
 
@@ -52,107 +52,107 @@ created 2018-04-03, last commit 2020-02-10, main language JavaScript
 ### [parity-deploy](https://github.com/openethereum/parity-deploy) by [openethereum](https://github.com/openethereum)  
 Parity deployment script.  
 [https://github.com/openethereum/parity-deploy](https://github.com/openethereum/parity-deploy)  
-0.28 stars per week over 290 weeks  
-81 stars, 52 forks, 13 watches  
+0.27 stars per week over 300 weeks  
+81 stars, 53 forks, 13 watches  
 created 2017-05-12, last commit 2019-02-20, main language Shell  
 
 
 ### [wordlist](https://github.com/openethereum/wordlist) by [openethereum](https://github.com/openethereum)  
 Parity Brain Wallets Word List Library  
 [https://github.com/openethereum/wordlist](https://github.com/openethereum/wordlist)  
-0.22 stars per week over 297 weeks  
-65 stars, 675 forks, 21 watches  
+0.22 stars per week over 306 weeks  
+66 stars, 695 forks, 21 watches  
 created 2017-03-28, last commit 2020-02-07, main language JavaScript  
 
 
 ### [pwasm-std](https://github.com/openethereum/pwasm-std) by [openethereum](https://github.com/openethereum)  
 WASM contracts standard library for Rust  
 [https://github.com/openethereum/pwasm-std](https://github.com/openethereum/pwasm-std)  
-0.19 stars per week over 278 weeks  
-54 stars, 15 forks, 7 watches  
+0.19 stars per week over 287 weeks  
+54 stars, 16 forks, 7 watches  
 created 2017-08-09, last commit 2019-03-07, main language Rust  
 
 
 ### [sol-rs](https://github.com/openethereum/sol-rs) by [openethereum](https://github.com/openethereum)  
 Solaris - Solidity testing framework in Rust.  
 [https://github.com/openethereum/sol-rs](https://github.com/openethereum/sol-rs)  
-0.2 stars per week over 262 weeks  
-53 stars, 13 forks, 22 watches  
+0.2 stars per week over 272 weeks  
+54 stars, 14 forks, 22 watches  
 created 2017-11-27, last commit 2020-04-27, main language Rust  
 
 
 ### [pwasm-token-example](https://github.com/openethereum/pwasm-token-example) by [openethereum](https://github.com/openethereum)  
 A simple ERC-20 compatible token contract written in Rust compiled into WebAssembly  
 [https://github.com/openethereum/pwasm-token-example](https://github.com/openethereum/pwasm-token-example)  
-0.18 stars per week over 268 weeks  
-48 stars, 13 forks, 3 watches  
+0.17 stars per week over 278 weeks  
+48 stars, 14 forks, 3 watches  
 created 2017-10-13, last commit 2019-03-07, main language Rust  
 
 
 ### [pwasm-ethereum](https://github.com/openethereum/pwasm-ethereum) by [openethereum](https://github.com/openethereum)  
   
 [https://github.com/openethereum/pwasm-ethereum](https://github.com/openethereum/pwasm-ethereum)  
-0.12 stars per week over 260 weeks  
-32 stars, 14 forks, 3 watches  
+0.12 stars per week over 269 weeks  
+32 stars, 15 forks, 3 watches  
 created 2017-12-12, last commit 2018-11-13, main language Rust  
 
 
 ### [kovan-validator-set](https://github.com/openethereum/kovan-validator-set) by [openethereum](https://github.com/openethereum)  
 Validator set contracts for Kovan network.  
 [https://github.com/openethereum/kovan-validator-set](https://github.com/openethereum/kovan-validator-set)  
-0.13 stars per week over 247 weeks  
-31 stars, 23 forks, 6 watches  
+0.12 stars per week over 256 weeks  
+31 stars, 24 forks, 6 watches  
 created 2018-03-15, last commit 2018-06-12, main language JavaScript  
 
 
 ### [pwasm-abi](https://github.com/openethereum/pwasm-abi) by [openethereum](https://github.com/openethereum)  
 Parity WASM Abi (Legacy and new)  
 [https://github.com/openethereum/pwasm-abi](https://github.com/openethereum/pwasm-abi)  
-0.11 stars per week over 274 weeks  
-29 stars, 16 forks, 4 watches  
+0.1 stars per week over 283 weeks  
+29 stars, 17 forks, 4 watches  
 created 2017-09-06, last commit 2019-04-30, main language Rust  
 
 
 ### [whisper](https://github.com/openethereum/whisper) by [openethereum](https://github.com/openethereum)  
   
 [https://github.com/openethereum/whisper](https://github.com/openethereum/whisper)  
-0.1 stars per week over 178 weeks  
-17 stars, 9 forks, 2 watches  
+0.09 stars per week over 188 weeks  
+17 stars, 10 forks, 2 watches  
 created 2019-07-08, last commit 2020-01-28, main language Rust  
 
 
 ### [parity-poa-tutorial](https://github.com/openethereum/parity-poa-tutorial) by [openethereum](https://github.com/openethereum)  
 A complete set of files produced in the Parity PoA chain tutorial.  
 [https://github.com/openethereum/parity-poa-tutorial](https://github.com/openethereum/parity-poa-tutorial)  
-0.05 stars per week over 309 weeks  
-15 stars, 14 forks, 2 watches  
+0.05 stars per week over 318 weeks  
+15 stars, 15 forks, 2 watches  
 created 2017-01-04, last commit 2018-01-15, main language None  
 
 
 ### [pwasm-repo-contract](https://github.com/openethereum/pwasm-repo-contract) by [openethereum](https://github.com/openethereum)  
 Sample repo contract written in Rust and compiled to WebAssembly  
 [https://github.com/openethereum/pwasm-repo-contract](https://github.com/openethereum/pwasm-repo-contract)  
-0.05 stars per week over 260 weeks  
-14 stars, 6 forks, 3 watches  
+0.05 stars per week over 269 weeks  
+14 stars, 7 forks, 3 watches  
 created 2017-12-13, last commit 2018-08-14, main language Rust  
 
 
 ### [3.1-db-upgrade-tool](https://github.com/openethereum/3.1-db-upgrade-tool) by [openethereum](https://github.com/openethereum)  
 OpenEthereum 2.5.13, 2.7.2, 3.0.1 to 3.1 DB upgrade tool  
 [https://github.com/openethereum/3.1-db-upgrade-tool](https://github.com/openethereum/3.1-db-upgrade-tool)  
-0.11 stars per week over 118 weeks  
-13 stars, 11 forks, 3 watches  
+0.1 stars per week over 127 weeks  
+13 stars, 12 forks, 3 watches  
 created 2020-09-02, last commit 2021-04-14, main language Rust  
 
 
 ### [wasm-tests](https://github.com/openethereum/wasm-tests) by [openethereum](https://github.com/openethereum)  
   
 [https://github.com/openethereum/wasm-tests](https://github.com/openethereum/wasm-tests)  
-0.04 stars per week over 289 weeks  
-11 stars, 8 forks, 23 watches  
+0.04 stars per week over 299 weeks  
+11 stars, 9 forks, 23 watches  
 created 2017-05-22, last commit 2018-08-23, main language Rust  
 
 
-This file was automatically generated on 2022-12-08.  
+This file was automatically generated on 2023-02-13.  
 
 To curate your own github list, simply clone and change the input csv file.  
