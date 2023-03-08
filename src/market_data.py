@@ -32,7 +32,7 @@ def _get_coins_list(use_cache=True, filename="_coingecko/coins_list.json"):
     return coins
 
 
-def _save_coin_by_id(coin_id, filename=None, skip_if_exists=True, throttle=3):
+def _save_coin_by_id(coin_id, filename=None, skip_if_exists=True, throttle=6):
     cg = CoinGeckoAPI()
     if filename is None:
         filename = f"_coingecko/id_{coin_id}.json"
@@ -41,7 +41,7 @@ def _save_coin_by_id(coin_id, filename=None, skip_if_exists=True, throttle=3):
         logger.info(f"Skipping crawl of {coin_id}...")
         return
 
-    logger.info(f"Crawling {coin_id}...")
+    logger.info(f"Crawling {coin_id}. {throttle=}...")
     if throttle is not None:
         time.sleep(throttle)
 
@@ -72,13 +72,17 @@ def get_marketcap_by_cg_id(cg_id, currency="usd"):
         try:
             market_cap_rank = data["market_cap_rank"]
         except KeyError as ex:
-            logger.error(f"get_marketcap_by_cg_id 'market_cap_rank' KeyError for file {filename}: {ex}")
+            logger.error(
+                f"get_marketcap_by_cg_id 'market_cap_rank' KeyError for file {filename}: {ex}"
+            )
             return -1, -1, crawl_datetime
 
         try:
             market_cap = data["market_data"]["market_cap"][currency]
         except KeyError as ex:
-            logger.error(f"get_marketcap_by_cg_id 'market_cap' KeyError for file {filename} and currency {currency}: {ex}")
+            logger.error(
+                f"get_marketcap_by_cg_id 'market_cap' KeyError for file {filename} and currency {currency}: {ex}"
+            )
             return -1, market_cap_rank, crawl_datetime
 
         return market_cap, market_cap_rank, crawl_datetime
@@ -92,7 +96,9 @@ def get_coins_by_symbol(symbol, currency="usd"):
     for coin in _get_coins_list():
         if coin["symbol"].lower() == symbol.lower():
             coin_id = coin["id"]
-            market_cap, market_cap_rank, crawl_datetime = get_marketcap_by_cg_id(coin_id, currency)
+            market_cap, market_cap_rank, crawl_datetime = get_marketcap_by_cg_id(
+                coin_id, currency
+            )
             if market_cap > 0:
                 coin["market_cap"] = market_cap
                 coin["market_cap_rank"] = market_cap_rank
@@ -120,6 +126,7 @@ def get_coins_by_symbols(symbols, currency="usd"):
 
 
 # Methods testing coingeko api:
+
 
 def get_global(use_cache=True, filename="_coingecko/global.json"):
     # https://api.coingecko.com/api/v3/global
@@ -151,12 +158,19 @@ def get_prices(ids, use_cache=False, filename="_coingecko/_prices.json"):
             return json.load(f)
 
     crawl_date = str(datetime.datetime.now())
-    prices = cg.get_price(ids,
-                          vs_currencies='usd', include_market_cap='true', include_24hr_vol='true',
-                          include_24hr_change='true', include_last_updated_at='true')
+    prices = cg.get_price(
+        ids,
+        vs_currencies="usd",
+        include_market_cap="true",
+        include_24hr_vol="true",
+        include_24hr_change="true",
+        include_last_updated_at="true",
+    )
 
     if len(prices) != len(ids):
-        logger.warning(f"get_prices only matched {len(prices)} of {len(ids)} requested ids")
+        logger.warning(
+            f"get_prices only matched {len(prices)} of {len(ids)} requested ids"
+        )
     else:
         logger.info(f"get_prices matched all {len(prices)} of {len(ids)} requested ids")
 
@@ -168,4 +182,3 @@ def get_prices(ids, use_cache=False, filename="_coingecko/_prices.json"):
         f.write(price_json)
 
     return prices
-

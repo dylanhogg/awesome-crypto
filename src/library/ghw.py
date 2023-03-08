@@ -14,9 +14,13 @@ class GithubWrapper:
 
     def get_repo(self, name, use_cache=True, throttled=True) -> github.Repository:
         if name.endswith("/"):
-            logger.warning(f"Repo needs to be fixed by removing trailing slash in source csv: {name}")
+            logger.warning(
+                f"Repo needs to be fixed by removing trailing slash in source csv: {name}"
+            )
         if name.endswith("*"):
-            logger.warning(f"Repo needs to be fixed by exploding wildcard repo in source csv: {name}")
+            logger.warning(
+                f"Repo needs to be fixed by exploding wildcard repo in source csv: {name}"
+            )
         if throttled:
             time.sleep(self.throttle_secs)
 
@@ -24,11 +28,15 @@ class GithubWrapper:
         cached = self.cache.get(key, None)
         if cached is None or not use_cache:
             self.get_repo_cache_miss_count += 1
-            logger.info(f"get_repo: [{name}] (cache miss {self.get_repo_cache_miss_count})")
+            logger.info(
+                f"get_repo: [{name}] (cache miss {self.get_repo_cache_miss_count})"
+            )
             try:
                 self.cache[key] = self.gh.get_repo(name)
             except Exception as ex:
-                logger.warning(f"Exception for get_repo with name (will re-try once): {name}")
+                logger.warning(
+                    f"Exception for get_repo with name (will re-try once): {name}"
+                )
                 try:
                     time.sleep(30)
                     self.cache[key] = self.gh.get_repo(name)
@@ -38,7 +46,9 @@ class GithubWrapper:
             return self.cache[key]
         else:
             self.get_repo_cache_hit_count += 1
-            logger.info(f"get_repo: [{name}] (cache hit {self.get_repo_cache_hit_count})")
+            logger.info(
+                f"get_repo: [{name}] (cache hit {self.get_repo_cache_hit_count})"
+            )
             return cached
 
     def get_org_repos(self, name, throttled=True) -> List[github.Repository.Repository]:
@@ -49,7 +59,9 @@ class GithubWrapper:
         try:
             org = self.gh.get_organization(name)
         except Exception as ex:
-            logger.warning(f"Exception for get_org_repos with name (will re-try once): {name}")
+            logger.warning(
+                f"Exception for get_org_repos with name (will re-try once): {name}"
+            )
             try:
                 time.sleep(30)
                 org = self.gh.get_organization(name)
@@ -59,7 +71,9 @@ class GithubWrapper:
         try:
             repos = org.get_repos()
         except Exception as ex:
-            logger.warning(f"Exception for get_repos with name (will re-try once): {name}")
+            logger.warning(
+                f"Exception for get_repos with name (will re-try once): {name}"
+            )
             try:
                 time.sleep(30)
                 repos = org.get_repos()
@@ -72,7 +86,9 @@ class GithubWrapper:
             result_repos.append(repo)
         return result_repos
 
-    def get_organization(self, name, throttled=True) -> github.Organization.Organization:
+    def get_organization(
+        self, name, throttled=True
+    ) -> github.Organization.Organization:
         logger.debug(f"get_organization: {name}")
         if throttled:
             time.sleep(self.throttle_secs)

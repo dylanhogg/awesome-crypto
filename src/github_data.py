@@ -4,7 +4,9 @@ from loguru import logger
 from library import render, readme, input
 
 
-def process(csv_location, ghw, output_csv_filename, output_json_filename, throttle_secs):
+def process(
+    csv_location, ghw, output_csv_filename, output_json_filename, throttle_secs
+):
     start = datetime.now()
 
     # Read github urls from google docs
@@ -23,23 +25,23 @@ def process(csv_location, ghw, output_csv_filename, output_json_filename, thrott
     df.to_csv(output_csv_filename)
 
     logger.info("Crawling readme files...")
-    df["_readme_filename"] = df["_repopath"].apply(
-        lambda x: readme.get_readme(x)
-    )
+    df["_readme_filename"] = df["_repopath"].apply(lambda x: readme.get_readme(x))
 
     # TODO: handle 'main' master branches also:
     df["_readme_giturl"] = df.apply(
         lambda row: f"https://raw.githubusercontent.com/{row['_repopath']}/master/{row['_readme_filename']}"
-                    if len(row['_readme_filename']) > 0
-                    else "", axis=1
+        if len(row["_readme_filename"]) > 0
+        else "",
+        axis=1,
     )
 
     # TODO: get from readme.get_readme above as tuple and zip as per
     #       https://stackoverflow.com/questions/16236684/apply-pandas-function-to-column-to-create-multiple-new-columns
     df["_readme_localurl"] = df.apply(
         lambda row: f"{row['_repopath'].replace('/', '~')}~{row['_readme_filename']}"
-                    if len(row['_readme_filename']) > 0
-                    else "", axis=1
+        if len(row["_readme_filename"]) > 0
+        else "",
+        axis=1,
     )
 
     # TODO: review:
@@ -53,19 +55,23 @@ def process(csv_location, ghw, output_csv_filename, output_json_filename, thrott
         json.dump(data, f, indent=4)
 
     # Write raw results to minimised json
-    output_minjson_filename = output_json_filename.replace(".json", ".min.json") \
-        if ".json" in output_json_filename \
+    output_minjson_filename = (
+        output_json_filename.replace(".json", ".min.json")
+        if ".json" in output_json_filename
         else output_json_filename + ".min.json"
+    )
 
     with open(output_minjson_filename, "w") as f:
         json_results = df.to_json(orient="table", double_precision=2)
         data = json.loads(json_results)
-        json.dump(data, f, separators=(',', ':'))
+        json.dump(data, f, separators=(",", ":"))
 
     # Write raw results to pickle
-    output_pickle_filename = output_json_filename.replace(".json", ".pkl") \
-        if ".json" in output_json_filename \
+    output_pickle_filename = (
+        output_json_filename.replace(".json", ".pkl")
+        if ".json" in output_json_filename
         else output_json_filename + ".pkl"
+    )
     df.to_pickle(output_pickle_filename)
 
     # Add markdown columns for local README.md and categories/*.md file lists.

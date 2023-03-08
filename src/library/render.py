@@ -16,7 +16,9 @@ def make_markdown(row, include_category=False) -> str:
         if homepage is not None and len(homepage) > 0
         else f"[{url}]({url})"
     )
-    category = row["_organization"].lower().strip()  # categories are the git org, not the supplied category.
+    category = (
+        row["_organization"].lower().strip()
+    )  # categories are the git org, not the supplied category.
     category_display = (
         f"[{category}](categories/{category}.md) category, "
         if include_category and category is not None and len(category) > 0
@@ -24,7 +26,9 @@ def make_markdown(row, include_category=False) -> str:
     )
     stars = row["_stars"]
     stars_per_week = row["_stars_per_week"]
-    stars_per_week = round(stars_per_week, 2) if stars_per_week < 10 else int(stars_per_week)
+    stars_per_week = (
+        round(stars_per_week, 2) if stars_per_week < 10 else int(stars_per_week)
+    )
     age_weeks = row["_age_weeks"]
     forks = row["_forks"]
     watches = row["_watches"]
@@ -40,9 +44,11 @@ def make_markdown(row, include_category=False) -> str:
     description = row["_description"]
     language = row["_language"]
 
-    header = f"[{name}]({url})" \
-        if name == organization \
+    header = (
+        f"[{name}]({url})"
+        if name == organization
         else f"[{name}]({url}) by [{organization}](https://github.com/{organization})"
+    )
 
     return (
         f"### {header}  "
@@ -68,7 +74,9 @@ def get_repo_topics(repo_obj, throttle_secs, throttled=True):
         return []
 
 
-def get_last_commit_date(repo_obj, throttle_secs, throttled=True, fmt="%a, %d %b %Y %H:%M:%S %Z"):
+def get_last_commit_date(
+    repo_obj, throttle_secs, throttled=True, fmt="%a, %d %b %Y %H:%M:%S %Z"
+):
     if throttled:
         time.sleep(throttle_secs)
     repo_name = repo_obj.name
@@ -89,7 +97,9 @@ def process(df_input, ghw, throttle_secs) -> pd.DataFrame:
     # TODO: more https://pygithub.readthedocs.io/en/latest/examples/Repository.html
 
     df["_repopath"] = df["githuburl"].apply(lambda x: urlparse(x).path.lstrip("/"))
-    df["_repo_obj"] = df["_repopath"].apply(lambda x: ghw.get_repo(x))  # TODO: maybe use joblib cache here?
+    df["_repo_obj"] = df["_repopath"].apply(
+        lambda x: ghw.get_repo(x)
+    )  # TODO: maybe use joblib cache here?
 
     df["_reponame"] = df["_repo_obj"].apply(lambda x: x.name)
     df["_stars"] = df["_repo_obj"].apply(lambda x: x.stargazers_count)
@@ -102,23 +112,19 @@ def process(df_input, ghw, throttle_secs) -> pd.DataFrame:
     df["_description"] = df["_repo_obj"].apply(
         lambda x: "" if x.description is None else x.description
     )
-    df["_organization"] = df["_repopath"].apply(
-        lambda x: x.split("/")[0]
-    )
-    df["_updated_at"] = df["_repo_obj"].apply(
-        lambda x: x.updated_at.date()
-    )
+    df["_organization"] = df["_repopath"].apply(lambda x: x.split("/")[0])
+    df["_updated_at"] = df["_repo_obj"].apply(lambda x: x.updated_at.date())
     df["_last_commit_date"] = df["_repo_obj"].apply(
         lambda x: get_last_commit_date(x, throttle_secs)
     )
-    df["_created_at"] = df["_repo_obj"].apply(
-        lambda x: x.created_at.date()
-    )
+    df["_created_at"] = df["_repo_obj"].apply(lambda x: x.created_at.date())
     df["_age_weeks"] = df["_repo_obj"].apply(
         lambda x: (datetime.now().date() - x.created_at.date()).days // 7
     )
     df["_stars_per_week"] = df["_repo_obj"].apply(
-        lambda x: x.stargazers_count * 7 / (datetime.now().date() - x.created_at.date()).days
+        lambda x: x.stargazers_count
+        * 7
+        / (datetime.now().date() - x.created_at.date()).days
     )
 
     df = df.drop(columns=["_repo_obj"])

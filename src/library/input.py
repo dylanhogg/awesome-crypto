@@ -20,7 +20,9 @@ def get_input_data(csv_location, ghw) -> pd.DataFrame:
         logger.warning(
             f"Duplicate githuburl values found in csv: {duplicated_count}\n{duplicated_githuburls}"
         )
-        logger.error(f"Fix up {duplicated_count} duplicates from {csv_location} and re-run.")
+        logger.error(
+            f"Fix up {duplicated_count} duplicates from {csv_location} and re-run."
+        )
         sys.exit()
     else:
         logger.info("No duplicate githuburl values found in csv :)")
@@ -61,15 +63,21 @@ def _explode_org_repos(df, ghw):
         time.sleep(1)
         # org_repos = ghw.get_org_repos(org)
         org_repos = _cached_get_org_repos(ghw, org)
-        giturls = [[row.category,
-                    row.subcategory,
-                    "https://github.com/" + org_repo.full_name,
-                    row.featured,
-                    row.links,
-                    row.description]
-                   for org_repo in org_repos
-                   if org_repo.stargazers_count >= star_limit]
-        logger.info(f"Read repos for wildcard org: {org} ({len(giturls)} of {len(org_repos)} kept)")
+        giturls = [
+            [
+                row.category,
+                row.subcategory,
+                "https://github.com/" + org_repo.full_name,
+                row.featured,
+                row.links,
+                row.description,
+            ]
+            for org_repo in org_repos
+            if org_repo.stargazers_count >= star_limit
+        ]
+        logger.info(
+            f"Read repos for wildcard org: {org} ({len(giturls)} of {len(org_repos)} kept)"
+        )
         exploded_rows.extend(giturls)
 
     df_expanded_repos = pd.DataFrame(exploded_rows, columns=df_normal_repos.columns)

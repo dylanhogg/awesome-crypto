@@ -30,7 +30,7 @@ def get_requirements(repopath):
     filenames = [
         "requirements.txt",
         "setup.py",  # TODO: needs postprocessing for install_requires etc.
-        "pyproject.toml"  # TODO: postprocessing for [build-system] / requires | [tool.poetry] / packages etc
+        "pyproject.toml",  # TODO: postprocessing for [build-system] / requires | [tool.poetry] / packages etc
     ]
 
     saved_filenames = []

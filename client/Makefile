@@ -51,7 +51,8 @@ s3-deploy-app-sitemap:
 
 ## AWS S3 rm static_files from S3
 s3-delete-app:
-	aws s3 rm s3://${BUCKET_NAME} --recursive
+	echo "Are you sure?"
+	# aws s3 rm s3://${BUCKET_NAME} --recursive
 
 ## AWS Cloudfront invalidation (limit 1000 free calls per month)
 cf-invalidation:
