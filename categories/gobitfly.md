@@ -8,8 +8,8 @@ Checkout the interactive version that you can filter and sort:
 ### [etherchain-light](https://github.com/gobitfly/etherchain-light) by [gobitfly](https://github.com/gobitfly)  
 Lightweight Ethereum blockchain explorer  
 [https://github.com/gobitfly/etherchain-light](https://github.com/gobitfly/etherchain-light)  
-2.03 stars per week over 309 weeks  
-628 stars, 342 forks, 38 watches  
+2.01 stars per week over 312 weeks  
+628 stars, 344 forks, 38 watches  
 created 2017-03-09, last commit 2018-11-28, main language JavaScript  
 <sub><sup>blockchain-explorer, ethereum, parity, web3</sup></sub>
 
@@ -17,17 +17,17 @@ created 2017-03-09, last commit 2018-11-28, main language JavaScript
 ### [eth2-beaconchain-explorer](https://github.com/gobitfly/eth2-beaconchain-explorer) by [gobitfly](https://github.com/gobitfly)  
 Open source golang based explorer for the eth2 beacon chain  
 [https://github.com/gobitfly/eth2-beaconchain-explorer](https://github.com/gobitfly/eth2-beaconchain-explorer)  
-3.36 stars per week over 168 weeks  
-567 stars, 306 forks, 41 watches  
-created 2019-11-21, last commit 2023-02-10, main language HTML  
+3.39 stars per week over 171 weeks  
+583 stars, 313 forks, 40 watches  
+created 2019-11-21, last commit 2023-03-07, main language Go  
 <sub><sup>block-explorer, eth2, eth2-beacon-chain, golang</sup></sub>
 
 
 ### [erc20-explorer](https://github.com/gobitfly/erc20-explorer) by [gobitfly](https://github.com/gobitfly)  
 An explorer for ERC20 based Ethereum tokens  
 [https://github.com/gobitfly/erc20-explorer](https://github.com/gobitfly/erc20-explorer)  
-0.88 stars per week over 300 weeks  
-264 stars, 144 forks, 25 watches  
+0.87 stars per week over 303 weeks  
+265 stars, 144 forks, 25 watches  
 created 2017-05-11, last commit 2017-05-11, main language JavaScript  
 <sub><sup>blockchain, erc20, ethereum, explorer, token</sup></sub>
 
@@ -36,25 +36,25 @@ created 2017-05-11, last commit 2017-05-11, main language JavaScript
 Beaconchain Dashboard is an open source ethereum validator performance tracker app for Android and iOS.  
 [https://beaconcha.in/mobile](https://beaconcha.in/mobile)  
 [https://github.com/gobitfly/eth2-beaconchain-explorer-app](https://github.com/gobitfly/eth2-beaconchain-explorer-app)  
-1.61 stars per week over 105 weeks  
-170 stars, 67 forks, 17 watches  
-created 2021-02-04, last commit 2023-02-06, main language TypeScript  
+1.59 stars per week over 108 weeks  
+173 stars, 69 forks, 18 watches  
+created 2021-02-04, last commit 2023-02-16, main language TypeScript  
 
 
 ### [eth.store](https://github.com/gobitfly/eth.store) by [gobitfly](https://github.com/gobitfly)  
 ETH.STORE  
 [https://gobitfly.github.io/eth.store](https://gobitfly.github.io/eth.store)  
 [https://github.com/gobitfly/eth.store](https://github.com/gobitfly/eth.store)  
-1.12 stars per week over 34 weeks  
-39 stars, 14 forks, 5 watches  
-created 2022-06-14, last commit 2022-10-12, main language Go  
+1.13 stars per week over 38 weeks  
+43 stars, 15 forks, 6 watches  
+created 2022-06-14, last commit 2023-03-06, main language Go  
 <sub><sup>ethereum</sup></sub>
 
 
 ### [eth2-knowledge-base](https://github.com/gobitfly/eth2-knowledge-base) by [gobitfly](https://github.com/gobitfly)  
   
 [https://github.com/gobitfly/eth2-knowledge-base](https://github.com/gobitfly/eth2-knowledge-base)  
-0.16 stars per week over 158 weeks  
+0.15 stars per week over 162 weeks  
 25 stars, 25 forks, 7 watches  
 created 2020-01-28, last commit 2023-02-02, main language None  
 
@@ -63,7 +63,7 @@ created 2020-01-28, last commit 2023-02-02, main language None
 Golang based blockchain explorer for the coda protocol  
 [https://codaprotocol.com](https://codaprotocol.com)  
 [https://github.com/gobitfly/coda-explorer](https://github.com/gobitfly/coda-explorer)  
-0.13 stars per week over 157 weeks  
+0.12 stars per week over 161 weeks  
 20 stars, 15 forks, 4 watches  
 created 2020-02-05, last commit 2020-06-09, main language JavaScript  
 
@@ -71,11 +71,11 @@ created 2020-02-05, last commit 2020-06-09, main language JavaScript
 ### [eth2-client-metrics-exporter](https://github.com/gobitfly/eth2-client-metrics-exporter) by [gobitfly](https://github.com/gobitfly)  
   
 [https://github.com/gobitfly/eth2-client-metrics-exporter](https://github.com/gobitfly/eth2-client-metrics-exporter)  
-0.14 stars per week over 84 weeks  
+0.14 stars per week over 87 weeks  
 12 stars, 6 forks, 5 watches  
 created 2021-07-05, last commit 2022-06-03, main language Go  
 
 
-This file was automatically generated on 2023-02-13.  
+This file was automatically generated on 2023-03-08.  
 
 To curate your own github list, simply clone and change the input csv file.  

@@ -1,5 +1,5 @@
 # Crazy Awesome Crypto
-A list of 9 [ArkEcosystem](https://github.com/ArkEcosystem) project repos ordered by stars.  
+A list of 10 [ArkEcosystem](https://github.com/ArkEcosystem) project repos ordered by stars.  
 
 Checkout the interactive version that you can filter and sort: 
 [https://www.awesomecrypto.xyz/](https://www.awesomecrypto.xyz/)  
@@ -9,8 +9,8 @@ Checkout the interactive version that you can filter and sort:
 The ARK Core Blockchain Framework. Check https://learn.ark.dev for more information.  
 [https://ark.io](https://ark.io)  
 [https://github.com/ArkEcosystem/core](https://github.com/ArkEcosystem/core)  
-1.22 stars per week over 272 weeks  
-333 stars, 305 forks, 35 watches  
+1.21 stars per week over 276 weeks  
+333 stars, 306 forks, 34 watches  
 created 2017-11-22, last commit 2022-11-16, main language TypeScript  
 <sub><sup>ark, blockchain, crypto, dpos, modular-architecture, nodejs, smartbridge, typescript</sup></sub>
 
@@ -19,8 +19,8 @@ created 2017-11-22, last commit 2022-11-16, main language TypeScript
 :computer: Multi Platform ARK Desktop Wallet  
 [https://github.com/PayvoHQ/wallet](https://github.com/PayvoHQ/wallet)  
 [https://github.com/ArkEcosystem/desktop-wallet](https://github.com/ArkEcosystem/desktop-wallet)  
-0.88 stars per week over 326 weeks  
-288 stars, 206 forks, 48 watches  
+0.87 stars per week over 329 weeks  
+288 stars, 205 forks, 47 watches  
 created 2016-11-13, last commit 2021-07-07, main language TypeScript  
 <sub><sup>ark, blockchain, cryptocurrency, wallet</sup></sub>
 
@@ -28,8 +28,8 @@ created 2016-11-13, last commit 2021-07-07, main language TypeScript
 ### [mobile-wallet](https://github.com/ArkEcosystem/mobile-wallet) by [ArkEcosystem](https://github.com/ArkEcosystem)  
 📲 Multi Platform ARK Mobile Wallet  
 [https://github.com/ArkEcosystem/mobile-wallet](https://github.com/ArkEcosystem/mobile-wallet)  
-0.32 stars per week over 267 weeks  
-86 stars, 101 forks, 18 watches  
+0.32 stars per week over 271 weeks  
+87 stars, 102 forks, 19 watches  
 created 2017-12-27, last commit 2021-09-22, main language TypeScript  
 <sub><sup>ark, cryptocurrency, mobile, wallet</sup></sub>
 
@@ -37,7 +37,7 @@ created 2017-12-27, last commit 2021-09-22, main language TypeScript
 ### [deployer](https://github.com/ArkEcosystem/deployer) by [ArkEcosystem](https://github.com/ArkEcosystem)  
 A small deployment script for ARK Chains, that lets you create your own blockchain in minutes  
 [https://github.com/ArkEcosystem/deployer](https://github.com/ArkEcosystem/deployer)  
-0.19 stars per week over 264 weeks  
+0.19 stars per week over 267 weeks  
 51 stars, 47 forks, 11 watches  
 created 2018-01-18, last commit 2022-04-28, main language Shell  
 <sub><sup>ark, blockchain, cryptocurrency, deployment, pushbutton</sup></sub>
@@ -46,8 +46,8 @@ created 2018-01-18, last commit 2022-04-28, main language Shell
 ### [AIPs](https://github.com/ArkEcosystem/AIPs) by [ArkEcosystem](https://github.com/ArkEcosystem)  
 ARK Improvement Proposals  
 [https://github.com/ArkEcosystem/AIPs](https://github.com/ArkEcosystem/AIPs)  
-0.08 stars per week over 315 weeks  
-26 stars, 27 forks, 14 watches  
+0.08 stars per week over 318 weeks  
+26 stars, 27 forks, 13 watches  
 created 2017-01-26, last commit 2021-09-06, main language None  
 <sub><sup>ark, blockchain, cryptocurrency</sup></sub>
 
@@ -56,8 +56,8 @@ created 2017-01-26, last commit 2021-09-06, main language None
 The official Paper Wallet for the ARK Blockchain.  
 [https://arkecosystem.github.io/paper-wallet/](https://arkecosystem.github.io/paper-wallet/)  
 [https://github.com/ArkEcosystem/paper-wallet](https://github.com/ArkEcosystem/paper-wallet)  
-0.07 stars per week over 321 weeks  
-22 stars, 33 forks, 10 watches  
+0.07 stars per week over 325 weeks  
+22 stars, 33 forks, 9 watches  
 created 2016-12-14, last commit 2022-08-19, main language Vue  
 <sub><sup>ark, blockchain, cryptocurrency, wallet</sup></sub>
 
@@ -65,7 +65,7 @@ created 2016-12-14, last commit 2022-08-19, main language Vue
 ### [python-client](https://github.com/ArkEcosystem/python-client) by [ArkEcosystem](https://github.com/ArkEcosystem)  
 A simple Python API client for the ARK Blockchain.  
 [https://github.com/ArkEcosystem/python-client](https://github.com/ArkEcosystem/python-client)  
-0.06 stars per week over 244 weeks  
+0.06 stars per week over 247 weeks  
 15 stars, 24 forks, 6 watches  
 created 2018-06-08, last commit 2021-09-21, main language Python  
 <sub><sup>api, ark, blockchain, client, crypto, python</sup></sub>
@@ -74,8 +74,8 @@ created 2018-06-08, last commit 2021-09-21, main language Python
 ### [ledger](https://github.com/ArkEcosystem/ledger) by [ArkEcosystem](https://github.com/ArkEcosystem)  
 A Ledger Hardware Wallet Application in C for the ARK Blockchain.  
 [https://github.com/ArkEcosystem/ledger](https://github.com/ArkEcosystem/ledger)  
-0.05 stars per week over 294 weeks  
-14 stars, 20 forks, 12 watches  
+0.05 stars per week over 297 weeks  
+14 stars, 20 forks, 11 watches  
 created 2017-06-22, last commit 2022-02-10, main language C  
 <sub><sup>ark, blockchain, c, hardware, ledger, nanos, nanox, wallet</sup></sub>
 
@@ -83,12 +83,20 @@ created 2017-06-22, last commit 2022-02-10, main language C
 ### [python-crypto](https://github.com/ArkEcosystem/python-crypto) by [ArkEcosystem](https://github.com/ArkEcosystem)  
 A simple Cryptography Implementation in Python for the ARK Blockchain.  
 [https://github.com/ArkEcosystem/python-crypto](https://github.com/ArkEcosystem/python-crypto)  
-0.04 stars per week over 244 weeks  
+0.04 stars per week over 247 weeks  
 10 stars, 18 forks, 5 watches  
 created 2018-06-08, last commit 2022-04-20, main language Python  
 <sub><sup>ark, blockchain, crypto, python</sup></sub>
 
 
-This file was automatically generated on 2023-02-13.  
+### [docs](https://github.com/ArkEcosystem/docs) by [ArkEcosystem](https://github.com/ArkEcosystem)  
+Documentation for all ARK Ecosystem products and services.  
+[https://github.com/ArkEcosystem/docs](https://github.com/ArkEcosystem/docs)  
+0.08 stars per week over 126 weeks  
+10 stars, 10 forks, 6 watches  
+created 2020-10-05, last commit 2023-02-01, main language Blade  
+
+
+This file was automatically generated on 2023-03-08.  
 
 To curate your own github list, simply clone and change the input csv file.  
