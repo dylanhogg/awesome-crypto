@@ -30,15 +30,22 @@ black:
 
 ## Serve local client
 serve-local-client:
-	cd client/app; python3 -m http.server 8004
+	open http://localhost:8004/
+	cd client; make serve-local-app
 
 ## AWS S3 cp client app to S3
-s3-deploy-app:
-	cd client; make s3-deploy-app; make cf-invalidation
+s3-deploy-app-full:
+	cd client; make s3-deploy-app-full; make cf-invalidation
+
+## AWS S3 cp app to S3 (no data)
+s3-deploy-app-only:
+	cd client; make s3-deploy-app-only; make cf-invalidation
 
 ## Deploy server json data
 s3-deploy-files:
+	echo "DEPRECATED"
 	cd server; make s3-deploy-files; make cf-invalidation
+	echo "DEPRECATED"
 
 #################################################################################
 # Self Documenting Commands                                                     #

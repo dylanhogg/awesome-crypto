@@ -1,28 +1,35 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="en" prefix="og: https://ogp.me/ns#">
 <head>
-    <title>Awesome Crypto Organisations</title>
+    <title>Awesome Crypto: 100+ Crypto and Blockchain GitHub Orgainisations</title>
 
     <meta charset="UTF-8">
-    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
     <meta name="viewport" content="width=device-width,minimum-scale=1,initial-scale=1">
     <meta name="description" content="Awesome Crypto Organisations"/>
     <meta name="keywords" content="crypto, blockchain, ethereum, bitcoin, organisations, organizations, github"/>
+    <meta name="author" content="Dylan Hogg"/>
 
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css"/>
     <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/v/bs5/jq-3.6.0/dt-1.12.1/r-2.3.0/datatables.min.css"/>
-    <link rel="stylesheet" type="text/css" href="app.css?v=0.0.0.10" />
+    <link rel="stylesheet" type="text/css" href="app.css?v=0.0.0.25" />
     <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/jquery-modal/0.9.2/jquery.modal.min.css" />
+
+<!--    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>-->
+    <script defer src="https://cdn.datatables.net/v/bs5/jq-3.6.0/dt-1.12.1/r-2.3.0/datatables.min.js"></script>
+    <script defer src="https://cdnjs.cloudflare.com/ajax/libs/jquery-modal/0.9.2/jquery.modal.min.js"></script>
+    <script defer src="app.js?v=0.0.0.25"></script>
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-BQMNQNT3F2"></script>
+
+    <meta property="og:site_name" content="Awesome Crypto" />
+    <meta property="og:title" content="Awesome Crypto: Hundreds of Crypto and Blockchain GitHub Orgainisations"/>
+    <meta property="og:description" content="A searchable list of thousands of Crypto and Blockchain related Github organisations"/>
+    <meta property="og:type" content="website"/>
+    <meta property="og:locale" content="en_US"/>
+    <meta property="og:url" content="https://www.awesomecrypto.xyz/"/>
 
     <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
     <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
     <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
-
-    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
-    <script type="text/javascript" src="https://cdn.datatables.net/v/bs5/jq-3.6.0/dt-1.12.1/r-2.3.0/datatables.min.js"></script>
-    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery-modal/0.9.2/jquery.modal.min.js"></script>
-    <script type="text/javascript" src="app.js?v=0.0.0.9"></script>
-    <script async src="https://www.googletagmanager.com/gtag/js?id=G-BQMNQNT3F2"></script>
 
     <script>
       window.dataLayer = window.dataLayer || [];
@@ -33,10 +40,10 @@
 </head>
 <body>
     <div id="container">
-        <h4>Awesome Crypto Organisations</h4>
-        <span>A list of <span id="count">100+</span> awesome crypto & blockchain Github orgainisations</span><br />
-        <span>Order by columns for comparisons e.g. Marketcap vs Stars<br />
-        <img src='img/repo.png' class='github-img' />&nbsp;<a href="/">Show Projects</a>
+        <h4>Awesome Crypto GitHub Organisations</h4>
+        <span>A list of <span id="count">100+</span> awesome crypto & blockchain GitHub orgainisations</span><br />
+        <span>Order by columns for comparisons e.g. Marketcap vs Stars</span><br />
+        <img src='img/repo.png' class='github-img' />&nbsp;<a href="/">Show GitHub Projects</a>
         <table id="org-table" class="table table-striped" style="width:100%"></table>
         <br />Source: <a href="https://github.com/dylanhogg/crazy-awesome-crypto">github.com/dylanhogg/crazy-awesome-crypto</a>
         <br />Market data: <a href="https://www.coingecko.com/en/api">www.coingecko.com/en/api</a>

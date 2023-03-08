@@ -1,4 +1,4 @@
-const version = "v0.0.11";
+const version = "v0.0.25";
 const ms_per_day = 1000 * 60 * 60 * 24;
 
 function dateDiffInWeeks(a, b) {
@@ -30,14 +30,8 @@ function getUrlQuery() {
 }
 
 $(document).ready( function () {
-    var ajax_url_orgs = 'https://crazy-awesome-crypto-api.infocruncher.com/github_data_org.json';
-    var ajax_url_repos = 'https://crazy-awesome-crypto-api.infocruncher.com/github_data.min.json';
-
-    if (location.hostname === "localhost" || location.hostname === "127.0.0.1") {
-        // Use local testing json data
-        ajax_url_orgs = '/github_data_org.json?v=1.0';
-        ajax_url_repos = '/github_data.json?v=1.0';
-    }
+    var ajax_url_orgs = './github_data_org.json?v1.0';
+    var ajax_url_repos = './github_data.ui.min.json?v1.0';
 
     var initialSearchTerm = getUrlQuery();
 
@@ -52,6 +46,7 @@ $(document).ready( function () {
             $('#count').text(cnt);
         },
         responsive: true,
+        deferRender: true,
         order: [[ 6, "desc" ]],
         columnDefs: [{ targets:"_all", orderSequence: ["desc", "asc"] }],
         paging: true,
@@ -125,6 +120,7 @@ $(document).ready( function () {
     // End Github orgainisation table
 
     // Github repository table
+    var description_max_strlen = 180;
     $("#repo-table").DataTable( {
         // dom: 'iftrip',  // https://datatables.net/reference/option/dom
         ajax: {
@@ -135,8 +131,9 @@ $(document).ready( function () {
             var cnt = this.api().data().length.toString().replace(/\B(?=(\d{3})+(?!\d))/g, ",");
             $('#count').text(cnt);
         },
+        deferRender: true,
         responsive: true,
-        order: [[ 4, "desc" ]],
+        order: [[ 3, "desc" ]],
         columnDefs: [{ targets:"_all", orderSequence: ["desc", "asc"] }],
         paging: true,
         pageLength: 10,
@@ -163,6 +160,9 @@ $(document).ready( function () {
             render: function(data, type, row, meta) {
                 var desc = row._reponame + ": " + row._description;
                 //var desc = "<a href='" + row.githuburl + "'>" + row._reponame + "</a>: "+ row._description;
+                if(desc.length > description_max_strlen) {
+                    desc = desc.substr(0, description_max_strlen) + "…";
+                }
                 return "<div class='text-wrap description-column'>" + desc + "</div>";
             }
           },
@@ -210,7 +210,7 @@ $(document).ready( function () {
           },
           { data: "_language", title: "Primary<br />Language" },
           { data: "_topics", title: "Tags",
-            render: function(data, type, row, meta) { return data.slice(0, 6).join(", "); }
+            render: function(data, type, row, meta) { return data.slice(0, 5).join(", "); }
           },
           { data: "_readme_localurl", title: "Docs",
             orderable: false,

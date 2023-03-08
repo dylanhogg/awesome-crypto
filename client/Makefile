@@ -10,17 +10,22 @@ BUCKET_NAME=awesome-crypto.infocruncher.com
 
 ## Serve local js client app
 serve-local-app:
-	cd app; python3 -m http.server 8004
+	# cd app; python3 -m http.server 8004
+	python3 http_server.py
 
 ## Copy processed data to local client for testing
 copy-data-local-app: remove-data-local-app
 	cp ../api_data/github_data.json app/
+	cp ../api_data/github_data.min.json app/
+	cp ../api_data/github_data.ui.min.json app/
 	cp ../api_data/github_data_org.json app/
 	cp -r ../data app/data
 
 ## Remove processed data from local client for testing
 remove-data-local-app:
 	rm app/github_data.json || true
+	rm app/github_data.min.json || true
+	rm app/github_data.ui.min.json || true
 	rm app/github_data_org.json || true
 	rm -rf app/data
 
@@ -33,15 +38,22 @@ browse-s3:
 	open http://${BUCKET_NAME}.s3-website-${AWS_REGION}.amazonaws.com/
 
 
-
-
 # AWS Command Tools
 
 ## AWS S3 cp app to S3
-s3-deploy-app: remove-data-local-app
+s3-deploy-app-full: remove-data-local-app
 	aws s3 cp app s3://${BUCKET_NAME} --recursive --profile ${AWS_PROFILE}
-	aws s3 cp ../data s3://${BUCKET_NAME}/data --recursive --profile ${AWS_PROFILE}
-	aws s3 cp app/sitemap.xml s3://${BUCKET_NAME}/sitemap.xml --profile ${AWS_PROFILE}
+	aws s3 cp ../api_data/github_data.json s3://${BUCKET_NAME}/github_data.json --profile ${AWS_PROFILE}
+	aws s3 cp ../api_data/github_data.min.json s3://${BUCKET_NAME}/github_data.min.json --profile ${AWS_PROFILE}
+	aws s3 cp ../api_data/github_data.ui.min.json s3://${BUCKET_NAME}/github_data.ui.min.json --profile ${AWS_PROFILE}
+	aws s3 cp ../api_data/github_data_org.json s3://${BUCKET_NAME}/github_data_org.json --profile ${AWS_PROFILE}
+	aws s3 cp ../api_data/github_data.csv s3://${BUCKET_NAME}/github_data.csv --profile ${AWS_PROFILE}
+	# aws s3 cp ../data s3://${BUCKET_NAME}/data --recursive --profile ${AWS_PROFILE}
+	# NOTE: Remember to invalidate Cloudfront cache to materialise changes: "make cf-invalidation"
+
+## AWS S3 cp app to S3 (no data)
+s3-deploy-app-only: remove-data-local-app
+	aws s3 cp app s3://${BUCKET_NAME} --recursive --profile ${AWS_PROFILE}
 	# NOTE: Remember to invalidate Cloudfront cache to materialise changes: "make cf-invalidation"
 
 ## AWS S3 cp sitemap.xml to S3

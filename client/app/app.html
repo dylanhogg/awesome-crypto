@@ -1,29 +1,36 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="en" prefix="og: https://ogp.me/ns#">
 <head>
-    <title>Awesome Crypto</title>
+    <title>Awesome Crypto: 1000+ Crypto and Blockchain GitHub Repositories</title>
 
     <meta charset="UTF-8">
-    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
     <meta name="viewport" content="width=device-width,minimum-scale=1,initial-scale=1">
-    <meta name="description" content="Awesome Crypto Projects"/>
+    <meta name="description" content="A searchable list of thousands of Crypto and Blockchain related Github repositories"/>
     <meta name="keywords" content="crypto, blockchain, ethereum, bitcoin, projects, github"/>
+    <meta name="author" content="Dylan Hogg"/>
 
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css"/>
     <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/v/bs5/jq-3.6.0/dt-1.12.1/r-2.3.0/datatables.min.css"/>
-    <link rel="stylesheet" type="text/css" href="app.css?v=0.0.0.20" />
+    <link rel="stylesheet" type="text/css" href="app.css?v=0.0.0.25" />
     <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/jquery-modal/0.9.2/jquery.modal.min.css" />
+
+<!--    <script defer src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>-->
+    <script defer src="https://cdn.datatables.net/v/bs5/jq-3.6.0/dt-1.12.1/r-2.3.0/datatables.min.js"></script>
+    <script defer src="https://cdnjs.cloudflare.com/ajax/libs/jquery-modal/0.9.2/jquery.modal.min.js"></script>
+    <script defer src="app.js?v=0.0.0.25"></script>
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-BQMNQNT3F2"></script>
+
+    <meta property="og:site_name" content="Awesome Crypto" />
+    <meta property="og:title" content="Awesome Crypto: 1000+ Crypto and Blockchain GitHub Repositories"/>
+    <meta property="og:description" content="A searchable list of thousands of Crypto and Blockchain related Github repositories"/>
+    <meta property="og:type" content="website"/>
+    <meta property="og:locale" content="en_US"/>
+    <meta property="og:url" content="https://www.awesomecrypto.xyz/"/>
 
     <link rel="canonical" href="https://www.awesomecrypto.xyz/" />
     <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
     <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
     <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
-
-    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
-    <script type="text/javascript" src="https://cdn.datatables.net/v/bs5/jq-3.6.0/dt-1.12.1/r-2.3.0/datatables.min.js"></script>
-    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery-modal/0.9.2/jquery.modal.min.js"></script>
-    <script type="text/javascript" src="app.js?v=0.0.0.20"></script>
-    <script async src="https://www.googletagmanager.com/gtag/js?id=G-BQMNQNT3F2"></script>
 
     <script>
       window.dataLayer = window.dataLayer || [];
@@ -34,12 +41,12 @@
 </head>
 <body>
     <div id="container">
-        <h4>Awesome Crypto</h4>
+        <h4>Awesome Crypto GitHub Repositories</h4>
         <span><span id="count">1000+</span> crypto & blockchain projects</span><br />
         <span>Search to find specific projects
               e.g. <code><a href="app.html?q=defi">defi</a></code>, <code><a href="app.html?q=nft">nft</a></code>, <code><a href="app.html?q=web3">web3</a></code>, <code><a href="app.html?q=solidity">solidity</a></code> or <code><a href="app.html?q=ethereum">ethereum</a></code></span><br />
-        <img src='img/org.png' class='github-img' />&nbsp;<a href="orgs.html">Show Organisations</a>
-        <table id="repo-table" class="table table-striped" style="width:100%"></table>
+        <img src='img/org.png' class='github-img' />&nbsp;<a href="orgs.html">Show GitHub Organisations</a>
+        <table id="repo-table" class="table table-striped" style="width:100%; height:300px;"></table>
         <br />Source code: <a href="https://github.com/dylanhogg/crazy-awesome-crypto">github.com/dylanhogg/crazy-awesome-crypto</a>
     </div>
 </body>
