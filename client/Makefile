@@ -69,11 +69,11 @@ s3-delete-app:
 ## AWS Cloudfront invalidation (limit 1000 free calls per month)
 cf-invalidation:
 	# awesome-crypto.infocruncher.com:
-	aws cloudfront create-invalidation --distribution-id E1TZP5ELNUI17P --paths "/*"
+	AWS_PAGER="" aws cloudfront create-invalidation --distribution-id E1TZP5ELNUI17P --paths "/*"
 	# www.awesomecrypto.xyz:
-	aws cloudfront create-invalidation --distribution-id E1U4N1DFRC0OPT --paths "/*"
+	AWS_PAGER="" aws cloudfront create-invalidation --distribution-id E1U4N1DFRC0OPT --paths "/*"
 	# awesomecrypto.xyz:
-	aws cloudfront create-invalidation --distribution-id ECZV508344GZA --paths "/*"
+	AWS_PAGER="" aws cloudfront create-invalidation --distribution-id ECZV508344GZA --paths "/*"
 
 # Terraform
 
