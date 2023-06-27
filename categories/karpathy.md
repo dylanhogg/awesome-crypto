@@ -8,12 +8,12 @@ Checkout the interactive version that you can filter and sort:
 ### [cryptos](https://github.com/karpathy/cryptos) by [karpathy](https://github.com/karpathy)  
 Pure Python from-scratch zero-dependency implementation of Bitcoin for educational purposes  
 [https://github.com/karpathy/cryptos](https://github.com/karpathy/cryptos)  
-10 stars per week over 97 weeks  
-1,030 stars, 153 forks, 36 watches  
+9.98 stars per week over 113 weeks  
+1,131 stars, 168 forks, 37 watches  
 created 2021-04-25, last commit 2021-06-21, main language Jupyter Notebook  
 <sub><sup>bitcoin, crypto, cryptocurrency, elliptic-curves</sup></sub>
 
 
-This file was automatically generated on 2023-03-08.  
+This file was automatically generated on 2023-06-27.  
 
 To curate your own github list, simply clone and change the input csv file.  

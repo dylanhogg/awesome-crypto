@@ -8,8 +8,8 @@ Checkout the interactive version that you can filter and sort:
 ### [graviton](https://github.com/deroproject/graviton) by [deroproject](https://github.com/deroproject)  
 Graviton Database: ZFS for key-value stores.  
 [https://github.com/deroproject/graviton](https://github.com/deroproject/graviton)  
-3.13 stars per week over 130 weeks  
-409 stars, 16 forks, 19 watches  
+2.8 stars per week over 146 weeks  
+411 stars, 18 forks, 18 watches  
 created 2020-09-04, last commit 2022-01-30, main language Go  
 
 
@@ -17,8 +17,8 @@ created 2020-09-04, last commit 2022-01-30, main language Go
 DERO: Secure, Anonymous Blockchain with Smart Contracts.  Subscribe to Dero announcements by sending mail to lists@dero.io with subject: subscribe announcements  
 [http://wiki.dero.io](http://wiki.dero.io)  
 [https://github.com/deroproject/derosuite](https://github.com/deroproject/derosuite)  
-1.03 stars per week over 267 weeks  
-275 stars, 97 forks, 46 watches  
+0.96 stars per week over 283 weeks  
+273 stars, 96 forks, 47 watches  
 created 2018-01-18, last commit 2022-03-30, main language Go  
 <sub><sup>blockchain, crypto, cryptonote, dero, go, golang, privacy, protocol</sup></sub>
 
@@ -26,17 +26,17 @@ created 2018-01-18, last commit 2022-03-30, main language Go
 ### [derohe](https://github.com/deroproject/derohe) by [deroproject](https://github.com/deroproject)  
 DERO Homomorphic Encryption Blockchain Protocol  
 [https://github.com/deroproject/derohe](https://github.com/deroproject/derohe)  
-1.13 stars per week over 115 weeks  
-131 stars, 59 forks, 35 watches  
-created 2020-12-19, last commit 2023-02-19, main language Go  
+1.16 stars per week over 131 weeks  
+153 stars, 70 forks, 40 watches  
+created 2020-12-19, last commit 2023-06-13, main language Go  
 
 
 ### [dero](https://github.com/deroproject/dero) by [deroproject](https://github.com/deroproject)  
 DERO: Secure, Private Blockchain with Smart Contracts.  
 [https://forum.dero.io](https://forum.dero.io)  
 [https://github.com/deroproject/dero](https://github.com/deroproject/dero)  
-0.18 stars per week over 274 weeks  
-48 stars, 16 forks, 16 watches  
+0.17 stars per week over 289 weeks  
+48 stars, 15 forks, 17 watches  
 created 2017-12-06, last commit 2018-04-12, main language C++  
 
 
@@ -44,8 +44,8 @@ created 2017-12-06, last commit 2018-04-12, main language C++
 ASIC/FPGA/GPU resistant CPU mining algorithm.  
 [http://dero.io](http://dero.io)  
 [https://github.com/deroproject/astrobwt](https://github.com/deroproject/astrobwt)  
-0.27 stars per week over 163 weeks  
-44 stars, 15 forks, 3 watches  
+0.26 stars per week over 178 weeks  
+46 stars, 15 forks, 4 watches  
 created 2020-01-22, last commit 2021-06-30, main language Go  
 
 
@@ -53,8 +53,8 @@ created 2020-01-22, last commit 2021-06-30, main language Go
 Documentation, Guides, Whitepapers  
 [https://forum.dero.io](https://forum.dero.io)  
 [https://github.com/deroproject/documentation](https://github.com/deroproject/documentation)  
-0.08 stars per week over 265 weeks  
-22 stars, 14 forks, 7 watches  
+0.08 stars per week over 281 weeks  
+22 stars, 15 forks, 8 watches  
 created 2018-02-04, last commit 2022-08-04, main language Shell  
 <sub><sup>blockchain, crypto, cryptonote, dero, golang</sup></sub>
 
@@ -62,19 +62,19 @@ created 2018-02-04, last commit 2022-08-04, main language Shell
 ### [wiki](https://github.com/deroproject/wiki) by [deroproject](https://github.com/deroproject)  
 Dero wiki for commands, tutorials, guides.  
 [https://github.com/deroproject/wiki](https://github.com/deroproject/wiki)  
-0.06 stars per week over 255 weeks  
-15 stars, 6 forks, 4 watches  
+0.06 stars per week over 271 weeks  
+16 stars, 6 forks, 6 watches  
 created 2018-04-15, last commit 2018-12-22, main language None  
 
 
 ### [dero_gui_wallet](https://github.com/deroproject/dero_gui_wallet) by [deroproject](https://github.com/deroproject)  
 DERO GUI wallet in Golang with QT bindings.  
 [https://github.com/deroproject/dero_gui_wallet](https://github.com/deroproject/dero_gui_wallet)  
-0.05 stars per week over 239 weeks  
-11 stars, 13 forks, 6 watches  
+0.04 stars per week over 255 weeks  
+11 stars, 12 forks, 7 watches  
 created 2018-08-04, last commit 2018-08-05, main language QML  
 
 
-This file was automatically generated on 2023-03-08.  
+This file was automatically generated on 2023-06-27.  
 
 To curate your own github list, simply clone and change the input csv file.  

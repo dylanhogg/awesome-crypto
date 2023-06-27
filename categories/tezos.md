@@ -9,34 +9,34 @@ Checkout the interactive version that you can filter and sort:
 Mirror of the release branches for Tezos, a self-amending cryptographic ledger  
 [https://gitlab.com/tezos/tezos](https://gitlab.com/tezos/tezos)  
 [https://github.com/tezos/tezos](https://github.com/tezos/tezos)  
-4.4 stars per week over 341 weeks  
-1,502 stars, 209 forks, 263 watches  
+4.22 stars per week over 356 weeks  
+1,505 stars, 210 forks, 261 watches  
 created 2016-08-24, last commit 2022-05-30, main language None  
 <sub><sup>blockchain, ocaml, smart-contracts, tezos</sup></sub>
-
-
-### [tezos-papers](https://github.com/tezos/tezos-papers) by [tezos](https://github.com/tezos)  
-Original position paper and white paper for Tezos  
-[https://github.com/tezos/tezos-papers](https://github.com/tezos/tezos-papers)  
-0.11 stars per week over 332 weeks  
-37 stars, 20 forks, 12 watches  
-created 2016-10-25, last commit 2018-05-20, main language TeX  
 
 
 ### [tezos-mirror](https://github.com/tezos/tezos-mirror) by [tezos](https://github.com/tezos)  
 Github test mirror of the Octez software. Please do not submit pull-requests here!  
 [https://gitlab.com/tezos/tezos](https://gitlab.com/tezos/tezos)  
 [https://github.com/tezos/tezos-mirror](https://github.com/tezos/tezos-mirror)  
-0.78 stars per week over 41 weeks  
-32 stars, 13 forks, 3 watches  
-created 2022-05-25, last commit 2023-03-08, main language OCaml  
+0.79 stars per week over 56 weeks  
+45 stars, 15 forks, 3 watches  
+created 2022-05-25, last commit 2023-06-26, main language OCaml  
 <sub><sup>blockchain, ocaml, smart-contracts, tezos</sup></sub>
+
+
+### [tezos-papers](https://github.com/tezos/tezos-papers) by [tezos](https://github.com/tezos)  
+Original position paper and white paper for Tezos  
+[https://github.com/tezos/tezos-papers](https://github.com/tezos/tezos-papers)  
+0.11 stars per week over 348 weeks  
+37 stars, 20 forks, 12 watches  
+created 2016-10-25, last commit 2018-05-20, main language TeX  
 
 
 ### [tezoscoq](https://github.com/tezos/tezoscoq) by [tezos](https://github.com/tezos)  
 working with coq and tezos  
 [https://github.com/tezos/tezoscoq](https://github.com/tezos/tezoscoq)  
-0.08 stars per week over 333 weeks  
+0.08 stars per week over 348 weeks  
 28 stars, 9 forks, 12 watches  
 created 2016-10-19, last commit 2016-11-02, main language Coq  
 
@@ -44,7 +44,7 @@ created 2016-10-19, last commit 2016-11-02, main language Coq
 ### [optimal_stack](https://github.com/tezos/optimal_stack) by [tezos](https://github.com/tezos)  
 Compiler for stack manipulation in Michelson  
 [https://github.com/tezos/optimal_stack](https://github.com/tezos/optimal_stack)  
-0.05 stars per week over 280 weeks  
+0.04 stars per week over 296 weeks  
 13 stars, 5 forks, 4 watches  
 created 2017-10-19, last commit 2018-12-19, main language OCaml  
 
@@ -52,11 +52,11 @@ created 2017-10-19, last commit 2018-12-19, main language OCaml
 ### [tezos-explorer](https://github.com/tezos/tezos-explorer) by [tezos](https://github.com/tezos)  
 A block explorer for Tezos  
 [https://github.com/tezos/tezos-explorer](https://github.com/tezos/tezos-explorer)  
-0.03 stars per week over 316 weeks  
+0.03 stars per week over 331 weeks  
 11 stars, 5 forks, 11 watches  
 created 2017-02-15, last commit 2017-03-31, main language Makefile  
 
 
-This file was automatically generated on 2023-03-08.  
+This file was automatically generated on 2023-06-27.  
 
 To curate your own github list, simply clone and change the input csv file.  

@@ -9,12 +9,12 @@ Checkout the interactive version that you can filter and sort:
 Orchid: VPN, Personal Firewall  
 [https://www.orchid.com/](https://www.orchid.com/)  
 [https://github.com/OrchidTechnologies/orchid](https://github.com/OrchidTechnologies/orchid)  
-3.28 stars per week over 185 weeks  
-608 stars, 103 forks, 54 watches  
-created 2019-08-20, last commit 2023-02-23, main language Dart  
+3.1 stars per week over 201 weeks  
+623 stars, 106 forks, 53 watches  
+created 2019-08-20, last commit 2023-06-13, main language Dart  
 <sub><sup>firewall, packet-analyzer, packet-capture, personal-firewall, traffic-analyzer, traffic-sniffer, vpn</sup></sub>
 
 
-This file was automatically generated on 2023-03-08.  
+This file was automatically generated on 2023-06-27.  
 
 To curate your own github list, simply clone and change the input csv file.  

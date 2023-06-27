@@ -9,8 +9,8 @@ Checkout the interactive version that you can filter and sort:
 EVM compatible chain with NPoS/PoC consensus  
 [https://docs.reef.io](https://docs.reef.io)  
 [https://github.com/reef-defi/reef-chain](https://github.com/reef-defi/reef-chain)  
-1.38 stars per week over 106 weeks  
-147 stars, 36 forks, 22 watches  
+1.2 stars per week over 122 weeks  
+147 stars, 37 forks, 23 watches  
 created 2021-02-20, last commit 2022-08-18, main language Rust  
 <sub><sup>blockchain, defi, ethereum, evm, polkadot, rust, substrate, wasm</sup></sub>
 
@@ -18,8 +18,8 @@ created 2021-02-20, last commit 2022-08-18, main language Rust
 ### [reef-client](https://github.com/reef-defi/reef-client) by [reef-defi](https://github.com/reef-defi)  
 The Reef Dapp  
 [https://github.com/reef-defi/reef-client](https://github.com/reef-defi/reef-client)  
-0.18 stars per week over 129 weeks  
-23 stars, 7 forks, 12 watches  
+0.16 stars per week over 145 weeks  
+23 stars, 7 forks, 13 watches  
 created 2020-09-15, last commit 2021-09-15, main language TypeScript  
 
 
@@ -27,8 +27,8 @@ created 2020-09-15, last commit 2021-09-15, main language TypeScript
 Reefscan block explorer  
 [https://reefscan.com](https://reefscan.com)  
 [https://github.com/reef-defi/reef-explorer](https://github.com/reef-defi/reef-explorer)  
-0.2 stars per week over 104 weeks  
-21 stars, 21 forks, 13 watches  
+0.17 stars per week over 120 weeks  
+20 stars, 23 forks, 14 watches  
 created 2021-03-04, last commit 2023-02-09, main language TypeScript  
 
 
@@ -36,11 +36,11 @@ created 2021-03-04, last commit 2023-02-09, main language TypeScript
 Reef chain documentation  
 [https://docs.reef.io](https://docs.reef.io)  
 [https://github.com/reef-defi/reef-docs](https://github.com/reef-defi/reef-docs)  
-0.11 stars per week over 106 weeks  
-12 stars, 8 forks, 9 watches  
-created 2021-02-24, last commit 2022-12-22, main language SCSS  
+0.09 stars per week over 121 weeks  
+11 stars, 8 forks, 11 watches  
+created 2021-02-24, last commit 2023-04-18, main language SCSS  
 
 
-This file was automatically generated on 2023-03-08.  
+This file was automatically generated on 2023-06-27.  
 
 To curate your own github list, simply clone and change the input csv file.  
