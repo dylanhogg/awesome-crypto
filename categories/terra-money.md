@@ -9,8 +9,8 @@ Checkout the interactive version that you can filter and sort:
 GO implementation of the Terra Protocol   
 [https://www.terra.money](https://www.terra.money)  
 [https://github.com/terra-money/classic-core](https://github.com/terra-money/classic-core)  
-4.12 stars per week over 240 weeks  
-991 stars, 298 forks, 94 watches  
+4.08 stars per week over 243 weeks  
+992 stars, 297 forks, 94 watches  
 created 2018-11-18, last commit 2023-05-16, main language JavaScript  
 
 
@@ -18,33 +18,33 @@ created 2018-11-18, last commit 2023-05-16, main language JavaScript
 GO implementation of the Terra Protocol  
 [https://www.terra.money](https://www.terra.money)  
 [https://github.com/terra-money/core](https://github.com/terra-money/core)  
-6.07 stars per week over 58 weeks  
-353 stars, 81 forks, 44 watches  
-created 2022-05-16, last commit 2023-06-08, main language JavaScript  
+5.83 stars per week over 61 weeks  
+357 stars, 84 forks, 44 watches  
+created 2022-05-16, last commit 2023-06-27, main language JavaScript  
 <sub><sup>blockchain, cryptocurrency, smart-contracts, wasm</sup></sub>
 
 
 ### [terra.js](https://github.com/terra-money/terra.js) by [terra-money](https://github.com/terra-money)  
 JavaScript SDK for Terra, written in TypeScript  
 [https://github.com/terra-money/terra.js](https://github.com/terra-money/terra.js)  
-1.56 stars per week over 168 weeks  
-263 stars, 157 forks, 29 watches  
-created 2020-04-02, last commit 2023-06-12, main language TypeScript  
+1.53 stars per week over 171 weeks  
+263 stars, 156 forks, 32 watches  
+created 2020-04-02, last commit 2023-07-06, main language TypeScript  
 
 
 ### [LocalTerra](https://github.com/terra-money/LocalTerra) by [terra-money](https://github.com/terra-money)  
 One-click local Terra testnet and ecosystem for rapid prototyping  
 [https://github.com/terra-money/LocalTerra](https://github.com/terra-money/LocalTerra)  
-1.13 stars per week over 158 weeks  
-178 stars, 105 forks, 31 watches  
-created 2020-06-15, last commit 2023-06-12, main language Dockerfile  
+1.1 stars per week over 161 weeks  
+178 stars, 106 forks, 31 watches  
+created 2020-06-15, last commit 2023-07-17, main language Dockerfile  
 
 
 ### [awesome-terra](https://github.com/terra-money/awesome-terra) by [terra-money](https://github.com/terra-money)  
 A curated list of awesome Terra blockchain resources  
 [https://github.com/terra-money/awesome-terra](https://github.com/terra-money/awesome-terra)  
-1.06 stars per week over 137 weeks  
-146 stars, 41 forks, 9 watches  
+1.02 stars per week over 140 weeks  
+143 stars, 41 forks, 9 watches  
 created 2020-11-05, last commit 2022-05-03, main language None  
 
 
@@ -52,8 +52,8 @@ created 2020-11-05, last commit 2022-05-03, main language None
 Python SDK for Terra   
 [https://terra-money.github.io/terra.py/](https://terra-money.github.io/terra.py/)  
 [https://github.com/terra-money/terra.py](https://github.com/terra-money/terra.py)  
-1.09 stars per week over 127 weeks  
-138 stars, 108 forks, 23 watches  
+1.05 stars per week over 130 weeks  
+137 stars, 107 forks, 23 watches  
 created 2021-01-18, last commit 2022-10-03, main language Python  
 <sub><sup>blockchain, python, sdk-python, terra</sup></sub>
 
@@ -62,17 +62,17 @@ created 2021-01-18, last commit 2022-10-03, main language Python
 🗂 The official documentation for the Terra blockchain  
 [https://docs.terra.money](https://docs.terra.money)  
 [https://github.com/terra-money/docs](https://github.com/terra-money/docs)  
-0.68 stars per week over 162 weeks  
-110 stars, 197 forks, 30 watches  
-created 2020-05-15, last commit 2023-06-26, main language SCSS  
+0.68 stars per week over 165 weeks  
+112 stars, 197 forks, 29 watches  
+created 2020-05-15, last commit 2023-07-17, main language SCSS  
 
 
 ### [wallet-provider](https://github.com/terra-money/wallet-provider) by [terra-money](https://github.com/terra-money)  
 Library to make React dApps easier using Terra Station Extension or Terra Station Mobile.  
 [https://www.npmjs.com/package/@terra-money/wallet-provider](https://www.npmjs.com/package/@terra-money/wallet-provider)  
 [https://github.com/terra-money/wallet-provider](https://github.com/terra-money/wallet-provider)  
-0.85 stars per week over 105 weeks  
-90 stars, 69 forks, 22 watches  
+0.82 stars per week over 108 weeks  
+89 stars, 69 forks, 21 watches  
 created 2021-06-17, last commit 2023-04-10, main language TypeScript  
 <sub><sup>blockchain, dapp, react, terrajs</sup></sub>
 
@@ -81,52 +81,52 @@ created 2021-06-17, last commit 2023-04-10, main language TypeScript
 Resources and instructions for Terra & Columbus network launch  
 [https://www.terra.money](https://www.terra.money)  
 [https://github.com/terra-money/classic-mainnet](https://github.com/terra-money/classic-mainnet)  
-0.4 stars per week over 218 weeks  
-88 stars, 103 forks, 25 watches  
+0.4 stars per week over 221 weeks  
+88 stars, 102 forks, 25 watches  
 created 2019-04-21, last commit 2022-05-14, main language None  
 
 
 ### [shuttle](https://github.com/terra-money/shuttle) by [terra-money](https://github.com/terra-money)  
   
 [https://github.com/terra-money/shuttle](https://github.com/terra-money/shuttle)  
-0.64 stars per week over 135 weeks  
-86 stars, 40 forks, 4 watches  
+0.61 stars per week over 138 weeks  
+85 stars, 40 forks, 4 watches  
 created 2020-11-21, last commit 2022-05-10, main language TypeScript  
-
-
-### [validator-profiles](https://github.com/terra-money/validator-profiles) by [terra-money](https://github.com/terra-money)  
-Profiles for Validators of the Terra Blockchain  
-[https://github.com/terra-money/validator-profiles](https://github.com/terra-money/validator-profiles)  
-0.49 stars per week over 168 weeks  
-82 stars, 387 forks, 33 watches  
-created 2020-04-05, last commit 2023-05-24, main language Jinja  
-
-
-### [bridge-web-app](https://github.com/terra-money/bridge-web-app) by [terra-money](https://github.com/terra-money)  
-🪐 Terra Bridge web app  
-[https://bridge.terra.money](https://bridge.terra.money)  
-[https://github.com/terra-money/bridge-web-app](https://github.com/terra-money/bridge-web-app)  
-0.67 stars per week over 122 weeks  
-82 stars, 82 forks, 27 watches  
-created 2021-02-18, last commit 2023-04-07, main language TypeScript  
-<sub><sup>blockchain, bridge, cosmos, ethereum, keplr, metamask, station, terra</sup></sub>
 
 
 ### [station](https://github.com/terra-money/station) by [terra-money](https://github.com/terra-money)  
 🛰️ Station wallet  
 [https://station.terra.money](https://station.terra.money)  
 [https://github.com/terra-money/station](https://github.com/terra-money/station)  
-1.04 stars per week over 78 weeks  
-81 stars, 114 forks, 29 watches  
-created 2021-12-27, last commit 2023-06-13, main language TypeScript  
+1.01 stars per week over 81 weeks  
+82 stars, 114 forks, 29 watches  
+created 2021-12-27, last commit 2023-07-12, main language TypeScript  
 <sub><sup>wallet</sup></sub>
+
+
+### [validator-profiles](https://github.com/terra-money/validator-profiles) by [terra-money](https://github.com/terra-money)  
+Profiles for Validators of the Terra Blockchain  
+[https://github.com/terra-money/validator-profiles](https://github.com/terra-money/validator-profiles)  
+0.48 stars per week over 171 weeks  
+82 stars, 389 forks, 33 watches  
+created 2020-04-05, last commit 2023-07-18, main language Jinja  
+
+
+### [bridge-web-app](https://github.com/terra-money/bridge-web-app) by [terra-money](https://github.com/terra-money)  
+🪐 Terra Bridge web app  
+[https://bridge.terra.money](https://bridge.terra.money)  
+[https://github.com/terra-money/bridge-web-app](https://github.com/terra-money/bridge-web-app)  
+0.65 stars per week over 125 weeks  
+82 stars, 82 forks, 27 watches  
+created 2021-02-18, last commit 2023-04-07, main language TypeScript  
+<sub><sup>blockchain, bridge, cosmos, ethereum, keplr, metamask, station, terra</sup></sub>
 
 
 ### [station-legacy](https://github.com/terra-money/station-legacy) by [terra-money](https://github.com/terra-money)  
 Web Application to interact with Terra Core  
 [https://station.terra.money](https://station.terra.money)  
 [https://github.com/terra-money/station-legacy](https://github.com/terra-money/station-legacy)  
-0.33 stars per week over 202 weeks  
+0.33 stars per week over 205 weeks  
 67 stars, 47 forks, 34 watches  
 created 2019-08-08, last commit 2021-12-18, main language TypeScript  
 
@@ -134,7 +134,7 @@ created 2019-08-08, last commit 2021-12-18, main language TypeScript
 ### [mantlemint](https://github.com/terra-money/mantlemint) by [terra-money](https://github.com/terra-money)  
   
 [https://github.com/terra-money/mantlemint](https://github.com/terra-money/mantlemint)  
-0.62 stars per week over 102 weeks  
+0.6 stars per week over 105 weeks  
 64 stars, 34 forks, 19 watches  
 created 2021-07-08, last commit 2023-05-16, main language Go  
 
@@ -143,7 +143,7 @@ created 2021-07-08, last commit 2023-05-16, main language Go
 Terra ETL + RestFul API Server  
 [https://fcd.terra.dev/swagger](https://fcd.terra.dev/swagger)  
 [https://github.com/terra-money/fcd-classic](https://github.com/terra-money/fcd-classic)  
-0.37 stars per week over 165 weeks  
+0.37 stars per week over 168 weeks  
 62 stars, 38 forks, 22 watches  
 created 2020-04-25, last commit 2023-01-23, main language HTML  
 
@@ -152,32 +152,24 @@ created 2020-04-25, last commit 2023-01-23, main language HTML
   
 [https://assets.terra.money](https://assets.terra.money)  
 [https://github.com/terra-money/assets](https://github.com/terra-money/assets)  
-0.45 stars per week over 125 weeks  
-57 stars, 323 forks, 31 watches  
-created 2021-01-27, last commit 2023-06-13, main language JavaScript  
+0.44 stars per week over 129 weeks  
+57 stars, 321 forks, 31 watches  
+created 2021-01-27, last commit 2023-07-18, main language JavaScript  
 
 
 ### [cosmwasm-contracts](https://github.com/terra-money/cosmwasm-contracts) by [terra-money](https://github.com/terra-money)  
   
 [https://github.com/terra-money/cosmwasm-contracts](https://github.com/terra-money/cosmwasm-contracts)  
-0.32 stars per week over 161 weeks  
-52 stars, 28 forks, 13 watches  
+0.31 stars per week over 164 weeks  
+51 stars, 28 forks, 13 watches  
 created 2020-05-26, last commit 2022-02-01, main language Rust  
-
-
-### [terra-cosmwasm](https://github.com/terra-money/terra-cosmwasm) by [terra-money](https://github.com/terra-money)  
-Terra bindings for CosmWasm  
-[https://github.com/terra-money/terra-cosmwasm](https://github.com/terra-money/terra-cosmwasm)  
-0.32 stars per week over 155 weeks  
-50 stars, 26 forks, 10 watches  
-created 2020-07-06, last commit 2021-08-20, main language Rust  
 
 
 ### [finder](https://github.com/terra-money/finder) by [terra-money](https://github.com/terra-money)  
 The Terra Finder is a tool to search through blocks, transactions, and accounts on the Terra blockchain.  
 [https://finder.terra.money](https://finder.terra.money)  
 [https://github.com/terra-money/finder](https://github.com/terra-money/finder)  
-0.25 stars per week over 201 weeks  
+0.24 stars per week over 204 weeks  
 50 stars, 61 forks, 28 watches  
 created 2019-08-19, last commit 2022-11-08, main language TypeScript  
 <sub><sup>blockchain, blockexplorer, terra, terra-blockchain, terra-finder</sup></sub>
@@ -186,53 +178,61 @@ created 2019-08-19, last commit 2022-11-08, main language TypeScript
 ### [oracle-feeder](https://github.com/terra-money/oracle-feeder) by [terra-money](https://github.com/terra-money)  
 Oracle Feeder Daemon  
 [https://github.com/terra-money/oracle-feeder](https://github.com/terra-money/oracle-feeder)  
-0.22 stars per week over 223 weeks  
+0.22 stars per week over 226 weeks  
 49 stars, 72 forks, 34 watches  
 created 2019-03-19, last commit 2023-03-24, main language TypeScript  
+
+
+### [terra-cosmwasm](https://github.com/terra-money/terra-cosmwasm) by [terra-money](https://github.com/terra-money)  
+Terra bindings for CosmWasm  
+[https://github.com/terra-money/terra-cosmwasm](https://github.com/terra-money/terra-cosmwasm)  
+0.31 stars per week over 158 weeks  
+49 stars, 26 forks, 10 watches  
+created 2020-07-06, last commit 2021-08-20, main language Rust  
 
 
 ### [terrain](https://github.com/terra-money/terrain) by [terra-money](https://github.com/terra-money)  
 🛠 A Terra development environment for seamless smart contract development  
 [https://docs.terra.money/develop/guides/initial](https://docs.terra.money/develop/guides/initial)  
 [https://github.com/terra-money/terrain](https://github.com/terra-money/terrain)  
-0.68 stars per week over 66 weeks  
-45 stars, 33 forks, 5 watches  
+0.69 stars per week over 69 weeks  
+48 stars, 33 forks, 5 watches  
 created 2022-03-18, last commit 2023-06-21, main language TypeScript  
 <sub><sup>blockchain, cosmwasm, cryptocurrency, non-fungible-token, smart-contract-deployment, smart-contract-tools, smart-contracts, terra, web3</sup></sub>
-
-
-### [classic-testnet](https://github.com/terra-money/classic-testnet) by [terra-money](https://github.com/terra-money)  
-Configuration files for Terra testnet releases  
-[https://www.terra.money](https://www.terra.money)  
-[https://github.com/terra-money/classic-testnet](https://github.com/terra-money/classic-testnet)  
-0.18 stars per week over 238 weeks  
-44 stars, 85 forks, 24 watches  
-created 2018-11-28, last commit 2022-05-23, main language Python  
 
 
 ### [research](https://github.com/terra-money/research) by [terra-money](https://github.com/terra-money)  
 Models and simulations  
 [https://agora.terra.money/](https://agora.terra.money/)  
 [https://github.com/terra-money/research](https://github.com/terra-money/research)  
-0.18 stars per week over 250 weeks  
+0.17 stars per week over 253 weeks  
 44 stars, 18 forks, 9 watches  
 created 2018-09-06, last commit 2019-04-20, main language Python  
+
+
+### [classic-testnet](https://github.com/terra-money/classic-testnet) by [terra-money](https://github.com/terra-money)  
+Configuration files for Terra testnet releases  
+[https://www.terra.money](https://www.terra.money)  
+[https://github.com/terra-money/classic-testnet](https://github.com/terra-money/classic-testnet)  
+0.18 stars per week over 242 weeks  
+44 stars, 86 forks, 24 watches  
+created 2018-11-28, last commit 2022-05-23, main language Python  
 
 
 ### [alliance](https://github.com/terra-money/alliance) by [terra-money](https://github.com/terra-money)  
 🤝 Alliance chain with x/alliance module  
 [https://github.com/terra-money/alliance](https://github.com/terra-money/alliance)  
-1.15 stars per week over 36 weeks  
-42 stars, 18 forks, 17 watches  
-created 2022-10-14, last commit 2023-06-12, main language Go  
+1.11 stars per week over 39 weeks  
+44 stars, 19 forks, 16 watches  
+created 2022-10-14, last commit 2023-07-12, main language Go  
 
 
 ### [station-mobile](https://github.com/terra-money/station-mobile) by [terra-money](https://github.com/terra-money)  
 🛰️ Station wallet mobile  
 [https://apps.apple.com/it/app/terra-station/id1548434735](https://apps.apple.com/it/app/terra-station/id1548434735)  
 [https://github.com/terra-money/station-mobile](https://github.com/terra-money/station-mobile)  
-0.34 stars per week over 101 weeks  
-34 stars, 50 forks, 23 watches  
+0.33 stars per week over 104 weeks  
+34 stars, 51 forks, 23 watches  
 created 2021-07-19, last commit 2022-10-31, main language TypeScript  
 <sub><sup>android, ios, mobile, station, terra, wallet</sup></sub>
 
@@ -241,7 +241,7 @@ created 2021-07-19, last commit 2022-10-31, main language TypeScript
 Faucet to get free coins for the Terra testnet  
 [https://faucet.terra.money](https://faucet.terra.money)  
 [https://github.com/terra-money/faucet](https://github.com/terra-money/faucet)  
-0.15 stars per week over 221 weeks  
+0.15 stars per week over 224 weeks  
 34 stars, 33 forks, 29 watches  
 created 2019-04-01, last commit 2023-05-15, main language Go  
 
@@ -250,49 +250,49 @@ created 2019-04-01, last commit 2023-05-15, main language Go
 🛰️ Station Chrome and Firefox extension  
 [https://chrome.google.com/webstore/detail/aiifbnbfobpmeekipheeijimdpnlpgpp](https://chrome.google.com/webstore/detail/aiifbnbfobpmeekipheeijimdpnlpgpp)  
 [https://github.com/terra-money/station-extension](https://github.com/terra-money/station-extension)  
-0.41 stars per week over 76 weeks  
-31 stars, 58 forks, 20 watches  
-created 2022-01-10, last commit 2023-06-23, main language TypeScript  
+0.4 stars per week over 79 weeks  
+32 stars, 57 forks, 20 watches  
+created 2022-01-10, last commit 2023-07-15, main language TypeScript  
 <sub><sup>cryptocurrency, wallet</sup></sub>
-
-
-### [houston](https://github.com/terra-money/houston) by [terra-money](https://github.com/terra-money)  
-A development environment, testing framework and smart contract pipeline for Terra, aiming to make life as a Terra developer easier.  
-[https://github.com/terra-money/houston](https://github.com/terra-money/houston)  
-0.19 stars per week over 141 weeks  
-27 stars, 14 forks, 24 watches  
-created 2020-10-12, last commit 2021-05-13, main language TypeScript  
 
 
 ### [station-desktop](https://github.com/terra-money/station-desktop) by [terra-money](https://github.com/terra-money)  
   
 [https://github.com/terra-money/station-desktop](https://github.com/terra-money/station-desktop)  
-0.13 stars per week over 204 weeks  
-27 stars, 39 forks, 28 watches  
+0.13 stars per week over 207 weeks  
+27 stars, 40 forks, 28 watches  
 created 2019-07-25, last commit 2023-01-18, main language JavaScript  
 
 
-### [terraswap-graph](https://github.com/terra-money/terraswap-graph) by [terra-money](https://github.com/terra-money)  
-Terraswap Indexer + GraphQL  
-[https://github.com/terra-money/terraswap-graph](https://github.com/terra-money/terraswap-graph)  
-0.25 stars per week over 100 weeks  
-25 stars, 27 forks, 5 watches  
-created 2021-07-21, last commit 2022-03-14, main language TypeScript  
+### [houston](https://github.com/terra-money/houston) by [terra-money](https://github.com/terra-money)  
+A development environment, testing framework and smart contract pipeline for Terra, aiming to make life as a Terra developer easier.  
+[https://github.com/terra-money/houston](https://github.com/terra-money/houston)  
+0.19 stars per week over 144 weeks  
+27 stars, 14 forks, 24 watches  
+created 2020-10-12, last commit 2021-05-13, main language TypeScript  
 
 
 ### [mantle-sdk](https://github.com/terra-money/mantle-sdk) by [terra-money](https://github.com/terra-money)  
 All type definition of Terra, database scheme, and extract scripts  
 [https://github.com/terra-money/mantle-sdk](https://github.com/terra-money/mantle-sdk)  
-0.15 stars per week over 167 weeks  
+0.15 stars per week over 170 weeks  
 25 stars, 15 forks, 23 watches  
 created 2020-04-09, last commit 2021-11-08, main language Go  
+
+
+### [terraswap-graph](https://github.com/terra-money/terraswap-graph) by [terra-money](https://github.com/terra-money)  
+Terraswap Indexer + GraphQL  
+[https://github.com/terra-money/terraswap-graph](https://github.com/terra-money/terraswap-graph)  
+0.24 stars per week over 104 weeks  
+25 stars, 27 forks, 5 watches  
+created 2021-07-21, last commit 2022-03-14, main language TypeScript  
 
 
 ### [my-terra-token](https://github.com/terra-money/my-terra-token) by [terra-money](https://github.com/terra-money)  
 Simple CosmWasm smart contract on Terra  
 [https://github.com/terra-money/my-terra-token](https://github.com/terra-money/my-terra-token)  
-0.13 stars per week over 156 weeks  
-21 stars, 18 forks, 24 watches  
+0.13 stars per week over 159 weeks  
+21 stars, 17 forks, 24 watches  
 created 2020-06-25, last commit 2020-06-29, main language Rust  
 
 
@@ -300,7 +300,7 @@ created 2020-06-25, last commit 2020-06-29, main language Rust
 White paper & protocol specifications  
 [https://www.terra.money](https://www.terra.money)  
 [https://github.com/terra-money/documentation](https://github.com/terra-money/documentation)  
-0.07 stars per week over 271 weeks  
+0.07 stars per week over 274 weeks  
 20 stars, 11 forks, 4 watches  
 created 2018-04-12, last commit 2019-04-18, main language TeX  
 
@@ -308,33 +308,33 @@ created 2018-04-12, last commit 2019-04-18, main language TeX
 ### [terra.go](https://github.com/terra-money/terra.go) by [terra-money](https://github.com/terra-money)  
 Go library for terra blockchain  
 [https://github.com/terra-money/terra.go](https://github.com/terra-money/terra.go)  
-0.14 stars per week over 136 weeks  
+0.14 stars per week over 139 weeks  
 19 stars, 28 forks, 4 watches  
 created 2020-11-12, last commit 2021-12-20, main language Go  
+
+
+### [hive-graph](https://github.com/terra-money/hive-graph) by [terra-money](https://github.com/terra-money)  
+GraphQL interface for Terra blockchain  
+[https://github.com/terra-money/hive-graph](https://github.com/terra-money/hive-graph)  
+0.17 stars per week over 101 weeks  
+17 stars, 27 forks, 16 watches  
+created 2021-08-09, last commit 2022-07-28, main language TypeScript  
+<sub><sup>blockchain, graphql, graphql-api, terra, terra-money, terramoney, terrastation</sup></sub>
 
 
 ### [cosmos-sdk](https://github.com/terra-money/cosmos-sdk) by [terra-money](https://github.com/terra-money)  
 :chains: A Framework for Building High Value Public Blockchains :sparkles:  
 [https://cosmos.network/](https://cosmos.network/)  
 [https://github.com/terra-money/cosmos-sdk](https://github.com/terra-money/cosmos-sdk)  
-0.14 stars per week over 123 weeks  
+0.13 stars per week over 126 weeks  
 17 stars, 31 forks, 4 watches  
 created 2021-02-14, last commit 2023-02-01, main language Go  
-
-
-### [hive-graph](https://github.com/terra-money/hive-graph) by [terra-money](https://github.com/terra-money)  
-GraphQL interface for Terra blockchain  
-[https://github.com/terra-money/hive-graph](https://github.com/terra-money/hive-graph)  
-0.17 stars per week over 98 weeks  
-17 stars, 27 forks, 16 watches  
-created 2021-08-09, last commit 2022-07-28, main language TypeScript  
-<sub><sup>blockchain, graphql, graphql-api, terra, terra-money, terramoney, terrastation</sup></sub>
 
 
 ### [mantle](https://github.com/terra-money/mantle) by [terra-money](https://github.com/terra-money)  
   
 [https://github.com/terra-money/mantle](https://github.com/terra-money/mantle)  
-0.11 stars per week over 143 weeks  
+0.11 stars per week over 147 weeks  
 16 stars, 10 forks, 22 watches  
 created 2020-09-23, last commit 2021-11-08, main language Go  
 
@@ -343,7 +343,7 @@ created 2020-09-23, last commit 2021-11-08, main language Go
 The Python SDK for Terra.  
 [https://jigu.terra.money/](https://jigu.terra.money/)  
 [https://github.com/terra-money/jigu](https://github.com/terra-money/jigu)  
-0.08 stars per week over 173 weeks  
+0.08 stars per week over 176 weeks  
 14 stars, 12 forks, 29 watches  
 created 2020-03-03, last commit 2021-02-15, main language Python  
 
@@ -351,35 +351,35 @@ created 2020-03-03, last commit 2021-02-15, main language Python
 ### [warp-contracts](https://github.com/terra-money/warp-contracts) by [terra-money](https://github.com/terra-money)  
   
 [https://github.com/terra-money/warp-contracts](https://github.com/terra-money/warp-contracts)  
-0.42 stars per week over 30 weeks  
-13 stars, 8 forks, 7 watches  
-created 2022-11-24, last commit 2023-06-20, main language Rust  
-
-
-### [tefi-oracle-contracts](https://github.com/terra-money/tefi-oracle-contracts) by [terra-money](https://github.com/terra-money)  
-Oracle SmartContracts for TeFi projects  
-[https://github.com/terra-money/tefi-oracle-contracts](https://github.com/terra-money/tefi-oracle-contracts)  
-0.12 stars per week over 82 weeks  
-10 stars, 15 forks, 7 watches  
-created 2021-11-27, last commit 2022-03-30, main language Rust  
-
-
-### [smart-contract-webapp-template](https://github.com/terra-money/smart-contract-webapp-template) by [terra-money](https://github.com/terra-money)  
-This is a basic template for developing smart contract and web app together. This template is based on cw-template of CosmWasm.  
-[https://github.com/terra-money/smart-contract-webapp-template](https://github.com/terra-money/smart-contract-webapp-template)  
-0.12 stars per week over 81 weeks  
-10 stars, 13 forks, 15 watches  
-created 2021-12-02, last commit 2021-12-23, main language TypeScript  
+0.38 stars per week over 33 weeks  
+13 stars, 9 forks, 7 watches  
+created 2022-11-24, last commit 2023-07-12, main language Rust  
 
 
 ### [genesis-tools](https://github.com/terra-money/genesis-tools) by [terra-money](https://github.com/terra-money)  
 Genesis Build Script for Terra 2.0   
 [https://github.com/terra-money/genesis-tools](https://github.com/terra-money/genesis-tools)  
-0.18 stars per week over 56 weeks  
+0.17 stars per week over 60 weeks  
 10 stars, 138 forks, 16 watches  
 created 2022-05-25, last commit 2022-05-30, main language Python  
 
 
-This file was automatically generated on 2023-06-27.  
+### [smart-contract-webapp-template](https://github.com/terra-money/smart-contract-webapp-template) by [terra-money](https://github.com/terra-money)  
+This is a basic template for developing smart contract and web app together. This template is based on cw-template of CosmWasm.  
+[https://github.com/terra-money/smart-contract-webapp-template](https://github.com/terra-money/smart-contract-webapp-template)  
+0.12 stars per week over 84 weeks  
+10 stars, 13 forks, 15 watches  
+created 2021-12-02, last commit 2021-12-23, main language TypeScript  
+
+
+### [tefi-oracle-contracts](https://github.com/terra-money/tefi-oracle-contracts) by [terra-money](https://github.com/terra-money)  
+Oracle SmartContracts for TeFi projects  
+[https://github.com/terra-money/tefi-oracle-contracts](https://github.com/terra-money/tefi-oracle-contracts)  
+0.12 stars per week over 85 weeks  
+10 stars, 15 forks, 7 watches  
+created 2021-11-27, last commit 2022-03-30, main language Rust  
+
+
+This file was automatically generated on 2023-07-19.  
 
 To curate your own github list, simply clone and change the input csv file.  

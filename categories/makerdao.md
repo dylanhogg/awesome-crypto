@@ -1,5 +1,5 @@
 # Crazy Awesome Crypto
-A list of 83 [makerdao](https://github.com/makerdao) project repos ordered by stars.  
+A list of 84 [makerdao](https://github.com/makerdao) project repos ordered by stars.  
 
 Checkout the interactive version that you can filter and sort: 
 [https://www.awesomecrypto.xyz/](https://www.awesomecrypto.xyz/)  
@@ -8,8 +8,8 @@ Checkout the interactive version that you can filter and sort:
 ### [multicall](https://github.com/makerdao/multicall) by [makerdao](https://github.com/makerdao)  
 Multicall: Aggregate multiple constant function call results into one  
 [https://github.com/makerdao/multicall](https://github.com/makerdao/multicall)  
-3.3 stars per week over 246 weeks  
-814 stars, 351 forks, 31 watches  
+3.28 stars per week over 250 weeks  
+820 stars, 359 forks, 30 watches  
 created 2018-10-03, last commit 2023-03-02, main language Solidity  
 
 
@@ -17,16 +17,16 @@ created 2018-10-03, last commit 2023-03-02, main language Solidity
 A collection of tools, documents, articles, blog posts, interviews, and videos related to MakerDAO and the Dai stablecoin.   
 [https://awesome.makerdao.com/](https://awesome.makerdao.com/)  
 [https://github.com/makerdao/awesome-makerdao](https://github.com/makerdao/awesome-makerdao)  
-2.83 stars per week over 243 weeks  
-688 stars, 174 forks, 57 watches  
+2.81 stars per week over 246 weeks  
+693 stars, 176 forks, 56 watches  
 created 2018-10-29, last commit 2021-04-17, main language None  
 
 
 ### [dss](https://github.com/makerdao/dss) by [makerdao](https://github.com/makerdao)  
 Dai Stablecoin System  
 [https://github.com/makerdao/dss](https://github.com/makerdao/dss)  
-2.54 stars per week over 265 weeks  
-673 stars, 396 forks, 51 watches  
+2.51 stars per week over 268 weeks  
+674 stars, 396 forks, 51 watches  
 created 2018-05-28, last commit 2022-05-18, main language Solidity  
 <sub><sup>defi, ethereum, makerdao, solidity</sup></sub>
 
@@ -34,16 +34,16 @@ created 2018-05-28, last commit 2022-05-18, main language Solidity
 ### [developerguides](https://github.com/makerdao/developerguides) by [makerdao](https://github.com/makerdao)  
 Developer guides to integrate with MakerDAO's smart contracts, SDKs, APIs, products, and partners  
 [https://github.com/makerdao/developerguides](https://github.com/makerdao/developerguides)  
-2.59 stars per week over 233 weeks  
-605 stars, 231 forks, 57 watches  
+2.56 stars per week over 236 weeks  
+607 stars, 233 forks, 56 watches  
 created 2019-01-03, last commit 2022-06-10, main language Shell  
 
 
 ### [market-maker-keeper](https://github.com/makerdao/market-maker-keeper) by [makerdao](https://github.com/makerdao)  
 Maker Keeper Framework: Market maker keepers for OasisDEX, EtherDelta, 0x (RadarRelay, ERCdEX), Paradex, DDEX, IDEX, Bibox, Ethfinex, GoPax, HitBTC, TheOcean, OKEX and Gate.io.  
 [https://github.com/makerdao/market-maker-keeper](https://github.com/makerdao/market-maker-keeper)  
-1.56 stars per week over 290 weeks  
-454 stars, 190 forks, 39 watches  
+1.55 stars per week over 293 weeks  
+456 stars, 190 forks, 38 watches  
 created 2017-11-30, last commit 2021-09-24, main language Python  
 <sub><sup>dai, ethereum, maker-keeper, stablecoin</sup></sub>
 
@@ -51,15 +51,15 @@ created 2017-11-30, last commit 2021-09-24, main language Python
 ### [multicall.js](https://github.com/makerdao/multicall.js) by [makerdao](https://github.com/makerdao)  
 Multicall.js: A JavaScript blockchain state management library for dapps  
 [https://github.com/makerdao/multicall.js](https://github.com/makerdao/multicall.js)  
-1.67 stars per week over 245 weeks  
-411 stars, 93 forks, 19 watches  
+1.65 stars per week over 249 weeks  
+412 stars, 92 forks, 18 watches  
 created 2018-10-10, last commit 2020-11-19, main language JavaScript  
 
 
 ### [pymaker](https://github.com/makerdao/pymaker) by [makerdao](https://github.com/makerdao)  
 Python API for Maker contracts  
 [https://github.com/makerdao/pymaker](https://github.com/makerdao/pymaker)  
-0.6 stars per week over 323 weeks  
+0.59 stars per week over 326 weeks  
 193 stars, 94 forks, 31 watches  
 created 2017-04-13, last commit 2022-12-14, main language Python  
 <sub><sup>dai, ethereum, maker-keeper, stablecoin</sup></sub>
@@ -69,24 +69,24 @@ created 2017-04-13, last commit 2022-12-14, main language Python
 Contains current and historical governance polls and executives used in the governance of the Maker Protocol.  Previously contained a lot of other content which remains in the 'prior-cleanup' branch.  
 [https://forum.makerdao.com/](https://forum.makerdao.com/)  
 [https://github.com/makerdao/community](https://github.com/makerdao/community)  
-0.7 stars per week over 231 weeks  
-163 stars, 144 forks, 26 watches  
-created 2019-01-19, last commit 2023-06-26, main language MDX  
+0.7 stars per week over 234 weeks  
+165 stars, 150 forks, 25 watches  
+created 2019-01-19, last commit 2023-07-18, main language MDX  
 
 
 ### [sai](https://github.com/makerdao/sai) by [makerdao](https://github.com/makerdao)  
 Single Collateral Dai  
 [https://github.com/makerdao/sai](https://github.com/makerdao/sai)  
-0.49 stars per week over 325 weeks  
-160 stars, 74 forks, 32 watches  
+0.49 stars per week over 329 weeks  
+162 stars, 73 forks, 33 watches  
 created 2017-03-29, last commit 2020-04-16, main language Solidity  
 
 
 ### [auction-keeper](https://github.com/makerdao/auction-keeper) by [makerdao](https://github.com/makerdao)  
 Maker Keeper Framework: Keeper to participate in `flip`, `flop` and `flap` auctions in multicollateral Dai.  
 [https://github.com/makerdao/auction-keeper](https://github.com/makerdao/auction-keeper)  
-0.45 stars per week over 266 weeks  
-120 stars, 65 forks, 24 watches  
+0.44 stars per week over 270 weeks  
+120 stars, 65 forks, 23 watches  
 created 2018-05-16, last commit 2021-09-24, main language Python  
 <sub><sup>dai, ethereum, maker-auction, maker-keeper, stablecoin</sup></sub>
 
@@ -94,8 +94,8 @@ created 2018-05-16, last commit 2021-09-24, main language Python
 ### [arbitrage-keeper](https://github.com/makerdao/arbitrage-keeper) by [makerdao](https://github.com/makerdao)  
 Maker Keeper Framework: Keeper to arbitrage on OasisDEX, `join`, `exit`, `boom` and `bust`. Efficiently handles both bad debt liquidations and surplus Dai.  
 [https://github.com/makerdao/arbitrage-keeper](https://github.com/makerdao/arbitrage-keeper)  
-0.4 stars per week over 290 weeks  
-115 stars, 31 forks, 23 watches  
+0.39 stars per week over 293 weeks  
+115 stars, 30 forks, 23 watches  
 created 2017-11-30, last commit 2019-09-27, main language Python  
 <sub><sup>dai, ethereum, maker-keeper, stablecoin</sup></sub>
 
@@ -103,47 +103,47 @@ created 2017-11-30, last commit 2019-09-27, main language Python
 ### [starknet-dai-bridge](https://github.com/makerdao/starknet-dai-bridge) by [makerdao](https://github.com/makerdao)  
   
 [https://github.com/makerdao/starknet-dai-bridge](https://github.com/makerdao/starknet-dai-bridge)  
-1.06 stars per week over 93 weeks  
-99 stars, 15 forks, 8 watches  
+1.02 stars per week over 96 weeks  
+99 stars, 16 forks, 7 watches  
 created 2021-09-09, last commit 2023-03-15, main language TypeScript  
 
 
 ### [dai.js](https://github.com/makerdao/dai.js) by [makerdao](https://github.com/makerdao)  
   
 [https://github.com/makerdao/dai.js](https://github.com/makerdao/dai.js)  
-0.32 stars per week over 288 weeks  
-93 stars, 68 forks, 20 watches  
+0.32 stars per week over 292 weeks  
+93 stars, 65 forks, 20 watches  
 created 2017-12-13, last commit 2022-06-10, main language JavaScript  
 
 
 ### [simple-arbitrage-keeper](https://github.com/makerdao/simple-arbitrage-keeper) by [makerdao](https://github.com/makerdao)  
 Arbitrage Keeper on OasisDEX and Uniswap V1  
 [https://github.com/makerdao/simple-arbitrage-keeper](https://github.com/makerdao/simple-arbitrage-keeper)  
-0.45 stars per week over 195 weeks  
-89 stars, 38 forks, 11 watches  
+0.45 stars per week over 198 weeks  
+89 stars, 37 forks, 11 watches  
 created 2019-09-26, last commit 2020-10-15, main language Python  
 
 
 ### [dss-teleport](https://github.com/makerdao/dss-teleport) by [makerdao](https://github.com/makerdao)  
   
 [https://github.com/makerdao/dss-teleport](https://github.com/makerdao/dss-teleport)  
-0.95 stars per week over 85 weeks  
-81 stars, 13 forks, 16 watches  
+0.91 stars per week over 88 weeks  
+81 stars, 13 forks, 15 watches  
 created 2021-11-05, last commit 2023-04-03, main language Solidity  
 
 
 ### [spells-mainnet](https://github.com/makerdao/spells-mainnet) by [makerdao](https://github.com/makerdao)  
 Staging repo for MakerDAO weekly executive spells  
 [https://github.com/makerdao/spells-mainnet](https://github.com/makerdao/spells-mainnet)  
-0.4 stars per week over 188 weeks  
-75 stars, 22 forks, 20 watches  
-created 2019-11-14, last commit 2023-06-19, main language Solidity  
+0.4 stars per week over 191 weeks  
+76 stars, 23 forks, 19 watches  
+created 2019-11-14, last commit 2023-07-14, main language Solidity  
 
 
 ### [pyexchange](https://github.com/makerdao/pyexchange) by [makerdao](https://github.com/makerdao)  
 Python API for some cryptocurrency exchanges  
 [https://github.com/makerdao/pyexchange](https://github.com/makerdao/pyexchange)  
-0.26 stars per week over 283 weeks  
+0.26 stars per week over 286 weeks  
 75 stars, 64 forks, 23 watches  
 created 2018-01-18, last commit 2021-09-16, main language Python  
 <sub><sup>dai, ethereum, maker-keeper, stablecoin</sup></sub>
@@ -152,15 +152,15 @@ created 2018-01-18, last commit 2021-09-16, main language Python
 ### [dss-proxy-actions](https://github.com/makerdao/dss-proxy-actions) by [makerdao](https://github.com/makerdao)  
 Set of proxy functions for MCD (using mcd-cdp-handler)  
 [https://github.com/makerdao/dss-proxy-actions](https://github.com/makerdao/dss-proxy-actions)  
-0.3 stars per week over 241 weeks  
-72 stars, 49 forks, 30 watches  
+0.29 stars per week over 244 weeks  
+72 stars, 49 forks, 29 watches  
 created 2018-11-12, last commit 2022-04-08, main language Solidity  
 
 
 ### [optimism-dai-bridge](https://github.com/makerdao/optimism-dai-bridge) by [makerdao](https://github.com/makerdao)  
 Optimism Dai and upgradable token bridge  
 [https://github.com/makerdao/optimism-dai-bridge](https://github.com/makerdao/optimism-dai-bridge)  
-0.58 stars per week over 119 weeks  
+0.57 stars per week over 122 weeks  
 70 stars, 22 forks, 12 watches  
 created 2021-03-11, last commit 2021-11-22, main language TypeScript  
 
@@ -168,15 +168,15 @@ created 2021-03-11, last commit 2021-11-22, main language TypeScript
 ### [dss-deploy](https://github.com/makerdao/dss-deploy) by [makerdao](https://github.com/makerdao)  
 Set of smart contracts and bash scripts to deploy Multi collateral DAI  
 [https://github.com/makerdao/dss-deploy](https://github.com/makerdao/dss-deploy)  
-0.26 stars per week over 253 weeks  
-66 stars, 36 forks, 28 watches  
+0.26 stars per week over 256 weeks  
+66 stars, 36 forks, 27 watches  
 created 2018-08-18, last commit 2022-05-18, main language Solidity  
 
 
 ### [tx-manager](https://github.com/makerdao/tx-manager) by [makerdao](https://github.com/makerdao)  
 Solidity contract to make multiple calls in one Ethereum transaction. Used by Maker keepers.  
 [https://github.com/makerdao/tx-manager](https://github.com/makerdao/tx-manager)  
-0.21 stars per week over 312 weeks  
+0.21 stars per week over 315 weeks  
 66 stars, 21 forks, 14 watches  
 created 2017-06-30, last commit 2018-09-11, main language Makefile  
 <sub><sup>ethereum-contract, maker-keeper, solidity</sup></sub>
@@ -185,81 +185,81 @@ created 2017-06-30, last commit 2018-09-11, main language Makefile
 ### [mips](https://github.com/makerdao/mips) by [makerdao](https://github.com/makerdao)  
 Maker Improvement Proposals (MIPs)  
 [https://github.com/makerdao/mips](https://github.com/makerdao/mips)  
-0.39 stars per week over 168 weeks  
-65 stars, 110 forks, 14 watches  
-created 2020-04-04, last commit 2023-06-26, main language None  
+0.38 stars per week over 171 weeks  
+65 stars, 110 forks, 13 watches  
+created 2020-04-04, last commit 2023-07-14, main language None  
 
 
 ### [dss-direct-deposit](https://github.com/makerdao/dss-direct-deposit) by [makerdao](https://github.com/makerdao)  
   
 [https://github.com/makerdao/dss-direct-deposit](https://github.com/makerdao/dss-direct-deposit)  
-0.48 stars per week over 117 weeks  
-57 stars, 18 forks, 8 watches  
+0.48 stars per week over 121 weeks  
+58 stars, 18 forks, 8 watches  
 created 2021-03-24, last commit 2023-05-12, main language Solidity  
 
 
 ### [integration-examples](https://github.com/makerdao/integration-examples) by [makerdao](https://github.com/makerdao)  
 A set of examples of how to use the DAI.js library with various purposes and configs  
 [https://github.com/makerdao/integration-examples](https://github.com/makerdao/integration-examples)  
-0.21 stars per week over 264 weeks  
-56 stars, 42 forks, 31 watches  
+0.21 stars per week over 268 weeks  
+56 stars, 42 forks, 30 watches  
 created 2018-05-30, last commit 2020-07-16, main language JavaScript  
 
 
 ### [oracles-v2](https://github.com/makerdao/oracles-v2) by [makerdao](https://github.com/makerdao)  
   
 [https://github.com/makerdao/oracles-v2](https://github.com/makerdao/oracles-v2)  
-0.2 stars per week over 249 weeks  
-50 stars, 36 forks, 20 watches  
+0.2 stars per week over 252 weeks  
+50 stars, 36 forks, 19 watches  
 created 2018-09-17, last commit 2022-04-20, main language Nix  
 
 
 ### [bite-keeper](https://github.com/makerdao/bite-keeper) by [makerdao](https://github.com/makerdao)  
 Maker Keeper Framework: Keeper to bite undercollateralized cups.  
 [https://github.com/makerdao/bite-keeper](https://github.com/makerdao/bite-keeper)  
-0.17 stars per week over 290 weeks  
+0.17 stars per week over 293 weeks  
 49 stars, 21 forks, 21 watches  
 created 2017-11-30, last commit 2021-10-11, main language Python  
 <sub><sup>dai, ethereum, maker-keeper, stablecoin</sup></sub>
 
 
-### [dss-flash](https://github.com/makerdao/dss-flash) by [makerdao](https://github.com/makerdao)  
-MakerDAO Flash Mint Module  
-[https://github.com/makerdao/dss-flash](https://github.com/makerdao/dss-flash)  
-0.32 stars per week over 147 weeks  
-47 stars, 28 forks, 10 watches  
-created 2020-08-26, last commit 2023-03-07, main language Solidity  
-
-
 ### [dss-deploy-scripts](https://github.com/makerdao/dss-deploy-scripts) by [makerdao](https://github.com/makerdao)  
   
 [https://github.com/makerdao/dss-deploy-scripts](https://github.com/makerdao/dss-deploy-scripts)  
-0.2 stars per week over 232 weeks  
-47 stars, 62 forks, 27 watches  
+0.2 stars per week over 236 weeks  
+47 stars, 62 forks, 26 watches  
 created 2019-01-09, last commit 2022-08-09, main language Shell  
-
-
-### [mips-best-practices](https://github.com/makerdao/mips-best-practices) by [makerdao](https://github.com/makerdao)  
-A collection of best practices and code samples for technical Maker Improvement Proposals (MIPs).  
-[https://github.com/makerdao/mips-best-practices](https://github.com/makerdao/mips-best-practices)  
-0.38 stars per week over 114 weeks  
-44 stars, 4 forks, 7 watches  
-created 2021-04-17, last commit 2022-02-13, main language Solidity  
 
 
 ### [spells-goerli](https://github.com/makerdao/spells-goerli) by [makerdao](https://github.com/makerdao)  
   
 [https://github.com/makerdao/spells-goerli](https://github.com/makerdao/spells-goerli)  
-0.44 stars per week over 98 weeks  
-43 stars, 19 forks, 12 watches  
-created 2021-08-05, last commit 2023-06-23, main language Solidity  
+0.46 stars per week over 101 weeks  
+47 stars, 19 forks, 12 watches  
+created 2021-08-05, last commit 2023-07-13, main language Solidity  
+
+
+### [dss-flash](https://github.com/makerdao/dss-flash) by [makerdao](https://github.com/makerdao)  
+MakerDAO Flash Mint Module  
+[https://github.com/makerdao/dss-flash](https://github.com/makerdao/dss-flash)  
+0.31 stars per week over 151 weeks  
+47 stars, 29 forks, 10 watches  
+created 2020-08-26, last commit 2023-03-07, main language Solidity  
+
+
+### [mips-best-practices](https://github.com/makerdao/mips-best-practices) by [makerdao](https://github.com/makerdao)  
+A collection of best practices and code samples for technical Maker Improvement Proposals (MIPs).  
+[https://github.com/makerdao/mips-best-practices](https://github.com/makerdao/mips-best-practices)  
+0.37 stars per week over 117 weeks  
+44 stars, 4 forks, 7 watches  
+created 2021-04-17, last commit 2022-02-13, main language Solidity  
 
 
 ### [dss-exec-lib](https://github.com/makerdao/dss-exec-lib) by [makerdao](https://github.com/makerdao)  
 DSS Executive Spellcrafting Library Contracts  
 [https://github.com/makerdao/dss-exec-lib](https://github.com/makerdao/dss-exec-lib)  
-0.26 stars per week over 143 weeks  
-37 stars, 20 forks, 15 watches  
+0.25 stars per week over 146 weeks  
+37 stars, 20 forks, 14 watches  
 created 2020-09-29, last commit 2023-01-23, main language Solidity  
 
 
@@ -267,80 +267,72 @@ created 2020-09-29, last commit 2023-01-23, main language Solidity
 Governance Portal V2  
 [https://vote.makerdao.com/](https://vote.makerdao.com/)  
 [https://github.com/makerdao/governance-portal-v2](https://github.com/makerdao/governance-portal-v2)  
-0.21 stars per week over 166 weeks  
-35 stars, 42 forks, 17 watches  
-created 2020-04-15, last commit 2023-06-22, main language TypeScript  
-
-
-### [dss-kiln](https://github.com/makerdao/dss-kiln) by [makerdao](https://github.com/makerdao)  
-Slow burner for protocol assets.  
-[https://github.com/makerdao/dss-kiln](https://github.com/makerdao/dss-kiln)  
-0.48 stars per week over 68 weeks  
-33 stars, 5 forks, 8 watches  
-created 2022-03-03, last commit 2023-02-10, main language Solidity  
-
-
-### [testchain](https://github.com/makerdao/testchain) by [makerdao](https://github.com/makerdao)  
-Start a local test chain with the MakerDAO contracts deployed on it, quickly and easily.  
-[https://github.com/makerdao/testchain](https://github.com/makerdao/testchain)  
-0.13 stars per week over 248 weeks  
-33 stars, 27 forks, 22 watches  
-created 2018-09-21, last commit 2022-06-21, main language Shell  
-
-
-### [dss-interfaces](https://github.com/makerdao/dss-interfaces) by [makerdao](https://github.com/makerdao)  
-Abstract developer interfaces to the Dai Stablecoin System core contracts.  
-[https://github.com/makerdao/dss-interfaces](https://github.com/makerdao/dss-interfaces)  
-0.18 stars per week over 186 weeks  
-33 stars, 27 forks, 16 watches  
-created 2019-11-27, last commit 2023-06-13, main language Solidity  
+0.21 stars per week over 170 weeks  
+35 stars, 43 forks, 16 watches  
+created 2020-04-15, last commit 2023-07-05, main language TypeScript  
 
 
 ### [market-maker-stats](https://github.com/makerdao/market-maker-stats) by [makerdao](https://github.com/makerdao)  
 Maker Keeper Framework: Set of tools to analyze market maker keepers performance.  
 [https://github.com/makerdao/market-maker-stats](https://github.com/makerdao/market-maker-stats)  
-0.11 stars per week over 290 weeks  
-33 stars, 10 forks, 16 watches  
+0.12 stars per week over 293 weeks  
+34 stars, 10 forks, 16 watches  
 created 2017-12-04, last commit 2021-10-11, main language Python  
 <sub><sup>dai, ethereum, maker-keeper, stablecoin</sup></sub>
+
+
+### [dss-interfaces](https://github.com/makerdao/dss-interfaces) by [makerdao](https://github.com/makerdao)  
+Abstract developer interfaces to the Dai Stablecoin System core contracts.  
+[https://github.com/makerdao/dss-interfaces](https://github.com/makerdao/dss-interfaces)  
+0.17 stars per week over 190 weeks  
+33 stars, 28 forks, 15 watches  
+created 2019-11-27, last commit 2023-06-29, main language Solidity  
+
+
+### [testchain](https://github.com/makerdao/testchain) by [makerdao](https://github.com/makerdao)  
+Start a local test chain with the MakerDAO contracts deployed on it, quickly and easily.  
+[https://github.com/makerdao/testchain](https://github.com/makerdao/testchain)  
+0.13 stars per week over 251 weeks  
+33 stars, 27 forks, 21 watches  
+created 2018-09-21, last commit 2022-06-21, main language Shell  
+
+
+### [dss-kiln](https://github.com/makerdao/dss-kiln) by [makerdao](https://github.com/makerdao)  
+Slow burner for protocol assets.  
+[https://github.com/makerdao/dss-kiln](https://github.com/makerdao/dss-kiln)  
+0.46 stars per week over 71 weeks  
+33 stars, 5 forks, 8 watches  
+created 2022-03-03, last commit 2023-02-10, main language Solidity  
 
 
 ### [price-feed](https://github.com/makerdao/price-feed) by [makerdao](https://github.com/makerdao)  
 price feed, with expiration and medianizer poke  
 [https://github.com/makerdao/price-feed](https://github.com/makerdao/price-feed)  
-0.11 stars per week over 304 weeks  
+0.1 stars per week over 307 weeks  
 32 stars, 17 forks, 16 watches  
 created 2017-08-28, last commit 2019-06-26, main language Solidity  
-
-
-### [dss-vest](https://github.com/makerdao/dss-vest) by [makerdao](https://github.com/makerdao)  
-  
-[https://github.com/makerdao/dss-vest](https://github.com/makerdao/dss-vest)  
-0.25 stars per week over 126 weeks  
-31 stars, 25 forks, 11 watches  
-created 2021-01-26, last commit 2023-03-09, main language Solidity  
 
 
 ### [univ3-lp-oracle](https://github.com/makerdao/univ3-lp-oracle) by [makerdao](https://github.com/makerdao)  
   
 [https://github.com/makerdao/univ3-lp-oracle](https://github.com/makerdao/univ3-lp-oracle)  
-0.3 stars per week over 103 weeks  
-31 stars, 9 forks, 11 watches  
+0.29 stars per week over 106 weeks  
+31 stars, 9 forks, 10 watches  
 created 2021-07-01, last commit 2021-09-29, main language Solidity  
 
 
-### [auction-demo-keeper](https://github.com/makerdao/auction-demo-keeper) by [makerdao](https://github.com/makerdao)  
+### [dss-vest](https://github.com/makerdao/dss-vest) by [makerdao](https://github.com/makerdao)  
   
-[https://github.com/makerdao/auction-demo-keeper](https://github.com/makerdao/auction-demo-keeper)  
-0.22 stars per week over 138 weeks  
-30 stars, 18 forks, 11 watches  
-created 2020-11-02, last commit 2022-03-27, main language JavaScript  
+[https://github.com/makerdao/dss-vest](https://github.com/makerdao/dss-vest)  
+0.24 stars per week over 129 weeks  
+31 stars, 25 forks, 11 watches  
+created 2021-01-26, last commit 2023-03-09, main language Solidity  
 
 
 ### [uniswap-price-feed](https://github.com/makerdao/uniswap-price-feed) by [makerdao](https://github.com/makerdao)  
   
 [https://github.com/makerdao/uniswap-price-feed](https://github.com/makerdao/uniswap-price-feed)  
-0.16 stars per week over 192 weeks  
+0.15 stars per week over 195 weeks  
 30 stars, 22 forks, 6 watches  
 created 2019-10-22, last commit 2019-11-06, main language Python  
 
@@ -348,15 +340,23 @@ created 2019-10-22, last commit 2019-11-06, main language Python
 ### [exchange-callees](https://github.com/makerdao/exchange-callees) by [makerdao](https://github.com/makerdao)  
 Exchange Callee contracts for LIQ2.0 Flash Loans  
 [https://github.com/makerdao/exchange-callees](https://github.com/makerdao/exchange-callees)  
-0.2 stars per week over 144 weeks  
-29 stars, 12 forks, 15 watches  
+0.2 stars per week over 147 weeks  
+30 stars, 12 forks, 14 watches  
 created 2020-09-22, last commit 2023-04-04, main language Solidity  
+
+
+### [auction-demo-keeper](https://github.com/makerdao/auction-demo-keeper) by [makerdao](https://github.com/makerdao)  
+  
+[https://github.com/makerdao/auction-demo-keeper](https://github.com/makerdao/auction-demo-keeper)  
+0.21 stars per week over 141 weeks  
+30 stars, 18 forks, 10 watches  
+created 2020-11-02, last commit 2022-03-27, main language JavaScript  
 
 
 ### [cdp-keeper](https://github.com/makerdao/cdp-keeper) by [makerdao](https://github.com/makerdao)  
 Maker Keeper Framework: Keeper to actively manage open CDPs.  
 [https://github.com/makerdao/cdp-keeper](https://github.com/makerdao/cdp-keeper)  
-0.1 stars per week over 290 weeks  
+0.1 stars per week over 293 weeks  
 28 stars, 13 forks, 18 watches  
 created 2017-11-30, last commit 2021-10-11, main language Python  
 <sub><sup>dai, ethereum, maker-keeper, stablecoin</sup></sub>
@@ -365,15 +365,15 @@ created 2017-11-30, last commit 2021-10-11, main language Python
 ### [evm](https://github.com/makerdao/evm) by [makerdao](https://github.com/makerdao)  
   
 [https://github.com/makerdao/evm](https://github.com/makerdao/evm)  
-0.28 stars per week over 100 weeks  
-28 stars, 3 forks, 4 watches  
+0.27 stars per week over 103 weeks  
+28 stars, 3 forks, 3 watches  
 created 2021-07-22, last commit 2021-09-10, main language Shell  
 
 
 ### [btc-market](https://github.com/makerdao/btc-market) by [makerdao](https://github.com/makerdao)  
 Trade bitcoins for tokens via btc-relay  
 [https://github.com/makerdao/btc-market](https://github.com/makerdao/btc-market)  
-0.08 stars per week over 359 weeks  
+0.07 stars per week over 362 weeks  
 27 stars, 12 forks, 20 watches  
 created 2016-08-04, last commit 2017-05-07, main language None  
 
@@ -381,7 +381,7 @@ created 2016-08-04, last commit 2017-05-07, main language None
 ### [mkr-mcd-spec](https://github.com/makerdao/mkr-mcd-spec) by [makerdao](https://github.com/makerdao)  
 High level KSpecification for the MCD System by Runtime Verification and Maker Foundation  
 [https://github.com/makerdao/mkr-mcd-spec](https://github.com/makerdao/mkr-mcd-spec)  
-0.13 stars per week over 204 weeks  
+0.13 stars per week over 207 weeks  
 27 stars, 9 forks, 13 watches  
 created 2019-07-30, last commit 2021-09-08, main language Python  
 
@@ -390,246 +390,278 @@ created 2019-07-30, last commit 2021-09-08, main language Python
 Multi-Collateral DAI Public Releases Page  
 [https://changelog.makerdao.com/](https://changelog.makerdao.com/)  
 [https://github.com/makerdao/mcd-changelog](https://github.com/makerdao/mcd-changelog)  
-0.11 stars per week over 217 weeks  
-25 stars, 13 forks, 18 watches  
+0.11 stars per week over 220 weeks  
+25 stars, 13 forks, 17 watches  
 created 2019-04-25, last commit 2022-07-05, main language HTML  
 <sub><sup>multi-collateral-dai</sup></sub>
-
-
-### [dss-gem-joins](https://github.com/makerdao/dss-gem-joins) by [makerdao](https://github.com/makerdao)  
-  
-[https://github.com/makerdao/dss-gem-joins](https://github.com/makerdao/dss-gem-joins)  
-0.18 stars per week over 141 weeks  
-25 stars, 20 forks, 12 watches  
-created 2020-10-08, last commit 2022-11-08, main language Solidity  
 
 
 ### [governance-portal](https://github.com/makerdao/governance-portal) by [makerdao](https://github.com/makerdao)  
 Governance Portal  
 [https://v1.vote.makerdao.com/](https://v1.vote.makerdao.com/)  
 [https://github.com/makerdao/governance-portal](https://github.com/makerdao/governance-portal)  
-0.1 stars per week over 261 weeks  
+0.09 stars per week over 264 weeks  
 25 stars, 27 forks, 17 watches  
 created 2018-06-21, last commit 2023-01-20, main language JavaScript  
+
+
+### [dss-gem-joins](https://github.com/makerdao/dss-gem-joins) by [makerdao](https://github.com/makerdao)  
+  
+[https://github.com/makerdao/dss-gem-joins](https://github.com/makerdao/dss-gem-joins)  
+0.17 stars per week over 144 weeks  
+25 stars, 20 forks, 11 watches  
+created 2020-10-08, last commit 2022-11-08, main language Solidity  
 
 
 ### [dss-cdp-manager](https://github.com/makerdao/dss-cdp-manager) by [makerdao](https://github.com/makerdao)  
   
 [https://github.com/makerdao/dss-cdp-manager](https://github.com/makerdao/dss-cdp-manager)  
-0.11 stars per week over 237 weeks  
-25 stars, 37 forks, 29 watches  
+0.1 stars per week over 240 weeks  
+25 stars, 37 forks, 28 watches  
 created 2018-12-10, last commit 2022-05-18, main language Solidity  
 
 
 ### [univ2-lp-oracle](https://github.com/makerdao/univ2-lp-oracle) by [makerdao](https://github.com/makerdao)  
   
 [https://github.com/makerdao/univ2-lp-oracle](https://github.com/makerdao/univ2-lp-oracle)  
-0.16 stars per week over 143 weeks  
-23 stars, 12 forks, 11 watches  
+0.16 stars per week over 146 weeks  
+23 stars, 12 forks, 10 watches  
 created 2020-09-26, last commit 2021-08-12, main language Solidity  
-
-
-### [arbitrum-dai-bridge](https://github.com/makerdao/arbitrum-dai-bridge) by [makerdao](https://github.com/makerdao)  
-  
-[https://github.com/makerdao/arbitrum-dai-bridge](https://github.com/makerdao/arbitrum-dai-bridge)  
-0.2 stars per week over 108 weeks  
-22 stars, 16 forks, 13 watches  
-created 2021-05-30, last commit 2021-09-20, main language TypeScript  
-
-
-### [token-auction](https://github.com/makerdao/token-auction) by [makerdao](https://github.com/makerdao)  
-Continuous Splitting Token Auction  
-[https://github.com/makerdao/token-auction](https://github.com/makerdao/token-auction)  
-0.06 stars per week over 368 weeks  
-22 stars, 20 forks, 36 watches  
-created 2016-06-02, last commit 2019-06-24, main language Makefile  
 
 
 ### [ilk-registry](https://github.com/makerdao/ilk-registry) by [makerdao](https://github.com/makerdao)  
 A publicly-modifiable registry of ilks in the Dai Stablecoin System.  
 [https://github.com/makerdao/ilk-registry](https://github.com/makerdao/ilk-registry)  
-0.14 stars per week over 159 weeks  
-22 stars, 18 forks, 13 watches  
+0.14 stars per week over 162 weeks  
+22 stars, 18 forks, 12 watches  
 created 2020-06-08, last commit 2023-03-07, main language Solidity  
 <sub><sup>ethereum, makerdao, solidity</sup></sub>
+
+
+### [arbitrum-dai-bridge](https://github.com/makerdao/arbitrum-dai-bridge) by [makerdao](https://github.com/makerdao)  
+  
+[https://github.com/makerdao/arbitrum-dai-bridge](https://github.com/makerdao/arbitrum-dai-bridge)  
+0.2 stars per week over 111 weeks  
+22 stars, 16 forks, 12 watches  
+created 2021-05-30, last commit 2021-09-20, main language TypeScript  
 
 
 ### [dockerized-auction-keeper](https://github.com/makerdao/dockerized-auction-keeper) by [makerdao](https://github.com/makerdao)  
   
 [https://github.com/makerdao/dockerized-auction-keeper](https://github.com/makerdao/dockerized-auction-keeper)  
-0.12 stars per week over 171 weeks  
+0.12 stars per week over 174 weeks  
 21 stars, 18 forks, 17 watches  
 created 2020-03-15, last commit 2021-01-11, main language Shell  
+
+
+### [setzer](https://github.com/makerdao/setzer) by [makerdao](https://github.com/makerdao)  
+manipulate feeds  
+[https://github.com/makerdao/setzer](https://github.com/makerdao/setzer)  
+0.07 stars per week over 322 weeks  
+21 stars, 22 forks, 36 watches  
+created 2017-05-17, last commit 2020-03-31, main language Shell  
+
+
+### [token-auction](https://github.com/makerdao/token-auction) by [makerdao](https://github.com/makerdao)  
+Continuous Splitting Token Auction  
+[https://github.com/makerdao/token-auction](https://github.com/makerdao/token-auction)  
+0.06 stars per week over 371 weeks  
+21 stars, 20 forks, 35 watches  
+created 2016-06-02, last commit 2019-06-24, main language Makefile  
 
 
 ### [scd-cdp-portal](https://github.com/makerdao/scd-cdp-portal) by [makerdao](https://github.com/makerdao)  
 Single-Collateral Dai CDP Portal  
 [https://cdp.makerdao.com/](https://cdp.makerdao.com/)  
 [https://github.com/makerdao/scd-cdp-portal](https://github.com/makerdao/scd-cdp-portal)  
-0.07 stars per week over 281 weeks  
-21 stars, 23 forks, 25 watches  
+0.07 stars per week over 284 weeks  
+21 stars, 23 forks, 24 watches  
 created 2018-02-05, last commit 2020-06-22, main language JavaScript  
-
-
-### [osm](https://github.com/makerdao/osm) by [makerdao](https://github.com/makerdao)  
-Feed with 1 hour delay  
-[https://github.com/makerdao/osm](https://github.com/makerdao/osm)  
-0.08 stars per week over 278 weeks  
-21 stars, 28 forks, 22 watches  
-created 2018-02-23, last commit 2021-09-17, main language Solidity  
 
 
 ### [dss-proxy](https://github.com/makerdao/dss-proxy) by [makerdao](https://github.com/makerdao)  
   
 [https://github.com/makerdao/dss-proxy](https://github.com/makerdao/dss-proxy)  
-0.28 stars per week over 74 weeks  
-21 stars, 4 forks, 10 watches  
+0.27 stars per week over 77 weeks  
+21 stars, 4 forks, 9 watches  
 created 2022-01-24, last commit 2022-05-20, main language Solidity  
+
+
+### [osm](https://github.com/makerdao/osm) by [makerdao](https://github.com/makerdao)  
+Feed with 1 hour delay  
+[https://github.com/makerdao/osm](https://github.com/makerdao/osm)  
+0.07 stars per week over 281 weeks  
+21 stars, 28 forks, 22 watches  
+created 2018-02-23, last commit 2021-09-17, main language Solidity  
 
 
 ### [simplecoin1](https://github.com/makerdao/simplecoin1) by [makerdao](https://github.com/makerdao)  
 Something to play with while we wait  
 [https://github.com/makerdao/simplecoin1](https://github.com/makerdao/simplecoin1)  
-0.05 stars per week over 364 weeks  
+0.05 stars per week over 368 weeks  
 20 stars, 8 forks, 25 watches  
 created 2016-06-29, last commit 2019-06-24, main language Makefile  
-
-
-### [setzer](https://github.com/makerdao/setzer) by [makerdao](https://github.com/makerdao)  
-manipulate feeds  
-[https://github.com/makerdao/setzer](https://github.com/makerdao/setzer)  
-0.06 stars per week over 318 weeks  
-20 stars, 22 forks, 37 watches  
-created 2017-05-17, last commit 2020-03-31, main language Shell  
 
 
 ### [xdomain](https://github.com/makerdao/xdomain) by [makerdao](https://github.com/makerdao)  
   
 [https://github.com/makerdao/xdomain](https://github.com/makerdao/xdomain)  
-0.28 stars per week over 67 weeks  
+0.27 stars per week over 70 weeks  
 19 stars, 9 forks, 10 watches  
 created 2022-03-11, last commit 2023-03-21, main language TypeScript  
+
+
+### [dss-bridge](https://github.com/makerdao/dss-bridge) by [makerdao](https://github.com/makerdao)  
+  
+[https://github.com/makerdao/dss-bridge](https://github.com/makerdao/dss-bridge)  
+0.48 stars per week over 37 weeks  
+18 stars, 4 forks, 8 watches  
+created 2022-10-27, last commit 2022-10-27, main language None  
 
 
 ### [mcd-cli](https://github.com/makerdao/mcd-cli) by [makerdao](https://github.com/makerdao)  
 MCD Command-line interface  
 [https://github.com/makerdao/mcd-cli](https://github.com/makerdao/mcd-cli)  
-0.07 stars per week over 252 weeks  
-18 stars, 8 forks, 18 watches  
+0.07 stars per week over 255 weeks  
+18 stars, 8 forks, 17 watches  
 created 2018-08-23, last commit 2022-10-03, main language Shell  
 
 
 ### [medianizer](https://github.com/makerdao/medianizer) by [makerdao](https://github.com/makerdao)  
 Returns median value of several DSValue, DSCache or other Medianizers  
 [https://github.com/makerdao/medianizer](https://github.com/makerdao/medianizer)  
-0.06 stars per week over 325 weeks  
+0.05 stars per week over 328 weeks  
 18 stars, 11 forks, 22 watches  
 created 2017-04-03, last commit 2019-06-26, main language Solidity  
-
-
-### [dss-bridge](https://github.com/makerdao/dss-bridge) by [makerdao](https://github.com/makerdao)  
-  
-[https://github.com/makerdao/dss-bridge](https://github.com/makerdao/dss-bridge)  
-0.52 stars per week over 34 weeks  
-18 stars, 4 forks, 8 watches  
-created 2022-10-27, last commit 2022-10-27, main language None  
-
-
-### [dss-crop-join](https://github.com/makerdao/dss-crop-join) by [makerdao](https://github.com/makerdao)  
-  
-[https://github.com/makerdao/dss-crop-join](https://github.com/makerdao/dss-crop-join)  
-0.15 stars per week over 108 weeks  
-16 stars, 7 forks, 11 watches  
-created 2021-05-27, last commit 2022-04-17, main language Solidity  
 
 
 ### [curve-lp-oracle](https://github.com/makerdao/curve-lp-oracle) by [makerdao](https://github.com/makerdao)  
   
 [https://github.com/makerdao/curve-lp-oracle](https://github.com/makerdao/curve-lp-oracle)  
-0.18 stars per week over 89 weeks  
-16 stars, 6 forks, 9 watches  
+0.18 stars per week over 92 weeks  
+17 stars, 6 forks, 8 watches  
 created 2021-10-08, last commit 2022-09-20, main language Solidity  
 
 
-### [plunger](https://github.com/makerdao/plunger) by [makerdao](https://github.com/makerdao)  
-Tool for overriding Ethereum transactions stuck in the pool  
-[https://github.com/makerdao/plunger](https://github.com/makerdao/plunger)  
-0.05 stars per week over 300 weeks  
-16 stars, 12 forks, 25 watches  
-created 2017-09-25, last commit 2021-09-24, main language Python  
-<sub><sup>ethereum, maker-keeper</sup></sub>
+### [dss-crop-join](https://github.com/makerdao/dss-crop-join) by [makerdao](https://github.com/makerdao)  
+  
+[https://github.com/makerdao/dss-crop-join](https://github.com/makerdao/dss-crop-join)  
+0.14 stars per week over 111 weeks  
+16 stars, 7 forks, 10 watches  
+created 2021-05-27, last commit 2022-04-17, main language Solidity  
 
 
 ### [petrometer](https://github.com/makerdao/petrometer) by [makerdao](https://github.com/makerdao)  
 Tool which summarizes daily and total gas consumption of all transactions sent from a specified Ethereum address.  
 [https://github.com/makerdao/petrometer](https://github.com/makerdao/petrometer)  
-0.07 stars per week over 214 weeks  
-16 stars, 11 forks, 11 watches  
-created 2019-05-21, last commit 2022-10-25, main language Python  
+0.07 stars per week over 217 weeks  
+16 stars, 11 forks, 10 watches  
+created 2019-05-21, last commit 2023-06-28, main language Python  
 
 
 ### [esm](https://github.com/makerdao/esm) by [makerdao](https://github.com/makerdao)  
 Emergency Shutdown Module  
 [https://github.com/makerdao/esm](https://github.com/makerdao/esm)  
-0.07 stars per week over 215 weeks  
-16 stars, 27 forks, 17 watches  
+0.07 stars per week over 219 weeks  
+16 stars, 27 forks, 16 watches  
 created 2019-05-08, last commit 2022-01-26, main language Solidity  
+
+
+### [plunger](https://github.com/makerdao/plunger) by [makerdao](https://github.com/makerdao)  
+Tool for overriding Ethereum transactions stuck in the pool  
+[https://github.com/makerdao/plunger](https://github.com/makerdao/plunger)  
+0.05 stars per week over 303 weeks  
+16 stars, 12 forks, 24 watches  
+created 2017-09-25, last commit 2021-09-24, main language Python  
+<sub><sup>ethereum, maker-keeper</sup></sub>
 
 
 ### [median](https://github.com/makerdao/median) by [makerdao](https://github.com/makerdao)  
 Medianizer 2  
 [https://github.com/makerdao/median](https://github.com/makerdao/median)  
-0.05 stars per week over 288 weeks  
-15 stars, 29 forks, 33 watches  
+0.05 stars per week over 291 weeks  
+15 stars, 29 forks, 32 watches  
 created 2017-12-14, last commit 2021-09-17, main language Solidity  
+
+
+### [governance-manual](https://github.com/makerdao/governance-manual) by [makerdao](https://github.com/makerdao)  
+Welcome to the Maker Operational Manual. This set of documents intends to acquaint MKR Holders with the voting process and to serve as reference material for them to consult during the day-to-day operation of the protocol.  
+[https://github.com/makerdao/governance-manual](https://github.com/makerdao/governance-manual)  
+0.15 stars per week over 102 weeks  
+15 stars, 21 forks, 5 watches  
+created 2021-08-02, last commit 2023-07-13, main language None  
 
 
 ### [dai-ui](https://github.com/makerdao/dai-ui) by [makerdao](https://github.com/makerdao)  
   
 [https://dai-ui.vercel.app/](https://dai-ui.vercel.app/)  
 [https://github.com/makerdao/dai-ui](https://github.com/makerdao/dai-ui)  
-0.06 stars per week over 237 weeks  
-15 stars, 12 forks, 17 watches  
+0.06 stars per week over 240 weeks  
+15 stars, 12 forks, 16 watches  
 created 2018-12-11, last commit 2020-11-20, main language JavaScript  
-
-
-### [governance-manual](https://github.com/makerdao/governance-manual) by [makerdao](https://github.com/makerdao)  
-Welcome to the Maker Operational Manual. This set of documents intends to acquaint MKR Holders with the voting process and to serve as reference material for them to consult during the day-to-day operation of the protocol.  
-[https://github.com/makerdao/governance-manual](https://github.com/makerdao/governance-manual)  
-0.15 stars per week over 99 weeks  
-15 stars, 21 forks, 6 watches  
-created 2021-08-02, last commit 2023-06-21, main language None  
 
 
 ### [MIP21-RWA-Example](https://github.com/makerdao/MIP21-RWA-Example) by [makerdao](https://github.com/makerdao)  
 MIP21 example  
 [https://github.com/makerdao/MIP21-RWA-Example](https://github.com/makerdao/MIP21-RWA-Example)  
-0.12 stars per week over 118 weeks  
-14 stars, 7 forks, 9 watches  
+0.11 stars per week over 121 weeks  
+14 stars, 7 forks, 8 watches  
 created 2021-03-18, last commit 2022-06-20, main language Solidity  
 
 
 ### [dss-charter](https://github.com/makerdao/dss-charter) by [makerdao](https://github.com/makerdao)  
   
 [https://github.com/makerdao/dss-charter](https://github.com/makerdao/dss-charter)  
-0.13 stars per week over 103 weeks  
-13 stars, 6 forks, 9 watches  
+0.12 stars per week over 106 weeks  
+13 stars, 6 forks, 8 watches  
 created 2021-07-06, last commit 2022-03-02, main language Solidity  
 
 
 ### [proxy-registry](https://github.com/makerdao/proxy-registry) by [makerdao](https://github.com/makerdao)  
 This Registry deploys new proxy instances through DSProxyFactory and keeps a registry of owner => proxy  
 [https://github.com/makerdao/proxy-registry](https://github.com/makerdao/proxy-registry)  
-0.04 stars per week over 284 weeks  
+0.04 stars per week over 287 weeks  
 12 stars, 23 forks, 25 watches  
 created 2018-01-15, last commit 2021-09-17, main language Solidity  
+
+
+### [k-dss](https://github.com/makerdao/k-dss) by [makerdao](https://github.com/makerdao)  
+formal verification of multicollateral dai in the K framework  
+[https://github.com/makerdao/k-dss](https://github.com/makerdao/k-dss)  
+0.06 stars per week over 198 weeks  
+12 stars, 9 forks, 7 watches  
+created 2019-10-01, last commit 2021-09-10, main language GCC Machine Description  
+
+
+### [spells-kovan](https://github.com/makerdao/spells-kovan) by [makerdao](https://github.com/makerdao)  
+  
+[https://github.com/makerdao/spells-kovan](https://github.com/makerdao/spells-kovan)  
+0.08 stars per week over 157 weeks  
+12 stars, 10 forks, 9 watches  
+created 2020-07-14, last commit 2021-09-01, main language Solidity  
+
+
+### [dss-chain-log](https://github.com/makerdao/dss-chain-log) by [makerdao](https://github.com/makerdao)  
+Simple way to track the mcd changelog on-chain.  
+[https://github.com/makerdao/dss-chain-log](https://github.com/makerdao/dss-chain-log)  
+0.08 stars per week over 148 weeks  
+12 stars, 12 forks, 10 watches  
+created 2020-09-16, last commit 2022-06-13, main language Solidity  
+
+
+### [dss-cron](https://github.com/makerdao/dss-cron) by [makerdao](https://github.com/makerdao)  
+  
+[https://github.com/makerdao/dss-cron](https://github.com/makerdao/dss-cron)  
+0.14 stars per week over 86 weeks  
+12 stars, 6 forks, 6 watches  
+created 2021-11-18, last commit 2023-07-07, main language Solidity  
 
 
 ### [dai-cli](https://github.com/makerdao/dai-cli) by [makerdao](https://github.com/makerdao)  
 SCD Command-line interface  
 [http://developer.makerdao.com/dai/1/cli](http://developer.makerdao.com/dai/1/cli)  
 [https://github.com/makerdao/dai-cli](https://github.com/makerdao/dai-cli)  
-0.04 stars per week over 288 weeks  
+0.04 stars per week over 291 weeks  
 12 stars, 5 forks, 20 watches  
 created 2017-12-16, last commit 2018-10-10, main language Shell  
 
@@ -638,59 +670,35 @@ created 2017-12-16, last commit 2018-10-10, main language Shell
 UI for redeeming MKR tokens  
 [https://makerdao.com/redeem/](https://makerdao.com/redeem/)  
 [https://github.com/makerdao/redeem](https://github.com/makerdao/redeem)  
-0.04 stars per week over 297 weeks  
+0.04 stars per week over 300 weeks  
 12 stars, 14 forks, 20 watches  
 created 2017-10-16, last commit 2021-09-15, main language JavaScript  
-
-
-### [dss-cron](https://github.com/makerdao/dss-cron) by [makerdao](https://github.com/makerdao)  
-  
-[https://github.com/makerdao/dss-cron](https://github.com/makerdao/dss-cron)  
-0.14 stars per week over 83 weeks  
-12 stars, 6 forks, 7 watches  
-created 2021-11-18, last commit 2023-05-29, main language Solidity  
-
-
-### [dss-chain-log](https://github.com/makerdao/dss-chain-log) by [makerdao](https://github.com/makerdao)  
-Simple way to track the mcd changelog on-chain.  
-[https://github.com/makerdao/dss-chain-log](https://github.com/makerdao/dss-chain-log)  
-0.08 stars per week over 144 weeks  
-12 stars, 12 forks, 11 watches  
-created 2020-09-16, last commit 2022-06-13, main language Solidity  
-
-
-### [spells-kovan](https://github.com/makerdao/spells-kovan) by [makerdao](https://github.com/makerdao)  
-  
-[https://github.com/makerdao/spells-kovan](https://github.com/makerdao/spells-kovan)  
-0.08 stars per week over 154 weeks  
-12 stars, 10 forks, 9 watches  
-created 2020-07-14, last commit 2021-09-01, main language Solidity  
 
 
 ### [oracle-suite](https://github.com/makerdao/oracle-suite) by [makerdao](https://github.com/makerdao)  
   
 [https://github.com/makerdao/oracle-suite](https://github.com/makerdao/oracle-suite)  
-0.06 stars per week over 171 weeks  
-11 stars, 11 forks, 9 watches  
+0.06 stars per week over 174 weeks  
+11 stars, 11 forks, 8 watches  
 created 2020-03-17, last commit 2021-10-12, main language Go  
-
-
-### [vote-proxy](https://github.com/makerdao/vote-proxy) by [makerdao](https://github.com/makerdao)  
-ds-chief mkr proxy voting with a hot/cold wallet   
-[https://github.com/makerdao/vote-proxy](https://github.com/makerdao/vote-proxy)  
-0.04 stars per week over 272 weeks  
-10 stars, 28 forks, 21 watches  
-created 2018-04-04, last commit 2021-09-17, main language Solidity  
 
 
 ### [token-faucet](https://github.com/makerdao/token-faucet) by [makerdao](https://github.com/makerdao)  
 Mostly well behaved ERC20s faucet  
 [https://github.com/makerdao/token-faucet](https://github.com/makerdao/token-faucet)  
-0.04 stars per week over 224 weeks  
-10 stars, 21 forks, 16 watches  
+0.04 stars per week over 227 weeks  
+10 stars, 21 forks, 15 watches  
 created 2019-03-12, last commit 2021-09-17, main language Solidity  
 
 
-This file was automatically generated on 2023-06-27.  
+### [vote-proxy](https://github.com/makerdao/vote-proxy) by [makerdao](https://github.com/makerdao)  
+ds-chief mkr proxy voting with a hot/cold wallet   
+[https://github.com/makerdao/vote-proxy](https://github.com/makerdao/vote-proxy)  
+0.04 stars per week over 276 weeks  
+10 stars, 28 forks, 21 watches  
+created 2018-04-04, last commit 2021-09-17, main language Solidity  
+
+
+This file was automatically generated on 2023-07-19.  
 
 To curate your own github list, simply clone and change the input csv file.  

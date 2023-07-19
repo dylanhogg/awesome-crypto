@@ -8,8 +8,8 @@ Checkout the interactive version that you can filter and sort:
 ### [explorer](https://github.com/ethereumclassic/explorer) by [ethereumclassic](https://github.com/ethereumclassic)  
 EthereumClassic Block Explorer  
 [https://github.com/ethereumclassic/explorer](https://github.com/ethereumclassic/explorer)  
-0.71 stars per week over 360 weeks  
-257 stars, 265 forks, 34 watches  
+0.71 stars per week over 364 weeks  
+258 stars, 266 forks, 34 watches  
 created 2016-07-27, last commit 2020-09-04, main language JavaScript  
 <sub><sup>ethereum, ethereum-classic, explorer</sup></sub>
 
@@ -18,25 +18,25 @@ created 2016-07-27, last commit 2020-09-04, main language JavaScript
 Ethereum Classic Website  
 [https://ethereumclassic.org](https://ethereumclassic.org)  
 [https://github.com/ethereumclassic/ethereumclassic.github.io](https://github.com/ethereumclassic/ethereumclassic.github.io)  
-0.42 stars per week over 362 weeks  
+0.42 stars per week over 365 weeks  
 153 stars, 207 forks, 37 watches  
-created 2016-07-15, last commit 2023-06-22, main language JavaScript  
+created 2016-07-15, last commit 2023-07-18, main language JavaScript  
 
 
 ### [ECIPs](https://github.com/ethereumclassic/ECIPs) by [ethereumclassic](https://github.com/ethereumclassic)  
   
 [https://ecips.ethereumclassic.org](https://ecips.ethereumclassic.org)  
 [https://github.com/ethereumclassic/ECIPs](https://github.com/ethereumclassic/ECIPs)  
-0.33 stars per week over 237 weeks  
-78 stars, 59 forks, 31 watches  
-created 2018-12-08, last commit 2023-04-18, main language HTML  
+0.32 stars per week over 240 weeks  
+77 stars, 58 forks, 31 watches  
+created 2018-12-08, last commit 2023-07-06, main language HTML  
 
 
 ### [etherwallet](https://github.com/ethereumclassic/etherwallet) by [ethereumclassic](https://github.com/ethereumclassic)  
 ClassicEtherWallet  
 [https://ethereumproject.github.io/etherwallet/](https://ethereumproject.github.io/etherwallet/)  
 [https://github.com/ethereumclassic/etherwallet](https://github.com/ethereumclassic/etherwallet)  
-0.13 stars per week over 359 weeks  
+0.12 stars per week over 362 weeks  
 45 stars, 26 forks, 15 watches  
 created 2016-08-04, last commit 2018-12-09, main language JavaScript  
 <sub><sup>ethereum-classic, wallet</sup></sub>
@@ -45,7 +45,7 @@ created 2016-08-04, last commit 2018-12-09, main language JavaScript
 ### [faq](https://github.com/ethereumclassic/faq) by [ethereumclassic](https://github.com/ethereumclassic)  
 Ethereum Classic FAQ  
 [https://github.com/ethereumclassic/faq](https://github.com/ethereumclassic/faq)  
-0.06 stars per week over 331 weeks  
+0.06 stars per week over 335 weeks  
 20 stars, 6 forks, 13 watches  
 created 2017-02-15, last commit 2020-03-09, main language None  
 
@@ -53,7 +53,7 @@ created 2017-02-15, last commit 2020-03-09, main language None
 ### [Awesome-ETC](https://github.com/ethereumclassic/Awesome-ETC) by [ethereumclassic](https://github.com/ethereumclassic)  
 An awesome list of resources of all things relating to the Ethereum Classic project.  
 [https://github.com/ethereumclassic/Awesome-ETC](https://github.com/ethereumclassic/Awesome-ETC)  
-0.08 stars per week over 195 weeks  
+0.08 stars per week over 199 weeks  
 15 stars, 25 forks, 10 watches  
 created 2019-09-25, last commit 2021-12-18, main language None  
 
@@ -61,7 +61,7 @@ created 2019-09-25, last commit 2021-12-18, main language None
 ### [Media_Kit](https://github.com/ethereumclassic/Media_Kit) by [ethereumclassic](https://github.com/ethereumclassic)  
 Brand asset management and Press releases  
 [https://github.com/ethereumclassic/Media_Kit](https://github.com/ethereumclassic/Media_Kit)  
-0.04 stars per week over 360 weeks  
+0.04 stars per week over 363 weeks  
 13 stars, 18 forks, 10 watches  
 created 2016-07-31, last commit 2020-03-21, main language HTML  
 
@@ -70,19 +70,19 @@ created 2016-07-31, last commit 2020-03-21, main language HTML
 🟠 Submit Tweets to the @ETC_Network Twitter account  
 [https://twitter.com/ETC_Network](https://twitter.com/ETC_Network)  
 [https://github.com/ethereumclassic/tweets-etc_network](https://github.com/ethereumclassic/tweets-etc_network)  
-0.21 stars per week over 52 weeks  
+0.2 stars per week over 55 weeks  
 11 stars, 10 forks, 7 watches  
-created 2022-06-27, last commit 2023-06-27, main language None  
+created 2022-06-27, last commit 2023-07-14, main language None  
 
 
 ### [classic-guide](https://github.com/ethereumclassic/classic-guide) by [ethereumclassic](https://github.com/ethereumclassic)  
 A guide moving forward from hardfork to freedom  
 [https://github.com/ethereumclassic/classic-guide](https://github.com/ethereumclassic/classic-guide)  
-0.03 stars per week over 360 weeks  
+0.03 stars per week over 363 weeks  
 10 stars, 14 forks, 10 watches  
 created 2016-07-31, last commit 2020-03-25, main language Python  
 
 
-This file was automatically generated on 2023-06-27.  
+This file was automatically generated on 2023-07-19.  
 
 To curate your own github list, simply clone and change the input csv file.  

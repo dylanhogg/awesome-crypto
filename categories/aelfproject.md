@@ -9,16 +9,16 @@ Checkout the interactive version that you can filter and sort:
 A scalable cloud computing blockchain platform  
 [https://aelf.io/](https://aelf.io/)  
 [https://github.com/AElfProject/AElf](https://github.com/AElfProject/AElf)  
-2.74 stars per week over 291 weeks  
-798 stars, 232 forks, 159 watches  
-created 2017-11-25, last commit 2023-04-18, main language C#  
+2.72 stars per week over 294 weeks  
+800 stars, 233 forks, 159 watches  
+created 2017-11-25, last commit 2023-06-28, main language C#  
 <sub><sup>blockchain, clusters, csharp, dotnet-core, multi-chain, scalability</sup></sub>
 
 
 ### [AElfDocs](https://github.com/AElfProject/AElfDocs) by [AElfProject](https://github.com/AElfProject)  
 Documents  for AElfProjects  
 [https://github.com/AElfProject/AElfDocs](https://github.com/AElfProject/AElfDocs)  
-0.12 stars per week over 287 weeks  
+0.12 stars per week over 290 weeks  
 35 stars, 9 forks, 19 watches  
 created 2017-12-26, last commit 2018-04-04, main language None  
 <sub><sup>aelf, blockchain, documentation</sup></sub>
@@ -27,15 +27,15 @@ created 2017-12-26, last commit 2018-04-04, main language None
 ### [aelf-boilerplate](https://github.com/AElfProject/aelf-boilerplate) by [AElfProject](https://github.com/AElfProject)  
 AElf's environment for developing contracts and dApps  
 [https://github.com/AElfProject/aelf-boilerplate](https://github.com/AElfProject/aelf-boilerplate)  
-0.13 stars per week over 218 weeks  
-28 stars, 32 forks, 13 watches  
+0.13 stars per week over 221 weeks  
+28 stars, 33 forks, 13 watches  
 created 2019-04-18, last commit 2023-02-24, main language JavaScript  
 
 
 ### [aelf-wallet-ios](https://github.com/AElfProject/aelf-wallet-ios) by [AElfProject](https://github.com/AElfProject)  
 iOS wallet for aelf  
 [https://github.com/AElfProject/aelf-wallet-ios](https://github.com/AElfProject/aelf-wallet-ios)  
-0.11 stars per week over 175 weeks  
+0.11 stars per week over 178 weeks  
 19 stars, 13 forks, 11 watches  
 created 2020-02-18, last commit 2020-09-01, main language Swift  
 
@@ -44,7 +44,7 @@ created 2020-02-18, last commit 2020-09-01, main language Swift
 AElf-Angular  
 [https://aelf.io](https://aelf.io)  
 [https://github.com/AElfProject/AElfWebsite-Angular](https://github.com/AElfProject/AElfWebsite-Angular)  
-0.04 stars per week over 302 weeks  
+0.04 stars per week over 306 weeks  
 12 stars, 14 forks, 16 watches  
 created 2017-09-06, last commit 2020-05-14, main language HTML  
 <sub><sup>aelf, website</sup></sub>
@@ -53,11 +53,11 @@ created 2017-09-06, last commit 2020-05-14, main language HTML
 ### [aelf-web3.js](https://github.com/AElfProject/aelf-web3.js) by [AElfProject](https://github.com/AElfProject)  
 AElf Javascript SDK  
 [https://github.com/AElfProject/aelf-web3.js](https://github.com/AElfProject/aelf-web3.js)  
-0.04 stars per week over 257 weeks  
+0.04 stars per week over 260 weeks  
 11 stars, 18 forks, 9 watches  
 created 2018-07-20, last commit 2023-02-01, main language JavaScript  
 
 
-This file was automatically generated on 2023-06-27.  
+This file was automatically generated on 2023-07-19.  
 
 To curate your own github list, simply clone and change the input csv file.  
