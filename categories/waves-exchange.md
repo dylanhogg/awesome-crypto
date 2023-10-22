@@ -8,11 +8,11 @@ Checkout the interactive version that you can filter and sort:
 ### [neutrino-contract](https://github.com/waves-exchange/neutrino-contract) by [waves-exchange](https://github.com/waves-exchange)  
   
 [https://github.com/waves-exchange/neutrino-contract](https://github.com/waves-exchange/neutrino-contract)  
-0.12 stars per week over 165 weeks  
-19 stars, 7 forks, 6 watches  
-created 2020-05-19, last commit 2023-05-24, main language JavaScript  
+0.11 stars per week over 178 weeks  
+19 stars, 6 forks, 6 watches  
+created 2020-05-19, last commit 2023-09-12, main language JavaScript  
 
 
-This file was automatically generated on 2023-07-19.  
+This file was automatically generated on 2023-10-22.  
 
 To curate your own github list, simply clone and change the input csv file.  

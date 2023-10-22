@@ -9,9 +9,9 @@ Checkout the interactive version that you can filter and sort:
 🐰 Hop Protocol v1 monorepo  
 [https://hop.exchange/](https://hop.exchange/)  
 [https://github.com/hop-protocol/hop](https://github.com/hop-protocol/hop)  
-18 stars per week over 143 weeks  
-2,719 stars, 165 forks, 38 watches  
-created 2020-10-19, last commit 2023-07-15, main language TypeScript  
+17 stars per week over 156 weeks  
+2,793 stars, 188 forks, 38 watches  
+created 2020-10-19, last commit 2023-10-20, main language TypeScript  
 <sub><sup>frontend, hop, hop-node, hop-protocol, javascript, monorepo, npm, react, sdk, typescript, v1</sup></sub>
 
 
@@ -19,8 +19,8 @@ created 2020-10-19, last commit 2023-07-15, main language TypeScript
 🐰 Hop Protocol v1 smart contracts  
 [https://hop.exchange](https://hop.exchange)  
 [https://github.com/hop-protocol/contracts](https://github.com/hop-protocol/contracts)  
-1.71 stars per week over 129 weeks  
-221 stars, 121 forks, 10 watches  
+1.62 stars per week over 142 weeks  
+231 stars, 126 forks, 9 watches  
 created 2021-01-27, last commit 2022-02-03, main language TypeScript  
 <sub><sup>bridge, cryptocurrency, ethereum, hop, hop-protocol, layer2, smart-contracts, solidity</sup></sub>
 
@@ -28,8 +28,8 @@ created 2021-01-27, last commit 2022-02-03, main language TypeScript
 ### [hop-airdrop](https://github.com/hop-protocol/hop-airdrop) by [hop-protocol](https://github.com/hop-protocol)  
 Hop Airdrop distribution 🐰  
 [https://github.com/hop-protocol/hop-airdrop](https://github.com/hop-protocol/hop-airdrop)  
-2.27 stars per week over 62 weeks  
-143 stars, 202 forks, 8 watches  
+1.98 stars per week over 76 weeks  
+151 stars, 211 forks, 6 watches  
 created 2022-05-05, last commit 2022-06-07, main language TypeScript  
 
 
@@ -37,9 +37,9 @@ created 2022-05-05, last commit 2022-06-07, main language TypeScript
 🇬 The Hop Protocol v1 Subgraphs for The Graph  
 [https://github.com/hop-protocol/hop-subgraph](https://github.com/hop-protocol/hop-subgraph)  
 [https://github.com/hop-protocol/subgraph](https://github.com/hop-protocol/subgraph)  
-0.22 stars per week over 107 weeks  
-24 stars, 10 forks, 7 watches  
-created 2021-06-27, last commit 2023-07-06, main language TypeScript  
+0.19 stars per week over 121 weeks  
+23 stars, 11 forks, 6 watches  
+created 2021-06-27, last commit 2023-09-20, main language TypeScript  
 <sub><sup>graphql, hop, hop-protocol, subgraph, thegraph, thegraphprotocol</sup></sub>
 
 
@@ -47,9 +47,9 @@ created 2021-06-27, last commit 2023-07-06, main language TypeScript
 📊 A simple explorer for Hop Protocol v1 transfers  
 [https://github.com/hop-protocol/dataviz](https://github.com/hop-protocol/dataviz)  
 [https://github.com/hop-protocol/explorer](https://github.com/hop-protocol/explorer)  
-0.19 stars per week over 110 weeks  
-21 stars, 19 forks, 7 watches  
-created 2021-06-07, last commit 2023-07-06, main language TypeScript  
+0.17 stars per week over 123 weeks  
+21 stars, 23 forks, 6 watches  
+created 2021-06-07, last commit 2023-10-20, main language TypeScript  
 <sub><sup>d3, data-visualization, hop, hop-protocol, javascript</sup></sub>
 
 
@@ -57,20 +57,20 @@ created 2021-06-07, last commit 2023-07-06, main language TypeScript
 🐇 Hop Protocol v2 smart contracts  
 [https://hop.exchange](https://hop.exchange)  
 [https://github.com/hop-protocol/contracts-v2](https://github.com/hop-protocol/contracts-v2)  
-0.33 stars per week over 45 weeks  
-15 stars, 11 forks, 4 watches  
-created 2022-09-06, last commit 2023-07-18, main language TypeScript  
+0.32 stars per week over 58 weeks  
+19 stars, 13 forks, 3 watches  
+created 2022-09-06, last commit 2023-08-17, main language TypeScript  
 <sub><sup>bridge, ethereum, hop-protocol, messaging, smart-contracts</sup></sub>
 
 
 ### [governance](https://github.com/hop-protocol/governance) by [hop-protocol](https://github.com/hop-protocol)  
   
 [https://github.com/hop-protocol/governance](https://github.com/hop-protocol/governance)  
-0.15 stars per week over 88 weeks  
-13 stars, 5 forks, 4 watches  
+0.13 stars per week over 102 weeks  
+13 stars, 7 forks, 3 watches  
 created 2021-11-05, last commit 2022-06-09, main language TypeScript  
 
 
-This file was automatically generated on 2023-07-19.  
+This file was automatically generated on 2023-10-22.  
 
 To curate your own github list, simply clone and change the input csv file.  

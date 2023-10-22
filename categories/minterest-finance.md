@@ -8,11 +8,11 @@ Checkout the interactive version that you can filter and sort:
 ### [minterest-chain-node](https://github.com/minterest-finance/minterest-chain-node) by [minterest-finance](https://github.com/minterest-finance)  
 Minterest chain  
 [https://github.com/minterest-finance/minterest-chain-node](https://github.com/minterest-finance/minterest-chain-node)  
-0.11 stars per week over 139 weeks  
+0.1 stars per week over 153 weeks  
 15 stars, 1 forks, 2 watches  
 created 2020-11-12, last commit 2021-08-03, main language Rust  
 
 
-This file was automatically generated on 2023-07-19.  
+This file was automatically generated on 2023-10-22.  
 
 To curate your own github list, simply clone and change the input csv file.  

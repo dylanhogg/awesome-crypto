@@ -8,7 +8,7 @@ Checkout the interactive version that you can filter and sort:
 ### [tracer-dao](https://github.com/tracer-protocol/tracer-dao) by [tracer-protocol](https://github.com/tracer-protocol)  
   
 [https://github.com/tracer-protocol/tracer-dao](https://github.com/tracer-protocol/tracer-dao)  
-0.09 stars per week over 126 weeks  
+0.08 stars per week over 139 weeks  
 11 stars, 4 forks, 2 watches  
 created 2021-02-17, last commit 2021-04-01, main language Solidity  
 
@@ -16,11 +16,11 @@ created 2021-02-17, last commit 2021-04-01, main language Solidity
 ### [perpetual-contracts](https://github.com/tracer-protocol/perpetual-contracts) by [tracer-protocol](https://github.com/tracer-protocol)  
 Smart contracts for the Tracer perpetual swaps protocol  
 [https://github.com/tracer-protocol/perpetual-contracts](https://github.com/tracer-protocol/perpetual-contracts)  
-0.09 stars per week over 123 weeks  
+0.08 stars per week over 137 weeks  
 11 stars, 0 forks, 1 watches  
 created 2021-03-07, last commit 2021-10-20, main language JavaScript  
 
 
-This file was automatically generated on 2023-07-19.  
+This file was automatically generated on 2023-10-22.  
 
 To curate your own github list, simply clone and change the input csv file.  
