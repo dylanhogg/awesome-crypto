@@ -9,12 +9,12 @@ Checkout the interactive version that you can filter and sort:
 Blockchain explorer for Ethereum based network and a tool for inspecting and analyzing EVM based blockchains.   
 [http://docs.blockscout.com](http://docs.blockscout.com)  
 [https://github.com/blockscout/blockscout](https://github.com/blockscout/blockscout)  
-9.11 stars per week over 301 weeks  
-2,745 stars, 1,833 forks, 82 watches  
-created 2018-01-12, last commit 2023-10-20, main language Elixir  
+9.5 stars per week over 319 weeks  
+3,032 stars, 1,993 forks, 84 watches  
+created 2018-01-12, last commit 2024-02-22, main language Elixir  
 <sub><sup>blockchain, elixir, ethereum, explorer</sup></sub>
 
 
-This file was automatically generated on 2023-10-22.  
+This file was automatically generated on 2024-02-23.  
 
 To curate your own github list, simply clone and change the input csv file.  

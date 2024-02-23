@@ -9,6 +9,7 @@ _coingecko*/
 .joblib_cache/
 .joblib_cache*/
 *.log
+.DS_Store
 
 # Byte-compiled / optimized / DLL files
 __pycache__/

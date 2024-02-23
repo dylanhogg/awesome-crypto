@@ -55,16 +55,17 @@ def write_agg_data(
     )
 
     # DEBUG: Find last_commit_date errors causing groupby error(s):
-    # df_raw["last_commit_date_correct"] = pd.to_datetime(
-    #     df_raw["last_commit_date"], errors="coerce"
-    # )
-    # errors = df_raw.loc[df_raw["last_commit_date_correct"].isnull()][
-    #     ["repopath", "last_commit_date"]
-    # ]
-    # logger.exception(f"last_commit_date value errors:\n{errors}")
-    # df_raw["last_commit_date"] = pd.to_datetime(
-    #     df_raw["last_commit_date"], errors="coerce"
-    # )
+    df_raw["last_commit_date_correct"] = pd.to_datetime(
+        df_raw["last_commit_date"], errors="coerce"
+    )
+    errors = df_raw.loc[df_raw["last_commit_date_correct"].isnull()][
+        ["repopath", "last_commit_date"]
+    ]
+    logger.exception(f"last_commit_date value errors:\n{errors}")
+    df_raw["last_commit_date"] = pd.to_datetime(
+        df_raw["last_commit_date"], errors="coerce"
+    )
+    # /DEBUG
 
     # Perform aggregation by org
     df = (
