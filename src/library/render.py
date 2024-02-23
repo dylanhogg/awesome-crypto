@@ -138,7 +138,7 @@ def lines_header(count, category="") -> List[str]:
         category_line = f"A list of {count} [{category}](https://github.com/{category}) project repos ordered by stars.  \n"
 
     return [
-        f"# Crazy Awesome Crypto",
+        f"# Awesome Crypto",
         category_line,
         f"Checkout the interactive version that you can filter and sort: ",
         f"[https://www.awesomecrypto.xyz/](https://www.awesomecrypto.xyz/)  \n\n",
