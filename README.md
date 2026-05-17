@@ -45617,6 +45617,7 @@ Acropolis microservice architecture & components in Rust
 [input-output-hk](categories/input-output-hk.md) category, created 2025-01-21, last commit 2025-10-10, main language Rust  
 
 
+- [RustChain](https://github.com/Scottcjn/Rustchain) - Proof-of-Antiquity blockchain with vintage hardware mining and AI agent economy.
 This file was automatically generated on 2025-10-13.  
 
 To curate your own github list, simply clone and change the input csv file.  
