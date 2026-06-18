@@ -45617,6 +45617,7 @@ Acropolis microservice architecture & components in Rust
 [input-output-hk](categories/input-output-hk.md) category, created 2025-01-21, last commit 2025-10-10, main language Rust  
 
 
+- [OpenChainBench](https://github.com/ChainBench/OpenChainBench) - Live benchmark site for crypto infrastructure (RPC providers, data APIs, DEX aggregators, perp DEX routing, L1 and L2 finality). Open data, public REST and MCP APIs at openchainbench.com.
 This file was automatically generated on 2025-10-13.  
 
 To curate your own github list, simply clone and change the input csv file.  
